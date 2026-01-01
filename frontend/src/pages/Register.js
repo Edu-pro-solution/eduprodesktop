@@ -59,7 +59,7 @@ const handleFormSubmit = async (values) => {
     if (response.status === 201) {
       toast.success("Registration successful!");
       setTimeout(() => {
-        navigate("/dashboard", { replace: true });
+        navigate("/login", { replace: true });
       }, 1000);
     } else if (response.status === 409) {
       toast.error("Email already exists!");

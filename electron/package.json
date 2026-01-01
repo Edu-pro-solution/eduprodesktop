@@ -1,22 +1,41 @@
 {
-  "name": "electron",
+  "name": "edupro-desktop",
   "version": "1.0.0",
   "main": "main.js",
+  "author": "Your Name",
+  "license": "MIT",
+
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "electron ."
+    "start": "electron .",
+    "build": "electron-builder"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+
   "devDependencies": {
     "electron": "^39.2.7",
+    "electron-builder": "^24.13.3",
     "electron-rebuild": "^3.2.9"
   },
+
   "dependencies": {
     "bcryptjs": "^3.0.3",
     "better-sqlite3": "^12.5.0",
     "sqlite3": "^5.1.7"
+  },
+
+  "build": {
+    "appId": "com.edupro.desktop",
+    "productName": "EduPro",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "**/*"
+    ],
+    "mac": {
+      "target": "dmg"
+    },
+    "win": {
+      "target": "nsis"
+    }
   }
 }

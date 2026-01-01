@@ -58,7 +58,7 @@ const Login = () => {
          </div>
  
          <div className="auth-toggle">
-           <button className="active">Sign Up</button>
+           <button className="active" onClick={() => navigate("/register")}>Sign Up</button>
            <button onClick={() => navigate("/login")}>Sign In</button>
          </div>
        </div>
