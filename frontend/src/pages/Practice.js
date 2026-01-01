@@ -42,7 +42,7 @@ const Practice = () => {
             <a
               href="/recommendation"
               className="sasup-hero-started-btn-4 mt-30"
-              style={{ backgroundColor: "#0366D6", color: "white" }}
+              style={{ backgroundColor: "#042954", color: "white" }}
             >
               <span>Get Started</span>
             </a>

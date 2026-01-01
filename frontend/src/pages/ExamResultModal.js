@@ -87,7 +87,7 @@ const ExamResultModal = ({
             {/* Score Box */}
             <div
               style={{
-                backgroundColor: "#0366D6",
+                backgroundColor: "#042954",
                 color: "white",
                 padding: "3rem",
                 borderRadius: "10px",

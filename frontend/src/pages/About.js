@@ -45,10 +45,10 @@ const About = () => {
             <div class="row mb-45">
               <div class="col-xxl-12">
                 <div class="section-title-2 text-center">
-                  <h3 class="s-title visile-br-lg" style={{ color: "#0366D6" }}>
+                  <h3 class="s-title visile-br-lg" style={{ color: "#042954" }}>
                     Educational Management Solution
                   </h3>
-                  <p class="s-desc" style={{ color: "#0366D6" }}>
+                  <p class="s-desc" style={{ color: "#042954" }}>
                     Edu Pro is a School Management Solution. We envision a
                     future where education is seamlessly integrated with
                     technology, fostering a dynamic and engaging learning
@@ -76,13 +76,13 @@ const About = () => {
                   </div>
                   <div class="feature-content-2">
                     <h4 class="feature-content-title-2">
-                      <a style={{ color: "#0366D6" }}>
+                      <a style={{ color: "#042954" }}>
                         Online Exams and Grading
                       </a>
                     </h4>
                     <p
                       class="feature-content-desc-2"
-                      style={{ color: "#0366D6" }}
+                      style={{ color: "#042954" }}
                     >
                       Being a School Manaagement Solution, We provide Bulk exams
                       for different classes and time . Online exams are uploaded
@@ -110,13 +110,13 @@ const About = () => {
                   </div>
                   <div class="feature-content-2">
                     <h4 class="feature-content-title-2">
-                      <a style={{ color: "#0366D6" }}>
+                      <a style={{ color: "#042954" }}>
                         Online School fees Payment
                       </a>
                     </h4>
                     <p
                       class="feature-content-desc-2"
-                      style={{ color: "#0366D6" }}
+                      style={{ color: "#042954" }}
                     >
                       It automatically generates receipts for the students for
                       each transaction a student makes and provides instant
@@ -144,13 +144,13 @@ const About = () => {
                   </div>
                   <div class="feature-content-2">
                     <h4 class="feature-content-title-2">
-                      <a style={{ color: "#0366D6" }}>
+                      <a style={{ color: "#042954" }}>
                         Report card preparation
                       </a>
                     </h4>
                     <p
                       class="feature-content-desc-2"
-                      style={{ color: "#0366D6" }}
+                      style={{ color: "#042954" }}
                     >
                       Auto-generated report that collates and prepares result.
                       Automatically received by parents through sms and mail.
@@ -168,7 +168,7 @@ const About = () => {
             <div class="row">
               <div class="col-xxl-12">
                 <div class="feature-link-2 text-center">
-                  <a href="/services" style={{ color: "#0366D6" }}>
+                  <a href="/services" style={{ color: "#042954" }}>
                     View All Services <i class="fal fa-arrow-right"></i>
                   </a>
                 </div>
@@ -224,14 +224,14 @@ const About = () => {
                     <h3
                       class="s-title visible-br-lg visible-br-md wow fadeInUp"
                       data-wow-delay=".2s"
-                      style={{ color: "#0366D6" }}
+                      style={{ color: "#042954" }}
                     >
                       Role-Based Educational Manaagement Solution
                     </h3>
                     <p
                       class="s-desc wow fadeInUp line-height-24"
                       data-wow-delay=".4s"
-                      style={{ color: "#0366D6" }}
+                      style={{ color: "#042954" }}
                     >
                       Both the Students, Teacher and the parents have access to
                       their portal. The parent is the connection between the
@@ -248,14 +248,14 @@ const About = () => {
                     <ul>
                       <li
                         class="service-right-list-item"
-                        style={{ color: "#0366D6" }}
+                        style={{ color: "#042954" }}
                       >
                         <i class="fal fa-check"></i> 24/7 customer support
                       </li>
                       <br></br>
                       <li
                         class="service-right-list-item"
-                        style={{ color: "#0366D6" }}
+                        style={{ color: "#042954" }}
                       >
                         <i class="fal fa-check"></i> Custom branding for your
                         school
@@ -263,7 +263,7 @@ const About = () => {
                       <br></br>
                       <li
                         class="service-right-list-item"
-                        style={{ color: "#0366D6" }}
+                        style={{ color: "#042954" }}
                       >
                         <i class="fal fa-check"></i> You getting exclusive
                         access to the platform
@@ -533,13 +533,13 @@ const About = () => {
                       />
                     </a>
                   </div>
-                  <p class="mb-25" style={{ color: "#0366D6" }}>
+                  <p class="mb-25" style={{ color: "#042954" }}>
                     Your solution to school management solution hurdles. It has
                     encompassing features that makes school administration
                     stress-free.
                   </p>
                   <div class="sasup-footer-widget-contact-4 mb-25">
-                    <a style={{ color: "#0366D6" }}>
+                    <a style={{ color: "#042954" }}>
                       <svg
                         width="19"
                         height="19"
@@ -570,7 +570,7 @@ const About = () => {
                       </svg>
                       +(234) 703 841 2640, +(234) 816 505 1826
                     </a>
-                    <a style={{ color: "#0366D6" }}>
+                    <a style={{ color: "#042954" }}>
                       <svg
                         width="20"
                         height="18"
@@ -614,7 +614,7 @@ const About = () => {
                       <span
                         class="__cf_email__"
                         data-cfemail="e088858c8c8fa09381939590ce838f8d"
-                        style={{ color: "#0366D6" }}
+                        style={{ color: "#042954" }}
                       >
                         info@edupro.com.ng
                       </span>
@@ -641,36 +641,36 @@ const About = () => {
                       class="footer-widget wow fadeInUp mb-30 mb-md-0"
                       data-wow-delay=".4s"
                     >
-                      <h5 style={{ color: "#0366D6" }}>Overview</h5>
+                      <h5 style={{ color: "#042954" }}>Overview</h5>
                       <ul>
                         <li></li>
                         <li>
-                          <a href="/" style={{ color: "#0366D6" }}>
+                          <a href="/" style={{ color: "#042954" }}>
                             Home
                           </a>
                         </li>
                         <li>
-                          <a href="/about" style={{ color: "#0366D6" }}>
+                          <a href="/about" style={{ color: "#042954" }}>
                             About
                           </a>
                         </li>
                         <li>
-                          <a href="/pricing" style={{ color: "#0366D6" }}>
+                          <a href="/pricing" style={{ color: "#042954" }}>
                             Pricing
                           </a>
                         </li>
                         <li>
-                          <a href="/services" style={{ color: "#0366D6" }}>
+                          <a href="/services" style={{ color: "#042954" }}>
                             Services
                           </a>
                         </li>
                         <li>
-                          <a href="/" style={{ color: "#0366D6" }}>
+                          <a href="/" style={{ color: "#042954" }}>
                             Team
                           </a>
                         </li>
                         <li>
-                          <a href="/contact" style={{ color: "#0366D6" }}>
+                          <a href="/contact" style={{ color: "#042954" }}>
                             Contact Us
                           </a>
                         </li>
@@ -682,21 +682,21 @@ const About = () => {
                     data-wow-delay=".6s"
                   >
                     <div class="footer-widget">
-                      <h5 style={{ color: "#0366D6" }}> Quick Links</h5>
+                      <h5 style={{ color: "#042954" }}> Quick Links</h5>
                       <ul>
                         <li></li>
                         <li>
-                          <a href="/" style={{ color: "#0366D6" }}>
+                          <a href="/" style={{ color: "#042954" }}>
                             Privacy policy
                           </a>
                         </li>
                         <li>
-                          <a href="/" style={{ color: "#0366D6" }}>
+                          <a href="/" style={{ color: "#042954" }}>
                             Terms
                           </a>
                         </li>
                         <li>
-                          <a href="/" style={{ color: "#0366D6" }}>
+                          <a href="/" style={{ color: "#042954" }}>
                             Help
                           </a>
                         </li>
@@ -707,7 +707,7 @@ const About = () => {
                     <div class="sasup-footer-widget-4 sasup-footer-widget-4-2 mb-40">
                       <h5
                         class="sasup-footer-widget-title-4"
-                        style={{ color: "#0366D6" }}
+                        style={{ color: "#042954" }}
                       >
                         Newsletter
                       </h5>

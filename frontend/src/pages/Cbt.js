@@ -96,7 +96,7 @@ const Cbt = () => {
                 >
                   <h4
                     class="sasup-section-title-4 fast"
-                    style={{ color: "#0366D6" }}
+                    style={{ color: "#042954" }}
                   >
                     Fast track your learning process
                   </h4>
@@ -117,7 +117,7 @@ const Cbt = () => {
                       <h3
                         class="s-title visible-br-lg visible-br-md wow fadeInUp"
                         data-wow-delay=".2s"
-                        style={{ color: "#0366D6" }}
+                        style={{ color: "#042954" }}
                       >
                         Practice with EDU PRO SOLUTION Computer Based Test
                       </h3>
@@ -129,7 +129,7 @@ const Cbt = () => {
                       <ul>
                         <li
                           class="service-right-list-item"
-                          style={{ color: "#0366D6" }}
+                          style={{ color: "#042954" }}
                         >
                           <i class="fal fa-check"></i> Unlimited access to
                           expert verified answers
@@ -137,28 +137,28 @@ const Cbt = () => {
                         <br></br>
                         <li
                           class="service-right-list-item"
-                          style={{ color: "#0366D6" }}
+                          style={{ color: "#042954" }}
                         >
                           <i class="fal fa-check"></i> No Ad Interuptions
                         </li>
                         <br></br>
                         <li
                           class="service-right-list-item"
-                          style={{ color: "#0366D6" }}
+                          style={{ color: "#042954" }}
                         >
                           <i class="fal fa-check"></i> One month free practice
                         </li>
                         <br></br>
                         <li
                           class="service-right-list-item"
-                          style={{ color: "#0366D6" }}
+                          style={{ color: "#042954" }}
                         >
                           <i class="fal fa-check"></i> Free Subscription
                         </li>
                         <a
                           href="/register"
                           class="sasup-hero-started-btn-4"
-                          style={{ backgroundColor: "#0366D6", color: "white" }}
+                          style={{ backgroundColor: "#042954", color: "white" }}
                         >
                           <span>Sign Up Now</span>
                         </a>
@@ -183,14 +183,14 @@ const Cbt = () => {
                       <h3
                         class="s-title visible-br-lg visible-br-md wow fadeInUp"
                         data-wow-delay=".2s"
-                        style={{ color: "#0366D6" }}
+                        style={{ color: "#042954" }}
                       >
                         Unbeatable assessment,made for you
                       </h3>
                       <p
                         class="s-desc wow fadeInUp line-height-24"
                         data-wow-delay=".4s"
-                        style={{ color: "#0366D6" }}
+                        style={{ color: "#042954" }}
                       >
                         Learning experiences has never been better. Our Computer
                         Based Questions helps structure your learnings, giving
@@ -205,7 +205,7 @@ const Cbt = () => {
                       <ul>
                         <li
                           class="service-right-list-item"
-                          style={{ color: "#0366D6" }}
+                          style={{ color: "#042954" }}
                         >
                           <i class="fal fa-check"></i>5 years + past questions
                           and answer
@@ -213,7 +213,7 @@ const Cbt = () => {
                         <br></br>
                         <li
                           class="service-right-list-item"
-                          style={{ color: "#0366D6" }}
+                          style={{ color: "#042954" }}
                         >
                           <i class="fal fa-check"></i>1000 + questions available
                           to keep you up in practice
@@ -221,7 +221,7 @@ const Cbt = () => {
                         <br></br>
                         <li
                           class="service-right-list-item"
-                          style={{ color: "#0366D6" }}
+                          style={{ color: "#042954" }}
                         >
                           <i class="fal fa-check"></i> 24 hours study time nad
                           practice no restriction
@@ -229,7 +229,7 @@ const Cbt = () => {
                         <br></br>
                         <li
                           class="service-right-list-item"
-                          style={{ color: "#0366D6" }}
+                          style={{ color: "#042954" }}
                         >
                           <i class="fal fa-check"></i> More than enough
                           questions including theory and fill in the gap
@@ -237,12 +237,12 @@ const Cbt = () => {
                         <br></br>
                         <li
                           class="service-right-list-item"
-                          style={{ color: "#0366D6" }}
+                          style={{ color: "#042954" }}
                         ></li>
                         <a
                           href="/register"
                           class="sasup-hero-started-btn-4"
-                          style={{ backgroundColor: "#0366D6", color: "white" }}
+                          style={{ backgroundColor: "#042954", color: "white" }}
                         >
                           <span>Sign Up Now</span>
                         </a>

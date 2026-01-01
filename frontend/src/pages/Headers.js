@@ -32,7 +32,7 @@ const Headers = () => {
                     <a
                       href="/login"
                       class="sasup-theme-btn sasup-broder-btn-space-3 ml-25"
-                      style={{ color: "#0366D6", backgroundColor: "#ffc107" }}
+                      style={{ color: "#042954", backgroundColor: "#ffc107" }}
                     >
                       Login
                     </a>
@@ -66,7 +66,7 @@ const Headers = () => {
             <a
               href="/login"
               class="sasup-border-btn d-block sasup-broder-btn-space-3 ms-0 text-center mb-2"
-              style={{ color: "#0366D6" }}
+              style={{ color: "#042954" }}
             >
               login
             </a>

@@ -1807,11 +1807,11 @@ input:-ms-input-placeholder {
   --clr-body-gray-4: #b9b9ca;
   --clr-body-gray-5: #8e8ca4;
   --clr-body-gray-6: #94999e;
-  --clr-theme-1: #0366D6;
+  --clr-theme-1: #042954;
   --clr-theme-2: #ffc107;
   --clr-theme-3: #0487ff;
   --clr-theme-4: #6a55ff;
-  --clr-theme-5: #0366D6;
+  --clr-theme-5: #042954;
 }
 
 .white-text {
@@ -3325,7 +3325,7 @@ input:-ms-input-placeholder {
 .sasup-s-subtitle {
   font-weight: 500;
   font-size: 15px;
-  color: #0366D6;
+  color: #042954;
   display: block;
   margin-bottom: 14px;
 }
@@ -3805,13 +3805,13 @@ input:-ms-input-placeholder {
   color: #0a1426;
 }
 .sasup-header-2 ul li:hover > a {
-  color: #0366D6;
+  color: #042954;
 }
 .sasup-header-2 ul li .sub-menu {
-  border-color: #0366D6;
+  border-color: #042954;
 }
 .sasup-header-2 ul li .sub-menu li:hover > a {
-  color: #0366D6;
+  color: #042954;
 }
 .sasup-header-3 ul li {
   margin-right: 0;
@@ -4167,7 +4167,7 @@ input:-ms-input-placeholder {
 }
 .responsive-sidebar-close {
   background: transparent;
-  border-color: #0366D6;
+  border-color: #042954;
   border-width: 1.5px;
   padding: 0;
   height: 30px;
@@ -4178,7 +4178,7 @@ input:-ms-input-placeholder {
   line-height: 27px;
 }
 .responsive-sidebar-close:hover {
-  background-color: #0366D6;
+  background-color: #042954;
   color: #fff;
 }
 
@@ -4360,7 +4360,7 @@ input:-ms-input-placeholder {
 .sasup-hero-form input[type="submit"] {
   height: 44px;
   border: 0;
-  background: #0366D6;
+  background: #042954;
   color: #fff;
   font-size: 15px;
   line-height: 44px;
@@ -5372,7 +5372,7 @@ input:-ms-input-placeholder {
   -ms-transition: all 0.3s linear 0s;
   -o-transition: all 0.3s linear 0s;
   transition: all 0.3s linear 0s;
-  background: #0366D6;
+  background: #042954;
   text-align: center;
   line-height: 52px;
   border-radius: 50%;
@@ -5610,7 +5610,7 @@ input:-ms-input-placeholder {
 }
 .sasup-slider-content-subtitle {
   font-size: 14px;
-  color: #0366D6;
+  color: #042954;
   text-transform: uppercase;
   line-height: 1;
   display: block;
@@ -6477,7 +6477,7 @@ input:-ms-input-placeholder {
 
 .cta-solid-btn {
   border-color: transparent;
-  background-color: #0366D6;
+  background-color: #042954;
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
@@ -6673,10 +6673,10 @@ input:-ms-input-placeholder {
   -ms-transition: all 0.3s linear 0s;
   -o-transition: all 0.3s linear 0s;
   transition: all 0.3s linear 0s;
-  color: #0366D6;
+  color: #042954;
 }
 .sasup-tab-control button.active i {
-  color: #0366D6;
+  color: #042954;
 }
 .sasup-tab-control button.active::after {
   position: absolute;
@@ -7737,7 +7737,7 @@ input:-ms-input-placeholder {
   width: 7px;
   border-radius: 50px;
   height: 7px;
-  background-color: #0366D6;
+  background-color: #042954;
   content: "";
 }
 
@@ -8802,7 +8802,7 @@ input:-ms-input-placeholder {
   font-size: 15px;
 }
 .team-social a:hover {
-  background-color: #0366D6;
+  background-color: #042954;
   color: #fff;
 }
 
@@ -9005,10 +9005,10 @@ input:-ms-input-placeholder {
   background: #eaf1ff;
 }
 .counter-style-1 .icon i {
-  color: #0366D6;
+  color: #042954;
 }
 .counter-style-1:hover .icon {
-  background-color: #0366D6;
+  background-color: #042954;
 }
 .counter-style-1:hover .icon i {
   color: #fff;
@@ -9618,7 +9618,7 @@ input:-ms-input-placeholder {
   background-color: #ffc107;
 }
 .single-price.item-2-4::after {
-  background-color: #0366D6;
+  background-color: #042954;
 }
 
 .single-price-wrap {
@@ -10152,7 +10152,7 @@ input:-ms-input-placeholder {
 
 .testi-swiper-button-next-2:hover,
 .testi-swiper-button-prev-2:hover {
-  background-color: #0366D6;
+  background-color: #042954;
 }
 
 .sasup-news-nav-transform {
@@ -10623,7 +10623,7 @@ input:-ms-input-placeholder {
   margin-bottom: 0;
 }
 .post-navigation-box {
-  background: #0366D6;
+  background: #042954;
   padding: 15px 30px;
   border-radius: 4px;
 }
@@ -13321,7 +13321,7 @@ input:-ms-input-placeholder {
   -o-transition: all 0.3s linear 0s;
   transition: all 0.3s linear 0s;
   visibility: hidden;
-  background-color: #0366D6;
+  background-color: #042954;
 }
 .single-portfolio:hover::after {
   opacity: 0.8;
@@ -13340,7 +13340,7 @@ input:-ms-input-placeholder {
 
 .portfolio-details-category-btn {
   height: 25px;
-  background: #0366D6;
+  background: #042954;
   line-height: 25px;
   font-size: 13px;
   color: #fff;
@@ -13895,7 +13895,7 @@ input:-ms-input-placeholder {
 }
 
 #loading {
-  background-color: #0366D6;
+  background-color: #042954;
   height: 100%;
   width: 100%;
   position: fixed;

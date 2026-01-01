@@ -1289,7 +1289,7 @@ body {
 .start-practice-btn {
   margin-top: 16px;
   padding: 12px 24px;
-  background-color: #0366D6;
+  background-color: #042954;
   color: #fff;
   border: none;
   border-radius: 10px;
@@ -1563,7 +1563,7 @@ body {
 .start-test-btn {
   width: 100%;
   padding: 14px;
-  background: #0366D6;
+  background: #042954;
   color: #fff;
   border: none;
   border-radius: 12px;
@@ -1618,7 +1618,7 @@ body {
 
 /* SELECT TOPICS BUTTON */
 .select-topics-btn {
-  background: #0366d6;
+  background: #042954;
   color: #fff;
   padding: 10px 14px;
   border-radius: 8px;
@@ -1652,7 +1652,7 @@ body {
 }
 
 .theory-toggle input {
-  accent-color: #0366d6;
+  accent-color: #042954;
 }
 
 /* SELECTED TOPICS PREVIEW */
@@ -1661,7 +1661,7 @@ body {
   padding: 8px 10px;
   border-radius: 8px;
   font-size: 13px;
-  color: #0366d6;
+  color: #042954;
 }
 
 /* SIMPLE FADE ANIMATION */

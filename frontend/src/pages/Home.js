@@ -2,7 +2,7 @@
 import "./style.css";
 const Home = () => {
   const backgroundStyle = {
-    backgroundColor: "#0366D6",
+    backgroundColor: "#042954",
   };
   return (
     <>

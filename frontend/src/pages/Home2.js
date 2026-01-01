@@ -102,14 +102,14 @@ const Home2 = () => {
                   >
                     <h4
                       class="sasup-section-title-4"
-                      style={{ color: "#0366D6" }}
+                      style={{ color: "#042954" }}
                     >
                       Be abreast with your child's educational
                       <br /> progress with Edu Pro Solutions
                     </h4>
                     <p
                       class="sasup-section-subtitle-4"
-                      style={{ color: "#0366D6" }}
+                      style={{ color: "#042954" }}
                     >
                       Our distinctive features for an all round school task.
                     </p>
@@ -130,13 +130,13 @@ const Home2 = () => {
                     </div>
                     <div class="sasup-service-box-content-4 text-center">
                       <h5 class="sasup-service-box-title-4">
-                        <a href="/services" style={{ color: "#0366D6" }}>
+                        <a href="/services" style={{ color: "#042954" }}>
                           Educational account management and Enrollment
                         </a>
                       </h5>
                       <p
                         class="sasup-service-box-text-4"
-                        style={{ color: "#0366D6" }}
+                        style={{ color: "#042954" }}
                       >
                         Easiness in admitting new and returning students. Keeps
                         records of enrolled students over time.
@@ -144,7 +144,7 @@ const Home2 = () => {
                       <a
                         href="/services"
                         class="sasup-service-box-read-more-link-4"
-                        style={{ color: "#0366D6" }}
+                        style={{ color: "#042954" }}
                       >
                         Learn More <i class="fal fa-long-arrow-right"></i>
                       </a>
@@ -165,14 +165,14 @@ const Home2 = () => {
                     </div>
                     <div class="sasup-service-box-content-4 text-center">
                       <h5 class="sasup-service-box-title-4">
-                        <a href="/services" style={{ color: "#0366D6" }}>
+                        <a href="/services" style={{ color: "#042954" }}>
                           {" "}
                           Student Attendance
                         </a>
                       </h5>
                       <p
                         class="sasup-service-box-text-4"
-                        style={{ color: "#0366D6" }}
+                        style={{ color: "#042954" }}
                       >
                         The teachers mark the automated attendance which can be
                         sent to their parent via sms or mail.
@@ -180,7 +180,7 @@ const Home2 = () => {
                       <a
                         href="/services"
                         class="sasup-service-box-read-more-link-4"
-                        style={{ color: "#0366D6" }}
+                        style={{ color: "#042954" }}
                       >
                         Learn More <i class="fal fa-long-arrow-right"></i>
                       </a>
@@ -201,13 +201,13 @@ const Home2 = () => {
                     </div>
                     <div class="sasup-service-box-content-4 text-center">
                       <h5 class="sasup-service-box-title-4">
-                        <a href="/services" style={{ color: "#0366D6" }}>
+                        <a href="/services" style={{ color: "#042954" }}>
                           Report card preparation
                         </a>
                       </h5>
                       <p
                         class="sasup-service-box-text-4"
-                        style={{ color: "#0366D6" }}
+                        style={{ color: "#042954" }}
                       >
                         Auto-generated report that collates and prepares result.
                         Automatically received by parents through sms and mail.
@@ -215,7 +215,7 @@ const Home2 = () => {
                       <a
                         href="/services"
                         class="sasup-service-box-read-more-link-4"
-                        style={{ color: "#0366D6" }}
+                        style={{ color: "#042954" }}
                       >
                         Learn More <i class="fal fa-long-arrow-right"></i>
                       </a>
@@ -237,13 +237,13 @@ const Home2 = () => {
                     </div>
                     <div class="sasup-service-box-content-4 text-center">
                       <h5 class="sasup-service-box-title-4">
-                        <a href="/services" style={{ color: "#0366D6" }}>
+                        <a href="/services" style={{ color: "#042954" }}>
                           Online School fees Payment
                         </a>
                       </h5>
                       <p
                         class="sasup-service-box-text-4"
-                        style={{ color: "#0366D6" }}
+                        style={{ color: "#042954" }}
                       >
                         It automatically generates receipts for the students for
                         each transaction a student makes and provides instant
@@ -252,7 +252,7 @@ const Home2 = () => {
                       <a
                         href="/services"
                         class="sasup-service-box-read-more-link-4"
-                        style={{ color: "#0366D6" }}
+                        style={{ color: "#042954" }}
                       >
                         Learn More <i class="fal fa-long-arrow-right"></i>
                       </a>
@@ -273,13 +273,13 @@ const Home2 = () => {
                     </div>
                     <div class="sasup-service-box-content-4 text-center">
                       <h5 class="sasup-service-box-title-4">
-                        <a href="/services" style={{ color: "#0366D6" }}>
+                        <a href="/services" style={{ color: "#042954" }}>
                           Online Exams and marking
                         </a>
                       </h5>
                       <p
                         class="sasup-service-box-text-4"
-                        style={{ color: "#0366D6" }}
+                        style={{ color: "#042954" }}
                       >
                         Bulk exams can be set for different classes and time
                         frame can be fixed. Online exams are uploaded to the
@@ -288,7 +288,7 @@ const Home2 = () => {
                       <a
                         href="/services"
                         class="sasup-service-box-read-more-link-4"
-                        style={{ color: "#0366D6" }}
+                        style={{ color: "#042954" }}
                       >
                         Learn More <i class="fal fa-long-arrow-right"></i>
                       </a>
@@ -309,13 +309,13 @@ const Home2 = () => {
                     </div>
                     <div class="sasup-service-box-content-4 text-center">
                       <h5 class="sasup-service-box-title-4">
-                        <a href="/services" style={{ color: "#0366D6" }}>
+                        <a href="/services" style={{ color: "#042954" }}>
                           Lesson Notes
                         </a>
                       </h5>
                       <p
                         class="sasup-service-box-text-4"
-                        style={{ color: "#0366D6" }}
+                        style={{ color: "#042954" }}
                       >
                         Upload lesson notes for each subject in different
                         formats, pdf or images. mail.
@@ -323,7 +323,7 @@ const Home2 = () => {
                       <a
                         href="/services"
                         class="sasup-service-box-read-more-link-4"
-                        style={{ color: "#0366D6" }}
+                        style={{ color: "#042954" }}
                       >
                         Learn More <i class="fal fa-long-arrow-right"></i>
                       </a>
@@ -345,7 +345,7 @@ const Home2 = () => {
                     <span class="sasup-section-badge-4 mb-15">About Us</span>
                     <h4
                       class="sasup-section-title-4"
-                      style={{ color: "#0366D6" }}
+                      style={{ color: "#042954" }}
                     >
                       Why Choose Edu Pro Solution?
                     </h4>
@@ -363,14 +363,14 @@ const Home2 = () => {
                       <h4 class="service-title-list">
                         <a
                           href="service-details.html"
-                          style={{ color: "#0366D6" }}
+                          style={{ color: "#042954" }}
                         >
                           Easiness
                         </a>
                       </h4>
                       <p
                         class="service-content-list"
-                        style={{ color: "#0366D6" }}
+                        style={{ color: "#042954" }}
                       >
                         To ease the rigor of school administration and to enable
                         vast activities being monitored at a go
@@ -387,14 +387,14 @@ const Home2 = () => {
                       <h4 class="service-title-list">
                         <a
                           href="service-details.html"
-                          style={{ color: "#0366D6" }}
+                          style={{ color: "#042954" }}
                         >
                           Financial growth
                         </a>
                       </h4>
                       <p
                         class="service-content-list"
-                        style={{ color: "#0366D6" }}
+                        style={{ color: "#042954" }}
                       >
                         To keep on tab with the financial growth of the school -
                         generate invoices, receipts and fees payment logbook
@@ -411,14 +411,14 @@ const Home2 = () => {
                       <h4 class="service-title-list">
                         <a
                           href="service-details.html"
-                          style={{ color: "#0366D6" }}
+                          style={{ color: "#042954" }}
                         >
                           Stress-free
                         </a>
                       </h4>
                       <p
                         class="service-content-list"
-                        style={{ color: "#0366D6" }}
+                        style={{ color: "#042954" }}
                       >
                         For coordination of stressless online examination format
                       </p>
@@ -443,7 +443,7 @@ const Home2 = () => {
                     <h3
                       class="sasup-section-heading-5-title"
                       data-wow-delay=".2s"
-                      style={{ color: "#0366D6" }}
+                      style={{ color: "#042954" }}
                     >
                       Edu Pro <span>Termly </span>Price
                     </h3>

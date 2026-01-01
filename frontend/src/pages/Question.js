@@ -322,7 +322,7 @@ const Question = () => {
                 style={{
                   marginRight: "20px",
                   backgroundColor: "#ffc107",
-                  color: "#0366D6",
+                  color: "#042954",
                 }}
               >
                 Preview
@@ -331,7 +331,7 @@ const Question = () => {
                 type="submit"
                 class="sasup-theme-btn sasup-theme-btn-2 transition-5"
                 onClick={handlePreview}
-                style={{ backgroundColor: "#ffc107", color: "#0366D6" }}
+                style={{ backgroundColor: "#ffc107", color: "#042954" }}
               >
                 Save
               </button>

@@ -142,7 +142,7 @@ const All = () => {
             <h6
               className="sasup-hero-title-4"
               style={{
-                color: "#0366D6",
+                color: "#042954",
                 fontSize: "24px",
                 textAlign: "center",
               }}
