@@ -38,7 +38,8 @@ const App = () => {
       <BrowserRouter>
         <Routes>
           <Route path="/cbt" element={<Cbt />} />
-    <Route path="/" element={user ? <Navigate to="/dashboard" /> : <Practice />} />
+          <Route path="/practice" element={<Practice />} />
+    <Route path="/" element={user ? <Navigate to="/dashboard" /> : <Cbt />} />
         <Route path="/dashboard" element={user ? <Dashboard /> : <Navigate to="/" />} />
           <Route path="/recommendation" element={<Recommend />} />
           <Route path="/ask" element={<Ask />} />

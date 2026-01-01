@@ -30,7 +30,7 @@ const Header = () => {
                 <div class="col-xxl-3 col-xl-3 col-lg-4 col-md-8 col-sm-8 col-6">
                   <div class="sasup-header-action-btn">
                     <a
-                      href="/register"
+                      href="/practice"
                       class="sasup-theme-btn sasup-broder-btn-space-3 ml-25 d-none d-sm-block"
                       style={{ color: "#042954", backgroundColor: "#ffc107" }}
                     >
