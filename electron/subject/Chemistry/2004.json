@@ -1,0 +1,1304 @@
+{
+    "Question 1": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Zinc <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Platinum <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Carbon <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Copper <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>In the electrolysis of brine, the anode is <\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Carbon is used at the anode during the electrolysis of brine in the manufacture of sodium.<\/span><\/p>\n",
+        "Topic": "Electrolysis",
+        "Difficulty": "Medium"
+    },
+    "Question 2": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A decrease in pressure <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A decrease in volume <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>An increase in pressure <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A constant volume <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>N<sub>2<\/sub>O<sub>4(g)<\/sub> &#8652; 2NO<sub>2(g)<\/sub><\/span><\/p><p>In the endothermic reaction above, more product formation will be favored by <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A decrease in pressure favors forward reaction which leads to the production of more of the product 2NO<sub>2(g).<\/sub><\/span><\/p>\n",
+        "Topic": "Rates of Chemical Reaction",
+        "Difficulty": "Easy"
+    },
+    "Question 3": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>-1<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>-5<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>+7<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>+1<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The oxidation state of chlorine in HCIO<sub>4<\/sub> is <\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>HClO<sub>4<\/sub> = O <\/span><\/p><p>H + Cl - 8 = O<\/span><\/p><p>1 + Cl \u2013 8 = O   <\/span><\/p><p>Cl - 7 = O   <\/span><\/p><p>Cl = +7<\/span><\/p>\n",
+        "Topic": "Oxidation and Reduction",
+        "Difficulty": "Easy"
+    },
+    "Question 4": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>HBr <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>HF<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Hl <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>HCl <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Which of the following hydrogen halides has the highest entropy value?<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>This is a result of the reactive nature of fluorine. Fluorine is the most electronegative element on the electrochemical series.   <\/span><\/p>\n",
+        "Topic": "Energy Changes",
+        "Difficulty": "Easy"
+    },
+    "Question 5": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>54.0g<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>27.0g<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>13.5g<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>108.0g<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The mass of silver deposited when a current of 10A is passed through a solution of silver salt for 4830s is <\/span><\/p><p>[Ag = 108, F = 96,500 C mol<sup>-1<\/sup>]<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Q = IT <\/span><\/p><p>So, Q = 4,830 x 10 = 48,300c <\/span><\/p><p><span style=\"font-weight:bold;font-family:sans-serif;\">  <\/span><\/p><p>Ag<sup>+<\/sup> +e<sup>- <\/sup>&#224; Ag <\/span><\/p><p>If = 96,500c deposits 108g<\/span><\/p><p>Then 48,300c should deposit (108\/96,500) x 48,300 <\/span><\/p><p>= 54.06g<\/span><\/p>\n",
+        "Topic": "Electrolysis",
+        "Difficulty": "Medium"
+    },
+    "Question 6": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>H<sub>2<\/sub>S<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>CO<sub>2<\/sub><\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>H<sub>2<\/span><\/p><\/sub>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>SO<sub>2<\/span><\/p><\/sub>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Which of the following acts as both a reducing and an oxidizing agent?<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>SO&#173;<sub>2<\/sub> an act as both reducing and oxidizing agent depending on the reaction.<\/span><\/p>\n",
+        "Topic": "Oxidation and Reduction",
+        "Difficulty": "Easy"
+    },
+    "Question 7": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>2O<sub>3(g)<\/sub> &#8652; 3O<sub>2(g)<\/sub><\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>H<sub>2(g)<\/sub> + I<sub>2(g)<\/sub> &#8652; 2HI<sub>(g)<\/sub><\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>2NO<sub>2(g)<\/sub> &#8652; N<sub>2<\/sub>O<sub>4(g)<\/sub><\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>PCl<sub>5(G)<\/sub> &#8652; PCl<sub>3(g)<\/sub> + Cl<sub>2(g)<\/sub><\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Which of the following shows little or no net reaction when the volume of the system is decreased?<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>This is because the volume on both sides of the reaction is equal.<\/span><\/p><p><table><tr><td>H<sub>2     <\/sub>+<\/td><td>I<sub>2<\/sub>  &#224;<\/td><td>2HI<\/td><\/tr><tr><td>1vol<\/td><td>1vol<\/td><td>2vol<\/td><\/tr><\/span><\/p><\/table><\/td><p>There is no net reaction between the constituents when the volume decreases because both sides have has the same volume of water molecule.<\/span><\/p>\n",
+        "Topic": "Rates of Chemical Reaction",
+        "Difficulty": "Medium"
+    },
+    "Question 8": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>+565.25 kJ<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>+503.7 kJ <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>-503.7 kJ<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>+282.6 kJ<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>2CO<sub>(g)<\/sub> + O<sub>2(g)<\/sub> <img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAARCAIAAABmX9r1AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAABRSURBVChTY\/z\/\/z8DIcAEpfGCIaXo2abKqWegbAZgEOAATzdWVGx8CmLhUQRWFjnl9P\/\/jEBWZcmKh1BzsQHrIqJMosxNQCUgQ8Bg8EUwAwMAKW241Jsk2D8AAAAASUVORK5CYII=\"  \/> 2CO<sub>2(g)<\/sub><\/span><\/p><p>Given that &#8710;H [CO] is -110.4 kJ mol<sup>-1<\/sup> and &#8710;H [CO<sub>2<\/sub>] is -393.0 kJ mol<sup>-1<\/sup>, the energy change for the reaction above is <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>None<\/span><\/p><p>2CO + O<sub>2<\/sub> &#224; 2CO<sub>2<\/sub><\/span><\/p><p>DH = EH <sub>products <\/sub>- EH <sub>reactant<\/sub><\/span><\/p><p>DH - 2CO<sub>2<\/sub> = (2CO + O<sub>2<\/sub>)<\/span><\/p><p>= (2 x -393) - (2 x 110.4)<\/span><\/p><p>= -786 - (-220.8)<\/span><\/p><p>= +565.25KJ<\/span><\/p>\n",
+        "Topic": "Energy Changes",
+        "Difficulty": "Medium"
+    },
+    "Question 9": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Displaced <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Oxidized <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Reduced <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Decomposed <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>ZnO<sub>(s)<\/sub> + CO<sub>(g)<\/sub>  &#224;(Heat) Zn<sub>(s)<\/sub> + CO<sub>2(g)<\/sub><\/span><\/p><p>In the reaction above, zinc has been <\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The reduction in oxidization state of zinc from +2 to 0<\/span><\/p><p>Zn<sup>2+<\/sup> +2e<sup>-<\/sup> &#224; Zn<\/span><\/p>\n",
+        "Topic": "Oxidation and Reduction",
+        "Difficulty": "Easy"
+    },
+    "Question 10": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>224 cm<sup>3<\/span><\/p><\/sup>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>112 cm<sup>3<\/span><\/p><\/sup>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>2240 cm<sup>3<\/span><\/p><\/sup>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>448 cm<sup>3<\/span><\/p><\/sup>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>What volume of gas is evolved at s.t.p if 2g of calcium trioxocarbonate (IV) is added to a solution of hydrochloric acid?<\/span><\/p><p>[Ca = 40, C = 12, O = 16, Cl = 35.5, H = 1, Molar volume of a gas at s.t.p = 22.4 dm<sup>3<\/sup>]<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>CaCO<sub>3<\/sub> +2HCl &#224; CaCl<sub>2<\/sub> + H<sub>2<\/sub>O + CO<sub>2<\/sub><\/span><\/p><p>Mole ratio of CaCO<sub>3<\/sub> to CO<sub>2<\/sub> is 1to1 <\/span><\/p><p>Moles of CaCO<sub>3<\/sub> = mass\/molar mass<\/span><\/p><p>= 2\/100 <\/span><\/p><p>= 0.02 moles<\/span><\/p><p> <\/span><\/p><p>Volume rate at s.t.p = mole x gram molar volume<\/span><\/p><p>= 0.02X22.4<\/span><\/p><p>= 0.448cm<sup>3<\/span><\/p><\/sup><p>Hence, the volume of the gas evolved is 0.448cm<sup>3<\/sup><\/span><\/p>\n",
+        "Topic": "Chemical Combination",
+        "Difficulty": "Medium"
+    },
+    "Question 11": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A change in the nature of the reactants <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>The formation of new substances <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A change in the volume of the reactants <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>An increase in the composition of one of the substances <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A chemical reaction is always associated with <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Chemical changes cannot be reversed easily because of the production of new substances. The five basic types of chemical reactions are combination, decomposition, single-replacement, double-replacement and combustion<\/span><\/p>\n",
+        "Topic": "Separation of Mixtures and Purification of Chemical Substances",
+        "Difficulty": "Easy"
+    },
+    "Question 12": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Sublimation <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Crystallization <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Distillation <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Evaporation <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>When a solid substance disappears completely as a gas on heating, the substance is said to have undergone <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Sublimation is the direct conversion of a solid to gas without changing to the liquid state. Crystallization is defined as a process by which a chemical is converted from a liquid solution into a solid crystalline state.<\/span><\/p>\n",
+        "Topic": "Kinetic Theory of Matter and Gas Laws",
+        "Difficulty": "Easy"
+    },
+    "Question 13": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>40.0g<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>80.0g <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>0.8g <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>4.0g <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>If a solution contains 4.9g of tetraoxosulphate (VI) acid, calculate the amount of copper (II) oxide that will react with it <\/span><\/p><p>[Cu = 64, O = 16, S = 32, H = 1]<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>CuO + H<sub>2<\/sub>SO<sub>4<\/sub> &#224; CuSO<sub>4 <\/sub>+ H<sub>2<\/sub>O <\/span><\/p><p>The mole ratio is 1 to 1. Therefore 4.9 g of H<sub>2<\/sub>SO<sub>4<\/sub> which is 0.05 moles would also require 0.05 moles of CuO. (CuO = 80)<\/span><\/p><p>Recall, mass = mole x molar mass <\/span><\/p><p>= 0.05 x 80g <\/span><\/p><p>= 4.0g<\/span><\/p>\n",
+        "Topic": "Chemical Combination",
+        "Difficulty": "Easy"
+    },
+    "Question 14": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>The single bond <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>The double bond <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A polymer <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A monomer<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Vulcanization involves the removal of <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Vulcanization of rubber leads to the formation of links between the sulphur atoms and adjacent polymeric chains of the double bond positions.<\/span><\/p>\n",
+        "Topic": "Atomic Structure and Bonding",
+        "Difficulty": "Medium"
+    },
+    "Question 15": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>C<sub>n<\/sub>H<sub>2n<\/span><\/p><\/sub>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>C<sub>n<\/sub>H<sub>2n-2<\/span><\/p><\/sub>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>C<sub>n<\/sub>H<sub>2n + 1<\/span><\/p><\/sub>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>C<sub>n<\/sub>H<sub>2n + 2<\/span><\/p><\/sub>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The alkyl group can be represented by the general formula <\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Alkyl groups are formed by the removal of a hydrogen atom from Alkanes. The removal gives the formula, C<sub>n<\/sub>H<sub>2n + 1<\/sub>.<\/span><\/p><p><sub><\/p><\/sub>\n",
+        "Topic": "Organic Compounds",
+        "Difficulty": "Medium"
+    },
+    "Question 16": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>C<sub>2<\/sub>H<sub>5<\/sub>COOH<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>CH<sub>4<\/sub><\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>CH<sub>3<\/sub>OCH<sub>3<\/span><\/p><\/sub>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>C<sub>2<\/sub>H<sub>4<\/span><\/p><\/sub>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAbsAAABKCAAAAAAHu6XKAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFxEAABcRAcom8z8AABOHSURBVHhe7Z0JXNRFG8d\/CwiieGuAYmqiSGreVmZ4Zmjqm7dZholnXnlnaYlSeeSFmpLl8WaHmqKSkb1mkHlrh+ZVpqKlKCinwrKw8z5z7LILyw2r2\/b9uPv\/zewfhH12Zp5n5plBw2BzpGzYckILOLUe\/ErF7eEbVW0xCM9UonJHIHWvKsCrtRICtmfX2eSH2vRtg83uz6g6IOP7vb\/eYu6P9ejkoGqsCLM51j+Ehkt\/jb\/906J6lQdX6a1qi8OOFY\/xt6LLun1UuLf13Yd5acDGI\/JVyd\/t4T5s2gs10GyK53ZVx\/Qb6+Dx2R8sHVULvl+pOuthc7ZLHwrNW+lSp44H\/KQsJnerAy30qsCiNcBgpRV3fDH0Ll21q8sDBtvF90BNbm6qXlwG43RCWg9bs11mP+BdpYlJaKpUMekAjFKS8ASWKKkYiVYZUh1zM9gurhlq\/CklY19qMEDdYS3uQy9dLBZsR8fXlSYWNU1Qqpi4iX8GqG2ZlIjETQhwlLLNAnmFrs+vCH1EFdBvNLaZ\/GDWwMZsd3EeNTvq0Qw4z49XqpiQYZRtOOYl4mQ6XJXEyGryuvAA2vWRkjPXBUu+V9o62Jjt5mvR7EmlBb2r65QqVRKBrUrCuYe43HoPGC2UxP15sOlKWwfbsl3sF8B\/lJZoRqVIoT\/0wdJPo6Umbq8hfW\/H0l3pqoLfsXbJZ3+rQiEhz\/N\/swzhVFvxvO4eNM8JpaDCyR+Vtg5q3LMN1tMPHKG0OZ\/Wq969hUbznPQdTg53xT72pTvd3vi6qGFse313\/7YapzHcW8xJb2C6koQP8JGSksw69K16xshCXBx\/bg74iKKB3+mWSUpbBduy3cv09lxR2hT9WExMZexILVQ5SqFDx0p03753Xbr2rQr0lbfMwXSKLNYAz1j0BvOxHdtC3xFVP8z62gTqsXopLclwBlopbRVsy3YtqZO3FEUtw9MiODtZBh6xFF5rGwH9u15j7GolOPzFX1kj32gdeRxbuchOfrZjb3Hjofl3qsiOU8kkquDUBiooaRVsa7y7Cbg6KW3CjTmYLJzPlqMRM4PucW5NjmKEF1C7L\/Qn6IWYaQjiNzg1Bf7gwgKH5hq5rapMCNrAo4ZfuvS+KMtx9DCPI1AZSE5T2hrYlu3uAi5KmrI6BR2lGgdsvkHXCuTKCyM3FgZH6F2vFryIxW27vCRETq58Z4T+nxwMOy38y\/CmC8TsJ3dvs7151GciQ0qrYFu2o3dHq6Qpn6NKFaka1YUugq7GxllRfkU4fGXZ7+g+MVtpgSEHjFi8pe6eXQ3okjarxz26lOOSV2dBNnXk1dbCtmznSX5\/qtJZ\/H0pq\/ei1vUzXYyRNQly7fWneUssNr1\/e4\/\/R98Oo6da9OD9pglJVGvN99O2bPcoWeKS0llcMWmN5MtbGKwS0qHCwOLh\/PqF5+my7TvAm1rYZVmrYDHio2M9bMt2fFQ7KqUJ1FclGFbgqI+0MCJS01MuRhFJJmsJaoZxh3MT9crtgd\/MRrer1JV2U9oq2Jbt+tCA95XSWdQA0g1NgPrI+kqaUMkRl\/9SGjkbbv4kLVGCHE5\/4BRdB5PrdExWSQ4DZQcqbRVsy3Y1XgT2XFMFyfFNaEiN7aAqJpM7oqQJTt5g1FYE2ilKFIqDWXNr5MvyVj6YRjwRsRsII9+2utJWwbZsh6AKSJ+ptCBufC84UmC9Q5Uv4+GnlDSlM7BMjYPLKcQrKLq5TZrMEs5R0h5RwaEhtSFdXBcBG03G1ss74TlX6RHvKFGq2Jjtan9AEUGIKhDJz79VFZjsgK\/4bCI5lAcxhfuYejHGEfTMG0mgBreHCCOEzw\/kl4NbzR18GrmyWhYP3kRp8qnhDRdQ50jMNbpD1GEO4Nchw5GU9TnSj013\/px+Fs62jxOlKGXU\/IrNEARoZqaqwuU274vrBPISMrn4BC21\/BoA7OJXRraey698JtRn1f4tgzTTeHEz4M+vRloBLyvJmJ4CimC6xr1NT4E4zxgNlr1TxGsssRHayWnN9H7ASqEY0wXCJUzpG897m8yvlR42Zzu2zpWa3\/xjyfr4qMnVP5R1aeTfDbnN2K4K3td4WfsIMFG8Qi59B27V5CfkRxX+wrbcpxBCcaoMuZBi4pOznV5tlcTYTXqwH3BU2A71Pqai\/kBz+BqWJjLedERgNAn9\/raoe1hWMvbCnz5WtV3Cjrnjx879Oo2kSaaGLtbAPSrdVTo2NsdUfMaBJZNGTw39XRVZhroxNpYvudxTOja2JNJxrowUkbgGLoOoRUjS57jBtWVtlzHxvDTSm9\/w5BtsfDMuGs+iupSRvC8tO0umKa0FnhZCMLx7WX5fuedmU+H2i53FQFKtzyrxYqQb\/Qp\/Ndi\/untZJ+9m1eA8JkHUC34e6OLQ2L+TO7zeSVZV7KOPWMnaTmdElvWqJPMzzwbv0Po0KX\/7mG7EmBPjY3mV4Nqy89\/y4aLNE\/06AHv3RJ6mglN379cfEi8buLts9c0Wvk5\/Hbnbfr6cWLy14GIED36aP92TmkTU9oM\/UcHxWZ\/JtcXLxUR7+MwtXZXG7SqrMicp8hLqdjStyU70\/ju1uhocwV1\/v8gXigrA7FSKD5IiyR9Kjvot2dW7s\/nvnnDgQoKjZ+sWxpmcK7M3o1FvcmRKjIAw8p6J+q3WiAH1wLwf+Ghch7e7jHlO6Pcbt2jmbh+yjTHXjUMjA0YozTL5uC0HEhMO1YW\/aAHJC8pqJqj8O7aLbh1s+Fb6EVTarAo2RVzrRKUKRubAm6yE2x2LEb7RC2JEF3wDuKzJJNulDwJCVCW7R5Gn2Q\/LPabdSgtLOmXv93a6INDwbaNc0YP3u4TOCfhUSmI3fRs+etgcw39WooCsmBAREeHVP8LwES4RMrvS28e9J0UaHMLFeDcamKrqiLs+5ivTeur8o5RmLByopKSBgy5onjXsrwBeVJL6pKxc4SgKR5S0KZZ8o0RBGVaZcHCpTJ5T\/qQfVyI\/rtFg4J31cdiJmfQMFgZ4cU\/EwHcw\/6Q5A4eUFI21upKKJBrB9itN6BpQxColDS17pSIOUitX0pbY+Bk9GdzKglPQPnO+w0Sji5M366jhLVSaZTRryKMkB91kcqeNuYdE58cLla668Boad1KacBoFzLS0dGmTbNzpujNs1XuqVOKcC9aHNP2fKuRNoB8QZJi0XXlqrXCMPyFvW8RERj7YoYQk73Z3j3rGN5UW8IyCUKFsv919ImedDDF3wSlgu1sqEjWG3VHFPDnnYpxOiHYbJq54BmgolJFklcqmyNt2fB7xa6Ul5EJ3FuKf0GeWMpF8IR4e21QxT\/hcKe\/BGetVQyQZMgdyIlryb5CFG09rLCj05WgkpeJRsrXJ1OC\/5EGHX2eQNx4zoB\/PscmHWb7AZJ7Bvz38fZlV70BvM88bLSpn6VFTSgX5LmnmC8r\/kiuuCw\/zrX87Gq+XU+d54Byqwc0ZFGlN6jJU1vAed\/E0qS3jko5Zxt0uZ5ajeta0C9HsFFzMZ+QnhQA\/PE2iRhxeayzrgD8XZL\/vXyS6hcF8ieKZ0HqynDuj1kET6Tf+49Niyk\/abtU4qS1DtvM0phGk3sxmu0YXUM7crZyxGNjXhQTZzt3owGpv\/Gu73Dg34hA9lw+emM+CXPyjMfBd22nem6rMbbdiotSWIdsdMm692eufzXYtfoGjTrhLBqYuBQ7zWXuy3V5j\/sahpwppu0wvJewA\/S1xefIj8hXyYstg6mUf+Ym8RyPzhNeSG3n7mTzfVMzdG6EAD1e5KJ6fac0k1QcFF2P0nQt839H3Ssuc9iviC4sGH9Cydk5xYoBqdtRmSpKWZnvCLDCZHkYXApqHbuGxX1XBInn3mXt6Av9Vfo+ERsCBIgeneH2m3iwt5Z\/NGZ7KDbd3x+Uz4CGqI3CrhioAYyhOMJ9XyUbefWYqhRrDlRbE0f8vV4n+jc0LhjZIuILdLqtyHkTSfbeUpj6TbK3\/mH+tEe0KJQpC2VeB3aYNKlyPJvk0fUMerJEcFfbEiTZvU4xQZcPeuqqiwDg0CQCWX1clwdSHgeTZXQZyI+fOn9OnT19O12leiDOkPhIsBA6rjWvIFon8TAkjJ0LzjUz\/qaTOfJIn6vY\/y\/c4FBYWT5Gen8lG3iUBjGX69ZtY20HOwVIfGCkE5yugolQjPDw8lnMR5QwPOb\/GWQkEKVmJGqGScv1OLqJvXyYuZhweabZWbz9EFWJCkzDvM8HYOQ8KLQxnvOjmdLhHw9oWxmJrNecVfK\/LTvESZz3gKBZar7wmypytZdBR5b+xLWUwSZkhjYz+XymJbfRtRCxx4fGspfssZslcPTsjcYyIjAu2kMDZR3f\/rbTME\/uzNeAc+G08018KbTyALwae5i9NrsmfV9Htgwx5YbpnqbSJq1df+0XUcCK90FQsv0aP0rgaEhZFDnkvw1IvP44IIu+ql2iszGjATCGvupkvXtgHc+hNQd0shy5fePLQCaWl7VhGqFgKcHZAK5O1u+k92aWh7cQno+5gfrrCjhfEvKbm8aHXb7qSY2RcT0582xOeXbr7asoFXpI111\/2E1\/oNYh3vBFDeBI4xS8vXbqo4avyp3q82Xkotd8748b26d+Ef0H9d\/iznZHyCAq8cM7R8vMDJxiHF8MZjBeOX00tX\/txNcspaBucx46ktN++CKlz3JhSl\/nziRuseqN22XZg52T51BQye\/Pe82I8w57Xtn+\/AwK\/5OlMPeOOyBvsiu8mrLO0e8Iy6yKOi71MPk1fkafziHZnkX3ZTrLLwV6n+UoVgmFV+fO4fUzrHMrWtiW9XDg\/o13t0luxeF5IQck1kk9cGapUbnQL4NPfhSSuPH9e1TjoHabHXt7M5U9QPlXmj5Yi2XY7Z8bd0SupSL5lFqrcPHNHKSMpF8\/IaeObOXdOF4m8o6l8yM12GTNCKiqZKx2KsDHeUSypfz50VBD92LdN3wFLBziUIEnBtU2zevZ0c2v6aOX\/HFRFYmebSu5eYilNENXGo0mNzqazhWen+lRq0MS95sijwCt5TiNaiVxsp585kSJ0+RnLleu9lCgEdRPpsx0T8IYn317lcdiYHJHkXqq2SwquN8e0FU3oWePcjZifdH4LVYV+Up\/aF27PCOqokuS2dnXZtG\/V9ad4Tocg7qWmy3w3\/37rwvKEp9r3jSih4wOLh+o7zckc+UZY2LbXv1DFnHy\/PpNdHFyE3noryDs9jRAW4bT4l214+fa17mK869pHvFxKrPRrQ79qVjL+UvQXw6u2KdTvOAtP8nzvYHQSv9S1cgE8dElu56HcwBOeqH1QSnaU3O2sjO\/7h2Xb8TU4wM0QcedkpUPDfjMtn6qWNymVv2ZM39WhzR5fzyNsggZ9F3Hb6d0LOrVQJGKZ\/gkT26VUwEmpQuAtjPijg0z+vlsFi\/j1rWrSZuc18myqk5XgkTVXfLWWjFXvM7n7mXlz44xpLnUhmDeWnjIvprFEbvpL51kIt92xJsXyuArAqya2+9o4O0FKTAq0Qx1RZq+gIs9G9+8ni6yBODPsTh3TTRnkYptuDrhv5Opn5oPHo6a51IVg5tloGmXru6Ai93Tq+cjakA3F8rgKgOnurhuA8jXSZNbH0UN8RzqnM5L4QY9aw2\/nKpyX2dFobzq4d+v6IIx3RbVdkXHeusg8Z\/6eVo8Ng8z+FEFpUEZdOTWAxTIcOI7H+Ha6zwGxy1LkqvKFY++j8vX48zyMufIhQO3WhEl2aTs8tPSAUoKj555eEfVUT1UqPUzbtV85fC+O9UtYj\/n8StGDOpXF2wE\/kV1e\/IPMRbyh57ubV2fAyfwnfLa6EvcV1Xf+45ln6mfOol98SibT9ZALVon0CTZMrZNReDbPMMegWHZ5GObwunpAC359wLBP26Xx3N\/e8YPLSi\/yFyrdEIqcE3nsafqrDnCBcxD3QvlBSIZNhQ8S1u8zHwRcdlPIsLvOuePirBXwA8ANvowLwJOpyqw+v2LamotvcU\/mDD1KZJ98CWOftkPlb\/2BpDiVaJNCw6HY0EbQuMiPxwQaTAweIy0WQ498JwjvA3ZqOzg\/XJXam1+YKGSYuKGks78n\/PjGUp5tLRJ2aruEbvvPfOCE1AEi78nN5KxgHcV0ShrgOeTGOeoHCPu03V3\/I2EeY8PLI3MYD1gqke0MxksW4Z8ZnvTIsRz0AGCftpt4dEQTwP8bN+gCyWg8WcswYUDBXfZESb7Do3hHp5YOdmm7UxsQwK\/tdzrhj6+BmlWkr0kkpkGjpliMNKSGZ3bK6QOCXdpuK3OUBzt3CQJ+oCuFe+o022jAV\/2dLSOagcD1k6rwAGGXtruC8sqvnFJBdJZ95enuBMVyVMjGBLp7rdKKNwt1kEnpYJe2q4YU5TeW9RG75QdUg5pkPQYnGa+bUn8csIlPvhj5LD6vU+eshN3Yjnx\/YxzgD70hTSoBPF+u3Ez8KP7YAfsKARb2dAQ3g24gD9EVkYtL8py+IqPmxv7xTDHJsNe3wzMypfCQ+lta2uZyNXU7vGJFRTaiHwHqGXIe2Kf1jQeF3k\/sxXbatsArSpMp6mAMX\/c\/4fWY2gtwqaZrFGM\/VnXP5di+6x3JZ+n1xZV0XfRnHZtdVLX3F\/uwXXgPcQaMT2\/DlpmbAc4eQ0b6uU02ZpRHd3Ho0N6xf67bSPWf8nQlvsz+8GLDcdX3Fcb+DxnJWWjIW3M+AAAAAElFTkSuQmCC\"  \/><sub><\/p><\/sub><p>In the reaction above, Y represents <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The reaction is a dehydration reaction in which water molecules are removed from ethanol to form ethyl.<\/span><\/p>\n",
+        "Topic": "Organic Compounds",
+        "Difficulty": "Medium"
+    },
+    "Question 17": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><sub><\/p><\/sub><p>Saponify the soap <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Emulsify the soap <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Decrease the solubility of the soap <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Increase the solubility of the soap <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>In the production of soap, concentrated sodium chloride solution is added to <\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>It decreases the solubility of the soap. This is because decrease in the soap's solubility ensures separation of the soap as a hard cake on the surface on cooling.<\/span><\/p>\n",
+        "Topic": "Acids, Bases and Salts",
+        "Difficulty": "Easy"
+    },
+    "Question 18": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Evolves a lot of heat when burnt<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Dissociates to produce carbon (IV) oxide and oxygen <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Makes the iron metal solidify very quickly <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Combines with oxygen to give a pop sound<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Oxyacetylene flame is used for iron-welding because it <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Large amount of heat generated by this flame is enough to melt iron during welding as iron can only melt at high temperature.<\/span><\/p>\n",
+        "Topic": "Non-metals and their compounds",
+        "Difficulty": "Medium"
+    },
+    "Question 19": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Bromine gas <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Bromine water <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Acidified KMnO<sub>4<\/span><\/p><\/sub>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Copper (I) chloride <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Which of these reagents can confirm the presence of a triple bond?<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>This is because ethyne bubbles through ammonical solutions of copper (I) chloride at room temperature which gives precipitates of copper (I) dicarbide (reddish brown).<\/span><\/p>\n",
+        "Topic": "Organic Compounds",
+        "Difficulty": "Medium"
+    },
+    "Question 20": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>3, 4 - dimethylhexane <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>2, 3 - dimethylhexane <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>2 - ethylhexane <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>2 - ethylpentane <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAeIAAACqCAAAAABU\/hPKAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFxEAABcRAcom8z8AABJCSURBVHhe7Z0JeBRF2sffXOQgByRBjmBISCBAwi2brBDh8wA5BIzLA6got8CHJAZUQFDywcohx7Jc7iKX34osKGjQDxBRueQTEwRCEBKSEO5wCSEJmRzT+1bNO5POMUdPZgbS1O\/JM\/Wvmpnumv53V1dVd\/p1ksDeaPSr8ACQNKSd3EkooeCrg5n3fKL69HHVzFwChy9ScX8fKEomHRRLQqDHARYnZSQXANQbHJLkATcXnd6lBfAfHPUWvWs5mkVLigY8HVx8+ovCicdzjkBm1vptAE3mtO\/sCZrUU0lXAF4cGxZBnxYYkBzAEVzPZtLSUgCXLNJKyOkAMZlcadd5QQQXLQDW8yJkC0DjMtICGc46o+1LNDbRT5GGntiatiStgIuxJ6P3hXPpNHq7yx9chAK04kVIGECoC2mBDIdY7OQF4E0a6vM\/pZTFXfL4DBejo088t5id3Q3ndLkWyHCIxWwthhXhkWbFSlelwOt4nOqZ6X6PJU78T4dcC2Q4xuJao1kAMIo0I+Al3WEsME8dsfiba9DwT6Q5bxsafoEZ6ojF3wJ0qdQMR\/qTEJijjlh8DCCEpEAhDpj6QBrdhK2epK+Oh8hTpC2mwV14ZyFpGf12weQg0teXQa8fSQtkOMzilvr2ojTXCotdtPB+EmkZaHGPBqTv7RcW1wxNgdiXQIB8klImnkhJWg6OeKeTlNMX4FeSEu42vUgK5NSRc3FTgFskBQqpIxa3B8ggKVBIHbG4N7bIxaQFyqgjFg\/1hKJvSOvQXywWmKOOWNxoIsACLWUYqw+RqIGM1BJSAsQxFuPIrJwkoFFyryxkThikziON7Ns3nCW4IPlyuS4f3jM68hIvEjAcYrH2HkABabiLQ1iSCvD5KgA+SNLvGztnfMJTXFa15W6Ov3o8bzEvEjAcYvEBbDj3kYbvAC6fIa2AqP0RMKfT+msAJQeGz9\/ZkJXlpfHF6dgDcPYCpoNiIOoZcW+ADBof25EZL7NbAFz6TbkvSden9GM7lffQ+fSmAu4vCsav+gS6hS4vYfkNY5qwHxD7Zp4k3Z7yPLtK0WDEWv7Rp7N5ImA4ZgLTRkjpJ\/IgsFN7M5f+tQuvLxV3BxioUxZbhmblmqyEZZQRqNFigLKRW\/ICSAtUaTHkhqS3IylQp8XlftcNd2s+8tSR2S0FpN8C2JogHDagvqO4e9ow38ZT1bfrWo3jLL62sclIktazSPuOOfPKzjmHupEWII6zOPWJrikkrcetrNSVpMBCRIOmeoTFqkdYrHqExapHWKx6hMWqR1iseoTFqkdYrHqExapHWKx6hMWqR1iseoTFqkdYrHqExapHWKx6hMWqR1iseoTFqkdYrHqExapHWKx6hMWqR1iseoTFqkdYrHqExapHWKx6hMWqR1iseuqYxZMmi31SKY77F\/Lzs0PmkhQ4EnU+sUcgQ7R7qkdYrHqExarH0nPxhTP5fm2bozhaKTqlEopPXdE2a+8JkNXA6gdUXsjI9277OAobVCPbN5CKbEhBWp5zcLt6AOkhVkRpVoLFjjit+uXnMkzbhy51gTMrf7uC2i\/mpef4m3ru\/n1TVvPgknNNx449NWM\/FSrkp+W7oG39m5f7xUcPfOtZKlQGVSOr8dixv799kAoVcmCZvhoxg97snffX9Gws9OzeewjA2sOH2ZZoF77I6lDXO1fu82jjce3miwltYjdEnl1x\/DIW+sXE9QZYfOwX9kz8zq1qiAuonD+Wf5oT3LzkXNC40b8l7YN1hw6XYmm78AWekLPkJAuN4vPngf35R9kjx1OwsZ5Hj6fW9AVoeYsyerYEOI05jWn53mhPV+WR0hjX4yD00yIUeR94+MBWXaFCtgU6jU7HtPz7GE+3troyhdz4C4RsKkSRNwersQWFdgx6kMvflKTjrgCzSVtB7jMQ+aWGiURXbziIogS3coub\/E1JYs+\/\/5h0Ldns7zzud0zLvuvm6dqJlaRhwzGDCaQ0DqDZdcpIEnuqfCgAc5CzCmAMST1zwHUbydJR0IykIrLD4Kk\/SKf4wz9IKmIuuOp3jdIx0ISkInLCoYe+GqkBsJqlOwGe5QWMtgC\/kVTOiSYwmO3FjL1e8DVLPwZ4nRcwfAEqNnxteA\/cdpAsHQEtuIiSxRbcCDCMJMIs7ghwSZeTpP8FSCBJrAVYSBJ3m+6epJSQ3w6a3SYtSbudrIgaIH0CUPG1slh3UkrIj4SmFS3UHqe\/sgTPO3E8z8CzWhZJxVwNgnb3SUvSBtjIks0Ab\/I8Iwg7AiRrxWqApSTR42gfnj4JcJYLZDvAOJII61G78D8dcs05Hw\/hiaTxvRXF90kqYPppmMfjdXD6DLIiSHxuPLScRppVo6SQpAJmpsPcisjWveN4NSr9YGyoK\/96BUy6DEs8SAOMjLbt0mVkJULEFNK40BUF7DRcaU2V1mp+0DSrCCbJHjvZ+Wnl\/mT8AwJeIc2YZoXFswsrVaPjs8qXkbkG\/EeQZky9TcImHNwBEc+TZkyz6dLlzCyGyTIHu8XeIWUEcxZf3YoNGWnOJL7PKGJFOQzA3oCBJ5U\/8f3aFoAXSXMmsc6vMlaWQ395NWLak7AJy6tUcEAzErbm4pdV1jTZTGw5cxYnl0LTFqQ5cZVyliDtAPgzaY5TAgnL2VkKTVqS5gxWHHeenaFqWw3jFO2qsnSPCSRszdflEKyPvM4ZUilXHXMW\/wzQiqS1nMfBYW2XgdUIJ2ktFy7VvhrGOV5kz6XLUewIm93qegx26+ebvnsPpsqj0cX8AkOxkTTGv0y2l\/VeZq+7caxdczSOYhNLJkbozjpPHoEheMqoDXt7A6Th0KIKh3vAs\/N1EseLJ+G84laKs2E0wO2KLqWerUNhuKGz+sI1sMHTtNGtV\/5FWsZTB2EHm+tiHJgKE9aQNljsqz+aS4oqW9zmLIzcQLoGvEz2r33vstctwwFyamxXbzYiYZxi3UxTu9\/htU1cVaJ0DwlT9PThCW5tyKrU2HMO9wA3w1RjQZnM4j0VPXiT\/MB+xTI0kuoqB1fq7kka8rXVLV7xTxKmaVAxmReWDeNq+BJabDCxtLAGi6\/y2HTI5y9Xs7imbatnvMnOlwdfD7P4XBgvqMK9ir6\/Mdbqtgla\/CoO2atyp\/pxU52Tum4VszijehN3uIesfej+s8xi9gVLuNIUX5jFhdVjjuAyKqKCheRWt3i2LJyrCQJvkOAWj9EFBa0EWmzYyMmDlFgcewgGfk3aSn54BiClK2WspOcBGLCTtIzCYSRMsVJn2k\/\/BXC0G5dyDhu1+K6FUbDbMNs+exXgcvVOtFmL8yq8M4VrGxLYqft\/iMNOdVWMW8xmt7rg2Eg3EcKnY6aS5LyBRxBJa7mKa\/k3aWuZiFuSpLXkOeEOTFrGIeySkuRTROdJKuQ3\/JEHSMv4t3yyEHeeUpK1AE\/6HUnKicWmkqSEx+QEkoi5HjUegWesmKmQ0yQS4Ahpa8FqZNwibSWPYVcLe6N2oj2ekGv7Iy0DN0V6PmmLMGdxf3\/Q4oBShiEmtMW8BrDdECycoXwR\/QJsUo0dtayGcVxeAdhGWoctly5noB+U7SCtw8yazFnshd2IxfKR0bbPSFjOG43gwuekGZqRiue5PbF3u0Reje01dL7MMP4xuCSvvOZ1K6bbjZLoCSmGMNzInZFWhNO3BO+30BH5rroFzwamYBZjj8tQHdT866UT\/Bp\/xMS0TnDmfSZ0pG4cR8py\/FbiFqjou0hjxxnGERaT2BnOziKNpH4ynpTl+K7CfgaLU65DGj+WVUP+45niv\/7Hjl6d5X5ZwOMLcCeqmJcuHTGj6qY1LH17hFf3VF5iFe9Gwakk0sjRzaNYUsVErsvjGzb6H8xKEnbEDNehsCPGr0MtSc6aDD8zlR0EMKuMKWR\/V0PHTAnvAYSfIn3\/VWuuJUrnsRoz9NU40OUKKUXMBmh5kvT91\/i1ROlbgD5cMNoBnMDkwlPbkjt7ZOjKLAb7QZ1zSN\/tv4GnOIAdzQXDD4DdHnDsueRt4f43dGXWcA5HaXPKKfPDE3k87QBwjAvkU4CXWbriy5y3YS9anO0iuxvhLwCR7KJmtiSVen3Bi7I6Yx9uIy6oLOWNLlZ2OBe7gft\/H8X+5K31UR9RmUKycdzVYQOvxoQu+k2pkCWsGr+wamyMoovgeAZ4TH+bQK4bwN8w3XhHki67Ka1n+bvO4P3OcdwNr65srXNYGg7QVn8R+Vc8rti9FWs0rAO+WVdoFZnoZ6dPr+OmODruiQu86LI7nsm4QrDX0ZLd24Imlgdsgo\/HspvUXAYkYtXOJnRnx3fYpO\/ZBwtbF7BEkkr+zmYM\/IM8mi+suOatkPRhWId6TQNd+6dQiWJKVrbWVSPIBtXox2+RuJb4PItI33Q825nXjWPTVM79Eov5ERLGbwpRxNEXcNjrEdTQfdgZlj2bgCMZ3NqT9mJm6Shf1PVenCnxpXsks1dr0fyNDYH9g9wf\/4jfZLB+fGNW9b6JRZKUk9CLrTVk4v+xd0oi\/jB+B6Y2sW8fkjhiSbuq9Y\/saK5zZorCX7PueQR3Mz9naYKMtLwyB1VD0yRNP+WrgDu\/5hbUD+2GTbJprrW96E3SSs6k5Wn9ozqyPdQE0szowUYtvjJ3nftuflA\/mmw6xXubduJDL1teyTTK9Q8\/dt5p\/CiGzOeCD5B89Lg95vOKu3Rszvnpm2vTEingfG8fE2tq9S67x\/jRpPS91XZ0uPDDfzrIYQiZlW1qVeGse\/NIop01rSmUVpoKsyGaGfN8QUMZexPe2pjFx0sBdrxLmUcN7eRWN458P9n4OaxWaEbFZh+x9GJ0rTiB+9H2GUbOxXdaBMaV9Kx0X95DQbJ2kJk+pC0Yu469Tl7BMzan7272On86z9iT+829h5RHDzPW3SrI9TZcOLUN91J9annRGBGB5pVQeL5+CyeL\/zOx9qQ+0TWFpPUIi5XjqJ6d4IEhLFY9wmLVIyxWPcJi1SMsVj3CYtUjLFY9wmLVIyxWPcJi1SMsVj3CYtUjLFY9wmLVIyxWPcJi1SMsVj3CYtUjLFY9wmLVIyxWPcJi1SMsVj3CYtUjLFY9wmLVIyxWPcJi1SMsVj3CYtUjLFY9wmLV4ziLXQMbkBI4FMc9CMImeJbdFw+CUEgds1igHHEuVj3CYtUjLFY9wmLVIyxWPcJi1eOoQVPBVwcz7\/lE9enjqpm5BA7rQ\/r094GiZNJBPJKCwNY4xmLNoiVFA54OLj79ReHE4zlHIDNr\/TaAxkntO3uCJvVU0hWAwePCIujTNTLzTBpLWocv9IAbc0\/nonbq0sn+j4NVASwMiL3J6QAxmVxp13lBBBPlwQDreRHyOdqtD8FkHBawTR\/iqTweHf6JMgKTOOJcfDH2ZPQ+XZx4p9HbXXiUTeeWsnjp+F6oLtq4KYa4AQwn7YyiaU\/KCEziAIvL4i55fGaI3twnXhdI1QPAELRbro3j4g3AYh1x\/GRaYBIHWLwqBV6XBSGf6X6PJU78T4dcm8CV\/+lAYf64FzDsb7FmIQAP3EgEvFTLeMgCZdjf4m+vQsM\/kea8Xcs4YwJl2N\/ibwC6VGqGI\/1JCByC\/S0+BhBCUvAgsP\/UR4O78A6ejqvSbxfE6+NO5i2GXj+SNsFjN+Cn+qQvxkHkKdICk9jfYhctvC8Lmq0HLe6hv5nr3n5LLa6vb\/K1RcJiS6EpEPuBI97pJOX0BeAhhBnoVS+SpmgEkE9SysRzOkmBaex\/Lm4CcIuk4EFgf4s7AGSQFDwI7G9xb2yRi0kLHgD2t3ioJxTh2FiG\/mJxDWSklpAS2Ar7W9xoIsACLWUYqw+RqEb58J7RkZcoI7AR9rcY5oRB6jzSyL59\/Iogmm4IAa3Xm+OvHscxsjGqfEW+2wiM4wCLfb4KgA+S9IZ8M+MTnt4FKOACQc2vPg2KgahnjF5AkvDzhaQhX\/Z1gUkcYDFE7Y+AOZ3WXwMoOfDq\/J0NWVleGsB3\/F1kD8DZC5iyK8D5k3lRDRzUYBNAGvYCXDpLWmAaGh\/bl\/uLgnFVPoFuoctLWH7DGBwtA8S+mSdJt6c8z6asGoxYi2+Uf5igZR+ozuzX2AUq1xcS70vSjcSBbNf0fWURvSkwgaPuwJTST+RBYKf2pi\/9a1auyUpYRhmBbXCUxZZSNnJLXgBpgU142CyG3JD0diQFNuGhs7jc77rhVj6BLXBEj9pi0m8BbE0QDtuWh+oo7p42zLfx1Idqr1MBD5XFZeecQ91IC2wDwH8AhOyKj4Ar5iIAAAAASUVORK5CYII=\"  \/><\/p><p>The IUPAC nomenclature of the compound above is <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>This is the IUPAC name of the compound. It is a structural isomer of octane.<\/span><\/p>\n",
+        "Topic": "Organic Compounds",
+        "Difficulty": "Medium"
+    },
+    "Question 21": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>2-ethylbutane <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Butane <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>2-methylbutane <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>2-methylpropane<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>An isomer of C<sub>5<\/sub>H<sub>12<\/sub> is <\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>This is because 2-methylbutane is the only isomer in the alternatives having the same number of hydrogen atom and carbon in C<sub>5<\/sub>H<sub>12<\/sub>.<\/span><\/p>\n",
+        "Topic": "Organic Compounds",
+        "Difficulty": "Easy"
+    },
+    "Question 22": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Saponification <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Hydrolysis <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Fermentation <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Hydration <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Alkanol + Alkanoic acid &#8652; Ester + Water. <\/span><\/p><p>The reverse reaction of the equation above is known as <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>This is because Ester's components which are alkanol and alkanoic acid are formed in the reverse direction in a reaction involving Ester and water.<\/span><\/p>\n",
+        "Topic": "Organic Compounds",
+        "Difficulty": "Medium"
+    },
+    "Question 23": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Acidification <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Esterification <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Decarboxylation <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Carboxylation <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>CH<sub>3<\/sub>COOH<sub>(I)<\/sub> &#224; CH<sub>4(g)<\/sub> + CO<sub>2(g)<\/sub><\/span><\/p><p>The above reaction is <\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>In the reaction, there is removal of carbon (IV) oxide. Alkanoic acids with a carbonyl group at the 3- (or &#946;-) position readily undergo thermal decarboxylation.<\/span><\/p>\n",
+        "Topic": "Organic Compounds",
+        "Difficulty": "Medium"
+    },
+    "Question 24": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Substitution reaction <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Neutralization reaction <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Addition reaction <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Elimination reaction <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A characteristic of the alkane family is <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Substitution reaction is a characteristic reaction of saturated hydrocarbon. A substitution reaction (also known as single displacement reaction or single substitution reaction) is a chemical reaction during which one functional group in a chemical compound is replaced by another functional group. Substitution reactions are of prime importance in organic chemistry.<\/span><\/p>\n",
+        "Topic": "Organic Compounds",
+        "Difficulty": "Easy"
+    },
+    "Question 25": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p> <\/span><\/p><p>Alkalinity <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Nitrate content <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Acidity <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Chloride content <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Pollution of underground water by metal ions is very likely in a soil that has high <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Nitrate is very soluble in water and permeates easily through the soil.<\/span><\/p>\n",
+        "Topic": "Environmental Pollution",
+        "Difficulty": "Medium"
+    },
+    "Question 26": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>0.25<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>0.13<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>2.00<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>1.25<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The solubility in moldm<sup>-3<\/sup> of 20g of CuSO<sub>4<\/sub> dissolved in 100g of water at 180<sup>o<\/sup>C is<\/span><\/p><p>[Cu = 64, S = 32, O = 16]<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>CuSO&#173;&#173;<sub>4<\/sub> = 64 + 32 + 64 = 160 <\/span><\/p><p>100g dissolve in 20g of CusO4  <\/span><\/p><p>100g of water = (20\/100) x 1000 = 200g <\/span><\/p><p>Solubility of CuSO&#173;&#173;<sub>4<\/sub> = 200\/160 <\/span><\/p><p>= 1.25mole<\/span><\/p>\n",
+        "Topic": "Solubility",
+        "Difficulty": "Medium"
+    },
+    "Question 27": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Na<sub>2<\/sub>CO<sub>3<\/span><\/p><\/sub>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>NaHCO<sub>3<\/span><\/p><\/sub>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>NaHSO<sub>4<\/span><\/p><\/sub>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>NaHS<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Which of these compounds is a normal salt?<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>It is the only salt formed among the other salts by the complete replacement of hydrogen atom in its acid.<\/span><\/p>\n",
+        "Topic": "Acids, Bases and Salts",
+        "Difficulty": "Easy"
+    },
+    "Question 28": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Nitrogen (II) oxide <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Carbon (II) oxide <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Asbestos dust <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Sawdust <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A carcinogenic substance is <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>This is a substance that can cause cancer. Increasing evidence has indicated that nitric oxide (NO) signaling is implicated in the pathophysiology of many types of cancer, particularly in tumorigenesis and cancer progression in various tissues, including the brain, breast, prostate, pancreas and lung.<\/span><\/p>\n",
+        "Topic": "Environmental Pollution",
+        "Difficulty": "Easy"
+    },
+    "Question 29": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>5.0 cm<sup>3<\/span><\/p><\/sup>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>6.8 cm<sup>3<\/span><\/p><\/sup>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>8.3 cm<sup>3<\/span><\/p><\/sup>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>2.0 cm<sup>3<\/span><\/p><\/sup>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>What volume of 0.5 moldm-<sup>3<\/sup> H<sub>2<\/sub>SO<sub>4<\/sub> will exactly neutralize 20cm<sup>2<\/sup> of 0.1 moldm<sup>-3<\/sup> NaOH solution?<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>2NaOH +H<sub>2<\/sub>SO<sub>4<\/sub> &#224; Na<sub>2<\/sub> SO<sub>4<\/sub>+2H<sub>2<\/sub>O <\/span><\/p><p><span style=\"text-decoration:underline;font-family:sans-serif;\">C<sub>a<\/sub> V<sub>a<\/sub><\/span>\/C<sub>b<\/sub>V<sub>b <\/sub>= &#189;<\/span><\/p><p>= C<sub>a<\/sub> V<sub>a<\/sub> x 2 = C<sub>b<\/sub>V<sub>b<\/sub><\/span><\/p><p>Va = (C<sub>b<\/sub>V<sub>b<\/sub>)\/(C<sub>a<\/sub> x 2)<\/span><\/p><p>= (0.1 x 20)\/(0.5 x 2)<\/span><\/p><p>= 2.0cm<sup>3<\/sup><\/span><\/p>\n",
+        "Topic": "Acids, Bases and Salts",
+        "Difficulty": "Medium"
+    },
+    "Question 30": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Colloid <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Solution <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Suspension <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Precipitate<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Calcium tetraoxosulphate (VI) dissolves in water only sparingly to form a <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Colloids are solutions where the individual solute particles are larger than the particles of the true solution. A precipitate is an insoluble solid that emerges from a liquid solution. <\/span><\/p>\n",
+        "Topic": "Solubility",
+        "Difficulty": "Easy"
+    },
+    "Question 31": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Calcium and magnesium <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Calcium and sodium <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Magnesium and silver <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Sodium and potassium <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Hardness of water is caused by the presence of the ions of <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Calcium and magnesium causes water to become hard and causes furring of kettles.<\/span><\/p>\n",
+        "Topic": "Water",
+        "Difficulty": "Easy"
+    },
+    "Question 32": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Can collide with one another in the container <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Are too small in size <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Have little force of attraction between them <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Have no definite shape <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>It is difficult to achieve an orderly arrangement of the molecules of a gas because they<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Gas molecules have little\/negligible force of attraction between them.<\/span><\/p>\n",
+        "Topic": "Kinetic Theory of Matter and Gas Laws",
+        "Difficulty": "Easy"
+    },
+    "Question 33": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Elliptical <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Spiral <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Circular <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Spherical <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The shape of the s-orbital is <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The shape of the S orbital is spherical, that of the p-orbital is dumb bell shape (or figure eight in shape).<\/span><\/p>\n",
+        "Topic": "Atomic Structure and Bonding",
+        "Difficulty": "Easy"
+    },
+    "Question 34": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Helium and neon <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Neon and nitrogen <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Neon and hydrogen <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Nitrogen and helium<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Which of the following mixtures of gases is likely to burn in flame?<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Out of all the gases listed, only hydrogen gas burns.<\/span><\/p>\n",
+        "Topic": "Non-metals and their compounds",
+        "Difficulty": "Medium"
+    },
+    "Question 35": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Electronegativity <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Electropositivity <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Electron affinity <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Electrovalency<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The property of chlorine which causes hydrogen chloride to be more ionic than the chlorine molecule is its <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Electronegativity of chlorine is higher than hydrogen which makes it more ionic. Electronegativity is a measure of how strongly atoms attract bonding electrons to themselves.<\/span><\/p>\n",
+        "Topic": "Electrolysis",
+        "Difficulty": "Easy"
+    },
+    "Question 36": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Oxygen <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Inert gas<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Water <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Impurities <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>In the experiment below, X is a mixture of nitrogen, carbon (IV) oxide and <\/span><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAeQAAACXCAAAAADhBHf+AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFxEAABcRAcom8z8AAB3ySURBVHhe7Z0JfAzn\/8e\/u8kmEqKCkLhFJiHUfTUoReumqLOt1hlUUeqoqrtuWvd91lWSIG3x50cdUdRNkEiCuIlIQsixx\/N\/nmee3exuJpvZzc5uNPt+vTLfz\/Ps7JH5zPPMMzPP84wMAUGDnGjEHKhYnSkH\/xGYySvTx9AIcNe31hUmHfxH4E1G1dTRcpoGzdSaPXjl4L8Cb\/KBDnCwLU07+A\/Cm9ymxM6Of9C0g3zEsdtkWb4DXDyPY4uqJGURCHOjVmoxpztEIaQ5sgkvH8xOvjT5Cp+TC7teMeHA2qgi3geYlInVRQi6ouEzLYCaPGQ9Gg3jafp0a+iCXv3gAqF+8CHNyY2mpVcomXSQZyInpTBFSeRgFInh9VJp2jJIdZ1YL6pQdLUSDwqRkv2kTJd9AD1CRi\/eWaEpLeu50CwCAuZ+yhKWonnLhA1xpv+vRWRmMiEGVwUTYrhUz2vyML03XAiSXawBT1seqMQyLIGYPOftTIBPjmz+imQoXYjJwWtj\/OjruYNNxosFjfgUj7o1E7nyHv4y\/KW9w2jKpnQKZ8J8puANJprVwUyI4VI9AP85XWUsCfDTrEanZW2+yVMpwiYrfcf4ABxf0+BfkoHkxORhqx+Vgbg0ukou9LtMlrIes6vQJEUleuf1eo4X2OM8FCvLUKXnyWQXFyZzI0NptskAQQuCaAqTUTvql5TkX1jKMrDJuzZ2I2r2g3MNcdAzud4lki8Wl6HzXZnEJjv9j0mTpHxKTFb13Fv8SF2WZSv+6Jwnk2f8xGRuDF2jM\/lQLBMmeDCfBlnXOf5UAJxs4VbzhNhdShhs8gcr6Ab+eXK\/LTjomdzzFsnPjTvscKq392GTnZVMmiShFDE5vpL7KVt7bA+Te4QwIQbFtp5MBa9te5BJC5GhiB9OUfW0vPO90gYmi4Mek\/FxhFYHDHNNrngPnlxlebZA0coKJp9PZCmTLDugM3mDiOvFCb\/z8f257XkBmrbnk7d+yRIWovloIWtoB8EIvEyFj\/FyAFyjeSIgTfBSK8jJXBbYYefciUbPwQuvfQ8qIrSd\/zm2oTg+KYFO\/G+1hJ9gBkIt2Yflxmr2JlFcpG8pu0HF0gjNHLUPSjxjCcuQdQ+tPmg0\/tw3S+e8lg38Xrlkvfv04HWzE5uM7Uq\/L1eaRbiPnlCUJRjiGl7R\/nolecfnPrVYvtQojxZPtEJJbnWsQQmWNsm32jIpBtLwKjphtDtLApyYeMLls9DeO1nSMpjZltN8wEOm9FDmjj8YleS+\/FulJ9FaJfkoS1qRi6AYrl9sn1WLQ+hxMdjP0hbB7j3lgd83lGVKD1Yhm4Kt6cCQbpErSjGJUfWZ4QvgMw+GimoA5EDeTcaNNQdWo06o9tSJkPYF+ozEQT5PvlLRHIvIu8kOrEnWpS7Mkpq\/X1+I44vpCfBXq\/18pgU4TM7HjIpBCd\/jWHK6EqETXfhMC3CYXABwmFwAcJhcAHCYXABwmFwAcJhcAHCYXABwmFwAcJhcAHCYXABwmFwAcJhcAHCYXABwmFwAcJhcAHCYXABwmFwAcJhcALCPyZrU1FQNVQgrNs5GhWVqqppPOLAi9jF5qYeHBz\/66wVWgVTBbiw9PE7yCQdWhIxPtj3t6QguMoKCJoGOoODl8eZ8lIC9a\/nIRlB40VGiUGNkeRrFsPogP\/o8Jk5\/BIXvChryMayTvU3RFKdfTUZQ8OiNhTrJ1pGArFFjdAQFo+R59rIIWrD3gMFYqKKWz+ZhG+xSXV99yYQACSxKwCMWDUlnUQzJLBpizifYBbuYbGqAulkD381DKpMzXzORX7GLyUdYFIIfuykJwiarXjAhghQWjbjAYn7FHian86PehbkgWUswPpUJI66zmDuqV0wYcZbF\/Io9TI4wNeHMC1FzWFjCGRaNiWQxd67ncBJ\/jsX8ih1M1ixmQpg1UhXlnEwWX5Jz+gRHSc7GNNPTnCz9ShqX1Tm1BG6JnijuEIvGPI9mIp9iB5OHL8uaJkiAbhMMhm9ajQU5HQfSu4iarwxgX45zzHbTnvDnT+xgsveI05OYFGBnqEQT57vlOHGh2PZ1Zk0msiF\/zET+xB4NLwAT0+\/luCHzyqhY\/UmospBPPSbyumbPq\/UFN5ds1qXaTOZP7GMyfwdKEGnqaoITx4QhPh3Ff6Wn7kkd+pScZM4UqXbAPiabwOY\/KO97lXT7pZXIdyXZJj8IJSe\/YdJC0pOT8zBTi42xj8kmTpJs8oOSPD37MGkhsz0935073wXT5AKGfbapvavrAoajJBcAHCW5AJDvSnK+Px95B3FU1wUAh8kFAPtsU8cx2aY4SnIBwGFyAcA+29RRXdsUR0kuAOS7kuw4T7Y++a7gOEqy9bHPNq0OQ5R8P42SSqUyjirojaWLw2QJsM\/Q1ZXfDF8RcNvo4V99twO4KDOl60ozcUsf8shRQ5Y9\/b0+k7nzyY2JXkxm8V2hO\/n9GMNGN9qWOTACCT78yxmS6QqSMJELYUqPPpwZQ1c\/5u4ypYc\/5xi6KsQOaMaUEUGQt+fVORDCLiZHXPfO4cnewbCGKQfWwy4mr4KBOTz1uXvJK\/l99Ng7iD1MTgh1GsKkMa79YTWTDqyGPUzemNGhApPZGCLbLTyc34Hl2MFkzRoYymR2\/Fq\/3cqkA2thB5MP3fVtw6QAjqaX9bGDyasg2MS3dva56ZivzcrY3uT4g7h1lTOKgY6ibG1sb\/Ja9WfZLw3qMdgpVMK5vAokNjc5cwMMY1KYCu0yNjPpwDrY3OSwZzWbMJkDwbBWmrsm6ZBwJxvpwE+XKQolPGBv08Mut3jMwuZ3oVqcWMWfQAnehSKofe8f\/piX1uXjeCYMmfIFE7kTKDxcNcr2Bz2zsPXPu3HCg02HmyNOgyVrenn5+mZm+hK0wdfEzBZClNd\/Mx\/YK\/kZdjfKVoyAYUwJ3mqkPFYoHjNpVVpzIYj9v3wg\/30f7jeqRVGN3mpkG00b\/Dk1FfkXG5fkN7+ZuNqlxaezcgOTVmYAf3SSsWCqQ2HOyIi\/2sA+Kn9jY5N3pDQVMb1PMKyT6CkF+uZa7DFd5mk\/sTE2NnmViIIM0NrvvulZ+yxlI1kYlkRTk7kK4G9g7rvhsY1NPnvZ6zMmTSEbIt1VL20R1JqVQxeVHOHfpr+fmOhfnE+wrcmrYIArkyb52vXgfSatjGERNL8k3iYLo\/0k32NTkxP3yIOZNI1XN\/U6Jq2L1lz9kmguhodjma2PeBZg01+4Oa1NZSZzYShsVDJpTQbwx2GDkmgu1thPbIwtTUZrcrlsncWHgY9znJI2D\/ANL4Oq2syGF3M1b\/uJrbGlyUdiKrZnMleCJevrZVQSzWx4+fPvMthP8j22NHk1DBacgBSX8dRUo4e6fOl+lH8EnLXJY0nkG14G+4kFrWujzuXqsJa7mdQnbmw7pvKIDU1++IfLQCaNue\/hYfSSZ0+NFE0vrbl5KolG+4n5m\/DkMMOZPeNu\/S10K+z6fivNlW5Dk9epunozaYi8CMXwVsFQ2JTBpPUYYGCuZR5bYT9ZmbKDKR7\/vkwY8mkdJvKK7UxWrs+p2VX+NcXwenWj2glhTFqPjbwx7HBMg9kNr7zvJ0\/uehg1OHIY5GetsX+2Mzn8ceCHTIpiqERNL8PDMV6adZnc39Bjfncxk\/Xffn7pPBGa8P2Z63+Iopkv5816AWdCQkLeQkxISDJkbBq7kdy9vrosfeEugPg532\/LhNiQkDiIDAlJBPjf+EVhoh+KwO5GSU8rWMoUT9atRmFeechuMmklyK1GbArVujCYM\/xZJgngEmg0+Aw\/M281KuukXyFn7OjZYAjuNyqg9Gv0AGb1\/tazFXreEI4hpO68QpPcaFvGEqe6aJ5bnbEVCmv+aHL7Xst6L9VHYDlSLoIItGdYZpTvNf4Dc8VmJkfJChuOSs3NZBQMo5iyEvR+MvOHLkkYyf3MazFwXCpeGu0n5pocMgmhxu5JWGkKtXiDjsAhbPJANVoAKeiSbC02uYkKDfwav16vLkIdPW6kXH3peRShJ2790StsMvoHm9xpGUK\/iTXZZtX1GtT3PSZFMhS2inyWj3iMGsY4FAfxT4JJBNfCWVW1tsY2dxOuCcb\/Gx0nInOv7w6+QJ5B20IOFeAF1GmzWAOHWzslbP0EZ\/rjPze\/wKI1dyTVB\/BuvT3rCVZeP6zI7Cby8qHNjskpOwo3+tsA\/gdnspQASXUyV9J1rMcAA3toKA8PSUIUl6EccZWZSwLbXczh1vWxPXqEuq6mb8d\/Cu2JtgKUABOi9sGmAXBeyT9iml8FfzG5r1M9M+uuzXS\/Ef5\/FmGJXGElWmpGc8YoaHXtxFLCVGPvtg5tuV0kGNbYhbnGvBDBAm6QUVWNg5rjqBbLiMNkORqO42WJ7xG6D9twdf0bQmEQhbMaNXjaBVfpOBOhPri67lkHi6FwBy9nwhNddY2Uy71gC84Ug61K8iGo85Eh7jRfwVKCFFbtpytZCQXtfWtUY0fR2lIc52GvYVVNghk9egmvzrYmYQisoslsTDg\/8GuAqnCYJLQN\/yD4Gy8Ta3q7AO0vqobtzt9EBmwiWgzMbInZzdVPZ1JLrg0vvOtyLZiyCr24ldgUKvVCY\/GThtTjCtPINhofEjh\/GkXy82Q+1nCOQagIblrexWfvd2ATKb2kIaUO8FHi8KFTGHpdz\/utqjv59PSAwDSkDMQnB97d1I\/6wfaMbrcRGqXr+pgLNirJy6C7qN4ChvSGh0IX9jJCyFKztUl84oxONIfnwYSBAKtz7vFbHJIMDsd8oa4LvxMtgsRXsgc46DfbMGXNumYxf+bBvSSufqjqtGVG6l97Y+fC5pA5sPnUufWwKB43kob1d8av76jd7f0BXrBg7YmY6bi996ei5a+9hnUHmLi39Kh+TmE3oMOq9dfmkE8SAzNbWh74cfeY1CGiJKO+3HCm9NnsS89Z4iA2Y2V1msOTPrEdQtf2sVR2pnHevMgqxpiiXCMac2ce1wsvjeuCU1w9qqzF13E0aK5GougMKgmaG2fJ2RtCsZEoJR6ht+lXLok+c7NNSZ4ia1KRyZyR8R1pZBRehcNRmmfI7rv0Gbe4petSimYwXMlAuve78AkBqgEdoKMtiaw0v5G\/FB5ZkY2\/AB9O9SsB8lHoEZQgGdbiaRLfW19Wszr4Z82sIgtshM\/eMFWqQ9EK+MzKtVYd0d7ZxGQUAX113ukEJYFpGqii25CAU2\/UmuxTPkV80noFiWRt\/Pd0w85nsHfpz\/hMiORc2AyZu86dGk8eXH1o8kL9B9TXgXt4aVRjg6oZiKv24p44dTRqtpHPuAtliLYKjz74ouN4pq2ITUxeA6VbUkE2Dd08pqA1DB81wZD9VHlT\/+GH7jCNefl3h9Ibt4x0601TMT\/tgRMjlkW7tU+HRWhGTFu9r+Nkr54wl\/RDHzgp6ol8M6GFj2ElQEM01CIJqyCLPzrB5MOlLYO1HqSlYfLIEUxmkTXgTQhS5jCPP0e7su5P0icg31+ySO3baz6A0iW2StiUDftnOsH+1M\/3fPcQfjlyABYc\/wsaBg\/MLHSrQo1xcGvprar0rZSGyY\/fZHdJU0XRewZJmiahKXqYpn3bzQ74J9Kfc88ZSuUwX5UBlzyZMAnCHy4BtNxIy3W\/as+Y1MNkw0u4twWd3vCHQZMnNymRhlAmxKLQKqXDSeaxOVN9EFqMG16L2+Ozos0IOUdeq0le0acPV5JGXW3BhzCu2huqTPIFV44X5F2X2S8Szwv+zXbBFtX1DFkrgwaSGCoxSjs7M4UhL7x9vG7mzJDX2tOeQkv6xQAs3zOxBcvIwjUK1xLJ+k85bw70Zqe2HBObyeG1SxVV7uM6zp4Den+bPxwH4mMxAWBppQZU5YaogiwVzGwJyfTjTjOpj5hTKISUQdwGJnmWHyDLbnU0KANiUEgg+q56Cmq4BG0rmaxZ1BahRbg0N9yES\/I1td\/Hj1PH6V+DSeL8E\/mSmFWMSTjHceQio0nqc9+ToH0bXZIwjBvPa8t4OPkDpjCaphOZMsnd8c15kbIkMHsF0ZaddT6bqTu9tEFJXiCrZHljwrkHGPT1OjD1Cm4w3319+buEbbDz9h8P\/jfydofzXSd\/\/vLlsid\/R555ePTG5TMxRx5uU+1J33GzTIU2+tdginmi40YnUDQ0TIERuUwRNyDFcxIO\/Praz8Ah4x\/oR7SlXP\/jEVMYmauo6yrXwp\/y4sbJm\/SHGFCItRCuH846M2RmS0hNDhes7IgryehxgF8skyZ4koFeM6lH5k3+AoKOcVwZVhL1CyQ+VWvLfURlTqzm\/ElZN3wzCQe5WjRhMYMqMGEGfQOYWAl8JwZBJhVhwgYlOSLNtSuTluDTXDaNSRN4u4DAfTdFNf4Cgo5vwJ3OLKQ7HNMEIPdl7g9N\/ciQRTCsud76WSEc8njKQ65hmouuvJss+FkvSm\/ybOhgZm8BQ3rDObpRrUHFUjLcehIwy28lutGdpATZ+SN8Olq3Pt1BWHA+At+RlBk8XzxmqxIgafmYObjdhj+VcGzilGu4Zjj8OxwOCUEQHnIEIHY2XJiwRg0HJ+g6ZadtGLsEH1fwe\/5vQtbg3pvTJ4Th05GMreeuTopHx0h3BE3ouCX0hv2LX8duyuBrHglJqcJdZdIQfyjpXSr36hqpP+SWMZl3lnMtVAZVta4GPlSNa0G65Agwm+O+UQlU1TgU55pSIZ4zLW\/fK9cOvay8Lv1bT9xsGoara82QuUmLFQeTRsFglN4HVOhl3ffRJq9iO4b1g2lTBnwKO\/j3PmwW8aKlXxL6OmD+kFbyCITWkep6bfsHN2u1SbvZESZ9LB85XtYTN1e7zErfVwhX15Hdbpyu3Jz9q9LxPfcpU0aQvi0gwmS0gqvPVN5RB3JF6L9sZBYOp2tzgbTlbkRSO46bps6+PgmyRtxWqkSTVhafaQTLX4bBXXQJjvAmbwpC6IXLIIS8BiM0H5uM+r2PX3HDpaOpdxRCVbvxb277K\/H1CPraMxJleIzjTY5RxCB0VTYVxUE3zfUk5IdNnoc\/EPXFJjeIwzuB9NX1XyBw749cvaYDTp5EUs2uZesUFdq8kSj5BpVWQN4eWpALLQbHVT4E7clQjuqs19blmf1BrOu0qU6G6xObSdj00u1LosRzMKExwJJYz092V0o7AazP1vqmACXiFkNWu4L870VcawJU8QjARxm+X8PDQ80ABka1BihVHVx8EmkmrCvsB1Cz5jooBJ1kNYoBboZofiFTZOFSFHNl008\/XagvtcnhKo8OOseo4L3jQbjCptuL\/lfMVboksDz1G5mIq45GxI8bArBcd3aTPJf2xwCY5hR9iHyqoVkkyLiYr5yiPup8nGQxno6vsVldI6yvwfpZJ1Bpq2EAkWYQQ\/5\/18pQuM30SWVZHsSQ1lc5D\/yZfJqHWkPbZXL+AmAMScmw6RQF65JymY48qf74LbMSh7tPWQ+xO2j6zJlrzktt8mLoyvfz0UG3EF\/dGUleZFd74JLZg5W9AZ9LNu3BUuBejlYcAIU7w6JMY7NoAOTy4\/5mEDWketepB64n3Du9pH\/DD\/dl+swO5QzXZ4bjsC7RfRTRZqDIID8EJT6s1+CX2nwWzsSNLtxGotoEChBaT\/GCDCcq7KZ3QSCNXweBXHWFCIlNfvII+lC\/6IbRE2QpliYVZb8yKRp6b7m2rt+IS2km4GeX+97GZumC\/8b4XsWUN3aO7t7kk\/4rTic7Nfrl6Gfy7I1xHPC\/8Ggd\/EC0OdQCcpt077P5TmQUL\/0onHk4Ftexa\/mEC+m0iYSGdVR3XoWLdBxueOsTpDqFl4mt9AaMVnahPcQ08L58On7HA4lNniZrVIXJPNAra6ynKjxy\/7jT8O\/6LU\/h3w2Pbq6M\/jERzi2eRca5Xl376+V7aRC2dDY+spJ\/7OwWvLn2LlzMn3XwOI+BsuRSkJ5Z+iFj5pltia\/9vQt7VnqbtPDMbx2chVbkC\/WUjLK9SJ45tKi1YtqFdb8HpsfferMBkiIgE1s6Utnpz9N96wMocRVcEY5D+IXnb9XkFVCTu6AaviLz7PdPvzP7BncGJc3E6yohE4K95mgg9fQkUAMdK4k\/o\/BX5xaC6lpaQome4R33b\/tSWzNKhD8n1GA1l5eBfheZPFD08+m9FOdULXAb8s7wB59Xntv24tZRmoslz6PzdZWxiqE31nRH85ojtKATiv6kM0JDd6F1XCI6Up59AEKtuL5q4ROinINQXgjnf5smzeIubk01e44ueSo+ulqk3LW\/ysvmJqElhcBtKUpbLCsTitLqOFXe+lXpqaF+MOv59jLOC5PWFHNfS9+bimsm38tot4\/zosfLFKVD\/g2CYXHoX982i9vvRncGQ2A4Ui1XlNiOXncAru2XRUc9S2mHj1yn+V8tFRu4INL1MM+MyToPq74eqet+ic4VeYHm3EI7fTVI6R2J0KDWaGxvhGqvQaE70Q58WoJNRrM7o1vFNQhVm6pv8r0AzlPAM+NAlyZ2hvgq3BSaNBPN5RskpN5B6NlbmoNJPPOSKYQy\/32Bbhv3bWXcviCwPVWXz2dbPfqi6l4KEbH\/pkt8WXMt9LDksl02ekOkdrCyrBjI28ZDww+WaGKrgtxDBtFPiwE0uARVogHelIduXvNvYR8I+LtPFsUVNX5Rj4rfQQn68KnsR1ldyNYoo0F\/DXkzeZnpJGkustqBJBSujM+E3GgOpnjjrFuRigYlgMuhbytXT2B7OtWun211\/7pOFYsSUaWBq7QNr+hEudkHLUEa+MnmMUm2t3spgB+X7WGPK3EFfIx184bBFabNG9gOluwbrzdE1vUp3jvwi\/oE15GNwm1vEa7qm2u0RilX511EvAtIavJ02Uc+TOaR3hDKFKQCXOkJ0Lz65E+x47jx6FcPN8ui+8Jlv2kTJgBsrQaPlCmgwV5gc9op9gLc7ktkFtuLJQ5ONeWqkLmGLxUvKlsqPG9CPkRKk9XnQXieBCGyrpNQRaVOQH9NWgQV2MTwX8uR898xvRXw7K+YEIAdx2esTh4Hz5cq3qs4SNn1hy+Snq96dPzauft\/X79SaufUtbPbtUgJf6434sZ5ryK6Kp2JRshVk+ayNXaXgOHs8sq7AD1MS8MCrhUpT9ov0Soatd+r01QYKl7wqjTXnryGUI09MU+pmHWfBoL69nO83HH+SfSFicfQY8N7y2m3BO40XwjgBmbgz+VTfGC\/STjwS20ID+BGU\/luIGVJ3g69tIWT\/eUC2X5sQxLFC179H0TjeppI8CsNkB529nl5mibIOS\/c5vrWw9u\/tkct8DG8t1yoqsCd5nqrZSeD0yytsXeP0zT\/hch3BbYlJeCsX2DWeUGe6cxNIuFksWBSkK+5fEAKrwFzywYE9RN95nokgCufSATbBNpAl6bL9gqO60\/luwK\/j0pC56guC5i0ArumuETi8AYB7QiVKdTXOdUth8nghPhnkKr8ygBcVmnKVGnWFmqyBFn6lL3Q4Z0qx9qfLgUBaGtjJq3Am7rotMmHhplNXPe3he69FrLT0FX9IIP4kTdh+Gia9c4g4THZCXTn+lYAN5Os6zFUiaiU7v3da6yEPNYehw0DhHa+6bz8HfNYSpNdwZpPQo41axiwKIoc\/gz+bHcYF1LeQf0g5DvIHg+c+Nb7KJmz5Z1CQpM9tQOarMIVsNJ1FX1mby3yfETZGCKNi6xB4O2XL21zUtb7pAS\/Q2IkNLkqkJaStTgJzZmyJo0vdJAV7jj+vrCrrFDzvss9Gy9LL\/un+Z1U7A\/\/D0jCoZElTlnl9gThUSv1KWkuI8Z\/GwXyV0l0yjDBYkxDQtViTuA+oQ\/JeeeQsCS3lSUeYDIP0EubMlitKSXRpeKK4Tsra4qUb7\/hiXBVjUPGoW+CSji5Db\/ybnosZUmG0QdKhhk7IwO67bSXv9h25BXLNFBMnhisWSXhteKo6Zc1AOljgmq54i\/kfxRd4nDv7MkzbwBKDzGzX2Y+wsomz9ef1QptkSsTUpyYTzrHsqzD4ITAy3p5RKbvnp\/xXs5zgVgDzdU7pPOMomrEvHJlPD3dAGWmvnzeTtHlJun56uxdtxhdTSxVxTz+ymZY2eQiBlOyy8u4gRybRGdrIIdnnTAPDYKkXPsy5hn5e0VcdEcvOd\/0wiBVWrLZ06t3090ZzQ9IajJAsaI5dHEwj7Qko8+VCnkRd4WznL+tgkCjVma8MXo4hjj+0ybPyNZB+m0qFM3TZYy3r+E9o8GJNkCTtxZpYD5qogH8P45Ozn455PRrAAAAAElFTkSuQmCC\"  \/><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Inert gas is the correct option. This is called the preparation of nitrogen from air. The alkaline pyrogallol removes oxygen. The calcium chloride removes water so just nitrogen carbon dioxide and noble gases remaining in the mixture.<\/span><\/p>\n",
+        "Topic": "Air",
+        "Difficulty": "Medium"
+    },
+    "Question 37": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>40s <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>60s<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>20s<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>5s<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A given volume of methane diffuses in 20s. How long will it take the same volume of sulphur (IV) oxide to diffuse under the same conditions? <\/span><\/p><p>[C = 12, H = 1, S = 32, O = 16]<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>R<sub>1<\/sub>\/R<sub>2<\/sub> = &#8730;d<sub>2<\/sub>\/d<sub>1<\/sub> = &#8730;M<sub>2<\/sub>\/M<sub>1<\/sub> <\/span><\/p><p>Where R = rate of diffusion, d = vapour density, and M = molecular mass<\/span><\/p><p>R = volume\/time<\/span><\/p><p>Calculating R, we get <\/span><\/p><p>(V<sub>CH4<\/sub>\/T<sub>CH4<\/sub>)\/(V<sub>so4<\/sub>\/T<sub>SO4<\/sub>) <\/span><\/p><p>= &#8730;M<sub>so2<\/sub>\/M<sub>CH4<\/sub>  <\/span><\/p><p>= (v\/20)\/(vol\/t) <\/span><\/p><p>= &#8730;64\/16 <\/span><\/p><p>= (vol\/20) x (time\/vol). <\/span><\/p><p>= 8\/4 <\/span><\/p><p>Time = 8 x (20\/4)<\/span><\/p><p> = 40s <\/span><\/p>\n",
+        "Topic": "Kinetic Theory of Matter and Gas Laws",
+        "Difficulty": "Medium"
+    },
+    "Question 38": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>60<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>20<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>75<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>25<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Chlorine consisting of two isotopes of mass number 35 and 37 in the ratio 3:1 has an atomic mass of 35.5. Calculate the relative abundance of the isotope of mass number 37<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Total ratio = 3 + 1 = 4 <\/span><\/p><p>% of chlorine with mass 37 is = (1\/4) x 100%<\/span><\/p><p>= 25%<\/span><\/p>\n",
+        "Topic": "Atomic Structure and Bonding",
+        "Difficulty": "Medium"
+    },
+    "Question 39": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>8 valence electrons <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>7 valence electrons <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>2 valence electrons <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>3 valence electrons <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>An electron can be added to a halogen atom to form a halide ion with <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Halides are group Vii elements having 7 valence elections on addition of one election, it becomes eight.<\/span><\/p>\n",
+        "Topic": "Atomic Structure and Bonding ",
+        "Difficulty": "Easy"
+    },
+    "Question 40": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>226<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>220<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>227<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>222<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAWCAIAAADM5xJqAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAGgSURBVEhLxZa9bcMwEIXpzGKnMDIBNUHgPm06qcwqYmmPkEoVtYEnCFxY2kW5P5KiKMKACNhfI94zyeM9HQXvpmlST+eNH2PfVDukMn1OQUaDamVGibcCtU5Dq3U78EDRKFUAW2tdWx6XQVkDtla1lTHjFRi49MWIw0zfdMqePyVCgjLe\/5T6\/WbTm5npm5DsUEtbL0qJlJkL6HRZ1a6bTHM\/nX\/2UJ3hVlkqh6O+dP1aF42G284DVjzqNkwNdQSojFTBxqo1x0tTsOW8ExQ88GLRTdvAM4YmjM6wTtRNG+m7i9LHg0RquF3nob\/46LxpGnqBkr2A+ZUeLPnrK2W75ZKjJTyxPCtt7IF3PvuOhDwIzuTzZLPC9fAb8clThQg7D3ES\/ilMDUlzWWG+LMetcJgqDO7soyiIrI9\/y3QT3E5oCwn0x\/t+RSGok75OEuGk683NQjga4c538IRl8B2AfqLcK8xup7yoNcV57nxkRbt3S70lC8h\/WZvJCqvFDednqhSQcRjvXEyqlCDZl3g7wRMpMVG289J\/ME\/mFVmV+gdXJ79guLsbfAAAAABJRU5ErkJggg==\"  \/> &#224; <img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAUCAIAAACMMcMmAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAF8SURBVEhLxZW\/dcMgEMZRZolT+GUCNIGTJpVHQMOkkcq4ywauYANPkKcG7YLvPg6EYvl\/\/PJrgEPwcR8nqQohqAfzJO0crqmqqnFq6Gq0N0N5zOOttb7VWhtjvcRu47gGYJH2PoUQTnlFJn32atf7wXVuyDEyrqRu8twxROsAa5Q2Fm3sZCg3pVIEgzOpnvFqDlYdRSeK85z0aha33Si9XMhI+X4nw6Fr2EYuwMGhW9UdbBSti+FzJ2+8hVPIwrZcfuxwS3Al5iev1YA1GW2wW2ZiXPZUNKxJS8v79S2HJzeKEkDAj91EmSMGcS9oIENM8ULpkizplVsQk30PRDiQjjhKxDtfLOm4HmnQqteXZ\/6OvP2sv79W1C3Afa\/fJcjL6O2JA4JnzccqDqgWuBSoEDrxKrpCyNGRtc4heSb5WZ6VU4nZYk1OK7qPtdCg2V9eUZM2Ys9KQ64HXnGNTyEbNtuz34hLgVK2iqsxnrlw774sQvjvf9Rf8XgNpfZA3q0XTPXzdAAAAABJRU5ErkJggg==\"  \/> + &#945;-particle<\/span><\/p><p>What is the value of x in the nuclear reaction above?<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><sup>226<sub>88<\/sub>Ra &#224; <sup>222<sub>86<\/sub>Rn + <sup>4<sub>2<\/sub>&#945;<\/span><\/p><\/sup><p>This is an alpha decay. Alpha decay or &#945;-decay is a type of radioactive decay in which an atomic nucleus emits an alpha particle (helium nucleus) and thereby transforms or 'decays' into a different atomic nucleus, with a mass number that is reduced by four and an atomic number that is reduced by two.<\/span><\/p>\n",
+        "Topic": "Atomic Structure and Bonding ",
+        "Difficulty": "Easy"
+    },
+    "Question 41": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>-100<sup>o<\/sup>C<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>-273<sup>o<\/sup>C<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>-373<sup>o<\/sup>C<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>0<sup>o<\/sup>C<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>According to Charles' law, the volume of a gas becomes zero at <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>This is called absolute zero temperature or zero kelvin (-273<sup>0<\/sup>C).<\/span><\/p>\n",
+        "Topic": "Kinetic Theory of Matter and Gas Laws",
+        "Difficulty": "Easy"
+    },
+    "Question 42": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Hydrogen and carbon (II) oxide <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Hydrogen and carbon (IV) oxide <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Hydrogen and Trioxocarbonate (IV) acid <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Hydrogen, oxygen and carbon (IV) oxide <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>When steam is passed over red-hot carbon, the substances produced are <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>When steam is passed over red-hot carbon, syngas(water gas) is formed. <\/span><\/p><p>C(red-hot) + &#8203;O(steam) &#224; CO + H<sub>2<\/sub>&#8203;<\/span><\/p>\n",
+        "Topic": "Non-metals and their compounds",
+        "Difficulty": "Easy"
+    },
+    "Question 43": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Dye <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Dispersant <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Salt <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Mordant <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Aluminum hydroxide is used in the dyeing industry as a <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Aluminum hydroxide helps the dye to stick to the color. This is what a mordant does. It is a chemical that fixes a dye in or on a substance by combining with the dye to form an insoluble compound.<\/span><\/p>\n",
+        "Topic": "Metals and their compounds",
+        "Difficulty": "Medium"
+    },
+    "Question 44": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Electrons in the s orbitals <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Electrons in the d orbitals <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Partially filled p orbitals <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A variable number of electrons in the p orbitals <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Transition metals possess variable oxidation states because they have <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Electrons in the d-orbitals, 3d electrons are available for bond formation.<\/span><\/p>\n",
+        "Topic": "Atomic Structure and Bonding",
+        "Difficulty": "Easy"
+    },
+    "Question 45": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Soot <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Lampblack <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Graphite <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Charcoal <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The allotrope of carbon used in the decolourization of sugar is <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Animal charcoal in particular is used to decolorize sugar. Other types of charcoal are: Animal charcoal, wood charcoal, sugar charcoal.<\/span><\/p>\n",
+        "Topic": "Non-metals and their compounds",
+        "Difficulty": "Easy"
+    },
+    "Question 46": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>The 2s and 2p atomic orbitals hybridize <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>All the atomic orbitals of carbon hybridize <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>The electrons in all the orbitals of carbon are equivalent <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>The electrons in both the 2s and 2p orbitals are equivalent<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Carbon is tetravalent because <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>This is the hybridization where orbitals are mixed in order to make better orbitals.<\/span><\/p>\n",
+        "Topic": "Atomic Structure and Bonding",
+        "Difficulty": "Medium"
+    },
+    "Question 47": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Is reduced by atmospheric nitrogen <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Readily reacts with water <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Reacts with oxygen and carbon (IV) oxide <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Reacts vigorously on exposure to air <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Sodium metal is always kept under oil because it <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>To prevent danger in the laboratory, sodium is kept under oil. It reacts vigorously on exposure to air.<\/span><\/p>\n",
+        "Topic": "metals and their compounds",
+        "Difficulty": "Medium"
+    },
+    "Question 48": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Cooling a molten mixture of the metals <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Reducing a mixture of their metallic oxides <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Arc-welding <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Electroplating <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Alloys are best prepared by <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Alloys are a mixture of metals in different composition.<\/span><\/p>\n",
+        "Topic": "Metals and their compounds",
+        "Difficulty": "Medium"
+    },
+    "Question 49": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Hydration <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Reduction <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Adsorption <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Oxidation <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Sulphur (IV) oxide bleaches by <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Reduction is used in bleaching in the case of SO<sub>2<\/sub> and this is not advised as oxidation can occur easily thereby spoiling the bleach.<\/span><\/p>\n",
+        "Topic": "Non-metals and their compounds",
+        "Difficulty": "Easy"
+    },
+    "Question 50": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Oxygen <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Hydrogen <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Chlorine <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ammonia <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Which of the following gases can be collected by the method of downward delivery?<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>This is because chlorine is heavier than air. For gases lighter than air, they would be collected through upward delivery.<\/span><\/p>\n",
+        "Topic": "Non-metals and their compounds",
+        "Difficulty": "Easy"
+    },
+    "Answers": [
+        "C",
+        "A",
+        "C",
+        "B",
+        "A",
+        "D",
+        "B",
+        "A",
+        "C",
+        "D",
+        "B",
+        "A",
+        "D",
+        "B",
+        "C",
+        "D",
+        "C",
+        "A",
+        "D",
+        "B",
+        "C",
+        "B",
+        "C",
+        "A",
+        "B",
+        "D",
+        "A",
+        "A",
+        "D",
+        "D",
+        "A",
+        "C",
+        "D",
+        "C",
+        "A",
+        "B",
+        "A",
+        "D",
+        "A",
+        "D",
+        "B",
+        "A",
+        "D",
+        "B",
+        "D",
+        "A",
+        "D",
+        "A",
+        "B",
+        "C"
+    ]
+}

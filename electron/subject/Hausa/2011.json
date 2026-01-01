@@ -1,0 +1,1304 @@
+{
+    "Question 1": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Wa da kanwa<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Uba da 'ya<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Miji da mata<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Da da Uwa<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A wani gari can yamma da Magumi, wai shi Tsauni, an yi wani yaro mai suna Salihi. Iyayensa ba masu wadata ba ne, amma sun yi kokarin ganin ya yi ilmin boko dana Arabiya. Bayan Salihi ya kammala karatun firamare, sai mahaifinsa Tanimu, ya nema masa makarantar gaba da firamare. Domin an ce \"Ilimi gishirin zaman duniya.<\/span><\/p><p>Amma kuma samo wa Salihi babbar makarantar Magumi bai yi wa mahaifiyarsa Dahira dadi ba, don bata son danta ya yi nesa da ita. Dalili shi ne dansu tilo namiji, sauran hudun kuwa duk mata ne. Bugu da kari, tana jin munanan labarai iri-iri da kan faru a irin wadannan makarantu.<\/span><\/p><p>Bayan Salihi ya isa makaranta, sai ya dukufa kan karatu gadan-gadan. Zuwansa ke da wuya, sai suka kulla abota da wani dan ajinsu, wai shi Kasa. Kafin ya ankara, sai da abokinsa ya jefa shi cikin wata kungiyar asiri. <\/span><\/p><p>Da ya farga da halin da ya shiga, sai ya yi kokarin fita daga cikinta, amma aka nuna masa ai ba a haka. \"In har ka ce za ka fice, lallai za a kassara ka, ko ma a halaka ka\" in ji abokinsa. <\/span><\/p><p>Ganin halin tsaka-mai-wuya da ya shiga, sai ya tsayar da shawarar ya fallasa kungiyar, in ya so komai ta tafasa to kone. Ya je ya shaida wa shugaban makaranta.  Nan take ya sanya jami'an tsaro suka kamo dukkan 'yan kungiyar. Kotu ta yanke musu hukunci, sannan aka kai su gidan jarun. Da ma an ce, \"Komai nisan jifa kasa za ya fado.\"<\/span><\/p><p>Mece ce dangantakar Salihi da Dahira?<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Kamor yadda ya fito a labarin wato abin bai wa mahaifiyeisa dodi ba.<\/span><\/p>\n",
+        "Topic": "Harshe",
+        "Difficulty": "Medium"
+    },
+    "Question 2": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>'Ilimi gishirin zaman duniya.'<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>'Ramin karya kurarrw ne.'<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>'Alheri danko ne...'<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>'Ba a fafar gora...'<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A wani gari can yamma da Magumi, wai shi Tsauni, an yi wani yaro mai suna Salihi. Iyayensa ba masu wadata ba ne, amma sun yi kokarin ganin ya yi ilmin boko dana Arabiya. Bayan Salihi ya kammala karatun firamare, sai mahaifinsa Tanimu, ya nema masa makarantar gaba da firamare. Domin an ce \"Ilimi gishirin zaman duniya.<\/span><\/p><p>Amma kuma samo wa Salihi babbar makarantar Magumi bai yi wa mahaifiyarsa Dahira dadi ba, don bata son danta ya yi nesa da ita. Dalili shi ne dansu tilo namiji, sauran hudun kuwa duk mata ne. Bugu da kari, tana jin munanan labarai iri-iri da kan faru a irin wadannan makarantu.<\/span><\/p><p>Bayan Salihi ya isa makaranta, sai ya dukufa kan karatu gadan-gadan. Zuwansa ke da wuya, sai suka kulla abota da wani dan ajinsu, wai shi Kasa. Kafin ya ankara, sai da abokinsa ya jefa shi cikin wata kungiyar asiri. <\/span><\/p><p>Da ya farga da halin da ya shiga, sai ya yi kokarin fita daga cikinta, amma aka nuna masa ai ba a haka. \"In har ka ce za ka fice, lallai za a kassara ka, ko ma a halaka ka\" in ji abokinsa. <\/span><\/p><p>Ganin halin tsaka-mai-wuya da ya shiga, sai ya tsayar da shawarar ya fallasa kungiyar, in ya so komai ta tafasa to kone. Ya je ya shaida wa shugaban makaranta.  Nan take ya sanya jami'an tsaro suka kamo dukkan 'yan kungiyar. Kotu ta yanke musu hukunci, sannan aka kai su gidan jarun. Da ma an ce, \"Komai nisan jifa kasa za ya fado.\"<\/span><\/p><p>Wane take ya fi dacewa da wannan labari?<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Sabode yo shigo tsaka-mai-wuya, ya tsayer da shawarar fallasasu.<\/span><\/p>\n",
+        "Topic": "Harshe",
+        "Difficulty": "Medium"
+    },
+    "Question 3": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Dahiru <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Monitansu<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Kasa<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Malaminsu<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A wani gari can yamma da Magumi, wai shi Tsauni, an yi wani yaro mai suna Salihi. Iyayensa ba masu wadata ba ne, amma sun yi kokarin ganin ya yi ilmin boko dana Arabiya. Bayan Salihi ya kammala karatun firamare, sai mahaifinsa Tanimu, ya nema masa makarantar gaba da firamare. Domin an ce \"Ilimi gishirin zaman duniya.<\/span><\/p><p>Amma kuma samo wa Salihi babbar makarantar Magumi bai yi wa mahaifiyarsa Dahira dadi ba, don bata son danta ya yi nesa da ita. Dalili shi ne dansu tilo namiji, sauran hudun kuwa duk mata ne. Bugu da kari, tana jin munanan labarai iri-iri da kan faru a irin wadannan makarantu.<\/span><\/p><p>Bayan Salihi ya isa makaranta, sai ya dukufa kan karatu gadan-gadan. Zuwansa ke da wuya, sai suka kulla abota da wani dan ajinsu, wai shi Kasa. Kafin ya ankara, sai da abokinsa ya jefa shi cikin wata kungiyar asiri. <\/span><\/p><p>Da ya farga da halin da ya shiga, sai ya yi kokarin fita daga cikinta, amma aka nuna masa ai ba a haka. \"In har ka ce za ka fice, lallai za a kassara ka, ko ma a halaka ka\" in ji abokinsa. <\/span><\/p><p>Ganin halin tsaka-mai-wuya da ya shiga, sai ya tsayar da shawarar ya fallasa kungiyar, in ya so komai ta tafasa to kone. Ya je ya shaida wa shugaban makaranta.  Nan take ya sanya jami'an tsaro suka kamo dukkan 'yan kungiyar. Kotu ta yanke musu hukunci, sannan aka kai su gidan jarun. Da ma an ce, \"Komai nisan jifa kasa za ya fado.\"<\/span><\/p><p>Wane ne ya shigar da Salihi cikin kungiyar asiri?<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>wani dan ajinsu wai shi kasa.'<\/span><\/p>\n",
+        "Topic": "Harshe",
+        "Difficulty": "Medium"
+    },
+    "Question 4": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Tsauni<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Yamma da Magumi<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ga shugaban makaranta<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Kurkuku<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A wani gari can yamma da Magumi, wai shi Tsauni, an yi wani yaro mai suna Salihi. Iyayensa ba masu wadata ba ne, amma sun yi kokarin ganin ya yi ilmin boko dana Arabiya. Bayan Salihi ya kammala karatun firamare, sai mahaifinsa Tanimu, ya nema masa makarantar gaba da firamare. Domin an ce \"Ilimi gishirin zaman duniya.<\/span><\/p><p>Amma kuma samo wa Salihi babbar makarantar Magumi bai yi wa mahaifiyarsa Dahira dadi ba, don bata son danta ya yi nesa da ita. Dalili shi ne dansu tilo namiji, sauran hudun kuwa duk mata ne. Bugu da kari, tana jin munanan labarai iri-iri da kan faru a irin wadannan makarantu.<\/span><\/p><p>Bayan Salihi ya isa makaranta, sai ya dukufa kan karatu gadan-gadan. Zuwansa ke da wuya, sai suka kulla abota da wani dan ajinsu, wai shi Kasa. Kafin ya ankara, sai da abokinsa ya jefa shi cikin wata kungiyar asiri. <\/span><\/p><p>Da ya farga da halin da ya shiga, sai ya yi kokarin fita daga cikinta, amma aka nuna masa ai ba a haka. \"In har ka ce za ka fice, lallai za a kassara ka, ko ma a halaka ka\" in ji abokinsa. <\/span><\/p><p>Ganin halin tsaka-mai-wuya da ya shiga, sai ya tsayar da shawarar ya fallasa kungiyar, in ya so komai ta tafasa to kone. Ya je ya shaida wa shugaban makaranta.  Nan take ya sanya jami'an tsaro suka kamo dukkan 'yan kungiyar. Kotu ta yanke musu hukunci, sannan aka kai su gidan jarun. Da ma an ce, \"Komai nisan jifa kasa za ya fado.\"<\/span><\/p><p>Ina aka kai su Kasa bayan an yanke musu hukunci?<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Kotu ta yanke muzu hukucin Zaman jarun.<\/span><\/p>\n",
+        "Topic": "Harshe",
+        "Difficulty": "Medium"
+    },
+    "Question 5": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Mahaifin Salihi<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Salihi.<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Kasa<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Mahaifiyar Salihi<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A wani gari can yamma da Magumi, wai shi Tsauni, an yi wani yaro mai suna Salihi. Iyayensa ba masu wadata ba ne, amma sun yi kokarin ganin ya yi ilmin boko dana Arabiya. Bayan Salihi ya kammala karatun firamare, sai mahaifinsa Tanimu, ya nema masa makarantar gaba da firamare. Domin an ce \"Ilimi gishirin zaman duniya.<\/span><\/p><p>Amma kuma samo wa Salihi babbar makarantar Magumi bai yi wa mahaifiyarsa Dahira dadi ba, don bata son danta ya yi nesa da ita. Dalili shi ne dansu tilo namiji, sauran hudun kuwa duk mata ne. Bugu da kari, tana jin munanan labarai iri-iri da kan faru a irin wadannan makarantu.<\/span><\/p><p>Bayan Salihi ya isa makaranta, sai ya dukufa kan karatu gadan-gadan. Zuwansa ke da wuya, sai suka kulla abota da wani dan ajinsu, wai shi Kasa. Kafin ya ankara, sai da abokinsa ya jefa shi cikin wata kungiyar asiri. <\/span><\/p><p>Da ya farga da halin da ya shiga, sai ya yi kokarin fita daga cikinta, amma aka nuna masa ai ba a haka. \"In har ka ce za ka fice, lallai za a kassara ka, ko ma a halaka ka\" in ji abokinsa. <\/span><\/p><p>Ganin halin tsaka-mai-wuya da ya shiga, sai ya tsayar da shawarar ya fallasa kungiyar, in ya so komai ta tafasa to kone. Ya je ya shaida wa shugaban makaranta.  Nan take ya sanya jami'an tsaro suka kamo dukkan 'yan kungiyar. Kotu ta yanke musu hukunci, sannan aka kai su gidan jarun. Da ma an ce, \"Komai nisan jifa kasa za ya fado.\"<\/span><\/p><p>Wane ne tauraron labarin?<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Shi ne wanda aka gina labarin a kansa<\/span><\/p>\n",
+        "Topic": "Harshe",
+        "Difficulty": "Medium"
+    },
+    "Question 6": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Rayuwa<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ka-ce-na-ce<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>kwazo<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Saki-na-dafe<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Hausawa wasu mutane ne da suka ba abinci muhimmanci a rayuwarsu, domin duk wata fafitika da gwama numfashi da ba hammata iska, ana yi wa ciki ne. Wato cikin biyu: daya ya yiwu an ci an koshi, ko kuma ana cikin halin nema ne. <\/span><\/p><p>Kullum, da zaran gari ya waye, wasu tun da jijjifi, za a ga sun fita neman abin da za su ci, su da iyalansu, domin a samu rufin asiri. Saboda  haka, ba a barin kowa a gida sai tsofaffi da mata da yara da kuma ragwage, kowa ya tafi neman halaliya.<\/span><\/p><p>A al'adance, hausawa suna da lokuta uku na cin abinci a kowaca rana, wato safe da rana da dare. A mafi yawan lokuta da safe akan sha abu mai ruwa-ruwa, kamar koko da kosai ko kunu. Wasu kuma, sukan dumama abin da aka ci a daren da ya gabata. Da rana, kuma akan dafa duk irin abin da ya samu kamar shinkafa da wake ko dambu ko kuma danwake. Da daddare kuma, kusan kowane gida za a sa mu cewa ana dafa tuwo da miya ne, ko miyar kuka ko kubewa ko taushe ko kalkashi da dai sauransu, da nama ko babu nama. Duk ko ma mene ne ya samu, wato dai \"Daidai ruwa daidai kurji.\"<\/span><\/p><p>Har ila yau, ko da yake ba kowa yake da karfin dora girki sau uku ba a rana saboda halin yau, amma a kan sami makwabta na gari masu tausayi da lura, su kan kira makwabtansu domin su ci abincin, ko suna da shi ko ba su da shi. Da ma tunfil-azal, an san Bahaushe da halin taimako ga dan'uwansa. <\/span><\/p><p>A zamanin da, za a ga Bahaushe yana kokarin ya yi noma domin kada gidansa a zauna da yunwa. Amma yanzu, zamananci ya mayar da tunaninsa ya koma kan kasuwanci ko aikin ofis a maimakon aikin gona saboda lalaci da son jiki.<\/span><\/p><p>Me ake nufi da gwama nunfashi a labarin?<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Fada<\/span><\/p>\n",
+        "Topic": "Harshe",
+        "Difficulty": "Medium"
+    },
+    "Question 7": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>'Kowa ya daka rawar wani ...'<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>'Daidai ruwa daidai kurji.'<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>'Da ruwan ciki ake jan na rijiya.'<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>'Noma tushen arziki.'<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Hausawa wasu mutane ne da suka ba abinci muhimmanci a rayuwarsu, domin duk wata fafitika da gwama numfashi da ba hammata iska, ana yi wa ciki ne. Wato cikin biyu: daya ya yiwu an ci an koshi, ko kuma ana cikin halin nema ne. <\/span><\/p><p>Kullum, da zaran gari ya waye, wasu tun da jijjifi, za a ga sun fita neman abin da za su ci, su da iyalansu, domin a samu rufin asiri. Saboda  haka, ba a barin kowa a gida sai tsofaffi da mata da yara da kuma ragwage, kowa ya tafi neman halaliya.<\/span><\/p><p>A al'adance, hausawa suna da lokuta uku na cin abinci a kowaca rana, wato safe da rana da dare. A mafi yawan lokuta da safe akan sha abu mai ruwa-ruwa, kamar koko da kosai ko kunu. Wasu kuma, sukan dumama abin da aka ci a daren da ya gabata. Da rana, kuma akan dafa duk irin abin da ya samu kamar shinkafa da wake ko dambu ko kuma danwake. Da daddare kuma, kusan kowane gida za a sa mu cewa ana dafa tuwo da miya ne, ko miyar kuka ko kubewa ko taushe ko kalkashi da dai sauransu, da nama ko babu nama. Duk ko ma mene ne ya samu, wato dai \"Daidai ruwa daidai kurji.\"<\/span><\/p><p>Har ila yau, ko da yake ba kowa yake da karfin dora girki sau uku ba a rana saboda halin yau, amma a kan sami makwabta na gari masu tausayi da lura, su kan kira makwabtansu domin su ci abincin, ko suna da shi ko ba su da shi. Da ma tunfil-azal, an san Bahaushe da halin taimako ga dan'uwansa. <\/span><\/p><p>A zamanin da, za a ga Bahaushe yana kokarin ya yi noma domin kada gidansa a zauna da yunwa. Amma yanzu, zamananci ya mayar da tunaninsa ya koma kan kasuwanci ko aikin ofis a maimakon aikin gona saboda lalaci da son jiki.<\/span><\/p><p>Wane suna ya fi dacewa da wannan labarin?<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Na duke tsohon ciniki kowa ya zo duniya kai ya tarar.<\/span><\/p>\n",
+        "Topic": "Harshe",
+        "Difficulty": "Medium"
+    },
+    "Question 8": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>yi tuwo<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>dafa shinkafa<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>yi dumame<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>turara dambu<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Hausawa wasu mutane ne da suka ba abinci muhimmanci a rayuwarsu, domin duk wata fafitika da gwama numfashi da ba hammata iska, ana yi wa ciki ne. Wato cikin biyu: daya ya yiwu an ci an koshi, ko kuma ana cikin halin nema ne. <\/span><\/p><p>Kullum, da zaran gari ya waye, wasu tun da jijjifi, za a ga sun fita neman abin da za su ci, su da iyalansu, domin a samu rufin asiri. Saboda  haka, ba a barin kowa a gida sai tsofaffi da mata da yara da kuma ragwage, kowa ya tafi neman halaliya.<\/span><\/p><p>A al'adance, hausawa suna da lokuta uku na cin abinci a kowaca rana, wato safe da rana da dare. A mafi yawan lokuta da safe akan sha abu mai ruwa-ruwa, kamar koko da kosai ko kunu. Wasu kuma, sukan dumama abin da aka ci a daren da ya gabata. Da rana, kuma akan dafa duk irin abin da ya samu kamar shinkafa da wake ko dambu ko kuma danwake. Da daddare kuma, kusan kowane gida za a sa mu cewa ana dafa tuwo da miya ne, ko miyar kuka ko kubewa ko taushe ko kalkashi da dai sauransu, da nama ko babu nama. Duk ko ma mene ne ya samu, wato dai \"Daidai ruwa daidai kurji.\"<\/span><\/p><p>Har ila yau, ko da yake ba kowa yake da karfin dora girki sau uku ba a rana saboda halin yau, amma a kan sami makwabta na gari masu tausayi da lura, su kan kira makwabtansu domin su ci abincin, ko suna da shi ko ba su da shi. Da ma tunfil-azal, an san Bahaushe da halin taimako ga dan'uwansa. <\/span><\/p><p>A zamanin da, za a ga Bahaushe yana kokarin ya yi noma domin kada gidansa a zauna da yunwa. Amma yanzu, zamananci ya mayar da tunaninsa ya koma kan kasuwanci ko aikin ofis a maimakon aikin gona saboda lalaci da son jiki.<\/span><\/p><p>A labarin an nuna baya ga shan abu mai ruwa-ruwa da safe, wasu Hausawa kan<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Sauran tuwon da aka dafa.<\/span><\/p>\n",
+        "Topic": "Harshe",
+        "Difficulty": "Medium"
+    },
+    "Question 9": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>safe<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>rana<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>almuru<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>asuba<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Hausawa wasu mutane ne da suka ba abinci muhimmanci a rayuwarsu, domin duk wata fafitika da gwama numfashi da ba hammata iska, ana yi wa ciki ne. Wato cikin biyu: daya ya yiwu an ci an koshi, ko kuma ana cikin halin nema ne. <\/span><\/p><p>Kullum, da zaran gari ya waye, wasu tun da jijjifi, za a ga sun fita neman abin da za su ci, su da iyalansu, domin a samu rufin asiri. Saboda  haka, ba a barin kowa a gida sai tsofaffi da mata da yara da kuma ragwage, kowa ya tafi neman halaliya.<\/span><\/p><p>A al'adance, hausawa suna da lokuta uku na cin abinci a kowaca rana, wato safe da rana da dare. A mafi yawan lokuta da safe akan sha abu mai ruwa-ruwa, kamar koko da kosai ko kunu. Wasu kuma, sukan dumama abin da aka ci a daren da ya gabata. Da rana, kuma akan dafa duk irin abin da ya samu kamar shinkafa da wake ko dambu ko kuma danwake. Da daddare kuma, kusan kowane gida za a sa mu cewa ana dafa tuwo da miya ne, ko miyar kuka ko kubewa ko taushe ko kalkashi da dai sauransu, da nama ko babu nama. Duk ko ma mene ne ya samu, wato dai \"Daidai ruwa daidai kurji.\"<\/span><\/p><p>Har ila yau, ko da yake ba kowa yake da karfin dora girki sau uku ba a rana saboda halin yau, amma a kan sami makwabta na gari masu tausayi da lura, su kan kira makwabtansu domin su ci abincin, ko suna da shi ko ba su da shi. Da ma tunfil-azal, an san Bahaushe da halin taimako ga dan'uwansa. <\/span><\/p><p>A zamanin da, za a ga Bahaushe yana kokarin ya yi noma domin kada gidansa a zauna da yunwa. Amma yanzu, zamananci ya mayar da tunaninsa ya koma kan kasuwanci ko aikin ofis a maimakon aikin gona saboda lalaci da son jiki.<\/span><\/p><p>A labarin, akan yi dan wake da <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Abin marmori ne da sha'awa.<\/span><\/p>\n",
+        "Topic": "Harshe",
+        "Difficulty": "Medium"
+    },
+    "Question 10": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>neman kudi<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>wadatar zuci<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>karin aure<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>guje wa yunwa<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Hausawa wasu mutane ne da suka ba abinci muhimmanci a rayuwarsu, domin duk wata fafitika da gwama numfashi da ba hammata iska, ana yi wa ciki ne. Wato cikin biyu: daya ya yiwu an ci an koshi, ko kuma ana cikin halin nema ne. <\/span><\/p><p>Kullum, da zaran gari ya waye, wasu tun da jijjifi, za a ga sun fita neman abin da za su ci, su da iyalansu, domin a samu rufin asiri. Saboda  haka, ba a barin kowa a gida sai tsofaffi da mata da yara da kuma ragwage, kowa ya tafi neman halaliya.<\/span><\/p><p>A al'adance, hausawa suna da lokuta uku na cin abinci a kowaca rana, wato safe da rana da dare. A mafi yawan lokuta da safe akan sha abu mai ruwa-ruwa, kamar koko da kosai ko kunu. Wasu kuma, sukan dumama abin da aka ci a daren da ya gabata. Da rana, kuma akan dafa duk irin abin da ya samu kamar shinkafa da wake ko dambu ko kuma danwake. Da daddare kuma, kusan kowane gida za a sa mu cewa ana dafa tuwo da miya ne, ko miyar kuka ko kubewa ko taushe ko kalkashi da dai sauransu, da nama ko babu nama. Duk ko ma mene ne ya samu, wato dai \"Daidai ruwa daidai kurji.\"<\/span><\/p><p>Har ila yau, ko da yake ba kowa yake da karfin dora girki sau uku ba a rana saboda halin yau, amma a kan sami makwabta na gari masu tausayi da lura, su kan kira makwabtansu domin su ci abincin, ko suna da shi ko ba su da shi. Da ma tunfil-azal, an san Bahaushe da halin taimako ga dan'uwansa. <\/span><\/p><p>A zamanin da, za a ga Bahaushe yana kokarin ya yi noma domin kada gidansa a zauna da yunwa. Amma yanzu, zamananci ya mayar da tunaninsa ya koma kan kasuwanci ko aikin ofis a maimakon aikin gona saboda lalaci da son jiki.<\/span><\/p><p>Labarin ya na nuna cewa Bahuashe yakan yi noma domin<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Shi yasa ya dogara da noma.<\/span><\/p>\n",
+        "Topic": "Harshe",
+        "Difficulty": "Medium"
+    },
+    "Question 11": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>wakafi<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>ruwa biyu<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>karan dori<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>debewa<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>HARSHE: NAHAWU<\/span><\/p><p>Wannan alamar (-), ita aka fi sani da <\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Ana amfani da karan-dori wajen hoda kalmomi biyu, domni su ba da ma'ana.<\/span><\/p>\n",
+        "Topic": "Harshe",
+        "Difficulty": "Easy"
+    },
+    "Question 12": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>'Dan gaba ne na sama<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>'Dan gaba ne na tsakiya<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>'Dan kurya ne na sama<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>'Dan tsakatsaki ne na kasa.<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>HARSHE: NAHAWU<\/span><\/p><p>Wanne ne kebabben bayanin wasalin?<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Harshe na tsayawa a tsakiyar bakin dan Adam.<\/span><\/p>\n",
+        "Topic": "Harshe",
+        "Difficulty": "Easy"
+    },
+    "Question 13": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>\/m\/<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>\/t\/<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>\/l\/<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>\/sh\/<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>HARSHE: NAHAWU<\/span><\/p><p>Wanne ne dan jirge?<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Bayan iska ta san datse a cikin baki, sai ta saki ta fita ta gefen harshe.<\/span><\/p>\n",
+        "Topic": "Harshe",
+        "Difficulty": "Easy"
+    },
+    "Question 14": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Cinnaka<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Hankaka<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Buraka<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Gauraka<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>HARSHE: NAHAWU<\/span><\/p><p>Wanne ne bare dangane da jinsi?<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Jinsin mace ne.<\/span><\/p>\n",
+        "Topic": "Harshe",
+        "Difficulty": "Easy"
+    },
+    "Question 15": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>daya<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>biyu<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>uku<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>hudu<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>HARSHE: NAHAWU<\/span><\/p><p>A kalmar marubuciya, akwai dafi<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Dafo-goshi-ma = marubuciya<\/span><\/p><p>Dafo-keyo-iya.<\/span><\/p>\n",
+        "Topic": "Harshe",
+        "Difficulty": "Easy"
+    },
+    "Question 16": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>-na<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>za<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>-ke<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>-kan<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>HARSHE: NAHAWU<\/span><\/p><p>Lokaci na Yanzu II shi ne mai manunin lokaci<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Saboda ana cikin aikin ba a kare ba.<\/span><\/p>\n",
+        "Topic": "Harshe",
+        "Difficulty": "Easy"
+    },
+    "Question 17": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>gudu<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>bi su a guje<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>boye<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>ja ya tsaya<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>HARSHE: NAHAWU<\/span><\/p><p>Da ya hangi su, ya ce \"Da wa Allah ya hada mu?\" <\/span><\/p><p>Wannan na nufin da ya hango su, Sai ya<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Sar ya yi hanzari ya bi su.<\/span><\/p>\n",
+        "Topic": "Harshe",
+        "Difficulty": "Easy"
+    },
+    "Question 18": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Shekara biyu da haihuma <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>lokacin da yaro ya fara tafiya <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>shekara uku da haihuwa<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>lokachin da aka sha yaro ya warke.<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Tambayoyi a kan AL'ADU.<\/span><\/p><p>Sanya bante ga yara maza a al'adar Bahaushe, na faruwa ne daga.<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Saboda ya girma.<\/span><\/p>\n",
+        "Topic": "Al\u2019adu",
+        "Difficulty": "Medium"
+    },
+    "Question 19": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>da damina<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>lokacin cin doya<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>da yatsu shida<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>ana ruwa<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Tambayoyi a kan AL'ADU.<\/span><\/p><p>Yara masu lakabi cindo an haire su ne<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Daga shida zuman sama, sine maso 'cindo'.<\/span><\/p>\n",
+        "Topic": "Al\u2019adu",
+        "Difficulty": "Medium"
+    },
+    "Question 20": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>bora<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>mowa<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>agola<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>kado<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Tambayoyi a kan AL'ADU.<\/span><\/p><p>Dan matar da ke aure a gidan da ba a nan to haife shi ba, shi ne <\/span><\/p>",
+        "Answer": "<p>3<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Saboda sabin mijin da ta aura ba shi ne ubansa ba.<\/span><\/p>\n",
+        "Topic": "Al\u2019adu",
+        "Difficulty": "Medium"
+    },
+    "Question 21": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>maharbi<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>malami<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>mahauci<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>masaki<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Tambayoyi a kan AL'ADU.<\/span><\/p><p>Barunje shi ne<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Mai sayar da nama daidai karamin kusi.<\/span><\/p>\n",
+        "Topic": "Al\u2019adu",
+        "Difficulty": "Medium"
+    },
+    "Question 22": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>sassaka<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>jima<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>kira<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>wanzanci<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Tambayoyi a kan AL'ADU.<\/span><\/p><p>Makodi kayan aiki ne na<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Domin Kora kaifin wuka, garms, fortanya d-s.<\/span><\/p>\n",
+        "Topic": "Al\u2019adu",
+        "Difficulty": "Medium"
+    },
+    "Question 23": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Bikin saukar karatu.<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Bikin kamun gwauro<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Bikin kamun kifi<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Bikin kalankuwa<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Tambayoyi a kan AL'ADU.<\/span><\/p><p>Wanne ne biki na sana'a?<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Domin nuna bojinta.<\/span><\/p>\n",
+        "Topic": "Al\u2019adu",
+        "Difficulty": "Medium"
+    },
+    "Question 24": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Girka<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Garaya<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Addu'a<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Shaushawa<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Tambayoyi a kan AL'ADU.<\/span><\/p><p>Wace hanya ce ake bi domin shiga harkar bori?<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Saboda 'Sulhu' tsakanin aljanu da wanda Suko Shiga jikinsa.<\/span><\/p>\n",
+        "Topic": "Al\u2019adu",
+        "Difficulty": "Medium"
+    },
+    "Question 25": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Sarkin fada<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ma'aji<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Sarkin gida<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Waziri<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Tambayoyi a kan AL'ADU.<\/span><\/p><p>Wace sarauta ce ta shafi kula da baitulmali?<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Shi ne mai rabin Zakka.<\/span><\/p>\n",
+        "Topic": "Al\u2019adu",
+        "Difficulty": "Medium"
+    },
+    "Question 26": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Tauna<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Turare<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Jiko<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Surace<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Tambayoyi a kan AL'ADU.<\/span><\/p><p>A al'adance, wacce hanya ce aka fi amfani da ita wajen magance ciwo?<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Jika hanya ce wadda ake bi wajen ammfani da mogani.<\/span><\/p>\n",
+        "Topic": "Al\u2019adu",
+        "Difficulty": "Medium"
+    },
+    "Question 27": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Kwarinkashi<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Farin jini<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Kwarjini<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Jarumtaka<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Tambayoyi a kan AL'ADU.<\/span><\/p><p>Me furen tumfafiya kan kara wa mutum?<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Saboda yana kara wa mutum kwarjini a wajen mutane.<\/span><\/p>\n",
+        "Topic": "Al\u2019adu",
+        "Difficulty": "Medium"
+    },
+    "Question 28": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Zuben baka<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Maganganun azanci<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Salon magana<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Wakokin baka<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Tambayoyi a kan ADABIN BAKA.<\/span><\/p><p>\"Ja ya fado, ja ya dauka\" <\/span><\/p><p>Wane rukunin adabin baka wannan magana ta fito?<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Karin Magana.<\/span><\/p>\n",
+        "Topic": "Adabi",
+        "Difficulty": "Medium"
+    },
+    "Question 29": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>tatsuniya<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>kacici-kacici<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>kissa<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>almara<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Tambayoyi a kan ADABIN BAKA.<\/span><\/p><p>Labarin kura da akuya da harawa yana cikin nau'in labari na<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Alma'ra mai wasa kwakwalwa.<\/span><\/p>\n",
+        "Topic": "Adabi",
+        "Difficulty": "Medium"
+    },
+    "Question 30": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Baba<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Gauta<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Kanwa<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Gishiri<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Tambayoyi a kan ADABIN BAKA.<\/span><\/p><p>\"Kulun-kulu-fita\"<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Amsa ce ta tambayer kacici-kacici.<\/span><\/p>\n",
+        "Topic": "Adabi",
+        "Difficulty": "Medium"
+    },
+    "Question 31": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Wa da kanwa<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ubangida da baranya<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Uba da 'ya<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Miji da mata<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Tambayoyi a kan ADABIN BAKA.<\/span><\/p><p>Mece ce dangantakar Gizo da Kki a tatsuniyoyin Hausa?<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Matar Gizo = Koki.<\/span><\/p>\n",
+        "Topic": "Adabi",
+        "Difficulty": "Medium"
+    },
+    "Question 32": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>ba a bar huntu a kasuwa ba<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>ba a daure dan sane ba<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>ba a bar mazari tsirara ba<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>an bar zama da kazama<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Tambayoyi a kan ADABIN BAKA.<\/span><\/p><p>\"Da duniya da gaskiya, da<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>iya magana\/ karin Magana.<\/span><\/p>\n",
+        "Topic": "Adabi",
+        "Difficulty": "Medium"
+    },
+    "Question 33": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ba su yi wa kowa waka sai sarki.<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ba su karbar kyauta sai daga sarki<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Sarkinsu na sa su yi wa wani waka<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Dukkansu makadan taushi ne.<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Tambayoyi a kan ADABIN BAKA.<\/span><\/p><p>Wanne ne gaskiya dangane da makadan fada?<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Idan ya ba su Umarnin hekan.<\/span><\/p>\n",
+        "Topic": "Adabi",
+        "Difficulty": "Medium"
+    },
+    "Question 34": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Jauje <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Molo<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Kwabsa<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Garaya<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Tambayoyi a kan ADABIN BAKA.<\/span><\/p><p>Cikin wadannan, wanne ne ake kadawa?<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Abu ne dogo wanda akan karkada shi.<\/span><\/p>\n",
+        "Topic": "Adabi",
+        "Difficulty": "Medium"
+    },
+    "Question 35": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ambaton Balaraba<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Dangantakarsa da Balaraba.<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ban kwana da duniya<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Yabon Balaraba<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Tambayoyi a kan ADABIN BAKA.<\/span><\/p><p>\"Balarabe na Balaraba <\/span><\/p><p>Sannu Balaraba<\/span><\/p><p>Sai wata rana.\"<\/span><\/p><p>Me Haruna Uji, ke nuna wa a wannan tsakure?<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Dangantakar Siyayya<\/span><\/p>\n",
+        "Topic": "Adabi",
+        "Difficulty": "Medium"
+    },
+    "Question 36": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ji a Jikinsa<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Tsaya Matsayinsa<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ji da Kansa<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Shiga Taitayinsa.<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>RUBUTACCEN ADABI: ZUBE.<\/span><\/p><p>Jigon labarin \"Kowa Ya Daka Rawar Wani\" na Magana Jari Ce na III na A. na Imam, ya yi daidai da \"Kowa ya <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Jigo Lagabim 'kiwa ya daka rawar wani' na magana jari ce na III. <\/span><\/p><p>Shi ne 'kowa ya tsaya, matsayinsa Saboda a labarin maigisan ya ce Su yi caryi shi da matersa, wati ta se gona shi kuwa ya yi aikin gida, dagakarshe ya gozo koda otumame ya aje mato.<\/span><\/p>\n",
+        "Topic": "Adabi",
+        "Difficulty": "Medium"
+    },
+    "Question 37": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>ji ka karu<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>karba - karba<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>koyi da kanka<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>zabi da kanka<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>RUBUTACCEN ADABI: ZUBE.<\/span><\/p><p>Labarun cikin Magana Jari ce na III na A. Imam, an shirya su na bisa salon<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Labarin Magana jan ce na III an Shirya su ne bese salan ji ka <\/span><\/p><p>Karu: Kanar 'Labarin' sai bango ya tsage ka longare kan samu wajen Shiga.<\/span><\/p>\n",
+        "Topic": "Adabi",
+        "Difficulty": "Medium"
+    },
+    "Question 38": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>aka halaka Waziri<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Sarkin Karaya ya cika umarnin Sarkin Sudan<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>aka yi shagalin sarautar Abdun Ugu<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Abdun Ugu ya ketare markicin Waziri<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>RUBUTACCEN ADABI: ZUBE.<\/span><\/p><p>labarin 'Kowa Ya Dogara Ga Allah, Kada Ya Ji Tsoron Mahassada, Balle Keta' na cikin Magana Jari Ce na III na A. Imam, ya amsa sunansa ganin yadda<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>An halako Wazirin: Wajen hassada akan Audun Ugu.<\/span><\/p>\n",
+        "Topic": "Adabi",
+        "Difficulty": "Medium"
+    },
+    "Question 39": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>aljannu<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>mata<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>dabbobi<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>sarauniya.<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>RUBUTACCEN ADABI: ZUBE.<\/span><\/p><p>A Gandoki na Walin Katsina A. Bello an nuna Gandoki ya yi fada har da<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>An kasa labarin. Zuwa biyu <\/span><\/p><p> i - yakin turawo da Gandoki <\/span><\/p><p> ii - Yakin Gandoki da aljanu.<\/span><\/p>\n",
+        "Topic": "Adabi",
+        "Difficulty": "Medium"
+    },
+    "Question 40": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Karangiya<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Mutuntarwa<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Dabbantawa<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Kamantawa<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>RUBUTACCEN ADABI: ZUBE.<\/span><\/p><p>'Ya zama musu alakakai, ko wane juyin suka yi na su halaka shi, shi ke sama, sai ka ce hancin gauta.<\/span><\/p><p>Wane Irin salo aka yi amfani da shi a wannan tsakure na Gandoki na Walin Katsina A. Bello?<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Kamor yadda aka kamanta shi da hancin ganta.<\/span><\/p>\n",
+        "Topic": "Adabi",
+        "Difficulty": "Medium"
+    },
+    "Question 41": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>dacewar mai karatu yayi fatawa<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>karancin malamai a yanzu<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>fayyace karya cikin gaskiya<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>neman bayani wurin masana<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>WAKA<\/span><\/p><p>'Ya dan'uwa da ke fatawa a kan zancen, <\/span><\/p><p>Tawakkali da du'al wadda ba bidi&#225;. Da fassarar kaddara bisa yadda anka fadi. <\/span><\/p><p>Cikin kitabu da sunna wanda ba bidi'a.<\/span><\/p><p>Ai ka yi fatawarka gun wannan da bai da sani,<\/span><\/p><p>Kuma bai da hikima ta rarrabe mas'alar bidi'a.<\/span><\/p><p>A wadannan baitoci na 'Wakar Bidi'a ta Wakokin Sa'adu Zungur ana yin gargadi ne kan<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Wato shaharar run malamai na addini.<\/span><\/p>\n",
+        "Topic": "Adabi",
+        "Difficulty": "Medium"
+    },
+    "Question 42": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>hana hassada<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>hana zunde<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>dakile almubazzaranci<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>dakile jita-jita<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>WAKA<\/span><\/p><p>Makasudin Wakar 'Yan Baka' ta Sa'adu Zungur shi ne<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Kamar yadda mawakin ya fada a baiti na Biyu: Misali.<\/span><\/p><p>Aboka, tofo nan ko saurari: Waka Jawabi ni yanboko maso zaloka jafo'insu bat sho'ami mayoko <\/span><\/p><p>Da kaifin halussa awa na moroko <\/span><\/p><p>Da Daukoko korya bise gaskiya.<\/span><\/p>\n",
+        "Topic": "Adabi",
+        "Difficulty": "Medium"
+    },
+    "Question 43": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>jiki da abinci<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>gida da abinci<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>jiki gida da abinci<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>jiki gida da waje<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>WAKA<\/span><\/p><p>Marubucin 'Wakar Zambon kazama' ta zababbun Wakokin Da Da Na Yanzu na D. Abdulkadir ya nuna cewa mata kazamai suna nuna kazantarsu ta<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Kamar yadda ya zo a bauti na 10 zababbun wakokin Da doone yan <\/span><\/p><p>Ran girkinki ba akoshi do jibi, Shi namom miji ki cinye a tsame.<\/span><\/p>\n",
+        "Topic": "Adabi",
+        "Difficulty": "Medium"
+    },
+    "Question 44": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>tsofaffi<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>masu gwanne<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>mata karuwai<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>zawarawa<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>WAKA<\/span><\/p><p>\"Ita ko bante ta ketara sai ta haihu, <\/span><\/p><p>In ka san kudi su kare a suna\"<\/span><\/p><p>Wannan tsakure na 'Wakar Zambon Kazama' ta Nal. Aliyu Namangi, ta Zababbun Wakokin Da Da Na Yanzu, na D. Abdulkadir yana Magana ne, a kan<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Kamar yadda mowallafin ya rera a baiti na 18 Zababbun Wakokin Da da na Yanzu no D. Abdulkadir na da 'Kwar biyar.<\/span><\/p>\n",
+        "Topic": "Adabi",
+        "Difficulty": "Medium"
+    },
+    "Question 45": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Biyu <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Uku<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Hudu<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Biyar<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>WAKA<\/span><\/p><p>Wakar 'Gadar Zare' ta Zababbun Wakokin Da Da na Yanzu na D. Abdulkadir 'yar kwar nawa ce?<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Shi ne nake sin mu taru mu gane, camfi da kege rashin ilmi ne, Tsafisu bori rashin hankoli ne. Aminci da su ko hakika bata ne, Da wanta da shirme da shorhdiya.<\/span><\/p>\n",
+        "Topic": "Adabi",
+        "Difficulty": "Medium"
+    },
+    "Question 46": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Biyu.<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Uku<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Hudu<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Biyar<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>WASAN KWAIKWAYO<\/span><\/p><p>'Yan wasa mata nawa ne a Kukan Kurciya na M. B. Bambale?<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>'Yammata yan wasa uku ne <\/span><\/p><p>1. Binta matar M. Mahmud <\/span><\/p><p>2. Salamatu &#253;ar M. Mahmud <\/span><\/p><p>3. Salame Uwargidan M. Sambo.<\/span><\/p>\n",
+        "Topic": "Adabi",
+        "Difficulty": "Medium"
+    },
+    "Question 47": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Buhari<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Makau<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Kwatau<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Shaihu.<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>WASAN KWAIKWAYO<\/span><\/p><p>'Wa ya ce ba ni ba! Wa ya yi ni, wa Yai kamata! Wa kuma zai kama bawa fiye da wanda zan kama!' <\/span><\/p><p>Wa ya yi wannan kirari a cikin Shaihu Umar na U. Ladan da D. Lyndersay?<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Shaihu Umar na U. Ladan da D. Lyndersay <\/span><\/p><p>Lokocin do suka kai hari garin gwarawa.<\/span><\/p>\n",
+        "Topic": "Adabi",
+        "Difficulty": "Medium"
+    },
+    "Question 48": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Biyu<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Uku<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Hudu<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Biyar<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>WASAN KWAIKWAYO<\/span><\/p><p>Rabo nawa wasan Shaihu Umar na U. Ladan da D. Lyndersay ya kunsa?<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Rabo Biyu<\/span><\/p><p> 1. Labarin Haihumar Umar, Mutuwar, babansa, aure makau da fatima (wato gyatu matar Umar) makicin Kwatau do sarkin Zagi, washe gisan makaw. <\/span><\/p><p> 2. Rabo na Biyu: Labarin Umar da Abdulkarin da yadda suka fito neman mahaifiyar.<\/span><\/p>\n",
+        "Topic": "Adabi",
+        "Difficulty": "Medium"
+    },
+    "Question 49": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>fitowa-fitowa da shiga-shiga<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>kashi-kashi da fitowa-fitowa<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>rabo-rabo da kashi-kashi<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>shiga-shiga da rabo-rabo<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>WASAN KWAIKWAYO<\/span><\/p><p>An tsara Kukan Kurciya na M. B. Bambale<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Kukan kuraiya na M. B Bambale ya yi amfani da kashi-kashi da kuma fitowa a wasan.<\/span><\/p>\n",
+        "Topic": "Adabi",
+        "Difficulty": "Medium"
+    },
+    "Question 50": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Sarkin Zagi da Wawan Sarki<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Kwatau da Wawan Sarki<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Shantali da Kwatau<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Kwatau da Sarkin Zagi<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>WASAN KWAIKWAYO<\/span><\/p><p>Su wa Makau ya kira jakkai a wasan Shaihu Umar na U. Ladan Da D. Lyndersay?<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Shaihu Umar na U. Ladon da D. Lyndersay.<\/span><\/p><p>Makau ya kira su jikkai saboda rasui tunaninsu a wasan.<\/span><\/p>\n",
+        "Topic": "Adabi",
+        "Difficulty": "Medium"
+    },
+    "Answers": [
+        "D",
+        "B",
+        "C",
+        "D",
+        "B",
+        "B",
+        "B",
+        "C",
+        "B",
+        "D",
+        "C",
+        "D",
+        "C",
+        "C",
+        "B",
+        "C",
+        "B",
+        "D",
+        "C",
+        "3",
+        "C",
+        "C",
+        "C",
+        "A",
+        "B",
+        "C",
+        "A",
+        "B",
+        "D",
+        "B",
+        "D",
+        "C",
+        "C",
+        "B",
+        "B",
+        "B",
+        "A",
+        "A",
+        "A",
+        "D",
+        "D",
+        "D",
+        "C",
+        "B",
+        "D",
+        "B",
+        "C",
+        "A",
+        "B",
+        "D"
+    ]
+}

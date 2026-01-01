@@ -1,0 +1,1304 @@
+{
+    "Question 1": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Mathematics<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Physics<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">English<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Government.<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Which subject is this given to you?<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This is Government.<\/span><\/p>\n",
+        "Topic": "Elements of Government",
+        "Difficulty": "Easy"
+    },
+    "Question 2": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Political emancipation<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Political socialization<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Political participation<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Political orientation<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The development of attitudes and beliefs about a political system is<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Political socialization can be defined as a continuous learning process where individuals through information and experience come to understand their duties, rights and roles within the political system of the society.<\/span><\/p>\n",
+        "Topic": "Elements of Government",
+        "Difficulty": "Easy"
+    },
+    "Question 3": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Political socialization <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Political ideology<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Political economy<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Political culture<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Political behavior is governed by <\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Political culture is the general attitude of the people towards authority; tolerance and interpersonal cooperation existing in political relations among people and knowledge of rights, powers and obligations. It refers to attitudes, beliefs, emotion and values of society that relate to political system and issues such as voter's registration and voting in elections.<\/span><\/p>\n",
+        "Topic": "Elements of Government",
+        "Difficulty": "Easy"
+    },
+    "Question 4": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Community <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">State<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Elite <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Electorate <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">In a nation, sovereignty is vested in the<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">A nation is a homogenous group of people with the same background culture, belief, history who are linked with a sense of oneness. The electorates in the nation are vested with sovereignty which they confer on their representatives when they elect them into office.<\/span><\/p><p><span style=\"font-family:serif;\"> <\/span><\/p>\n",
+        "Topic": "Elements of Government",
+        "Difficulty": "Easy"
+    },
+    "Question 5": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Interdependence of states<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">State responsibilities to society<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Power vested in minority parties<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Popular consultation<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Which of the following is feature of democracy?<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">In a democracy, individual&#8217;s interest and opinions are guaranteed; there is political liberty, existence of political parties and freedom of the press. Democracy is government by the people hence; it is guided by popular opinion.<\/span><\/p>\n",
+        "Topic": "Elements of Government",
+        "Difficulty": "Easy"
+    },
+    "Question 6": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Fascism <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Feudalism<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Capitalism <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Communism <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Private ownership of the means of production is central to<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Capitalism is a political ideology where the means of production and distribution are vested in private individuals. The market is profit driven, there is room for competition, innovation and entrepreneurial skills are acknowledged. In capitalism, means of production are owned by private individuals.<\/span><\/p><p><span style=\"font-family:serif;\"> <\/span><\/p>\n",
+        "Topic": "Elements of Government",
+        "Difficulty": "Easy"
+    },
+    "Question 7": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Feudalism <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Totalitarianism <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Communism <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Fascism <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">A system based on hierarchical of land ownership is <\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Feudalism is based on land ownership where we have landlords and serfs. A feudal society is a military hierarchy in which a ruler or lord gives the serfs a unit of land to control or farm in exchange for a military service.<\/span><\/p>\n",
+        "Topic": "Elements of Government",
+        "Difficulty": "Easy"
+    },
+    "Question 8": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The Judiciary<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The Traditional Institutions<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The Civil Service<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The Executive<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Which of the following performs quasi-legislative functions?<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The executive sometimes perform legislative functions through the principle known as delegated legislation.<\/span><\/p>\n",
+        "Topic": "Elements of Government",
+        "Difficulty": "Easy"
+    },
+    "Question 9": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Over-concentration of authority<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Tendency towards secession<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Lack of local independence<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Lack of common currency<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">A major weakness of confederation is <\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The structure of a confederation is that the central authority is weak while the component units are strong. Hence, there may be instability, lack of spirit of nationality, delay in effecting issues, absence of national armed forces and separate diplomatic representations which are all disadvantages. Thus, tendency towards secession is high.<\/span><\/p>\n",
+        "Topic": "Elements of Government",
+        "Difficulty": "Easy"
+    },
+    "Question 10": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Constituencies <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Local government chairmen<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Traditional rulers<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Political parties<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Members of a parliament are required to report the proceedings of the house to their<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">A Constituency is an area from which a representative is elected into political offices. Members of the parliament each represent a constituency (sometimes more than one member) and have responsibilities to their constituencies which elected them into power.<\/span><\/p><p><span style=\"font-family:serif;\"> <\/span><\/p>\n",
+        "Topic": "Elements of Government",
+        "Difficulty": "Easy"
+    },
+    "Question 11": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Nigeria <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">India <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">United State of America<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Ghana <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Which of the following countries is a unitary state?<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Other unitary states include Congo, Iran, Cameroon, Chad, Columbia, Malawi, Lebanon, Senegal, Sierra Leone, Tanzania, Uganda, Zambia, Ukraine and Zimbabwe. In unitary a unitary state, power is vested in a single central authority. <\/span><\/p>\n",
+        "Topic": "Elements of Government",
+        "Difficulty": "Easy"
+    },
+    "Question 12": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Expiration of parliament<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"><\/span><\/p><p><span style=\"font-family:serif;\">Prorogation of parliament<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Adjournment of parliament<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Dissolution of parliament<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Ending a session of parliament by royal proclamation means the<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Prorogation is the end of a session of parliament while dissolution is the end of a parliamentary tenure.<\/span><\/p>\n",
+        "Topic": "Elements of Government",
+        "Difficulty": "Easy"
+    },
+    "Question 13": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The executive consists of all party members<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Judges are drawn from the ruling party<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Electoral commissioners leave at the end of their tenure<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The executive is appointed by the legislature<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">A main feature of the parliamentary system is that<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">In a parliamentary system of government, the executive is appointed by the legislature. The head of government is appointed from the political party which controls the majority in the legislature. <\/span><\/p>\n",
+        "Topic": "Elements of Government",
+        "Difficulty": "Easy"
+    },
+    "Question 14": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Prohibited <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Regulated <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Limited <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Encouraged<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">In a socialist economy, private accumulation of wealth is<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Socialism is a political, social and economic system where means of production and distribution of goods and services are owned by the state. Socialism aims at equal distribution of the nation&#8217;s wealth. <\/span><\/p>\n",
+        "Topic": "Elements of Government",
+        "Difficulty": "Easy"
+    },
+    "Question 15": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Aristotle <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">J.J Rouseau<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">K.C Wheare<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Plato <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The earliest classification of constitutions was the work of<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This classification can be seen in Politeia, the original title of the book by Plato now commonly known in English as The Republic. K.C. Wheare, in a later year, proposed six classifications of constitutions. They are written and unwritten; rigid and flexible; supreme and subordinate; federal and unitary; separated powers and fused powers; and republic and monarchical constitutions. <\/span><\/p>\n",
+        "Topic": "Elements of Government",
+        "Difficulty": "Easy"
+    },
+    "Question 16": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The process of drafting a constitution<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Amendment of an existing constitution<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The process of operating a constitution<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Strict adherence to a constitution<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Constitutionalism refers to<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Constitutionalism refers to the principle that guides the constitution and commands strict adherence to the constitution. Constitutionalism is a principle which states that the exercise of government authority, powers and functions are in line with the provision of the constitution. <\/span><\/p>\n",
+        "Topic": "Elements of Government",
+        "Difficulty": "Easy"
+    },
+    "Question 17": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Much time is saved in the process<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Technical issues are handled by experts<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Ministers and lawmakers work together<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">It hastens the implementation of policy<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">An advantage of delegated legislation is that <\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Delegated (also subordinate or subsidiary) legislation refers to those laws made by persons or bodies to whom parliament has delegated law-making authority. In other words, in delegated legislation, technical issues are handled by experts, the workload of the legislature is reduced, and there is flexibility in administration. <\/span><\/p>\n",
+        "Topic": "Elements of Government",
+        "Difficulty": "Easy"
+    },
+    "Question 18": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Support the government in power<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Recite the pledge<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Pay his tax<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Encourage other citizens to be loyal<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">One essential duty of a citizen to his state is to<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The duties of a citizen include payment of tax, support of the government, respect for national symbols and obedience to the laws of the land. <\/span><\/p>\n",
+        "Topic": "Elements of Government",
+        "Difficulty": "Easy"
+    },
+    "Question 19": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Right to vote<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Ownership of means of production<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The sovereignty of a nation<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Rights and duties of citizens<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Franchise in an electoral process means the <\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Franchise is the right of a qualified adult citizen of a country to vote in an election and to be voted for. <\/span><\/p>\n",
+        "Topic": "Elements of Government",
+        "Difficulty": "Easy"
+    },
+    "Question 20": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Relationship between the parties and the electorate<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Structure of the political parties<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Manner in which the parties operate<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Number of political parties in a country<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The type of party system in practice is defined by the<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Party system refers to the number of political parties in a country. We have zero party, one party, two party and multiple party systems. A zero party system means there is no political party; a one party system means there is just one recognized political party; a two party system means there are two party systems and a multi-party system means there are more than two political parties. <\/span><\/p><p><span style=\"font-family:serif;\"> <\/span><\/p>\n",
+        "Topic": "Elements of Government",
+        "Difficulty": "Easy"
+    },
+    "Question 21": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Interest formulation<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Interest manipulation<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Interest mobilization<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Interest aggregation<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Pressure groups harmonize different individual concern through<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">All the ideas and needs of its members are collected into a mass assemblage or sum, to make a great idea for the group. These assembled ideas are usually called resolutions, communiqu&#233;s or agendas.<\/span><\/p>\n",
+        "Topic": "Elements of Government",
+        "Difficulty": "Easy"
+    },
+    "Question 22": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Benefits derived by people from government<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">People&#8217;s thought about a particular government policy<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">People&#8217;s expectations from government<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Feelings of people about particular issues and policies<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Opinion polls are organized to find out the <\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Opinion polls are organized to find out what the people think about a government or its policies, as well as their expectations.<\/span><\/p><p><span style=\"font-family:serif;\"> <\/span><\/p>\n",
+        "Topic": "Elements of Government",
+        "Difficulty": "Easy"
+    },
+    "Question 23": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Fear of dethronement<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Absence of a centralized system of authority<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Pressure from age grades<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Activities of cult societies<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">In pre-colonial Igbo land, autocratic rule was made difficult by the <\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The Igbo pre-colonial political system was described by many scholars as an &#8216;acephalous political system&#8217; which can be translated as &#8216;a leaderless or chief less political system&#8217;. This was due to the fact that it was decentralized and based on village and direct democracy where everyone in the village has the authority to contribute in decision making.<\/span><\/p>\n",
+        "Topic": "Political Development in Nigeria",
+        "Difficulty": "Difficult"
+    },
+    "Question 24": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Republican <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Democratic <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Monarchical <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Egalitarian <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The Yoruba traditional system of government was<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Pre-colonial Yoruba traditional system of government was monarchial, so kings ruled. It could be referred to as constitutional monarchy because the King&#8217;s powers were not absolute. His actions were checked by the Oyomesi. <\/span><\/p>\n",
+        "Topic": "Political Development in Nigeria",
+        "Difficulty": "Difficult"
+    },
+    "Question 25": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Alkali <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Galadima <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Madaki <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Waziri <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Under the pre-colonial Sokoto Caliphate system, the next in command to the Sultan was the <\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The Waziri can be regarded as the senior official and head of administration. Not only that, he is in charge of all ministries and carry out the day to day administrative responsibility on behalf of the Emir. The Madaki was the prime minister in Sokoto Caliphate system of government.<\/span><\/p>\n",
+        "Topic": "Political Development in Nigeria",
+        "Difficulty": "Difficult"
+    },
+    "Question 26": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Benin <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Ibibio <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Igbo <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Ijaw <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Which of the following societies was classified as acephalous?<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">In the pre-colonial Igbo system of government, there was no central authority or head. That is why it was seen as acephalous and decentralized. <\/span><\/p><p><span style=\"font-family:serif;\"> <\/span><\/p>\n",
+        "Topic": "Political Development in Nigeria",
+        "Difficulty": "Difficult"
+    },
+    "Question 27": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Communal integration<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Exploitation and oppression<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Inter-communal co-operation<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The rise of nationalism<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Indirect rule encouraged<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Under indirect rule, people were marginalized. Hence, it led to agitations for nationalism, and later independence. Educated elites championed these agitations. In the indirect rule, traditional rulers became power drunk at the expense of the educated elites who were disallowed in the administration of the country.<\/span><\/p>\n",
+        "Topic": "Elements of Government",
+        "Difficulty": "Easy"
+    },
+    "Question 28": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Registration of political parties<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Economic liberation of the nation<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Political liberation of the nation<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Building the nation<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The main achievement of nationalist in Nigeria was <\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The achievements of nationalists included the creation of political parties, acting as mouthpiece of the people, and most importantly, they vehemently fought and won the fight for independence. Notable nationalists were Herbert Macaulay and Nmamdi Azikiwe.<\/span><\/p>\n",
+        "Topic": "Political Development in Nigeria",
+        "Difficulty": "Difficult"
+    },
+    "Question 29": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Pan-Africanism<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The Yom Kippur War<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The Second World War<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Anti-apartheid Movement<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The major external factor that promoted nationalism in Nigeria was<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">After the Second World War, colonialism and imperialism was on the decline, coupled with economic depression due to the war and so colonial powers began granting independence to their colonies.<\/span><\/p>\n",
+        "Topic": "Political Development in Nigeria",
+        "Difficulty": "Difficult"
+    },
+    "Question 30": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">1989<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">1999<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">1960<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">1979<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The presidential system of government was introduced in Nigeria with the constitution of<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The 1960 constitution introduced parliamentary system of government while the 1979 first introduced presidential system into Nigeria, which the country operates till date except during military interventions. <\/span><\/p>\n",
+        "Topic": "Political Development in Nigeria",
+        "Difficulty": "Difficult"
+    },
+    "Question 31": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">UPP<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">NEPU<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">NPC<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">NCNC<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The Action Group crisis of 1963 led to formation of<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The main cause of the AG conflict was the personality clash between Chief Obafemi Awolowo and Chief Ladoke Akintola. As a result, Akintola was dismissed as Premier during the AG annual congress in 1962 but was later reinstated as Premier. Akintola later formed a new party, the United Progressive Party.<\/span><\/p><p><span style=\"font-family:serif;\"> <\/span><\/p>\n",
+        "Topic": "Political Development in Nigeria",
+        "Difficulty": "Difficult"
+    },
+    "Question 32": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">President<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Chief Justice<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Supreme Court<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Parliament <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Under the 1963 Republican Constitution, the power of judicial review was vested in the <\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The power of judicial review is vested in the judiciary through the courts. The Supreme Court was made the highest court of the land under the 1963 constitution. Prior to this time, it was the Judicial Committee of the Privy Council.<\/span><\/p>\n",
+        "Topic": "Political Development in Nigeria",
+        "Difficulty": "Difficult"
+    },
+    "Question 33": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">General Order<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Bureaucratic Order<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"><\/span><\/p><p><span style=\"font-family:serif;\">Service Order<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Administrative Order<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The rules and regulations of the civil service are called<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">General Orders guide the recruitment, promotion, allowances, transfer and retirement of civil servants at various levels.<\/span><\/p>\n",
+        "Topic": "Elements of Government",
+        "Difficulty": "Easy"
+    },
+    "Question 34": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Reduce corruption in public life<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Protect the rights of public servants<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Enhance probity and accountability in public service.<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Ensure the independence of public service.<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The Code of Conduct Bureau was essentially established to<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The Code of Conduct Bureau (CCB) is a federal executive body which receives declaration by public officers, receive complaints, promote, dismiss and exercise disciplinary control over public officers. <\/span><\/p><p><span style=\"font-family:serif;\"> <\/span><\/p>\n",
+        "Topic": "Political Development in Nigeria",
+        "Difficulty": "Difficult"
+    },
+    "Question 35": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">NPP<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">PRP<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">NPN<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">UPN<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Which of the following political parties was the first to be formed when the ban on politics was lifted in 1978?<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The political parties that were formed after the ban on political activities as listed on September 21, 1978 were NPN, NNP, UPN, GNPP, PRP and NAP. <\/span><\/p>\n",
+        "Topic": "Political Development in Nigeria",
+        "Difficulty": "Difficult"
+    },
+    "Question 36": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Positions and appointments among people of various regions<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Appointments between the North and the South<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Opportunities between males and female<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Revenue between groups in the country<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The principle of federal character was adopted in order to promote equitable allocation of<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The Nigeria federal character principle seeks to ensure that opportunities to public service institutions fairly reflect the linguistic, ethnic, religious and geographical diversity of the country.<\/span><\/p><p><span style=\"font-family:serif;\"> <\/span><\/p>\n",
+        "Topic": "Political Development in Nigeria",
+        "Difficulty": "Difficult"
+    },
+    "Question 37": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Nation assembly, military, police and civil service<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Constituency, ward, emirate and chiefdom<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"><\/span><\/p><p><span style=\"font-family:serif;\">Federal, state, local government and federal capital territory<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Federal capital territory, national assembly, Supreme Court and civil service<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The component units of the Nigerian federation comprise<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The Nigerian federation has power shared amongst the federal, state and local government as well as the FCT. The federal government is the central while the others serve as the component units.<\/span><\/p>\n",
+        "Topic": "Political Development in Nigeria",
+        "Difficulty": "Difficult"
+    },
+    "Question 38": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Hand over the control of commercial ventures to citizens<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Increase the asset base of government <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Divest government major control of commercial ventures<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Allow government control of the private sector<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">In Nigeria, privatization and commercialization policies were introduced to<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Privatization and commercialization policies were introduced to divest government major control of commercial ventures.<\/span><span style=\"font-family:serif;\"> <\/span><span style=\"font-family:serif;\">Privatization is the process of transferring an enterprise or industry from the public sector to the private sector. The public sector is the part of the economic system that is run by government agencies.<\/span><\/p>\n",
+        "Topic": "Political Development in Nigeria",
+        "Difficulty": "Difficult"
+    },
+    "Question 39": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">National Universities Commission<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Nigerian Television Authority<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">National Population Commission<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">First Bank of Nigeria<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">An example of public corporation in Nigeria is<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Another example of public corporations in Nigeria is the NNPC. <\/span><\/p>\n",
+        "Topic": "Political Development in Nigeria",
+        "Difficulty": "Difficult"
+    },
+    "Question 40": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Council <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Chief and council<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Prefects <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Chief-in-council<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Following the reform of the Native Authority System in Northern Nigeria, traditional rulers became<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">In 1952, the Northern region reformed its Native Authority system and traditional rulers became Chief-in Council. <\/span><\/p><p><span style=\"font-family:serif;\"> <\/span><\/p>\n",
+        "Topic": "Political Development in Nigeria",
+        "Difficulty": "Difficult"
+    },
+    "Question 41": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Gen. Murtala Muhammed<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Gen. Ibrahim Babangida<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Gen. Sani Abacha<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Gen. Yakubu Gowon<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Under whose regime were Akwa Ibom and Katsina States created?<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The states were created on 23rd of July, 1987 by General Ibrahim Babangida. This brought the number of states to 21. <\/span><\/p>\n",
+        "Topic": "Political Development in Nigeria",
+        "Difficulty": "Difficult"
+    },
+    "Question 42": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Chairman, Independent National Electoral Commission<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">President of Nigeria<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Chief Justice of Nigeria<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">President, Court of Appeal<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Under the 1999 Constitutions of the federal Republic of Nigeria, the appointment and posting of members of election tribunal on the elections conducted by INEC is the responsibility of the<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The Chairman and other members of the election tribunal are appointed by the President of the Court of Appeal in conjunction with the Chief Judge of the state. <\/span><\/p>\n",
+        "Topic": "Political Development in Nigeria",
+        "Difficulty": "Difficult"
+    },
+    "Question 43": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Zimbabwe <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Swaziland <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Zambia <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Namibia <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Rhodesia was the former name of <\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Rhodesia became independent Republic of Zimbabwe on 18 April 1980 after it was colonized by Britain from 12 December 1979 to 7 April 1980. <\/span><\/p>\n",
+        "Topic": "International Organizations",
+        "Difficulty": "Medium"
+    },
+    "Question 44": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Promoting Nigeria&#8217;s leadership aspiration in Africa<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Attaining equal status with the world powers<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Fulfilling a basic requirement for acceptance in the UN Security Council<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Insulating Nigeria against having a take side in Cold War<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The adoption of non-alignment as a principle of Nigeria&#8217;s foreign policy was aimed at <\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Non-alignment is a policy which was based on the premise that in independent states political, economic and social policies should be based on domestic interest rather than on the interest of external powers. The principle also provides that the weak emergent states were determined to avoid destructive consequences of war between the great powers. Non-alignment was aimed at insulating Nigeria against having to take side in the Cold War.<\/span><\/p>\n",
+        "Topic": "Foreign Policy and Nigeria\u2019s Relations with The International Community",
+        "Difficulty": "Medium"
+    },
+    "Question 45": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">21<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">27<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">37<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">19<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">In 1979, the non-aligned member states were<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Over 100 <\/span><\/p><p><span style=\"font-family:serif;\">Currently, every African country except South Sudan and Western Sahara is a member of the Non-Aligned Movement. There are also observers and guests.<\/span><\/p>\n",
+        "Topic": "International Organizations",
+        "Difficulty": "Medium"
+    },
+    "Question 46": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Jibril Aminu<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Aret Adams<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Dalhatu Bayero<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Rilwan Lukman<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Which of the following was a Secretary General of OPEC?<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Rilwan Lukman served as Secretary &#8211; General of OPEC from 1986 to 1988 and between 1995 and 2000. <\/span><\/p>\n",
+        "Topic": "International Organizations",
+        "Difficulty": "Medium"
+    },
+    "Question 47": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Liberia <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Togo <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Cote d&#8217;ivoire<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Mali <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Which of the following countries pioneered the idea of ECOWAS alongside Nigeria?<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">In 1975, Nigeria under the leadership of General Yakubu Gowon and Togo under president Eyaderma initiated the formation of ECOWAS though the first call for a West African Community was made by President William Tubman of Liberia in 1964.<\/span><\/p>\n",
+        "Topic": "International Organizations",
+        "Difficulty": "Medium"
+    },
+    "Question 48": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The UNO<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The OAU<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The League of Nations <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The ECOWAS<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Which of the following international organizations was in existence before the Second World War?<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The League of Nations was formed in 1919 after the First World War by the victors to avoid a repeat of the devastating effect of such War. It was succeeded by the United Nations in 1946.<\/span><\/p>\n",
+        "Topic": "International Organizations",
+        "Difficulty": "Difficult"
+    },
+    "Question 49": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Secretariat <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Security Council <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">General assembly <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Economic and social Council<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The organ of the United Nations responsible for the approval of its annual budget is the<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The functions of the U.N.O General Assembly are: approval of annual budget; approval of key appointments; admission of new members; amendment of the U.NO. Character; approval of key appointments, voting on issues of international importance and election of non-permanent members into the Security Council. The United Nations General Assembly is responsible for the approval of its annual budget amongst other duties.<\/span><\/p><p><span style=\"font-family:serif;\"> <\/span><\/p>\n",
+        "Topic": "International Organizations",
+        "Difficulty": "Medium"
+    },
+    "Question 50": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">2 years<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">3 years<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">4 years<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">1 year<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Each member state is represented on the Board of Governors of OPEC for a period of<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Representatives of OPEC member states make up the Board of Governors of OPEC. A representative is called a Governor and stays for a term of two years. As at 2019, Nigeria&#8217;s OPEC Governor was Dr. Omar Farouk Ibrahim.<\/span><\/p>\n",
+        "Topic": "International Organizations",
+        "Difficulty": "Medium"
+    },
+    "Answers": [
+        "D",
+        "B",
+        "D",
+        "A",
+        "D",
+        "C",
+        "A",
+        "D",
+        "B",
+        "A",
+        "D",
+        "B",
+        "D",
+        "A",
+        "C",
+        "D",
+        "B",
+        "C",
+        "A",
+        "D",
+        "D",
+        "D",
+        "B",
+        "C",
+        "D",
+        "C",
+        "B",
+        "C",
+        "C",
+        "D",
+        "A",
+        "C",
+        "A",
+        "C",
+        "C",
+        "A",
+        "C",
+        "C",
+        "B",
+        "D",
+        "B",
+        "D",
+        "A",
+        "D",
+        "C",
+        "D",
+        "B",
+        "C",
+        "C",
+        "A"
+    ]
+}

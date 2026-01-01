@@ -1,0 +1,1304 @@
+{
+    "Question 1": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Rotate outwards away from the origin <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Shift parallel inwards <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Rotate inwards towards the origin <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Shift parallel outwards<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>If goods P and Q are purchased by a consumer, a fall in the price of P with the price of Q unchanged will cause the budget line to<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>  <\/span><\/p><p>This is explainable using the equilibrium curve graph below.<\/span><\/p><p>   <\/span><\/p><p><img src=\"data:image\/jpeg;base64,\/9j\/4AAQSkZJRgABAQEAYABgAAD\/2wBDAAcFBQYFBAcGBQYIBwcIChELCgkJChUPEAwRGBUaGRgVGBcbHichGx0lHRcYIi4iJSgpKywrGiAvMy8qMicqKyr\/2wBDAQcICAoJChQLCxQqHBgcKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKir\/wAARCADdAOoDASIAAhEBAxEB\/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL\/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6\/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL\/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6\/9oADAMBAAIRAxEAPwD6RooooAKKKKACiiigAornp9fnh1C4iD2u2K+jtRCQfMKsiMXzntvJ6dF61e0PUpNUtpJy0MkO4CKaIYEgwMsBk8Zzg9xzQBp0UUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFYfiW8+yHTlk1F9OgmuSk06FQceW5AywIGWAqtpmoapNfaOLqYmC4t7gyK0GxnKsuxz\/dypzjA6\/kAXNc8PxalEbixEVrqkbCSC78sZLAY2v3ZCCVI9D64pfDNzZXWllrOxi0+ZJDFd2saBTFMvDKcDnsQe4IPetiuc1pToOrJ4ihGLWQLDqiAf8s+iTfVCcH\/ZJ\/uigDo6KAQQCDkHoaKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigArxz4xfGGbwbrFho\/h5o5b2ORbi+DDIEfaL2Ldc9QMetex14L+05bwx6ZoEscMaSSXUu91UAt8q9T3pMD2Twx4jsPFnhy01nSpN9vcpnB6xt\/Ep9weK1qqaVBFBpVssESRKYlJCKFGdo54q3TAK5+zurjRdeOlajM81peu0mn3MrZYN95oGPqOSpPVcj+HnoKo6zpUOs6XLZzM0ZbDRzJ96GRTlXX3BANAF6myxJPC8UyK8cilXRhkMDwQRWX4e1SbUbF4r9Vj1KzfyLyNem8Dhx\/ssCGHscdQa1qAOf8NSPp81z4cumZnsAGtHY5Mtq2dnPcrgof8AdB710FYHiiGS2jt9es0Z7jS2LyIvWW3P+tT34AYD1QVuQzR3EEc0DrJFIodHU5DAjIIoAfRRRQAUUUUAFFFFABRRRQAUUUUAFFFRGRpG2w9P4n9Pp6mgDP1i4vopbf8As9ZHAbMiRoDu5GASQccZ9OnUVPpEtzNaM935oJkOwTR7HC+4x9fw9auIixrhfxJ6mnUAFFFMmnit4jJO6xoCBlj3PAoAfRTY5Y5kDxOrqQCCpyORn+Rp1ABRRRQAV4T+1B\/yBvDv\/X1L\/wCgrXu1eE\/tQf8AIG8O\/wDX1L\/6CtJ7Ae3af\/yDbX\/rin8hViq+n\/8AINtf+uKfyFWKYBRRRQBzmvD+xNVg8RRDEGFttSA7wk\/LJ\/wBj\/3yzeldC8iRrl2Cj3NJPDHc28kE6LJFKpR0YZDKRgg1geG8xpPod+TLcaSwSN3OTLbtzE\/ucDafdDQBT0L4i6VrvjLVPC6Q3EWoae7A7oy0cqDHzBgMDr0OPbNXfDZ\/sy8vfDshwtmRNZ572zk7VH+4wZPoF9a17TTLGwnuZrK0hglun8yd0QBpWxgEnvwKyfFCmwNp4ghB3aY5+0Afx2z4Eg\/4DhX\/AOAe9AHQUUisHUMpDKRkEHgiloAKKKKACiiigAooooAKCQASTgDqTTXdY1y34D1pio0pDzDAHRPT6+poAT5p+mVi\/It\/gKlACqAoAA6AdqWigAooqJpGdikPY4ZyOB\/iaAFeXadiDc57Z6e5qtfaf9usZIHlwzkHcVDAEHI4Pb\/OatpGsYwvU8knqadQBDaWwtLSOBXaTYoUu\/LNgYyffipqKKACiiigArwn9qD\/AJA3h3\/r6l\/9BWvdq8J\/ag\/5A3h3\/r6l\/wDQVpPYD27T\/wDkG2v\/AFxT+QqxVfT\/APkG2v8A1xT+QqxTAKKKKACue8Rj+y76y8RR8LanyL3H8Vu5GWP+421vpu9a6Go54Irq2kt7hBJFKhR0boykYI\/KgCSmyRpLE0cqh0cFWUjgg9RWH4UnkjsZ9Hu3L3Wky\/ZizHmSLGYnP1QjJ9Q1b1AGB4Ud7S3udCuGLS6TIIoyx5e3IzE3\/fPyn3Q1v1z2vf8AEp1vT9eX5Ytwsb09vKdvkY\/7shH4O1dDQAUUUUAFFFFABTHlCEKBuc9FFNaQsxSLBYfePZf\/AK\/tTo4xGOMknqx6mgBEiw2+Q7pPXsPYVg6h478PaX4ot\/Dt5esurXJXyrVYXYvu6EEDGODznjBroq5Pxl8PNJ8Yul5cGW01a2iKWWoQOVkt23BlYeuCO\/Yn1oA6ygnAyeBWX4fGr23h21TxRNbS6kibZ5bYEJIc8EA9yMZHr0q8Eab5phheoj\/xoAMtP0ykfr0Lf4CpVUKoVQAB0ApaKACiiigAooooAKKKKACvCf2oP+QN4d\/6+pf\/AEFa6c+OtXCahftqWnKiW5nhsHi5jZJyhgZt24yMBjpwxGAa5f8AadO7RPDZIxm5lOD2+RaT2Ge36f8A8g21\/wCuKfyFWKr6f\/yDbX\/rin8hVimIKKKKACiiigDntY\/4lHiOw1lflguMWF6ewDH9y5+jnb\/209q6Gqup6fBq2l3NhdDMVxGY2x1GR1HuOo9xVLwzqE1\/o4S+P+n2bta3fvKnBb6MMMPZhQBoX1lBqWn3FldpvguI2jkX1BGDWb4XvZ7jS2s7991\/p0htbknq5UDa\/wDwJSrfj7Vs1zuqf8STxNa6wvFpfbbG+9FbP7mQ\/wDAiUP++PSgDoqKKRmVFLOQAO5oAWodzTcRkqnd\/X6f40bWn\/1g2x9l7n6\/4VNQAiqqKFUYApaKKACmSSBMD7zHoo6mkeQ7tkQ3N3PZfr\/hSxxhOSdzHqx6mgBEjO4PLhn7Y6L9P8akoooAKKKKACiiigAooooAKKKKAPKJ9R0k6fcatLPpEfi+K+do7Y2MZuCythbfbjec4H7wc85BxXP\/ALTpJ0Tw2WGCbmXI9PkWugtdQ0m6uZZ9U8WeIdO1BbiSN7dBuWPDkAK\/kcqRjHPeuf8A2nv+QL4c7\/6TL\/6AtLoM9msNSsRHa2JvLcXZhQi381fM+6D93OenNWJdSsYLyO0nvLeO5kxsheVQ759FJyayLHwnoL6paeIm0q3OsLAii92fvANm3GfpxVm98J6DqOv22t32lW8+p2gAgunTLx4JIwfqTTEXrnUrGymjivL23t5JTiNJZVUv24BPNF5qNlp4Q395b2okOEM0qpuPtk81Q1jwnoOv39pe6zpVve3Nkd1tLKuWiOQePxAP4UuveFdC8UJAniHS7fUFt2LQidd2wnqR+QoAv3d\/Z2EIlvrqC2jY4DzSBFJ9MmlnvrS2tBdXN1DDbkAiaSQKhz05PHNUtc8NaN4l0+Ox1\/TYL+1jcSJFMuVVgCAfyJpdR8N6Pq+hro2p6dBc6cgRVtpFygCfd49sCgC41\/aLY\/bWuoBa7d3nmQbMeu7piuelvrTS\/EkOrw3ULaXq6eRPOsgMaToCUctnHKhkJ9VQVqyeG9Gl8Njw\/Jp0DaSIxELMr+72A5C49OBVK+8FaLceCLnwta2MNrpssTIkMafLGSdwIHs3NAGzbX1pe25uLO6huIQSDJFIGUY68jiqsjaX4k0q6tY7iC9tZkMUvkSh8ZHqOh7isrwPYaVbeEhZadpdvpqh3jvbOBcIk4+WQY9DjI9QQau6H4b0Twrby2nhnS7exSZxJJHAu1ScY3H8KAK3hXX0v7Gaxnu4rvUNNk+zXDQuH83+5Jwf4lwT6HcO1byxlm3zcnsvZf8A6\/vXlnh3R7vw5rviPWLDw9Fp0VjqBjMdtbtGdRsyMs\/JO51bLAjGcMv8Vep21zDeWsVzayLLDMgeORDkMpGQRQBJRRSMwVSWOAOpNAC1FvaY4iOE7v6\/T\/Gkw0\/LZWP+6eC319PpUwGBgcCgBqIsahUGBTqKKACiiigAooooAKKKKACiiigAooooA8ju\/EUUWn3uoTeItcTxBBPIEs44ZTb71chUEYTa0ZAGW64yc5rl\/wBonV7PW\/DHh260+Uyxi8mRmMbp8wRc8MAe9fQleE\/tQf8AIG8O\/wDX1L\/6CtJ7DPbtP\/5Btr\/1xT+QqxVfT\/8AkG2v\/XFP5CrFMQUUUUAFFFFABRQSFBLHAHUmofmn9Ui\/It\/gKAOevJDovipL2E7bDVWW3u3x8sVwBiN\/+BD92T6hK6VEWNcKPqe5qC\/0621PTJ7C7j3W86FGUcYHqPQjqD2NZvh3ULhlm0nVX3alp+FkcjH2iM\/cmH+8Bz6MGFAEXhzxZD4j1bXrGG2eFtFvfscjMwIkO3O4Y6DnvUMB\/wCET1gWj8aLqEv+jN2tJ2OTGfRHPK+jEr3Wr2iatoupahq8GjCMXNldeTf7Idh83GeTgbjjvzV3Uba21CzlsLuBbmKdCrxN0K+\/p\/P0oAsvIsYG7qegHU0xY2dg83UdEHRf8TXP6Rd3Gjakmia7M08jgiwv5P8Al5Qc+Wx7SKOv94Dd1zjpaACiiigAooooAKKKKACiiigAooooAKKKKACiiigArwn9qD\/kDeHf+vqX\/wBBWvdq8J\/ag\/5A3h3\/AK+pf\/QVpPYD27T\/APkG2v8A1xT+QqxXMWHhC1PiK18Tf2hqf2kWyJ9l+1t9mx5e3PldM45+vNWLnwja3PjG38Rvf6mlxAgRbVLthbMMEZaPoTz+gpgb9FYF\/wCELXUPFln4gk1DU4p7RQq20N2yW74z96Po33v0FLqvhK11bxLp+tTX+pwzWGNkFvdlIZMHPzoOGoA3qR3CLk5\/AZzXPeIPClpret6dqM1\/qkM9iwaOCzuzFHJhg37xRww479qNd8G23iLUtPvr3UdTt5rB96JZXbQxvyDhlH3hx396AN0RtKd0w46qnp9fU1LWB4o8IWvitrM3eoanZ\/Y3Lp9gu2g35xw2PvDj+dHinwha+LI7VLzUNTshauXU6fdtAXJxw2Oo4oA36xdf0y4maDVNICjVLHJiBOBcRn78LH0bHB7MAfWmeKfClr4q02Gzvb\/UrKOCTzBJYXZgc8EYLDqOelRa94Vt\/FGi2+mz3+pWdtAyss1ndNDNJhSBlhyRzk+poATwvb6My32p+HYTDJqk5nvi7Hckw+VlZSflYYwR04roY41jXC\/iT1NcDpnhG7+H+paprWmXlxqdnfXAlvLFkBdUChd6HqzjGT\/eGe+K7q0u7e\/s4ruymSe3mUPHIhyGB70ARappdrrGnvZ3yFo2wQVO1kYchlI5DA8gjpWTpurXWmX8ei+InDTSHFnf42peAfwnssoHVeh6juB0NVtQ0601Wxks9QhWeCT7yt69iD1BB5BHINAFmiuZTUbzwvILbX5XutLJCwaqw+aL0WfHT08zof4sHk9KrBlDKQQRkEd6AFooooAKKKKACiiigAooooAKKKKACiiigArwn9qD\/kDeHf8Ar6l\/9BWvdq8J\/ag\/5A3h3\/r6l\/8AQVpPYD27T\/8AkG2v\/XFP5CrFVrAgaXbE8AQrn\/vkVFb6zYXXkeTcA\/aGKw5UjzCF3HGRyNvOelMC9UbSEtsiGW7nsv8A9f2pu9pjiI4j7v6\/T\/GpURUUKgwB2oAbHGIweSWP3mPU0+iigAprusa7nOBSSSBMDBZj0UdTSJGd2+U7n7Dsv0\/xoAaEabmUYTqE\/wAf8KmoooA5rwtpuvWOs+I5tduzcWt3f+bpyGYv5UO0Dbg\/d57Ulza3Hha7l1DS4Xn0qZzJeWMYy0LHkzRDvnqyd+SOcgr4W1DX73WfEcWvWpgtbW\/8vTXMOzzYdo+bP8XPeuloAhtLu3v7OK6spkngmUNHIhyrA9wamrnLrSrzQ7uXUvDcfmxStvu9L3BVlPeSInhJPUfdbvg81raVq9nrNn9osJNwDbJEYbXicdUdTyrD0NAFt0SWNo5FV0YFWVhkEHsRXN\/2ZqHhj5\/D6Ne6WOW0tnw8I\/6YMe3\/AEzY49COldNRQBR0rWbLWbdpbCbcY22yxOpWSFv7rqeVPsavVk6r4dttRuFvYJJLDUo1xHe2xAfH91geHX\/ZYEfSqQ16\/wBD\/d+KrYeQDgapaITCR6yJy0R9+V9xQB0dFRwTxXMCTW0qTRSDKSRsGVh6gjrUlABRRRQAUUUUAFFFFABRRRQAV4T+1B\/yBvDv\/X1L\/wCgrXu1eE\/tQf8AIG8O\/wDX1L\/6CtJ7Ae22AzpdsD3hX\/0EVVg0G0t\/Lw0reXN53zMOW2FOcAdifqeTmren\/wDINtf+uKfyFWKYB06UUVDdxNPZTwocNJGyg5IwSMdRyPwoAmqN5CWKRAM\/fPRfr\/hWHYaJe21zbGR7dYoN+DGTvAOfl+6ARz6DnntW+iKi7VGBQA2OMJk\/eZvvMepp9FFABRRRQBz\/AIc8WQ+I9W16xhtpIW0W9+xyMzAiQ7c7hjoOe9dBWRousaPqeoatb6QUNxY3Pk322Ep+9xnk4G7jvzWvQAVi6p4f+0Xn9p6Tcf2fqqqF89V3JOo6JKn8a+\/BHYitqigDD07xFuvE0zXIP7N1NvuIzZiuPeJ\/4v8AdOGHcd63Krahptnqtk9pqNulxA\/VHHQ9iPQj1HIrEEOueHf+PYya5pq\/8sZGH2uEf7LHiUezYb3NAHSUdetUNK1vT9ZjdrC4DvGcSwsCkkR9HQ8qfqKv0AYE3haO3ne68O3T6PcOdzrEoaCU\/wC1EePxXafemDxDf6V8vibTGjjHW+sA00H1Zcb0\/EEe9dFRQBh3XiiG3kZ4bd7mzjto7qW6idSqxuWAIGct90njtV+z1OO9vb22SKWNrOQIxkXaHyM5X1HvVe\/8PWuo3jTzS3CrJEsU0Ecm2OZFLEBhjOPmPQjOavQ2cUF3cXMYPmXBUyZPHyjA\/SgCeiiigAooooAKKKKACvCf2oP+QN4d\/wCvqX\/0Fa92rwn9qD\/kDeHf+vqX\/wBBWk9gPbtP\/wCQba\/9cU\/kKsVX0\/8A5Btr\/wBcU\/kKsUwCiiigAooooAKKKKACiiigDI0XTdEsdQ1abRfJ+03dz5t\/5U28+djHzDJ2nHbitesHw94UtvDuqa5fW08sr6zefa5VcDCNjGBjtx3reoAKKKKACiiigDL1Xw7p+rypPMjw3kYxHeWzmOaP6MOo9jke1UPP8R6JxdQrr1mP+W1uFiuVHunCv9VKn2ro6KAMMeMNJktHlt5ZJpo5EjezCbZ0Z2CqDG2COWHJ4qYeI7QorGK5Ueb5Mu6LHkPuCgP6ZLLjGcg56c1Pqukx6pbhd5t5leORJ0RSylHDgcg5GVHFUF8MFLuC4\/tK4do5jPKrxoVmkOBvIxwQqgDHQe\/NAG9RRRQAUUUUAFFFFABRRRQAV4T+1Cdui+HSeB9ql\/8AQBXu1VNR0nTtYtxBq1jbXsKtuEdxEsig+uCOtAHk1r+0l4Khs4Ynt9W3JGqnFunUD\/fqX\/hpfwR\/z76t\/wCAyf8Axdegf8IJ4T\/6FrSf\/AKP\/Cj\/AIQTwn\/0LWk\/+AUf+FLUeh5\/\/wANL+CP+ffVv\/AZP\/i6P+Gl\/BH\/AD76t\/4DJ\/8AF16B\/wAIJ4T\/AOha0n\/wCj\/wo\/4QTwn\/ANC1pP8A4BR\/4Uahoef\/APDS\/gj\/AJ99W\/8AAZP\/AIuj\/hpfwR\/z76t\/4DJ\/8XXoH\/CCeE\/+ha0n\/wAAo\/8ACj\/hBPCf\/QtaT\/4BR\/4Uahoef\/8ADS\/gj\/n31b\/wGT\/4uj\/hpfwR\/wA++rf+Ayf\/ABdegf8ACCeE\/wDoWtJ\/8Ao\/8KP+EE8J\/wDQtaT\/AOAUf+FGoaHn\/wDw0v4I\/wCffVv\/AAGT\/wCLo\/4aX8Ef8++rf+Ayf\/F16B\/wgnhP\/oWtJ\/8AAKP\/AAqlq\/g\/wzY6XLcWvhTSZZEK\/KbFCACwBYgLkgAlsDnijUNDyjwv8fdB0vWPEVxrEurXNvf3\/n2KbA\/kxbQNuC3y89hXSf8ADS\/gj\/n31b\/wGT\/4uun0XQvCepyeXP4X0W2lEa5ha1j3l8ZfCkZ2jIGfXI7Vs\/8ACCeE\/wDoWtJ\/8Ao\/8KNQPP8A\/hpfwR\/z76t\/4DJ\/8XR\/w0v4I\/599W\/8Bk\/+Lr0D\/hBPCf8A0LWk\/wDgFH\/hR\/wgnhP\/AKFrSf8AwCj\/AMKNQ0PP\/wDhpfwR\/wA++rf+Ayf\/ABdH\/DS\/gj\/n31b\/AMBk\/wDi69A\/4QTwn\/0LWk\/+AUf+FH\/CCeE\/+ha0n\/wCj\/wo1DQ8\/wD+Gl\/BH\/Pvq3\/gMn\/xdH\/DS\/gj\/n31b\/wGT\/4uvQP+EE8J\/wDQtaT\/AOAUf+FH\/CCeE\/8AoWtJ\/wDAKP8Awo1DQ8\/\/AOGl\/BH\/AD76t\/4DJ\/8AF0f8NL+CP+ffVv8AwGT\/AOLr0D\/hBPCf\/QtaT\/4BR\/4Uf8IJ4T\/6FrSf\/AKP\/CjUNDz\/AP4aX8Ef8++rf+Ayf\/F1R8KftE6fqXiq403WbaSGxuLkrp92kZLBSflWRBnn3Gff1r07\/hBPCf8A0LWk\/wDgFH\/hXHL4Y0PwH4k1PU9E0eykvPK+2yy3L7PLR3KiOBQMKBtP5gd+DUD1AHIyKK4yDxZqNpHIuoQwXEk11c29mYmK75En2JEeOCQc59FNdmOnPWmIKKKKACiiigAooooAKKKKACiiigAooooAKKKKACgjIIBx7jtRRQBj2\/hmxtdSt72JpvNgXGGYEO2HG9uM7v3j9wDnOOlbFFFABRRRQAUUUUAFFFFABRRRQAVn6voen65amHULdJDtKrJsBePP90kcdBWhRQBnS6HZS38F15YQwzNceWiqFeUrt8xuMlgCR179+K0aKKACiiigAooooA\/\/2Q==\"  \/><\/p>\n",
+        "Topic": "The Theory of Demand",
+        "Difficulty": "Difficult"
+    },
+    "Question 2": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Availability of credit facilities <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Availability of substitutes <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Change in the price of the commodity <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Expectation of the future change in price<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>One of the reasons for an exceptional demand curve is the <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>An exception demand curve can also be called abnormal demand curve or super normal demand curve. It is a type of curve that does not conform with the normal law of demand. It is a curve showing a positive relationship instead of negative relationship between price and quantity demanded. The causes of an exceptional demand curve include, article of ostentation, inferior goods, band wagon effect, ignorance expectation of a future change in price e.t.c. <\/span><\/p>\n",
+        "Topic": "The Theory of Demand",
+        "Difficulty": "Easy"
+    },
+    "Question 3": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Elastic <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Zero <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Inelastic <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Unitary<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The elasticity of supply of perishable goods is<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Perishable goods are goods that cannot be stored for a long period of time. They include fruits and vegetables, dairy, fish and meats products the elasticity of supply of these goods is inelastic i.e. a large change in price leads to a smaller or slight change in quantity supplied.<\/span>background-color:Blue;\"> <\/span><\/p>\n",
+        "Topic": "The Theory of Supply",
+        "Difficulty": "Medium"
+    },
+    "Question 4": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>288<sup>0<\/sup><\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>144<sup>0<\/sup><\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>90<sup>0<\/sup><\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>72<sup>0<\/sup><\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>In the pie chart below, the percentage for children is equivalent to<\/span><\/p><p><img src=\"data:image\/jpeg;base64,\/9j\/4AAQSkZJRgABAQEAYABgAAD\/2wBDAAcFBQYFBAcGBQYIBwcIChELCgkJChUPEAwRGBUaGRgVGBcbHichGx0lHRcYIi4iJSgpKywrGiAvMy8qMicqKyr\/2wBDAQcICAoJChQLCxQqHBgcKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKir\/wAARCAB\/AIMDASIAAhEBAxEB\/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL\/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6\/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL\/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6\/9oADAMBAAIRAxEAPwD6RooooAKKKKACiqWq6xpuh2D3us31vY2yDLS3EgRR+Jrjbj4zeFjldETVNflAyI9L0+WXPGfvEBf1oA7+iuEh8X+NdThjk034fy2yP827UtRjiIXtlACQfbtUA1r4reYoPhHQgv8AEf7UY5+ny0AehUV58njTx1ZRSNrPw5nk2c50zUYpiR7K20n6Va0\/4teGZ5Vt9Ze68O3hJAttagNsT9GPyn8DQB29FQWl7a38AmsbmG5iPR4ZA6n8RU9ABRRRQAUUUUAFFFFABRRVXUtSs9H0y41DU7iO2tLZDJLNIcKijvQBLd3dvY2kt1ezx29vCpeSWVgqoB3JPSuEXxprXjQrH8OrSNdOZmSTX75T5S7Tg+VH1kPXBOF4rF022m+Nk8er6s\/k+CoJW+yaWknz37q2BJPjooI4T869Wt7eG1t44LWJIYY1CpHGoVVA7ADpQByGn\/DDRlu49R8SNL4k1VM\/6XqR3quf7sX3FH0Fa+o+K\/Dnh26Ww1HUrWxl8sP5R42JnaCcDCjPHOK3K810\/VdC0HXfHUXi+6toGmuftLrdsP31oYlC4z94AhhgZ5+tAHoUd\/ay3jWkVxG9wkaytGrZIRiQG+hwfypWvbZJvJeeNZNwTYWAO4jIH1IBP4V4vrUEGpeJ9X1jQ7nUNFax8IwXFmYSYinLsiup44AA2nsanu\/EGsWesW51Wb+2JbS7t3tljiCZLWTvzjqSaAPZTPEs6wtKglcFljLDcwHUgfjUV5YWeowGHULWG6iPVJow6\/ka8Rl1G50rVLbxIfEU2rX03hW6vAkjI62MvyHcqjouTjB\/u1Y8ReJPGWm3WlaFpt9qF3N\/Yv2+S9jWBWlnZjjf5mF8sdMLzg0AdnefCnSre7fUPB13c+F9R6htPbEDn\/bhPysPyqaDxfqXhx47T4hW8Nurtsj1izVjaOe2\/PMJ6feOM965iLxR4wulv9Xnv4rJdJurKGXTY0jkimEip5v7zGf48jHpXrE9vDdW8kFzEk0MilXjkUMrA9QQetADopY54VlhdZI3G5XQ5DD1B706vMryzv8A4SS\/btChlvfBhYteaavzyabk8yw9zH3Kc45Ir0TT9QtNW06C\/wBNuI7q0uEEkU0TZV1PQg0AWaKKKACiiigAry3UIpviX8UDpciiTwl4bcNdDql7e4yIz6hM5I9a6r4j+JX8KeA9Q1C2yb11FvZKBktPIdqfkTn8Kl8A+F18H+CbDSC4luETzLqYZ\/ezN8ztzzySaAMDVPhpLpWqPrvw4vv7E1HafMsWGbK646NH\/CePvCpvDXxMiuNTTw\/40tD4e8R84tpj+5uBnhoZDwwI7da7ysnxF4X0bxXprWOv6fDeQkfLvX5oz6q3VT7igDWqne6Rpuoyxyahp9rdPEcxtNCrlO\/BI4rziVfGfwvlQ2\/2nxd4UUkyK3z39kn+yc\/vVH54ruvDHi3RfGOlDUPD96l1CDtkX7rxN\/ddTyp9jQBpzx2qxTS3SQiMx4leQDBQf3ie3XrWfe6l4e037Pdahd6dbfaWUwSyui+YcYBUnrwcZHY1x\/xkbWrjw4mm6dp17c6XdRzHU5rFl8xI1TIQBiOGPBPoD61x8Gq6AdL0a48apb2lpc+CxHaxXq\/xg4kVM\/xEBCMckYoA9RtNF8Gadrs9naWWkwanqELSywKqebPGT8x29SpP4VZ1bw14b8X2sA1XT7PU4bZz5JIDCNhwQCPpgj2rzm50Jbfwl4e1u4dofGF3HbQ2RYAMJfJKBTjnaFJYjOMiug+FPie11Ozu9DtdOezGlYVZGlD\/AGgFmBkbH3XZgxIPrQB2sWi6ZCkyQ2FvGs5RpVWMAOVACkj2AH5VdorE1\/xjoXhraurahHHcSf6q1jzJNKfRY1yx\/KgDaZQ6lWAZSMEEcEV5fp1lH8L\/AIlRafBdFPDPid2FraM3y2V794qo7K4z7AitNdV8c+Llxo2nL4U01+l7qSiS7YZx8sAOEPoWP4VHrfwh0bVvD9\/Hdy3Woa1PGTBqt7MWmhlAyhQ8BAGA4UCgD0KiuT+GniaTxT4Itbi+Ux6nZs1lqER6pcRfK\/58H8a6ygAooooA83+JUT6r468A6Mm8o2pvfS7eRthTPP4tXpFeceJpGT9oDwSGJ2PYX6qO2dqk\/oK9HoAKKjuLiG1gee6lSGJBlpJGCqv1JqQHIyKACuG8R\/DG01DVzr3hm+m8Oa8Bk3NngR3B7CaPo4z+NdPrd35Ok3qwalDYXMdu0omdBJ5Kj+Mp3ArlvBnjuG90G6vNc1SB7KK9+y2WrSoLdL8EDDKp75JHHBxxQBVsfiPPolzFovxRsV0i8lOyPUI1LWN0DwPn\/gJ\/utiu2udG0nU4LVbvT7O7ityHtxJCrrHgcFcjj8Kl1DTrHWdNlstTtoby0nXa8UqhlYGvKtU0fxH8HLC71bwfK2teGYgZrnR72UmS1UdWhk5+UDqp9O9AHrMtnbTzwzTQRyS25JhdkBMZIwSp7cVxWs+NvB3gi+uoNOthd6zeSeZLYaRB5s8r9AX28L9WIrJsNA8ZfETTob7xZry6No95Eksel6IxDyRsMjzJzz0I4XiugT4feGvD3g\/UdN0cHQre5hP2q\/gkxPt6sxlbJ6Z5PTNAGKIviF46USzXUfgrRW5EduwmvpF93+7H+GSK6Twt4B8N+Et0+lWvm3cpzJf3UhmnkJ6ku3PPoMCvM4PDNxqXgvxHbeDG\/s7QNUubSLSodTuXjSba376RSSX2yY4H8WCe9TXPh3UfEHg0aPo9lY6RL4f1WWO7t0vZTbjKbhOHI3Eru3bexzQB7bnnHeivOvCviKwfxdJJqcszapq0MQt\/kYxRQBSY1J6B5MPJj3HpXotAHnvhGJtF+L3jHR1Rhb3ywavGxGBucFHA\/FK9CrhBJKv7QDogzE3h0byB90i4OMn867ugAooooA8x+LkzaN4h8DeIyn7iw1jyLiTpsSZdmSfT\/wCtXpwIYAg5B5BHeub+IPhdPGXgPVNEYDzLiEmA5xtlX5kP\/fQFZvwn8VjxR4Fthckrqem\/6DqERXBjmjGDx74zQBhfGzXrKODQvC15JLs1q9U3EVuheWSGMhiij1ZtozUvhf4haq2seJJfF8Fromg6P5MEXmPulWRwDtdgcFsFeAOpFegXOi6bd6ta6pc2UEt\/Zqy29w6AvEG6gHtmvIU8Ga14fmE2tXNvq+u61rUktjbSEmytnILec68F2VV4Hb9aAPQPEXhC61fVhq+h6v8A2Zdz2RsZ3aASrJCTu4BIwwJOD79K8p8Q22hyppdlaK39p+F9RGk2egXL+YL2EsFMpTqCylm3jgYr1Dw940U6lqWi+Jr\/AE5NQ065itvOhfYlw0iBlAVjw3OCMmunk02zN8dQSytjfiPYtw0Q347DdjOKAOF0fxWuj+NLfwXpWkrFplu8luu+4LTRhU8wyEHOIvmCgk5J9q7yRLXVdNli3JPbXEbRsVIZWUggj+deP+O5ZtM8SWNx4lhttQubiNZJbG2kMCeUGVNit9+ZizD5TxxXsttDFb20cNtCsESKAkaKFCj0wOlAHn\/wknl0nT9S8D6i4a88N3BiiOeZbV\/nifH0OPwrtdd0\/TtV0G9sdcVG06eFluBI+xdnfLZGPrXn\/jixHhz4seF\/GysI7Wdv7I1E5I4kz5THHUBuOfUV0HxYYp8JPExCb\/8AiXyAr6gjFAENl4D8HaV4curYOX0a\/ER2XN80kKkfcaNmb5TyMFT1xWtZeCdC07wlN4bsbVodNnDiVFlbdJvOWJfOST3Oa+ddbv7yX4U23gu5eRZPDR+23wxy1uGXyQT058zPttFehwePvFOreK7q60OC6l0\/T9Ui09rJUiELxMFy7Ox37\/myNvGBQB6XJ4R0eTxFZ60bcrdWcXlQhXIjAxgEp0JAJAPYGtuvMPDHiDxNNrmi32q6vHcWOtXN5bCw+zLGbcRF9hDdS3yEEH1GK77xBrVr4c8O32sX7bbeygaZ\/fA4A9ycAfWgDkvD0k2pfGvxTegZtbCyttPR\/wDppzI4H\/fQrvq474XaLcaT4MS61IsdR1iZ9Tu9wwVeX5gp\/wB1do\/CuxoAKKKKACvHfF00vwi+IDeMbO1km8N64Vi1iGIf6icfcmHoDnn8fUV7FVbUdOtNW06ew1K3jubW4QxyxSLlXU9qAH2l1BfWcV1aSrLBMgeN0OQwPQ1neJfDOn+KtMWz1ISp5cglhngcpLC46MjDoa8shGsfArVPLYT6p4AuJM+acvNpZJ6Ed0z\/AJz19g03U7LWNPiv9Kuoru1mXdHNCwZWH1oA8b8R\/Dey8PQ6veS6c+sXGoSJY6Lbs7ysk0gw1xK39\/PO7sFx3rovCniubw1Pe6H4t1uG8stJjhg\/tmYCIPOR80PU72UYJPUZ5r0thuUjJGR1HavIPGvgCex17Q7jRNLu73TLYSnbbOry293I2ftDK\/8ArAQSDmgD1KOLStaS01KNLS\/VPntrkKsm3PdG5x+FXq8J8F+JtZ8G+GvMs1ttS8KaZeNaTXJUxzXM0kvzPCvQIpbGO+DjpXuwORkUAYnjLw6nivwdqWiu3ltdwFYpP+ecg5R\/wYA\/hWL4B1RPHPwyhh8QxJcXKo+n6pBIOssZKOCPfGfxrta8ysm\/4Qv46XlpLmPTPF8IuLY5ARbyIYkXHqy4PuaAO0uPCPh+7a9NzpNrIb+FILosn+ujT7it6gVBN4F8N3HiKHXZdJhOoQ7SkuSACowp252kgDg4yK6CgnAyaAKMWi6bCLURWUKizdpLfC\/6tmzuI9zuP51wmo3MnxB+I0Gi2fz+HNAkFxqUuzMd1dD\/AFcAPQhT8zfhUOteK9V8eaxL4X+HzSQ2Mb+XqniFR+7hX+KOAnhpO2RwK7zw74e03wtodvpOjQeTawDjJyzserMe7E8k0AadFFFABRRRQAmBuz36UtFFADJoY7iF4Z41likUq6OuVYHqCD1FeYXHwu1XwlfSal8KNWGmq+Xm0W7JktJm9u6H3FepUUAecaf8YLSyvotL+IGlXXhTUH4V7sbrWU4\/gmHH5131lqVlqUCzadeQXcTDIeCUOCPqKbqek6frVi9lq9lBe20gw0U8YdT+Bribv4KeEWcy6LDd6DcEHEul3Lw4\/DOKAN\/VfBtlq+q6RPcOyWOlSNPFp8ahYpJj0dh325OB6nNdFXma+BfiHpsaRaR8SGmii+4uo6ekrMPRmByahn0T40GRfJ8WaDsIyx+wEY9sYOaAPUq4L4wabJP4J\/tmxaNNR8PzpqdoztjJjOWX\/gS5H1xVJfCXxPu7ci\/+IdvbSZ4FnpaY\/EtUifBfRb9xP4v1PVfEtyduWvbplj47CNMAA+nNADz8afC8thZnSJJta1O8t1mj03TYzLKCRyrdlweuSKZHoHi3x7DI3jSZ\/DulM37vStOn\/fSLgf62Uf8AoIrs9G8N6L4ehMWhaVZ6ejfeFtAqbvrgc1p0AU9J0mw0LSoNN0i1jtLO3XbFDGMBRVyiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAP\/Z\"  \/><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>To get the equivalent of the percentage of children in degrees = (40\/100) x 360<sup>0 <\/sup>= 144<sup>0<\/sup>  <\/span><\/p>\n",
+        "Topic": "Methods and Tools of Economic Analysis",
+        "Difficulty": "Easy"
+    },
+    "Question 5": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>5 : 1<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>1 : 5<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>18 : 4<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>13 : 3<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>In the diagram below, the marginal rate of substitution of X for Y for a movement from S to T is<\/span><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAWgAAAEHCAMAAAC0mSxoAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABgUExURf\/\/\/05OTkRERFdXVyQkJC8vLzo6OgAAABYWFggICGBgYGhoaHFxcXp6eoGBgYmJieXl5aCgoPPz88vLy66ursTExJmZmba2tr29vfn5+ZGRkezs7N\/f39nZ2aenp9HR0dwWMsAAAAAJcEhZcwAADsMAAA7DAcdvqGQAACQZSURBVHhe7Z2HYuLKDkCZ3t17\/f+\/vBpjE4oBJ0727hLOfW9jOshjjaTRSIc3b968efPmzZs3b978IwzZfPDmRxkYLufDNz9Ih4QM5uM3P4jjHJN0vvHmx4g0kww18603P0aIqZCCVPPNNz9Ep5QA6DDffvNDGOzlLJju5jve\/AgB5V7OUuJwvufNT5AgKUFDKyaRjub73vwAFaNe0FRSTOL5vjffz0gmOSv4lzH71tI\/RgMKWnnrTkhKafhWHj9EicC0Y9NkKJRg9O21\/BCGM6pgOIMZPRnT6B1b+hFahMDoYEpJcFoYY5K\/h\/TPMFRN0DSWU6mYsc6G4\/zAmx+g7g2jNC67Lmnnu978CLVTlL1jSn+AUEqSzMdvfpCA8fcKy58gxjio5+PfSpvmQzb+7CRVF\/xh6K6LX36RvCudNsaa4Gd\/acD1g7B\/Qh4+\/ALEoSY6COLYWhzEn7u2234+OJI\/fLXl6MGZjDBD5pWjIDXBxmTgQtQlQdh8KohZcX3uexh09uo0vjblNHu4CB5I+tJRkAIh1x9HYucILT6jqAtJzgU9kLMohuHXCjlkpJgP1+iIZC8s6Aw04+mCHZ1pPiNog8256EaN7Pzy2nKTHw9PxOxi\/N9QUHzzmtdBU32mZ7v4JLi0jMPsI0Zfe7PkTAWnKZgqWl\/OXyVZblcY3ziBBtOH+TMpEjh8Vfc8RdLNhxOL59aPQWBC65bBnhmOKHHZIuoCjpsCc3J5sTtjJllGAb71TQKOHgo6KZg0r2p4wI9f05uVti4u4qw5Xuupk1wHHCN3lFRSIoqwxpTyq3GbBpMiskjfRjUI0481Q68ZNfPxq0GwW9ObBrkqiuqkT\/0Iqy1Dw6HNCk1Cr2dqa5FpdGAxRtcGXZmBvqkYvrUTU81WpH9OUsD5m49fDS71fATya9t5xPV8MfMGrwpKyqdhH8VGeyc6Q6YCHVMPkpGblVaNGsexux27o2b20uy+IXL6VTN7DbXz0aGPA6N1CJJrLV4SigoEEjOMzcq11Bp8DquPlluHFLuxu51kQlB3G6aLYK57qKOBAckn6uVfxZ6UYhTHAVdict4MXuak2DRpjiSZFUFP\/IgLFxWA5e0AbJCgyqzoo0hTUECPiUKMwxul8wqE1CxjL4qijLBJ0FouEimtiUvMlmHfUxmCtBcPD3y9G6nkmslb0w7IscKPHJaJ0ZLnT\/oXKfGFgZYef2Zx0giNDfM8IIsJmFNp6oi42dq1fCWSX3B2YTEuZESx5zLsDX5sBP6j9BoF5z6C4V5FFsseCHDwwj5q+DJjhkrpvHNHY9mPfHzrYMRSrUZDQQOtjvRLOsvESw7p1KAz1yLjzCuNCk3y9iaZj140GM0SQgzM7sguI5PTldEHV8VqkK4HQW8Yq5ZeBlBehgpckWrWtK1mzEu4dXhSKG2ICPxJwWyeBD\/wafynR\/MObvKVdOeMe0vlllFLsvrAJTF\/0T1FCaM6CAawcNvMMmwnpVvZEDy83nI1CXywxOZJDbMi9wN+BH8GnPEeY7mShJtLvmoL11ouKucREZg+r7niVQUEBQiHFpxstESYsgZ8B6L1bNXmhtsw1IQMkwjqAhGnjVSU3wq6uoo0LYCgn5p3nooLfPuur0BUujAEOTZFkJ5+YT44VBTxMgQrS5AJ45NnZzhjiDO9EkBurV4d0alWfNOyApgtW07IP0rSgyF9Yat1F7fqvjr3n8ciCFycxWvTVrGo\/EtAR88e5RNq8yRw\/eZIu65hI8L0Bh0NDAjbt6S\/TGUwebA4e06A6arP82YLI+Fok+qACYLTFU\/ozTZKw9c9mVsqLrfNm29WyDXd4rB4EnCc3ru3vkquj+7OFmpE5asuav04JaLbt8069t6f\/1VAdTxKCbsk1UK5l3TEf56RYLvNjvZUUqzHpt48o0Of2TSbGCZXF+jfPGMk7BMjGtxDwTar9Ddn1AH9TLGOyLG1ZYU3zwnUbRbIAzL6rir2JSJD0WeUbkqFoK8ZmP5ZUsQ+JeiDBUl\/Kov4zUTHpfmUZVxyIczba\/k0ORKfrC\/osFhPEXnziNyoT+bVZUYK8iQv8s0NlRKfrfJTEiHx22v5JA0Tn16gaoSQ75DHJ8m5OCWpbmXwJt7KSvubB2RM8E+rAceV2hzFfjNRUsU\/qaPh7BAkxN2QR5THZVR2b91yQYoV\/7wJAUahOqVwX5IUBGGCiHnXaLogNfQreTExFWx1vWB0DFlnNCGSBuun4nfSUbGeK\/YY8A\/VqkdZcDyk0SE5lAEzzVt9nOgJ\/dKayQDKI74NLqWULrtdkkIft4298aSaBl+KLzd+Q+2NbkDqo3BQG5K17Um\/lPJTS1lnRFbK8OZa0PSsQlNUvOZeri9RIl58bc6KwT+8WTMYEEMfRsw7bv1BieVn1gzPKJm4XT+MDH4vk68SU4m\/FoqLAvDEb16bWmKbLH+P5WsayfQXFemohVA34zdtCGcamab6kup\/WTKKz2uwfIpMKSlOu9ZPpJm1lDFMinc45IOY0y83UhitUoKvTKV1moUEM\/Sa+5q\/Rknl12evyghF119d96Fm7CtO5z9MO36Mujbt+zL9sDMy+qVYx0whlbrrZ1f2pTdy3ZIEH+njISIaIf6hlkF17EimSxwT5wXeOne+I6zwxQDm419ARiU1cyIGjF9KiMHs5L7FUu7pshchdR7G6zE7VdbyJfWo\/T2CLicj7DjOWsKQ7cey+dhGO0jxpKbSYyokmD3JtkPqo+xW78C9n49fn1wTKSU62rQjl35TYd0PZLneG7SzXUVGFT+JM3FUziUYQGPhU\/2FX4AzRsulXGHNceB\/ehtTM7sTBV6G+xepiRL0pIl6QwVu+homXYeu6++9NElWhfRUrjBk2FcjrKx083Q4sL3ZMCUR4mNbXG65ZCRsHJboZesS3qHHp+puhRC6yQrEeDxbfCUXG7co36WgQn2YiElFONLaILJS\/O21SYKTEg2EoBxJIU6NKlIp9q6D9PCu5554X8VNXJXl7wsshacyehZEwgQ4znKpZ5pRsBrO68h+nmRQQuDfNnzXQEvYOCJgFDjNwOCbC+jWPt2ZE2Nd42xQFMFQpg38zeIh78shT7NsGMsqT+q8HKr00HV5cqj6sa\/bLuqOY7YNQdDqXfng0GE6CzqWPIjTsSFMLKt5JeiRY4NfSTmlnDOkOBMUc8zAu+HTfYQ4QpjE2hKtnbPamQb+uKIImyoPYTYUQh7LEf1mar04EY4ex11mT2XO86nRHghbUd8FbpI5SB0E5w\/h7xF\/Oo6PMX8slISHpu5xdHoiwI8Fh34xtZn9wIioo50XFXiprpZN7X0VZRxhxGFAU5CcopyBKBmMcS9T+D88ZxaokpOgvXwXEc+cnKBfi52DSiPYecfrO2aKH426cNLRgzcUbDFkRRgGRRyQAPSDDYxzhBFLMGEaYTgLBCHEEcWUYMwkHEvGPqT96zfkYzqHfYyvOO0plJoNkQD8urke28WVnxyiJPHlgaK2HfsuavscjvpuTKuqzNOxL\/sqH8t0LBsQtWIIK7Gh9uZrQxaFDK6FLg8guMDXfpwAQZN90fk6ZFKRxmhwhn75MqFeoqIpEpSAJacZDWZ3opBC79zM5kOlNqu0UEsR\/N9KiJbgTmE0IghU7FJ1pgul+NTO2TVCXwK8LggYIb87B6wsloHW5UVgEApOdxwKvt+pC4QCRZRUXChc\/T7H+w5J3Z1f34HYX4GjEce1QbBg1HphzjetOwswfZVs3jqUg7LeVCT5F1KD+7y7JUWhxHG2DcD7oR8LW28+iEA0Wys53mMkyxJLb7mQ6L0lf4UWrva9+USpFkubh4xIIfnOE\/eStAhUx86igREIen6LduBSXvb5ejMxMrA6dgraL5AthnoEQ1rtSRR5VVrzDVYHOCyntwiw+gaD8QWIoraN0vy0eGVBqe41fQN1lqzUwDUipy5pv476LKdx0IQQg4hZtq75UNDeyatgZ1vwayeVuLdrti\/TIs7jrh+jqOv61zIEx0afNrilcGFLShWT4bzwZMHq2Ks6CnlROMxRJcypmeUFOUeScmIIYdxaQuz60\/5FkspIdZruMiw50lYbk86CjuWx49keYrgq5kNPHjJJ15PBxoBxRDRhEuRtiXbly9jcOfIBiOVXF5LrODnMy9ee0Af+5+OvAifrXNCH0Up+r7tL33Vj7LCSQZl33Qu5NiFmSuElEBoIeuWdgNWxuyZ0yK9CrR2CGfH+CmIUo9dbIzAk4GoJ9NRY+MyDc71IhFjvVradpODXy4WxoeJBTayY8k827\/\/7ifoq5Eu1mAGmQjOUTXySQaLpWYbiF4m5uO5lVGn1oIN+hV+yfk3Ol1XTUPjompFyanLm6Xz0bq+gByZvqtiUlkl2b\/PziF+yvmlEljXDEPxjioifHpcR2IAft3d0DUrdqvmKw+VTrFvKOZoTTF6LFC+bo0qEkItLsDTU0s4zACHtFXR+kUw6k\/isPrl8zCUl+0hdfyEyfvpZeex7ayUBPSXpGyXY3sB\/JMWygeCMEYOikqs2esyujZ+XoODXRepyQxU5XtUIVMdeQVdK3LR8B3Kt7ridcOpfMX2svJnj65IuoSQr9o\/ogSo+H17Q+Ly+pWn8ORV5yfr1ESbXF2rHBD2KNwCr464ZtpEU1M\/qezQIZt9jv9YLKvKS7c3Sk3mXNfPgHakg0zSV+HSDvYKu5J2YdusQlex2Z25OtjfZ+Ycol11ZrWZ48PLN3LImMhqhdgeVBqnmLNUbKi3BR7o+C5Xhr5h5Wi7NThMwmklT5QNhi3RTfBZy+ioZXBV3BO0rEcInXF0zkcWvaN6lJ2MqCoVUUglKlwxSL+gtXZQfktH7qdGdAUnT4HLFZUTMrLsy\/zbBqWxGUmCfv++CxRRowXdZduR\/mVgKPB\/ekjk4tby4kDQYnC9ZfzqfGrMfqRzC7qMt8wHMgiWD98vEYEffUx3w6WCqq0tVUbGXVB3ncX4\/EZkzu7n2mUp7V1LL0\/6BVUqQtKDN2amoyGs2oOzPJNnGBjVnggfvbW8i+qFX8s5i7JFYSylONUuBJLitAfkC1FmxRCKSfPIhwpOdkWi1f14ap+WE+9QVhhnxvOPqfUXzD9M3bHEPegKut4Lr+KOoFLoYal+jVOJJ7bwMg7Xz4jl5uYbRNAs6Vkoirbk4Na2vrdofsYzZ7Gfep2DwLc5KOb0eqfXRyjmyYCgvqnwE64qGR31RWymDvTq6EAI\/UT9JaeBKkq9bfTdF1OcbzIN2IJkXah5IwWfl4ehp6fbLxCDop5Nbw4QSr6s9KsKsFacyEse0GW\/ZLpFTC4d7Ta2cP1rynonAGf+GrKi\/lXrs+\/AqxyIn4B2SeeIHO5o1SyuPr5kfiQOn\/rkAU64U3R9Y+YvJLgVdeS98yRz3DgsM+NA1TaORDUNnjAvCII6LInRxOAxlW5VZmmWZC12WV4csS8cqzdOu6\/t8zPo+imEWUKRKkrEsvQ\/a1nXS+t3Nl+S+TggomUl7vSSloOfKwdu0J9HXviaNAH+CcZ\/\/KCkMTuardDBKmVSMS641JhgRwuFezDXWxtjAGH8nxgTwaUlgURi4j8NZKowNmzBo4jLOwrDJ8syfqWIIfYkhAN9ZGv\/3qZQ8c7oPhfG54vOSod8eDsoDZM04CBn+Ui4lA0eOYsR9RQkABixVnDO4W4A5DPKmajon\/gUz07O8ja4Uhz+SMsQxVwxOGIITgiS82VHQijcvauVFUl7o6EMZ8FPWTAFCRqEF5aEtJshrjzAM4EbRDK4BGSGGOTIwqq3lBMY9QcYQSiUHaTNMQNxevKB\/fK0mf64oPAduSAbnBOQspT81IOS5sAr8ZVPxvdcjZ9d5QVEMevnolg++ICCM7rYbD33aRWMXwSHMjvUh6es8ycchG8Iq78euH\/tsGKo0LcMibArntIvjpgkCrzqoKcLQek1ibFHYAJQ9sY3TxIU6bIbGYF989ihqgYOX3DJeUHUd80nAlzsKuqAra3pbaE\/xihHMGnkM7dfzROdnwhr+OT0HTtqhb4dZ0pKTV9yMmKllMsynFUMgBd1xVJSN4LtbWpWgD2ZP8wkW1Acn2k+3H4GtlyEXc05jatBRWUeNX\/TwR4k5nYWv0xOhtr1JwYXScd5YKpluXk3UJZ19v5HL45qsdw3ZpDA6othuQUdguWwTWswF9TPCaMFqYUtd3lchpnOpnw4JacqqykKYvo6bIcbgGza6ln49bD5+jE\/QnkzN1IGVTnlzm7L371K7UwSpwoprZHxwWB9lD6pD3OkAuZ0MLOhtSYshXZyn1Hn\/Rb1UxZpCB8vAGUNw5AhHNs6P0k0CX6ZnOvw6EVjNl5b6PeJTzh\/oLx843b8\/+or\/9RIZP+KgSdlkwIdGDdR10sXn6UHzbot\/lnxWHZ7B+oiW+c7YRxLuTo39IVot94\/oHOS1bV4r0HlQNreMgtu5sxzcOTFcrXvT6n+GFgt51mfia\/RUbGwQnGNxvtOzLTTmSumy\/ZZRHWWI\/j3l7pOuTc6GMFz1y27lL5OxRwk05+Tg8J+P\/Qgsah8dIecZEF+kKqw1Lsj2rhd9D1FZhM5+BHVaUJq7h8AgBdomqEyqufjsTJRq8MgVZeYyaezzxIahIB7+DjHXRYEpE1zxJQ2sBtfly03JFiqmni3Ozgww9q9WBFKN\/Qq5pCZOk5vVgo1EeYMw3V2F69uopvAm4lLh2UpIrFDnmS1fIuOnTV5PGPBcT+yMuoIpUvhoKlxpXzrn0WAQwuyjXdL\/TUKERDZNyoDTuX55gr6hMk8F43Sb\/dpIsTIjRHmofb1NGAPuC8ZeGxjMOEL3kuH\/PCObSy4mAZszGyOQ\/W7zrmeCbjpZkb7n8HdZoInyCb7B59qotoO1IGbihr3ewDeSyaWoQEHnyR8Gudot6JFutToCKe\/lnXaZRcyvneEm7zcO67qv\/LolJ\/YvsTVmRrloyIrO+88SX0ptr6ArKc96VD8ivKrscUFdWebXuxgzrimfJUK2eVg0YIZj7Yph73T+zaSnZMSS4+MlPMI8tC1m\/4CeKbpNRwdKPDolbYOZmLoIUEKa89aIF9RJWxZGY8VA1eDg71tVT2HSOupoJ\/lRSecwGc4tWb5OhAXdFoULn222G8sA\/HLFKFMSa13GfX9h8sEw7wZrLAarmWDOucnPs7\/\/Ejri68zXh66An3FM4moNOCx7I14RUhtVh1bsmdVel+DhWUOwbwxjCNJhU2RDlpVjVpVxk4Uh4pRxzElQFM2wV+39DCEWihtrQF\/Q2agDHb0747\/F88rNU4ySG3YJtYc6GgeCNfEVLyjDMHZ9EgNCCExAmP1QQFxcRsneL\/5zlOCqTHO74POeEnKVmPcVYEZd9uY+pnXiZkH+LmNWFoVRYFZg0BEgXfjL\/EQZVGn9t5e9qjPnXKMRXSTjzbuVEhCfo8Vq4+KsU+Jzm+2iqIuiKi7CPMvGqiiKbOz\/Tm1xSXfoxjYBn1fO\/ip4hmu1Nj5HB2+ybd9gQX9Hu98kmxKk89iouSiNXzPcvbcysUoEm94kBn37GwSdIV30bVI6KeZqU+CVy912tK9oM2eYPcHxpUfXa5NJxawLiFJL1\/QK7JDdyZ2JkduW0usAJrO\/z+z9fjrqkzl98tsS3yi5ovt\/upNqo6CVsr9B0D7nzsNPBSsrLqTdHZAJxNP9bxNJSH9LJ8\/KMsHQR3\/jDHT0NvX6CJgMNw3UyErxa7qH5ODMfkz8OQh6d16HD2Fs8uN9M5Lda+7\/Jj1o7N2FUUDQ27bQRfyzDsvLUIHG3t397dCobbVGU\/Mdp\/WfJAdB2715yrVZLbp2S2JBdez9tH8TrzqeVCZ4TsKEOrUReETkYx2\/RdCJr056ovcVAHdHacBGDDfpn1\/ULrUJMLdhtQxi0NH7XYgEg+myyZjQSvw9SQE\/SR37qs6MIzcn9cQg6GVv59cxTG0zj7FUG9Mh\/23a0Ld2pJpJNS8c+5ID+wWNqdiWs0CE5L9BR1uhGAmr2DExl1kaQEdvTFB8gFVqU3GZCAm6oQ7CP0+HlLJlckhGZ8qjlo4ZmHe7XQgfvdtythIN189fmpL\/nfSE4xJGct2d0q5gRN+mHX6WiNBtLUZqJyX5BSO6ZLjpoj6t0pOJ5QW9u2t6r9XGPSwFFfIXRO9iil08NE4H4SLbyhdc2qs6IqPmst\/PCOlF+btXxUlB\/bK9X7yfL+BcfkM26QGrbVNcramwv0DQFoxmrkngwJydg9AZqI7dk2Ft1La8jg5mzfW2cC+Fr9NNbTaOqeNqNmdLCpPhXqd4ihVtOVsVUYK+\/ohOjBDH2uS5pXNeR+lH9F5BH5y615Lzkkz\/jhHtxLxlO4mXzPuCw4jeHSE2l+Wx7uKbK\/6GxdlGLhuxCzXnJ3mHxe3+6cHGPXQlFuKlttnfAXT00a8YfbhyOop9PHq36hjYthk1ZUL+hjBpyef+sr5i1dHDaJTYX6gbzONtsY5phfIXqI4EPGCTp31M4FI\/XsFg3rF5J9wOCio3ZUpGPhvyFwj6MHBKEcZanTbax0Is2WE7yNk2Y6LnQv2KdIOoMlyChYVPC3cZmNa7g0o+YoK3eCw+JW1\/rHAb\/2\/Sap3HjQvcR4tSUB3f0PGugknuXtvTc0qwcXZvTdpGG\/zP4dja59DPxwCMsVPtna8Dbg\/d4hoOmG5LadpPRVAwlzP6KxjA6thf1aiB07Wly9jAlfgz1TLrkDFEbtoL\/n8U4hsC\/wd3Mhcf0gcSpuE\/M8wGjCnjH9mc\/zelz1TafTE7tanndQUnhG7bg7EbhzGjmNj4L7EmwVmUuzOWE9+c4fk6TVI6LtifUR1doyVloD54+Hc0MfIt2XFYtUM+ZK0vIZUcouOs1nZJlNdtUndt3SWHuuuiqB3h3qQ+tFHXj1Eadb4KfVlOvWWxTQ\/9WKb5mFZl1CZdn9RV1y1mVlJVge9UIrmtWpiN4UPqCN7p0ML0nJ9OEnxQC58x31rm19tL7tllkRPEGGa+Yjsi8f9r6nlqGNFCUeI7lmKkkQ2a0MCX0\/A3cNYYTVwTwl\/bGBdozbQLmiB0xBADz0Pcb2MlvtMLiBBZgzlGjHNKNNKEOIJ0EBRV7DcTa86OFb0lx8YU8BZaaxJoZAiGt7YuNEFoiXEksK5xTVMEgS9i3wxVFmprXBg3WTk0TZblaQMPD3HYFHETD2FWVkWQxkU8BNk4xEOVxppTJpnk8EUZMsH\/r6t9UMn\/eKEEWA5w4KsLwB1KgoqTvlg8aAUQEJ0qmsMjkvlS6IL6O\/x\/ADzJc3ynI9zf7bsEwOwHA4spdaxi7x8Dm1v5h\/z+Xcmo\/8\/Xpaf+SfCRvhINvIT4JgPcr7sRSwiXDKnJjmBwAjWcYHiAUc6IZowiSojVxBcxgpcQbhGGJ4OYfUoWldg\/f3coeB9JdtzUMsn2UlYgGkrpUTYLIFIQDhx8PPf0BHjgJPNp6Hrh+rvgrHgR+5dMVf69KMFDnF45vWQ6I9P7Mng23IbzIyXI3V8bjDNEfR8HBv\/z5x4kiLEXKZwTTkHWfuMy96UO4LbvP+BPABKKCV81X\/sy+XBW\/ndDLylg0HgdAL8Ahg38SPje8DtAAcC\/QeA0wVQTAzfgblAS8Iso9Y0r\/O8BnWKmqxqGGWKgOgxBlmBkENGYTw+CVsJa+3EGIwyBntHw64mDt4H3tPAxxovBgaYBPeG7DGgMz4f3MdbBKLUW9Ac85gy8CsOX0tqXPoC7dOAcDFXbNM44Z7F2oKnguzgXWng2B+nDRyJsOeXGbcuG+EnaakjHtMyGrCqaOIjjoQziLCvDpgRd13VdOw5j3udlkoH2y+ChNGv6se\/TZsiiqO7jQ9clfVrCRFjC9Fil\/Tj2XZLm+dj1eTJO75+nadrneQ4zajeUCUyV7Vj3PUyl0Vj2U8VDmBNhzoLXVvBY32cR3NFHbQ2Tc592eVrlMO8OOXxEN+bwhZKkbZO07aLk0I09fMXIT6rjAWb0ru1jC2eaUVBGMGj+6uaJPzhR\/wmPJQp8HTyvXpj5vzdzRNFFSvofo\/0Tn5o0nArEFcyHu0tG7WL0CUtYN5882V3SHfua3QBX9G3XpjXKpvgDZm1dIJiEETKm+V+N6BamIMSFJM096XTZWevlI1EMsxsiq1vHK4sQDjf4uylMd\/kf+O2OSZjAd9e33UkUSoWDEClwMlZlU2cNufHMCw7mtC8BeDOFR5WZ7DX23DEowb7ZHwB\/TswlJvsDwDsZsMQuKzMC8l79MrFPkrtSKyVWvnUZmNfoWpy+4Zj0vcnos4TJ0YAl8AcqPNelxft3BO+lxXMV2I6ItY7enU8UE9edB61ktujHGJyBqxY5PWKkieOQgBv4OIg3WvAqN1ZP30XSVcWTc\/4HqLk4trs5ZErcDE8YoNq7dtdeK5HWrw61ARLnLdyB1kwtbOuMK\/m4TRFcSuCz\/YKc\/yM5X3KiSyJkdi2a3oKtD\/7wZcysLuY9rxm56VKbxtPZ8u\/2cBylPuK0tZXIC9DTJcu2MyurqknsQgz69k7gGAyn9bSu0VEh4weCbgvGLVb01wi65svV2zUSL43KPqijOqCK3UnAMErN2TcXpIVBUj3qzpGUGrvS4N+jOlK+FCPorWKrmS8jWEfr81qMJStvFXHdTK1sH+UhDYS78hCj562tJ3yv2\/J2FHyRh1PHT1FxNZfLrkGrrv7sBDOytmiblCDn1VBYFFMq2INlsZTAKxN\/ojapji7TiCNm7xfdXSOPz4dHeiorPQyfeZfvIsVL6\/sIzTXSr0lBEa8N9cEwdicpss1DzHR2z+uLYjDswrEMmdhQka0eA40QscRYHXzCHCzsecpZQObdDJ1z+5MqPk8rBT\/Ko0VqvRNPLlcTCDIk6YPYbmzw3fyYvgDNQhxMhn5\/x3znXUCdg0vVJ2nvFc726z7W5\/uAB4Smq6eu3P\/ivURkKeQ4InncbHFNx8TKvAbmGTY3MZAPokybezIsA7A36LQEo54mR6Vah8uwxxRvz4fI8EVubOmsl3QW\/6FEtCt6NndrA42r1suijFje7sUHrUlOOxTPacejVOqB6Hsy7LLGGaOnpbO5v+Jd2gKd2ePm5FNFVVyOp6HZlWH8Uca79m2J80ZfqojGtxPsQ\/sHvP41tBCogl8yEHknaTfl6qaSXWkxXg28dW5u5FcR\/qCKVeQTFWLw7uWzdsJZcL7tM0rnD+1Cgk+15JI8IIbYeL7A+jLw9b2tuRRpZlBRDvb\/iv1bJqiuygJRemem6bDgV9KoiKLr01iFJPMZ\/61jT9N365Cqp0n\/IVqJwCSZ76SPiTzqNNDG2mii0eSwZtovJ\/pi9JeCrgsGyv6uPvtpUsOFBClLSe40fGjNdQ+byEhBmc37vr+WdmsoZSZoHIJ57tnYKTgfVrXVB5EjK9dFFiAUZlnAp4y6kiAXVmlWyMlaNOBzllWBMLm6QnvCGPpTOdk31H4fGkD1vVPd6esCj7n3yn3qjzY3MewB+8QCb0c\/ryaRuqfFajqz8r3a0OAQPjhpCBhKdYF15r\/gaJBpD71mk3aoNL+2\/mMNptB8\/D8wgA0g9YO5OORXs1plfKLHlORy0\/24zgPEFGN4Q6eO9mM2u4vTswJKh6waqqmtU4Pd0UTuCDJjH5p5e+So9dAVS1Bh0Ne2Uq7tFHX836jLuH8glujazYbnB6G1Dob0ilPS5VVIrqKnXya1aC4eHmPfA2tanMiIPZ762nKXVYTMo6QNXZaCZzLdOIw3qyqh0eYfa6t\/lHxyvmHgnPbb4gktzHNHt7TzKXkc+yT3jC8V3xxojYzweb7MnClip2fVnJOrunBl0Vi0pvLfwJgN8NKtpW7H1Gq\/CTTGSxwlRkEZ68W8KbUNmsYsI1qTC\/Ve2iCuiuCZPflbseh8KbMwvnpqbpYoeGaDNDds3stREt1UxeInDeZifbidLPw2bN5DehVwjeblHE9AvJPaGXNcoogMcn7bzDwlx4akSYGOqiOJZ0V+pG3wtBhUl39Ji9S\/jhwU73wIUkehnxodMnHa9rGhfsEzZzxMYY6LjG\/d085uemHPTpC3Xvw5AcYivJ4k30yUiDTTAO5jQo9L6zkolKAIwAWcFoBjzU2cD6Gd\/EzQxaEvF2XOu1UPVrt5aoyfBwx\/KZmFAdyAekacHw25dgy1TwJ2s5YIfH4xRscoVxT4nGFjYfRPj3o6F5wylbrgdIW8uaQCY0MjIcGtOkkrDq0k8WJeZgHj+OS\/5kNg4yE7CwFE5ZldH\/2vTstfTZTHccN1nJ95G3V0fqut8\/MGtdFyQt58lvq8J\/+bN2\/evHnz5s2bN2\/evPlX6U5lN7bQ+8Sel2NssudL0juJQryaRrZOblezhb\/K5frhzOHwH4Ww77x8dChnAAAAAElFTkSuQmCC\"  \/><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The marginal rate of substitution (MRS) is the amount of a good that a consumer is willing to consume in relation to another good, as long as the comparable good is equally satisfying.<\/span><\/p>\n",
+        "Topic": "The Theory of Consumer Behaviour",
+        "Difficulty": "Difficult"
+    },
+    "Question 6": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A normative method only <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Both inductive and deductive methods<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A deductive method only <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Both inductive and normative methods<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A scientific approach in economic analysis entails<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Both inductive and deductive (generalization) methods use scientific approach in the analysis of economic situations.<\/span><\/p>\n",
+        "Topic": "Methods and Tools of Economic Analysis",
+        "Difficulty": "Medium"
+    },
+    "Question 7": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>State command <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Relative prices<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Average cost <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Average profit<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>In a centrally planned economy, the economic problem of deciding what to produce is dependent on<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The means of production and distribution of goods and services in a centrally planned economy is decided by the state. The state command or government decides on the problem of society unlike the capitalist economy where private individuals make decisions.<\/span><\/p>\n",
+        "Topic": "Economic Systems",
+        "Difficulty": "Easy"
+    },
+    "Question 8": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Supply in facing competition <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Consumers are willing to pay higher prices <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Price has changed <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Other factors than price have changed<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A shift in supply curve indicates that a different quantity will be supplied at each possible price because <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><img src=\"data:image\/jpeg;base64,\/9j\/4AAQSkZJRgABAQEAYABgAAD\/2wBDAAcFBQYFBAcGBQYIBwcIChELCgkJChUPEAwRGBUaGRgVGBcbHichGx0lHRcYIi4iJSgpKywrGiAvMy8qMicqKyr\/2wBDAQcICAoJChQLCxQqHBgcKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKir\/wAARCADIAP4DASIAAhEBAxEB\/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL\/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6\/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL\/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6\/9oADAMBAAIRAxEAPwD6RooooAKKzPEfiCx8L+HbzWdUk2W9rGXI7ueyj3JwB9a5b4W\/E61+Iuk3DPClnqVq+J7VX3fIT8rg9x2PoR9KAO8ooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigDm\/H2iabrfgvUk1a0jukt7aWeJZM4WRY2w2PUV5b+zPo+ny+Hb7WHtIzqMV20CXOPnEZRSVz6Z5r2HxT\/yJ2s\/9eE\/\/otq8s\/Zj\/5ELU\/+wgf\/AEWlLqPoe0UUUUxBRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUE461Duaf7hKR\/3u7fT296AKMOuxTSMgt5gyzLEQQMjcSAxGeBx179q1Kqw6bZWxcwW0aF3DsQvUjkflz+dZtp4lF0yKLXEjTCJoxLllBAIOMc8HJxxgHk0AblFFFABRRRQBleKf8AkTtZ\/wCvCf8A9FtXln7Mf\/Ihan\/2ED\/6LSvU\/FP\/ACJ2s\/8AXhP\/AOi2ryz9mP8A5ELU\/wDsIH\/0WlLqPoe0UUUUxBRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABSO6ou5zgU2SQR4GCzHoo6mkSM7t8p3N2HZfp\/jQA3Y03MowmeE9fr\/AIVN0pHdUUs5wBUQVpsGUbU7J6\/X\/CgA3NP\/AKslY+7d2+n+NMi02xhKGGyt4yhypWJRtPqOParNMkl2kKo3Oeg9Pc+goApTazbQXstqwkMsSeYwCjkYzxk8\/Xp15rQrPk0W0numurgSNcMuN6ysu3tlQD8pxxkc1oUAFFFFAGV4p\/5E7Wf+vCf\/ANFtXln7Mf8AyIWp\/wDYQP8A6LSvU\/FP\/Inaz\/14T\/8Aotq8s\/Zj\/wCRC1P\/ALCB\/wDRaUuo+h7RRRRTEFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAVG8h3bIhufv6L9f8KQu0pKwnCg8vj9B\/jXmviX4keJvBun3txqngWY20EmYry2vEliZC4AL\/AMSEjvg8kUAemRxBMkksx6se9EkgjwOrH7qjqazNB14eINCtNRgsrq0NzGH8i7j2PH\/vD+XrWRaeP9Dl8dT+El+2NrEJ\/eZtjsxgNncOAuCP\/wBdAHUrGSwebBYdAOi\/59akoJx1qHLT\/cJWPu3dvp\/jQArSM7FIcEjhm7L\/AImnxxrGDt6nkk9TSqoRQqgADoBS0AFFFFABXLeKvFF7o94lrpdnBO8cS3Ny9xIVCRGUR4UAZZiSfQDHPWuprj\/E2maf4j8Xafo2o2kTItrJcG4894psbgNkZQjPIBbPA44zzQBNfatLqfg\/xRDdQJBcWMdzbyCOTerDytysD7qy5HY5FcD+zH\/yIWp\/9hA\/+i0rrNPEVv8ADvxNp0VvbRNYLdQySWsjOk7GLeXLMSxb5gGySQQea5P9mP8A5ELU\/wDsIH\/0WlLqM9oooopiCiiigAooooAKKKKACiiigAooooAKKKKACiimvIIxk9T0A6mgBWYKpZjgDqTUWGn+9lI\/ToW+voKVY2dg83UdE7L\/AImpCQqkscAdSaAFAAGAMAVWmRL1PKaNJIsgsXUMMg5GAepBH4U\/DT9crF6dC3+AqYAAAAYA6AUANRFjXCj\/AOvWedE0uHUbvU\/ssaXl2qLNcAfO4UYUZ9vSr8kgjwMbmb7qjqaRIyWDy4Zx0A6L9P8AGgCOGAmNVk3bB0Rjkn6\/4VYoooAKKKKACiiigArz3xrbrf6xZaTq+raTbBo5rmGXUtOSRGG8AIpaRSGVSAcdevHSvQq4nxlLBc+IrDTLu\/0zSo5Ld5lur23ileQhgPLTzPlGM5PBPTHegB1vapY\/DDWLaHUdOv4o7S4CPp1usMSDyydu1WYZzkk571xf7Mf\/ACIWp\/8AYQP\/AKLSuj0\/WtPl8E+JNLj1DSbia3iuoo5LDZELoCHJfy1PUZKkjjKnFc5+zH\/yIWp\/9hA\/+i0pdRnWS\/BjwXNdvcyWN0ZZJDIxF9MBuJz03etd4BgADoKKKYjitX+EvhLXNWudS1GzuXubp98rLeyoCcY6BsDpXW6fYwaZptvY2alYLaNYo1ZixCgYHJ5NWKKAOU8R\/Dbw14r1UajrVrPLciMRbo7qSMbRkjhWA7mtnQNBsPDOjxaXpEbx2sRYoryM5G4knliT1NaVFAHPeKPA2heMWtm163mmNsGEXl3DxY3Yz90jPQVN4Y8IaP4PtJ7bQoZYYp5PMkEk7yEtjHViccCtuigDI8SeGNL8W6Wun63FJLbrKJQscrRncAQOVIPc1R8MfD\/w\/wCD7ue50K2mhlnQRyGS5kkyAc9GJxXS0UAUNb0ay8Q6NcaXqiNJa3AAkVJChIBB6ggjkVz+gfC7wt4a1mLVNItLiO6iDBGe7lcAMMHhmI6GuvooAiubeO7tJracExTI0bgHGQRg81xumfCDwfpGqWuoWNlcpcWsiyxM17KwDA5GQWwfxrt6iaRnYpD1HV+y\/wCJoAV5drbEG6Qjgenua8nvfg3ptx8Tre4NhdPos1pNNdSC+cD7UZAVwN2QME8DivWkjEa4Xr3J6mucu\/EWoQfEaz8Pw2KyWVxp0l09zhspIrhQuegBBJ9eKAOiZlhjGc4HAA5JrzL4kfCuy17R9a1jS7G4k8R3EYMCpeOqlxtA4LBeg+lemJFtbe53Oe\/p7Csbxrrd74c8F6nq+l2gvLu0h3xQFWIkOQMYXnv2oAt+HNOGk+GNN08IyfZrWOMqz7iCFGQT35riPi14Ag8VaHe32l2dxc+Io7dY7QxXTRhfnzyNwXoW613en3c2oaZazlfKaaFHkIH3SVyQM+9ZnjbWbvwt4H1LVtHsheXdpGHityrN5hLAHIXk9SaAJvCXhqy8K+HoNO0+KSNQN7iSUyNvPLcknv26Vt1FaytPZwyyLtaSNWZfQkZxUtABRRRQAUUUUAFFFFABVa602xvmU31nb3JUYUzRK+PpkVZooA57xFpGm2nhXWJrXT7WGVbCcB44FVh+7buBXnH7Mf8AyIWp\/wDYQP8A6LSvU\/FP\/Inaz\/14T\/8Aotq8s\/Zj\/wCRC1P\/ALCB\/wDRaUuo+h7RRRRTEFFFFABRRRQAUUUUAFFFFABQTgZPSkd1RdznAqII03MowmeE9fr\/AIUAGWn4XKx926Fvp7e9SqoRQqjAHQCl6VDuaf8A1Z2x927t9P8AGgBWkZmKQ8nu3Zf8TWS\/iKytfGdt4ZMcxvLqze9EuBs2qwUgnOc5I7VtKqooVBgDoBWXcXOiR+J7eKc2v9ttbO0ClQZjDuG7aeu3OM0AajMFUljgDqTWL4m8QQeG\/Dd7rmoJMbKxj8x0iA8xxnHGSPX1rWWNpGDzduVQHgf4mqmvS6TBoN3L4jNuNLVM3JugDHtz\/EDxjOKALVlcpe2FvdQgrHPEsigjkAjI\/nWf4p8R2vhLwxe67qEcsltZIHkSEAsQWA4yQO9aNq0DWkLWm3yDGpi2fd244x7Yql4gm0e30C6l8Sm2Glqo+0G6AMe3IxuB464oAvQTLcW8cyAhZEDgHrgjNSUyExmBDBt8sqNm3pjHGKfQAUUUUAFFFFABRRRQAUUUUAZXin\/kTtZ\/68J\/\/RbV5Z+zH\/yIWp\/9hA\/+i0r1PxT\/AMidrP8A14T\/APotq8s\/Zj\/5ELU\/+wgf\/RaUuo+h7RRRRTEFFFFABRRRQAUUUUAFMkkCYGNzHoo6mkeQ7tkQ3P39F+v+FLHGEySSzHqxoARIyW3ykM3Ydl\/z609mVFLMcCmySCPAPLH7qjqaasZZhJNguOgHRf8APrQAgVpsGQFU7Ie\/1\/wqaiomkZm2Q8n+Juy\/4mgBzy7WCqNznoP6n0rIbw1ZSeL7fxFNLK2owWj2qKHAj8tmDH5fXIHOa2I41jHGST1J6msC48MST\/EWy8TC7Cx22nyWZttp+Ys4bdnPbGMYoA6GsvxJoVn4m8N3ujao0iWl5H5crRPtYDIPBOcdK1Kw\/Gnh5\/FfgzUtDhuvsj3sXlicru2cg5xkelAGtaW0dnYwW0JJjhjWNCxycAYH8qoeJ9AsvFPhq80XVWkSzu0CStE4VgAQeCQccgVd0+1NjplraM+8wQpGXxjdtUDP6Vk+N\/Dkni7wVqWhQ3Qs3vYwgnKltmGBzgEenrQBtwRLBbxwx52RqFXJ7AYp9RWsJt7OGEtuMcapu9cDFS0AFFFFABRRRQAUUUUAFFFFAGV4p\/5E7Wf+vCf\/ANFtXln7Mf8AyIWp\/wDYQP8A6LSvU\/FP\/Inaz\/14T\/8Aotq8s\/Zj\/wCRC1P\/ALCB\/wDRaUuo+h7RRRRTEFFFFABRRSMwRSzHAHJJoAWoS7THbCcLnDP\/AEFGGn+9lYv7vdvr7VMAAMAYAoAaiLGuEGB1+tNeXDbIxuf9F+tIXaVtsPC93\/w9aeiLGu1R\/wDXoASOPZyTuc9WNPzjrSO6ou5jgVEEabBlG1Oyev1\/woANzT\/cJWPu3dvp\/jUqqqKFQAAdAKWigArnbiz15viRZXcM5GgJp0kc8PmDBnLgqdvU\/LnmuirnrjXdRi+ItloUdiG06fT5LmS72t8kiuFCZ+7yCT60AdDWF41tdavfBep2\/heYwavJDi1kEgQq2R\/EenGa3aw\/Ges33h\/wbqWq6TZi9vLWLfDblWbzDkDGF579qANPTkuI9LtUvW3XKwoJWznL7Rk5+uayfHNrrl94J1K28KTGDWJIwLWQSBCrbhn5j04zWvp88l1plrcTx+XLLCjumCNpKgkc1k+N9av\/AA74L1LVtHshfXtrGGitirN5hLAYwvPQk8UAbNqsq2cK3BzKI1DnOctjn9alqK1kaazhlkXY7xqzL6EjpUtABRRRQAUUUUAFFFFABRRRQBleKf8AkTtZ\/wCvCf8A9FtXln7Mf\/Ihan\/2ED\/6LSvU\/FP\/ACJ2s\/8AXhP\/AOi2ryz9mP8A5ELU\/wDsIH\/0WlLqPoe0UUUUxBRRRQBiarpV7c6kLqzNuQISm2dmwThuCAO+eoI78HjF3TbKS2sYY7oqXjHKq2VBznI4Hr6cVerP1r7X\/ZpOnmQShwf3SgkjuOSP0oAvswVSWIAHUmovmn9Vi9Ohb\/AVS0+K9a5lbUSxj2RGNGKkI235xwOee5\/CtOgAACgBRgDoBTJJAmB1ZvuqOppHkO7ZGNz9\/RfrSxxhMknc56se9ACJGSweXBcdAOi\/T\/GpKKKACiiigArEn8T20Hji18MNBKbm5snvFlGNgVGCkHnOefStusqXUNGTxZb6fKYf7aktXlhBizJ5IYBsNjgZI4zQBq1keKvEMHhPwrf67eQyTwWMfmPHFjcwyBxnjvWvWb4hvtK03w\/eXniIxDTIU3XBmj3ptyOq4OecdqALdldLfafb3calUniWVVbqAwz\/AFrO8W+JLfwh4UvtevIZJ4LJA7xxY3MCwXjJA71p2skM1nDJabfIeNWi2jA2kcYHbiqPiO\/0jTPD13eeJDENLiUG4M0fmJjIAyuDnnHagC\/bzC4toplBAkQOAe2RmpKZC0bwRvDjy2UFMDAxjin0AFFFFABRRRQAUUUUAFFFFAGV4p\/5E7Wf+vCf\/wBFtXln7Mf\/ACIWp\/8AYQP\/AKLSvU\/FP\/Inaz\/14T\/+i2rwf4D\/ABC8LeEPB99Z+ItWjsriW8MqI0btldijPyg9waXUfQ+jaK4L\/hd3w7\/6GSH\/AL8S\/wDxNH\/C7vh3\/wBDJD\/34l\/+JpiO9orgv+F3fDv\/AKGSH\/vxL\/8AE0f8Lu+Hf\/QyQ\/8AfiX\/AOJoA72iuC\/4Xd8O\/wDoZIf+\/Ev\/AMTR\/wALu+Hf\/QyQ\/wDfiX\/4mgDvScCuatvEN3PHErrF5j3KwsI0boSMlSe4zkggEdxwax\/+F3fDv\/oZIf8AvxL\/APE0f8Lu+Hf\/AEMkP\/fiX\/4mgDu0RY12oMD+dOrgv+F3fDv\/AKGSH\/vxL\/8AE0f8Lu+Hf\/QyQ\/8AfiX\/AOJoA72iuC\/4Xd8O\/wDoZIf+\/Ev\/AMTR\/wALu+Hf\/QyQ\/wDfiX\/4mgDvaK4L\/hd3w7\/6GSH\/AL8S\/wDxNH\/C7vh3\/wBDJD\/34l\/+JoA72suXRdMl8Uwa1Ig\/tOG1a3jbzDxEzAkbfqBzXLf8Lu+Hf\/QyQ\/8AfiX\/AOJrn7j4i\/Dqf4hWfin\/AIS+FWtdPksvs32SX5t7ht27bxjHTFID12s7X9J0\/XdBu9M1ld9jcpsmUuUyuc9R06Vyf\/C7vh3\/ANDJD\/34l\/8AiaxPGPxM+HXi7wfqOgt4uhtRfReWZvssr7OQc42jPSmB6nawRW1nDBbjEUUaogzn5QMDn6VS8Q6Pp2v6BdaXrab7C5ULMpcpkZB6jpyBXGaf8ZPh3YabbWg8Twv9nhSLd9nlG7aAM42+1ZXjX4k\/Drxj4N1HQG8XQ2gvownn\/ZZX2YYNnG0Z6UgPV4Y0hgSOLhEUKvOeAOKfXkmo\/Hzwjos2k22nXR1azZTFdSwRsr2+AoVtrAbgecgc16bo+tadr+mRaho15FeWkoyksTZH09j7HmmBeooooAKKKKACiiigAooooAZNDHcQSQzoskUilHRhkMCMEGuCPwN+HhYn\/hHoxk9BcS4H\/j1egUUAef8A\/Cjfh5\/0Lyf+BEv\/AMVR\/wAKN+Hn\/QvJ\/wCBEv8A8VXoFFAHn\/8Awo34ef8AQvJ\/4ES\/\/FUf8KN+Hn\/QvJ\/4ES\/\/ABVegUUAef8A\/Cjfh5\/0Lyf+BEv\/AMVR\/wAKN+Hn\/QvJ\/wCBEv8A8VXoFFAHn\/8Awo34ef8AQvJ\/4ES\/\/FUf8KN+Hn\/QvJ\/4ES\/\/ABVegUUAeM3nwu8F2Op3EF14Wggg3bYZpJpgoHB3Ft+GG3eeOhUD+IV0UPwT+G9xAk0GhRyRSKGR1uZSGB7j5q7a+0i21Fy9x5m\/ywiMr4MeGDbl9DuVTn\/ZFWLO0isbOK1twRHEoVdxyfxPrQM4X\/hRvw8\/6F5P\/AiX\/wCKo\/4Ub8PP+heT\/wACJf8A4qvQKKBHn\/8Awo34ef8AQvJ\/4ES\/\/FUf8KN+Hn\/QvJ\/4ES\/\/ABVegUUAef8A\/Cjfh5\/0Lyf+BEv\/AMVR\/wAKN+Hn\/QvJ\/wCBEv8A8VXoFFAHn\/8Awo34ef8AQvJ\/4ES\/\/FUf8KN+Hn\/QvJ\/4ES\/\/ABVegUUAef8A\/Cjfh5\/0Lyf+BEv\/AMVR\/wAKN+Hn\/QvJ\/wCBEv8A8VXoFFAHj3ij4GeDIZLK9tbOa1tYZAktpbSsXvJHZVjTc5+QZPJHrXUaZrtt4fjXTtM8OjT9NsoJ2niiK7ozE0YJAB+YYkznqa7K9srfUbN7W8j8yJ8ZXJHIOQQRyCCAQR0xWbZ+FdMsWdolmd2eZg8kpYjzQN45+8DtB+bPIpAXtP1GPUo5pIFYRxzPCrnGJNpwSPbOR+FW6qaXptvo+lW2n2YYQW0YjTcckgDqT3NW6YBRRRQAV4B+1F4j1zw\/\/wAIt\/YOs6hpnn\/a\/N+xXTw+Zt8nG7aRnGTjPqa9\/rwD9qLw5rniD\/hFv7B0bUNT8j7X5v2K1eby93k43bQcZwcZ9DQB7\/RRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQB\/\/9k=\"  \/><\/p>\n",
+        "Topic": "The Theory of Supply",
+        "Difficulty": "Easy"
+    },
+    "Question 9": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Finance development projects in member nations <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Promote economic integration in non-member countries <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Assist countries to achieve their economic goals<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Promote free trade within member nations<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The European Union was formed to<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The European Union was set up with the aim of ending the frequent and bloody wars between neighbors, which culminated in the Second World War. European Union was formed to promote free trade within member nations. <\/span><\/p>\n",
+        "Topic": "International Economic Organizations",
+        "Difficulty": "Easy"
+    },
+    "Question 10": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>VAT <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>PAYE <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Surtax <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ad valorem tax<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The tax levied on goods and services at each stage of production is <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>VAT (value added tax) is the tax imposed on goods and service of each stage of production. Advalorem tax is imposed based on the value of the good e.g. gold.<\/span><\/p>\n",
+        "Topic": "Production",
+        "Difficulty": "Easy"
+    },
+    "Question 11": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Can sell to other countries without buying from them <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Has a higher opportunity cost in the production of a good <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Has a lower opportunity cost in the production of a good <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Can produce more of any good with fewer resources<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A country is said to have absolute advantage when she <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>When a country can produce more of any good with fewer resources, such country is said to have absolute advantage.<\/span><\/p>\n",
+        "Topic": "Production",
+        "Difficulty": "Easy"
+    },
+    "Question 12": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Economic decisions are made by both the rich and the poor <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Economic activities are undertaken by both the public and private sectors <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>The federal and the state governments undertake joint projects <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Both primary and secondary production is undertaken<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A major characteristic of a mixed economy is that <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Mixed economy is that economy in which the means of production and distribution of goods is in the hand of both private individual and public sector (i.e. government).<\/span><\/p>\n",
+        "Topic": "Economic Systems",
+        "Difficulty": "Easy"
+    },
+    "Question 13": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Retain price <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Reduce output <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Increase price <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Reduce price<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>In order to increase revenue, the seller of a commodity whose demand is fairly elastic is advised to <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Revenue of a seller of a commodity whose demand is fairly elastic can any be increased by reducing the price of that commodity.<\/span><\/p>\n",
+        "Topic": "The Theory of Demand",
+        "Difficulty": "Medium"
+    },
+    "Question 14": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A wide spread around the mean <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>The difference between the highest and the lowest values <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A wide difference between the mean and the mode <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>The size of the sample<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A large standard deviation is an indication of <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A widespread around the mean is standard deviation. It is a measure of dispersion. <\/span><\/p><p>S.D = &#8730;V<\/span><\/p><p>V = &#8721;f(x \u2013 )<\/span><\/p>\n",
+        "Topic": "Methods and Tools of Economic Analysis",
+        "Difficulty": "Difficult"
+    },
+    "Question 15": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 4.00<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><\/span><\/p><p>N 7.40<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 10.00<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 14.80<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Calculate the mean wage<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><table><tr><td>x<\/td><td>f<\/td><td>fx<\/td><\/tr><tr><td>2<\/td><td>2<\/td><td>4<\/td><\/tr><tr><td>5<\/td><td>3<\/td><td>15<\/td><\/tr><tr><td>8<\/td><td>1<\/td><td>8<\/td><\/tr><tr><td>11<\/td><td>3<\/td><td>33<\/td><\/tr><tr><td>14<\/td><td>1<\/td><td>14<\/td><\/tr><tr><td>-<\/td><td>-<\/td><td>-<\/td><\/tr><tr><td>-<\/td><td>10<\/td><td>74<\/td><\/tr><\/span><\/p><\/table><\/td><p>Mean = 74\/10 = 7.4<\/span><\/p>\n",
+        "Topic": "Methods and Tools of Economic Analysis",
+        "Difficulty": "Medium"
+    },
+    "Question 16": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Closeness of the substitutes <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Price of the good <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Degree of necessity of the good <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Level of income of consumers <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The major determinant of cross elasticity of demand is the<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Cross price elasticity of demand: measures the responsiveness of ademandfor one good to a change inpriceof another good. Price of the goods is therefore a major determinant.<\/span><\/p>\n",
+        "Topic": "The Theory of Demand",
+        "Difficulty": "Medium"
+    },
+    "Question 17": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Scarcity, choice, scale of preference and opportunity cost <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Scarcity, wants, choice and scale of preference <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Wants, choice, scarcity and opportunity cost <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Wants, scarcity, choice and opportunity cost<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The logical sequence of basic concepts in economics is <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The logical sequence; Want &#224; Scarcity &#224; Choice &#224; Opportunity cost<\/span><\/p>\n",
+        "Topic": "Economics as a science",
+        "Difficulty": "Easy"
+    },
+    "Question 18": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>3.0<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>33.0<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>1.5<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>12.0<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>If P = &#189; (QS + 15), what is the quantity supplied at N9.00?<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>P = &#189; (Qs +15)<\/span><\/p><p>Q = &#189; (Q=15)<\/span><\/p><p>Qs = 18-15 <\/span><\/p><p>Qs = 3.0 <\/span><\/p>\n",
+        "Topic": "The Theory of Supply",
+        "Difficulty": "Medium"
+    },
+    "Question 19": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Negative <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Zero <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Positive <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Consistent <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The coefficient of the price elasticity of supply is always <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The co-efficient of price elasticity of supply is always positive while positive for demand is negative. <\/span><\/p>\n",
+        "Topic": "The Theory of Supply",
+        "Difficulty": "Medium"
+    },
+    "Question 20": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Demand has exceeded supply <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>There is an increase in demand <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Inflation has taken place <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>There is an increase in quantity demanded <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>When the demand for a good increases owing to an increase in income, it means that <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAANUAAACxCAIAAADcR2+YAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAATvSURBVHhe7d1NbttKEEVhJwvJIED2v6AAGWQjSgFFtDskJYtks29V9\/kgvEfJsMWf4yKpDPzt8Xh8ACLfl\/8DCvQHpTb9\/fr5Y1kCjmjQH\/HhtGbnXyrECVf7Iztc0fL+gxZx1KX+tsGRIA453x+p4bqT\/b2Ijy7xvqv\/\/lbX9vvP32UJeE\/L+w\/gKPqDEv1Bif6g9Nmf3UmUx\/IScLP\/5p\/dwPqDBNEH518o0R+U\/uuvXP\/xSTL62L\/+W54DN+P8CyX6g9Jnf5x20R\/zD0oR++PT73lE7M+uBEhwEj36IyY8E\/T6jxE4iR79EROeCTr\/DNXOIG5\/mEHo\/hiBw+vUHyVhV\/TzL+GOLcH1HwkOjPsPKPXr78oYYwSOivkHpTT9MQKH1LU\/GsJKpvMv+Y4n2fUfCQ4m3\/0HCY6kd3\/Ug1q++WeIeBgp+zMkOIas\/RkSHICgP7pBkXj+GVLOTtNfw25IMLXc88+RYF6y\/tpGQ4JJjTD\/kJeyP0YgxPOPBCc32vmXBHPR99e8GBJMZMz7DxLMIkR\/d+RCgilEmX8kOKdA518SnNCY1381EowsVn83tUKCYYWbfyQ4lYjnXxKcx\/jXfzUSjCZof\/eF4j+ZCoOIO\/9uTZBBGETo8++tlTAII5jr+m+FQSgXvb8OfZCgUIL51y1BKuxv6vNvzRJkEPaXo79uZTAIO0sz\/3omSIXdcP7dR4V9ZOqv2wgsqPBu3x6Px7J4Sn1g7FAtS3eyd+zzRitlSyXvPqp8\/Rl\/U1UH2nd\/pj4QJssvScr+nL21cC9Hq3C1N7Q7532J7z9s\/9b1d2bv7ivgj+XVMLQ75325739LAcvz7rzCOkThymSU\/vOXcviX5yIlRF8ZQnzTIJ\/\/RUiw2IZIi88kvv\/Y8pWRr8auu3eU\/fzVj92+EtBQ\/bn4+73eaabJ2tJfoMHjaxV\/77sm+3BVW4r4zJj9uSzHoFbvz13Ptmj1jVk2fOT+jK9eugpf2A007wYO3p+zlRwpwZEM8vnLaxafJbg7OaA1RX\/GEvQKl+eIYZb+HIMwmrn6MwzCUKbrzzEIg5i0P1MGIRUKzdufo0Kt2ftzVKhCf5+osL8p\/v3jhLJdI21UQPT3Bd9AKrwJ598vWHn2sArr3zS0Qn9vocKbcP49zDc56caufn\/kW0F\/J5UNz7XVttr1Cq+e9kd\/V+XaA9vgtAly\/XeVHbzysGPpj+Vr+Ar9tUSIR9HfLbYh0uIu+rtXCbFucfkauP+Q2CZ4x67bPTT24uq9tq\/0RH8hbIusvdixL75x97tWtWnjM\/SXwNHIXlj9KPkhoz8ocf8BJfqDEv1Bif6gRH9Qoj8o0R+U6A9K9Acl+oMS\/UGJ\/qBEf1CiPyjRH5ToD0r0ByX6gxL9QYn+oER\/UKI\/KNEflOgPSvQHJfqDEv1Bif6gRH9Qoj8o0R+U6A9K9Acl+oMS\/UGJ\/qBEf1CiPyjRH5ToD0r0ByX6gxL9QYn+oER\/UKI\/nPSrxd9ypz9ccrHCln\/\/FzM799efmX9o49wgvNoff\/MctaMJMv\/QjA2jo\/Po6vUfplWPulV29qU3Q2T+4aor12D0h0s8Pr\/58IlY\/usLrl6u0R\/OK\/HZQpmCvuCvlBbLV1foDyc9S+oQ+oMS979ooFze+VD0p2X5xaRk\/qEBK6yObPX0BfrDjV4PP8P5FzofH\/8AnRjpDEy6vSgAAAAASUVORK5CYII=\"  \/><\/p>\n",
+        "Topic": "The Theory of Demand",
+        "Difficulty": "Easy"
+    },
+    "Question 21": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Technical progress <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Government policies <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><\/span><\/p><p>Natural disasters <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Birth control measures <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The Malthusian theory of population has been rendered ineffective by <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Malthusian theory of population has been rendered ineffective by technical progress. Known forhiswork onpopulation growth, Thomas RobertMalthusargued that, left unchecked, apopulationwill outgrowitsresources. He discussed two ways to check apopulation: preventive checks, likethemoral restraint of postponing marriage, or positive checks, like famine, disease and warfare.<\/span><\/p>\n",
+        "Topic": "Population",
+        "Difficulty": "Medium"
+    },
+    "Question 22": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Decreased urbanization <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Urban-rural migration <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Location of industries <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><\/span><\/p><p>Localization of industries <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Environmental degradation is more associated with <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Environmental degradation is the deterioration of the environment through depletion of resources such as air, water and soil; the destruction of ecosystems; habitat destruction; the extinction of wildlife; and pollution. Environmental degradation is more associated with localization of industries. <\/span><\/p>\n",
+        "Topic": "Production",
+        "Difficulty": "Medium"
+    },
+    "Question 23": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Expands employment opportunities in urban areas <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Encourages trade liberalization <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Stimulates the development of all sectors <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><\/span><\/p><p>Enhances productivity in the manufacturing sector <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Industrialization is a prerequisite for balanced economic growth because it <\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Industrialization is the period of social and economic change that transforms a human group from an agrarian society into an industrial society, involving the extensive re-organization of an economy for the purpose of manufacturing. Industrialization stimulates the development of all sectors. <\/span><\/p>\n",
+        "Topic": "Industry and Industrialization",
+        "Difficulty": "Easy"
+    },
+    "Question 24": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Geographical distribution of population <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Age distribution of population <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Occupational distribution of population <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Sex distribution of population <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The movement of people from rural to urban areas affects the<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Movement from one place to another affects geographical distribution of population.<\/span><\/p><p>The movement poses some problems in the rural as well as in the urban centre even though; there are benefits derivable from it. In most rural areas, the impact of rural-urban migration was a rapid deterioration of the rural economy leading to chronic poverty and food insecurity<\/span><\/p>\n",
+        "Topic": "Production",
+        "Difficulty": "Easy"
+    },
+    "Question 25": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A review of interest rates <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>The revaluation of the naira <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A review of the naturalization policy <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A review of the tax policy <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Foreign investment can be attracted to Nigeria through<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Foreign investment can be attracted to a review of the naturalization policy. Naturalization is the admittance of a foreigner to the citizenship of a country.<\/span><\/p>\n",
+        "Topic": "Economic Growth and Development",
+        "Difficulty": "Easy"
+    },
+    "Question 26": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Create a market for the industrial sector <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Create a market for the agricultural sector <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Stabilize the prices of agricultural products <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Stabilize the prices of industrial products <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A country would develop its agricultural sector first so as to<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Agricultural sector would create a market for the industrial sector. Industries need agricultural products as raw materials.<\/span><\/p>\n",
+        "Topic": "Natural Resources and the Nigerian Economy",
+        "Difficulty": "Easy"
+    },
+    "Question 27": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>The number of people receiving pension <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>People with the working age <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><\/span><\/p><p>The number of people in paid employment <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>People within the retirement age <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The labor force of a country best describes <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Labor force is people who fall in a working age. It is generally used to describe those working for a single company or industry, but can also apply to a geographic region like a city, state, or country. <\/span><\/p>\n",
+        "Topic": "Population",
+        "Difficulty": "Easy"
+    },
+    "Question 28": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Refining of crude oil <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Marketing of finished products <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Management of pollution <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Exploration of crude oil <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Upstream oil activities involve the <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>From the options, upstream oil activities involve exportation of crude oil. Refining of crude oil is a midstream activity and marketing of finished product is a downstream activity.<\/span><\/p>\n",
+        "Topic": "Natural Resources and the Nigerian Economy",
+        "Difficulty": "Easy"
+    },
+    "Question 29": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Provide raw materials for industries <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><\/span><\/p><p>Make cassava a staple food in the country <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Diversify the export base of the economy <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ensure the availability of cassava <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A major objective of the Federal Governments initiative on cassava production in Nigeria is to <\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The initiative of Federal Government on cassava is to diversify export base of the economy. <\/span><\/p>\n",
+        "Topic": "Natural Resources and the Nigerian Economy",
+        "Difficulty": "Easy"
+    },
+    "Question 30": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Supply of labor <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Tax rate <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Demand of labor <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Wage rate <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>An upward review of the retirement age will affect the <\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Upward review of retirement would affect demand for labor. Since workers can spend more time in employment before retirement, the demand for new workers would reduce.<\/span><\/p>\n",
+        "Topic": "Economic Growth and Development",
+        "Difficulty": "Easy"
+    },
+    "Question 31": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Expenditure method <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Value-added method <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Output method <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Income method <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>One way of solving the problem of double counting is by computing national income using the <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Theexpenditureapproach is amethodof measuring GDP by calculating all spending throughout the economy including consumer consumption, investing, government spending, and net exports. Expenditure approach will solve double counting in the computation of income<\/span><\/p>\n",
+        "Topic": "National Income",
+        "Difficulty": "Medium"
+    },
+    "Question 32": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Enables a customer to operate his account from different locations <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Enables a customer to operate many accounts from different locations <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Reduces the risk of bank fraud <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Enables many customers to operate joint accounts <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>An advantage of electronic banking is that it <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Electronic bouncing enables customers to operate their account from anywhere. <\/span><\/p>\n",
+        "Topic": "Finance and Financial Institutions",
+        "Difficulty": "Medium"
+    },
+    "Question 33": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Money-market instruments <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Long-term financial instruments <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Cash and near money <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Equipment <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Life insurance companies contribute to economic development by holding a part of their assets in <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Life assurance companies sell life assurance policies. Alifeinsurance policy is defined as a contract where the insurer promises to pay a beneficiary a designated sum of money in exchange for apremium, upon the death of an insured person. In the capital market, they are long term financial instruments. <\/span><\/p>\n",
+        "Topic": "Finance and Financial Institutions",
+        "Difficulty": "Medium"
+    },
+    "Question 34": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Leakages <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Expenditure <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Injections <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Income <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>In the circular flow of income model, the outflow variables represent the <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The circular flow of income or circular flow is a model of the economy in which the major exchanges are represented as flows of money, goods and services, etc. between economic agents. Outflow in circular flow of income are leakages or ejections. <\/span><\/p>\n",
+        "Topic": "National Income",
+        "Difficulty": "Medium"
+    },
+    "Question 35": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Cost-push inflation <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><\/span><\/p><p>Demand-pull inflation <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Stagflation <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Hyperinflation <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A persistent rise in the prices of inputs will lead to <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Cost push inflationisinflation caused byan increase inpricesof inputs like labour, raw material, etc. The increased price of the factors of productionleadsto a decreased supply of these goods. Demand-pull inflation is when the demand for a good or service is greater than supply, allowing producers to raise prices.<\/span><\/p>\n",
+        "Topic": "National Income",
+        "Difficulty": "Medium"
+    },
+    "Question 36": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Retail price index <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Price deflator <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Producer price index <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Price index <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Corrections in the GNP figures for price changes require the use of a <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Price index is used to correct wrong GNP figures while computing national income. <\/span><\/p>\n",
+        "Topic": "National Income",
+        "Difficulty": "Easy"
+    },
+    "Question 37": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Pension funds administrators <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Investment companies <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Mortgage institutions <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Pension funds custodians <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The non-bank financial institutions that are entrusted with workers contributions towards retirement are <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>They are called Pension Fund Administrators. A Pension Fund Administrator (PFA) is a company licensed by the National Pension Commission to manage and invest the pension funds in the employee's Retirement Savings Account (RSA).<\/span><\/p>\n",
+        "Topic": "Finance and Financial Institutions",
+        "Difficulty": "Medium"
+    },
+    "Question 38": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Doubling the interest rate <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Maintaining the interest rate <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Decreasing the interest rate <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Raising the interest rate <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A reduction in the bank rate encourages commercial banks to create money by <\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Reduction in bank rate by CBN average commercial banks create money by decreasing the interest rate on loans given to customers. <\/span><\/p>\n",
+        "Topic": "Public Finance",
+        "Difficulty": "Medium"
+    },
+    "Question 39": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>SAP <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>MDGs <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>NEEDS <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>PAYE <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The monetization policy is an offshoot of <\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>From the options, the Monetization policy is an off shoot of NEEDS. NEEDSstands for National Economic Empowerment and Development Strategy.<\/span><\/p>\n",
+        "Topic": "Economic Growth and Development",
+        "Difficulty": "Medium"
+    },
+    "Question 40": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Operation is at its later stages <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Some inputs cannot be varied <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>It cannot increase price <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Operation is at its early stages <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A firm incurs short-run costs when <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Firm incurs short run cost when inputs cannot be varied. A firm in the short run uses both fixed inputs and variable inputs. Costs that arise due to the use of fixed inputs are called fixed costs or overhead costs or unavoidable costs. Whether a firm produces or not it will have to incur fixed cost. Thus, fixed cost is independent of the level of output.<\/span><\/p>\n",
+        "Topic": "The Theory of Costs and Revenue",
+        "Difficulty": "Medium"
+    },
+    "Question 41": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>The percentage change in output is greater than one <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><\/span><\/p><p>The percentage change in output is less than one <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>The percentage change in inputs exceeds output <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Output and all inputs change by the same percentage <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A characteristic of the linear production function is that <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Outputs and all inputs are always equal in a linear production function. <\/span><\/p>\n",
+        "Topic": "The Theory of Production",
+        "Difficulty": "Medium"
+    },
+    "Question 42": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A leftward shift of the supply curve <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><\/span><\/p><p>A rightward shift of the supply curve <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A downward movement along the supply curve <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>An upward movement along the supply curve <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>An increase in the marginal cost of production causes<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Since MC curves represents the supply curve of a firm, an increase in MC would stuff the supply curve to the right.<\/span><\/p>\n",
+        "Topic": "The Theory of Production",
+        "Difficulty": "Difficult"
+    },
+    "Question 43": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Is simple but strenuous <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Must be done in stages <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Must be undertaken by experts <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Requires no special knowledge <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The division of labor requires that the task to be performed <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Division of Labor requires that the work must be done in stage. <\/span><\/p>\n",
+        "Topic": "Factors of Production and their Theories",
+        "Difficulty": "Easy"
+    },
+    "Question 44": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Marginal cost <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Average revenue <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Marginal revenue <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Average cost <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAADjCAMAAACcoLIlAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAFWUExURf\/\/\/0hISCEhIRMTE0RERCoqKlVVVTc3NzExMT09PVpaWk9PTxkZGXV1dWtra2VlZWBgYHFxcfv7+\/f39wMDAwAAAOjo6AoKCuTk5J+fn9TU1MfHx46Ojnp6eoiIiLKysq6urvDw8H9\/f+zs7IODg7W1tZaWlr6+vrq6uuDg4PPz85OTk8vLy6SkpMPDw5ubm9DQ0Nvb26mpqdfX1zw8PEZGRkxMTKampi4uLiQkJBYWFisrKzMzM2dnZ87OzlNTU7i4uPj4+CgoKFdXV9zc3OPj44uLi0BAQJCQkG5uboGBgZeXl3JycicnJ5mZmb+\/v2ZmZoWFhSAgIMjIyB4eHoCAgA4ODpKSkhsbG62trdHR0V9fX3t7e0FBQdra2nl5eQ8PDyMjI7Ozs7e3t1xcXFJSUgICAmJiYuHh4VlZWQwMDBEREfb29sDAwAQEBAUFBQYGBggICCXt3egAAAAJcEhZcwAADsMAAA7DAcdvqGQAACALSURBVHhe7Z35f+I22sAtWbIk3wYbc9\/3DUlmkuncM53pPb2Pbbttt9e+u\/vu7vv\/\/\/LKhiQkAQKJxQSS76cBmYGUSNZz6dEj6Y477rjjjjvuuJHEK\/Fp644bQTHbD5\/TtcnzHW+Zdqea5E\/JspqdvHDHW6ZVDkai5+SGk+s73jYDcyAl8mZhennH5VQKe9OWCLqGUshanenVHSsQU5ATPA9yyjh8IVrKlmHbo+nFHauQtrWaJPXLZn76QiQkOxO1Eaua1WbYumNV8kir9bKDenp6HQUNC9kTxVE0c6WwcceqxGxmK4aRmV5GQbtsW5YRNtNOpDPvWvS25N7oagzle9OLCCgZtupkp7+wYecmjbdPXwFbIj3LmlWfNiNglFMVozG9kPo3x8YyNCXCP1MAyeE01FRWUXnSioC9bM5yTu2qoXFTvPSEopm5GxxcqxTLwOoGrQxDCKXCF69PxsxZs+Iv1rkpM6Rh2I7JDcqbST+rMKvTDZRczFAdB9mVyT9ck0LODONXN5BqzjLNGxpU61cVRoxCOAbtfDXfzSAaiTHUUZhyQ+NWCdOybXt10TwUGcE4R0rXqZ1tTy7qIM89kCw0W5Pr65ADpHxT3fKUaauaba6qRPKMTFvCGRsMghNZ2na0YBonGatOXrg67bxjRqWKrkT+3rTx00eS9P0H04sp9ZwBkK2uaPgmHQYi9ASWUKpTAnOnYn5QdsK5WUDsmrGsoakaoZEQKcUvpo2L\/HX6HPLpr5L08x\/vTC7MYGQeTNrH5BXEmGqf2OPLifMB2YQDFasZGjYz8+btXv16vZlwwqBYpPz1Lx\/\/4f5jkbnBp8EJHwQqUHblD8Mr+jF\/ODieLyFp7oUgFair3nUDSqxpUyRZRpkpxAoqMDCIMvoS8NP98PHL8OIiXxanDc5+8MAHZDJFvgyf3vlLeDFhrHJ7QwFadcXoSQ0xZdoUSFdFijltR0sR0+hvqN8nTw8mt730r8mT9NGnoRh77f58oibMg+DxH\/948OWnQeP16+DRDNvHxCpjwGxn1ZtmqCogAjNnKZWBpVopIb7q0LSNqdUWHfkzFgL99o9wqhT3fyG\/fPxX6V\/\/\/r8H4QwK2A\/f+uU7P9FwqnwczpDvw1E6pcTVZGzavhyH0ijj3\/PIqlpKjNPWV9Rs9L\/5g1nl8fH+X6UPAq1A+UM+6PYPpxqcU5mYqK+p9MXvvPnFv8Oh+Iic1T4tDa3xJYsECfYis46RivwuDimriiNges8q5Q\/DLt7nMurL78MXuMb\/dtqQpPdo+PSaD8Z79z6S\/vJH+O7KL2eN8LSG1ghH1JiiivSp9uqqIsb3jNcVayxAEP46OyDfh2rjf\/jMeMf9eBpUOFXan05M3P1A6Xz0pfmeG06e4oNZrS5JI6SscdtUgCZyQBJVVVDsuVImRIg7mAps12Mm6uDDYIzy73xMvg20x6l5sj8RWSRU8h8\/+PjfE2n283vh0zEtZR2RJVURExcXTeYcdG1PfC6VPCLl1VXlOszq5IlMem8yN\/7y6TvB9dT44nw\/sad+CZX8h\/\/3D\/mnoPHFL38Pnk4oaWsZgnVL3GLnnkWBmPFoVS0kKsRwrLQ\/4v36OpQ++8dm1XtckXxxatXm\/yd4\/NeDyYyQf34Q+oz3Q+P3lFZurT5oqtUZRydaTI2JcT8kR9VEZA+FTGxZ6X8DLf5BMB3y71Qk84\/\/5a2PuEr5+\/5Jf\/36SxBG+VWe+O4f\/PzfcIBen5VYUm29pZkK0lQxU19KAVELMynVFjYeXGMEff8Ft3c5B7+\/9\/vPwai4f+R\/eifQJcUvfw77PeDBr8Hjt1NHcX8\/lGbmWYklpYzBtLUSccKUxLQdLWPLEZPLGWvatshVg\/2PD35\/TSb3+d8\/+GWiR6R7378zvfVPXfGP5giA++c1gKXNE679+iLTiyFrDTN5ZWJOLljwEEApawmypE8J7\/wVOKcuAl6f782yOsfOrCBKFqgKBYPoo9fS0GIzwfYoaZQd88bs+7h3Jm4V8PpEnh2TmrcrIqZQZmfnTpIqUaK3Vxo2W3QDXGQtP6hgqWUxI30lzilwSfrprFfIac7dplLUKFDnBuISClOnzcgoMqqJkSp7Jl1xrefGkLXm+hUp21at6pw\/Jm5CErEISGQ1QQuR\/Zy9mRXOCDG0+X5IsqOYql29mJxhYRZtdCORUyJN2T0lq05zqbeJOlto9nYQUJ3xeQk8BlqkA9KqAk1IMmu8andukPpYlQZYrE3jWZNbuee8tXjZiNQ1NKktxPdPG8pW7onKGMuc2KGGkVI96wmmVBKd4Rs3EBASHOPqHAgKKYildpKkVJjnDDarTGPqGUncVLXobuk6JmLyWDqOIyaiIJq+05tkODQAI\/NM\/CajhMwutcUVGlkW+kjDtggHPelYZREBhQ2QMKeSNmlNN1aeJ11UIXZmpn8OsjXWtJYR5JeIsIMGFhK2SCCaIjwehZZF6NwRkUpZQHKnPklPp9GEZVsUqyLCGllK81u7ZbBDT0KQSUVBCwyTmIVOd8ukCbOnzevhyIoIP7rA5A1kj4migybbHgN6CiEL8gDipg6NY6se6CyKdIEm0EUYvH1AnS3VHwHNWWmbo3RRJkDJUTWUnQiCAdUjiEgkTCYipaigkO20d6fUZt2nuKOdNXFnSXYosMJQSoLQ02l1VQpVMF9jXY8UQUL00sY4MyBSwgLGYrOn62g0nBoWta5r5LcQywlIiBurirndNRlqZ0OFY6CRxZG+9gDJqB6TMgiutfA7BwOqEdnOs3RzjrOF8atZBuRstDdHtWUmfCKHIerWCb7mokiRiRAsXVURMe02SupcMH2kAWdpUK5OGdQ9iKaXVyPFFBGCJadZopfPhVPSzsVBuBO4fMtBNyvr0JevY7E2iC8iIy7vdIRsY9gsxvnclJ5S5mpiGVUEdVe5umwYMWpGH\/lLpITMuo1TvhApHBXtSxyEoYUwvvIyVcWgueg9hRHazvWPC5gXXYqiOj\/MOEOW6PiqvogjJKXB0so7IK84Crgge+IpS7ksWqrqmGpXiZy3x4gICMUOrOxujEcsr11U4UkbTfYyLGaPQoI0skaFitZktcUArBO5Ahk56kxtn60mYc9zuhtMSV3it1UVRYcyXSMcFUb8uoRGXzEtYzEhCa5vhaox734tQu24zMgC2ib0IIGas1YZl3ROiz4UO1CRoAzwt0F9\/lwvaJdl+3Swm0vkNdVex9g01FTkXVdgx7Usd4GWZc1XhsZlRRvSxFW5CDKhVl61jxNVRiJfkhqaEG11fPcsDligBYoUX2L7pigZc83gULhqeZ0OYdeP258jp5LyTjiEU5Qzpe5mqetQXSruS1QvB3qmifBqOQU1oC\/\/jVegSNTd8AenxMv1hU6aSuHyfrZ1FobquzYkK\/jtRRVE3nd9i+yO+gjJLV6QqlGiLM2C7upkGncZlmHuMj\/AAKAetcFbZ+rWpbdfgmUv3vnaVcBpUbd55BGcJqJWEFbKS0evyBau118Zh5i7Nh7cDVmiZlVIlhZuqGg6mDYzeQ0vy2Kv08j3gIyqovb5vE3qmrrEAUwxxVoWmK0yejJgKUCU3qI3p6CMI7aF+lW6S+buMWWClwXlchgvXUqqzhSCaDsyNsIiuxcYEF1fbiCs7S42AQO7Nz\/4ratr09ZcWr5Mlt7ZgBonsZN2E1hgXrJulcow4iXCpgXXqZqzPdTl5WmhXNaAZb5DDcCZ\/QTxgSfrF5RSHRE\/4qIZDZXRtYJoW4ODreVBxDFSl6785PUzPsiYyrJZONNXDUWnlywKr8tAQ9HHYG4GOXpZQk\/RWFq9OAHkM6sio5Sq0dm9+mkDk4gNrA6TzZ0Jt58jyy7dwTRY7ofvMQjOeBhN4Mu6eazcMwDZ0SajJw2KIpaAN4iCc\/ndm8NsmYtdo5CdkR9jh7rYmHykYlCtGam8SuRsinZjuXYeY+fy+GuMLV9iTyvnf0nBzFEcnECQRCRihzCt2EtzK7edobZClu7YWrSTZ0KipnTOzYIuciHs1FS6ZNv1VSjalO5YOPEstZVOrRkwvNQJa2sX1EzGYK5OqR5pKel4noGNlJ9\/e3TNVfRjiV3iSNToxTnU0RnG0UbHDcZO9nHtKN3cSmt4BXzJHh0FXsi2SjHKdKpE14EJi4lI6bpZNFY8RXwM\/aVvjHPTJ3UmcW5kI80GhJhR1TtsWZQaoiudv3VqyzcfnFL29KW+cawqu2jGQBhBOTh8pUZlZHNz6\/pxp76igZVm83bTy62a6uYQY+miYClLZ0LDcSAr4W\/uaZDSRuzaa4UDQnYju\/0SMmDlOhkWM5easHGTQn1qbLVNyo6lS4dg5dqJhQbz2U6bu8c06MpHglWQ7C\/PZWgQCHNBYKtoQXD61g7D9Fp3dymZ1ZC1bpWz5UHTm8qYre4oZHTPW96vfdVz4WDYAB6aVeV9k\/AhuSwLYiE9gBgSsKXkRlKFa5TJyMlYW64MKobrQ8Lg+e08fdmTr7rg2pQh295iMuuS89dxpcuIXGLoxByMsQwvuJEp3ZXxVUrCNDqAgfLOJZcspEPXio1bWL7ECGgizCC8WEx6NPDdWcWyIn0GibGTa7UL6K23WDGC+vKaASWHyFCWZZi9YFfVZFeXT43s9irdnNZ0Ur62ybxNZMF6az096HlLerJrey7JV7Hnuhczuka66\/lO79iqu9wKShoER+bobwnZdevIWDJGC+2luCL7Lte\/BUuWmZKJn5slaa7y\/dUrCQ01GWd3MdVnGdl1o9ldQHRtQRZVqyzLuB7+Y0rFhLEL20Jr3HJeMSCVzDNd2Lk4NxdLXTdhqgaINt9nLqi6rp4483niu557zoaL7w0tz4POpYVmR1nFk3OR77a68SSJuq4DLFlUm6t3UtT17JkubGRtTLE2aPBxmL4UUMnxgbqs9G\/BIKwj6MCdG00TK2vbMA0G0cX+TFrYR+et2gKhEOPzIbAm8lw1tSS6NSxjtNML54vpYrS+UdnQNHI+aF9UsexedFH2DJlyvaKOz1hmQ4R1smijfzdra7psp3c3sWQZ6SsdnzzA8GymwV5W1Yk898CRblHjogyCpDQbjBpaijV3MbZhMsJdndbtHA7eMeQqSWyxKpLJjKkUsxBW2cJaVU0HujpDmjmzpFjqlwk+d3pBvJ9XgC7TznbGaSOhT9CV4hIWwafmctskRHGWWWullIt13fWJbWYLmcndn3C4KDsxa+OjgkUI1SmamM23lT5DV7JlMhDi4w\/uqRhCe7hcyHQLzAuQIVKrhWQ3LVXKmEJ\/kOTToW5YDGNAMRBSWXmbaFJ0tS7o6Ph4\/6FJZW9WgC2gHUt0+Ds936MYUWyolDIMXahqVNY0hqkG0rHbqjpO6CNwxYVRi9LJ2ojJdFdbMdcnma6Vs4OGwnTPl2Vfx7onK4ruMstS7FusOU6pacc7NddekKtSGZSkLIIYamt+OJls1Ot5xyC6LAdqAwYViXZ1f8F6pOg0cT0H1o2qJpGLcj3ounDhVs\/L6Fadcl5hEJNbFWFfxhBNnW6GlyfCzSHr6gjo1L7u8lHX9L3b6ZbPoUEn1TH6lMn+mkdLNXWTURbBVqaRibB5p0FCsvrEyjIAg\/5JJtVKtIGscIM3iq3irQHwxJydt23EHBdPtiO0BhjK62z87qu6ixGE0WxmynD7d3li5C3B1snx\/hCHu2n6qnqklOUGEqvmuJ0UzWk7RQblq\/mou0VROznWsT2wsbvaftl413M9NxD7SewfZ49ek9LApLncrcgWXUZGmwnbtmzX98+kHM7HgLJOQD6UVQPokohyCoeqwuzxLTeAm2S2Jkzc1n3Mlh+F2s4AV4Ykf2xcUe+y3LmVKRlUI2IOYt0aauSs4O5wpaBTY6HFU6kS6sqycvqhNvOi20dYATI4f\/juLYOcO1CnYAOmKhirZ6pjTMnkMPZ93c7P+oJD6MnR+XUO8Wj5Fg9JWqYXHImGgXUdEkUdxJOFU6O22xhgz0OKWTynM3qei9fOlFjInuP5q2zV3lGq7rxtsiOTUhMwYiNdAVrOMa28YSDCCGTN0kXP3PG9xblz61P3ZbK9J3VekyYFc13t2LiKsC+7rodlD\/r82XN9q1iYG7ca6Z63XkLqcoamrlnXjZBtKxZapMCHTcdmQKM+VjFWiJqrLoysNKHLogihnDBy3AspRbcE42zdmHO0pUQ8nYi1uu3lC90tnYJIhUxJ9Wl2rdDarmAsnCFrYcAFJ01fmZqik84t9EnKwSby65NkuhxxDZJKncKoKzXefNq58pqrIAtIM9ePOhCVBr6fj+R+2SKMqGp17zF9\/TThS9jLuTK9ZZrEIVHJ6TJ32CMKM55SsLiHequGRFleb38dOhBeUuH0CiTqmo5TO16SaYYGcKK7\/xRPRLJC2kY7XPPyPGUFRWdaJrlfL8DBrnQcUL4tjrtBljqGa0I8Xcy93LO04u3IwXZQlKbR0HC9qpD03J7Kgupbu4\/JLtZcuAZp3187324l0iYhauQHwtxAHAwiNSpNWYdirNSxadvG7q+TmDDaENTQ9dxFu9ivS10BhO76xvUUWbl+2WoMoOdF7rFPaSqYqp3dXrpyEIj4fm4S2Yv8dLxjsgxiY6dX3Hsg8nNqCro3fxUyCqrYJ2CXNUlFW3oM25WwXBjlEvtZWjYAmrnhBMfIQ3SLSSIn8j8uqbn63DPBo6GgMYZyuyq30khAXlpGhl5kuXNzqAOdKqkN3rYbpE1EnD1XZL5eENhhY0KZuvKh4VtFC6kiQh2G53pCPPZjBgpiSlFIlObtMqKaiL+qq0AfCV18HcuUMXXDyn0DJMiqW8zXI5HzXSJ0WanUxbIOsru26yqhqGI836KM\/WgPZ7tAhhHqguxuqZKkdkmp6tU5+3sqZSzTTpAHLHCeFDTK6G6dwFrTmaA7rKL6sh+sRorc79wAmF6tnNFNpeuLis1KbUOXTf4k1F\/Yy+1YwmmTBacNXoNl3a3KcjY+M95rDc2KkjS0EePpya+OlVpCh38DZIgtzk7JIBlcecV+HUlXxygYiAbCauDmtlJVYdFN4WhEoIwfUrz0tPaoyGA5EFx1zMJjMgpmWUD4YTPEqSxS6ZY9d1JLRTAk3OUYbMULzr4uKBFn4m+QpM6mLTHYVKcbcBScoJ5EBVFAg9zJnL29HnwbiB0QyYbQEq9ouwRUuMpiJgjcKmWbC9ko0Q\/ImeDYHsVyWXgQsK3QmpSC9qgMuOwyxa1YiochwaX1Gswny8qKR4OB7UqVZKWBbvGZss3O+\/nCAdHTgR7uSTGxY1KkZEBgU0oz2hhQIUsKm6FFsHAFaOkuzgm2QxuEQJ\/x\/4mDO8ryQ5luNklKxc2QqTJPAJ+uVvbp6pQI9cPjyjKE0jlnN2wNXUTFWyQNV3YFh+IlDUIcpIO1NapHnWq2SfpMuA7hDkKReWJXdMNK2ziYGCOMYeAcbitNvIkdfKWxL1ti5cge90DDeGQW0oj3Z2+UNBW70HqMSpjgLed1ZzIHa6ayzdsWCliPasVwKUMaHnN\/x2X04BWOPDrHSktQgGB1i42fjdEn4Noia6VQVQKg4NijOy6hgdG1XbbVYocZ6Oq3t1DcymR0JnI9ZIZ4Fru37VzbK9CU2Zo6JH2qm0+nxiqxoxGTNeVujlxChoKNRUaLMjlz2t5qou6WUcBiUknn0qOub00mWLzs5M3QX8gj7fxJoLeZsaxs0PQBng7BpJYiwtALQhxdokMWVWnsU7Y2\/l5zRS9QzdIgrufJ4Xxgvu9Brr5S1NVnjkSMio14uyKoyeud4nJNBp7nuajP9QeRqU+5p5iXPUhEbrfaMsYMbNJ\/Ttqer7tcaMVJcIRhU5I0XWdw2REkt+xowybG6yUEXFPAtVXPdbnMSiIKmG+OWsi3kb+9aVSR04A0ik2fq1uwaRON+bsTTK7WZbWVobgD3Ju9gJHY5BytoTVnyHwWfeU5r1fCUE0cyFZBV7oF1WoopHqzdfAmFyC7bPZAl81RAno1qcH8QMknFAFWVqRsMlG4ycBbGZA2xAMpSxgymzFDUBm6raRGZg7L2SAxrjukBvdB+Fjk9DulfkKaRFgEcx2Y3JGS2JM1STL1IH\/njpACjLII5upUcGDrIi8In9iechdnPCYl47cyQ5LE596g5XtcnyuysH2O20dGhpvYUHORQo8bE416dsgfy3fR3hNGvrzTBdq2jrEs73pZye2iKMtv2eZcQZ\/fJpWf0eE2J17uHj35OgNyuyLjGyGpCy3Gd8xFoXPnecynpfsb2CR7x8qMdUjymfaGkuXmc\/NuiHa88ra+laljQlm2nB2PB+Nmv59K9UfxvX6vm840+rVMI5PJFIuNTD3F9X93b5QZtYZ73UQykWyP4lKpIlWkdjLRSi769vHFGe\/Tj8TaN1AR1RXDiPDkoeVU2pVG4yT1x4KYEp1iSLEOoU4wJgqgGGP+QwFAiGIKIYHYqDKECP9RiEspxT4kBDCiMEAINYA6Lo77zUK9V+jXasN+odHvNprDRtZGqlruWGWnNkq29vZGe5m99IiP6aA6yDTGuXI173SqRjce4wNUisfaicJksu412\/FEJRy0RHwvUanwYYtfHLpgQTnZH0Y8wUt5zTYsZlVrGxiUuqYoNlCOvcEa72LLZsT3dQwgRkxG2NepLPs+HyJPZrLn8f88n\/\/ori97Mm+5Hm\/JMoYyobru+3LwEQwBk11Zh\/xH1oOzjHXoyVCWdZ2PNWaMIIaAwsdUIwj5rgsh\/z38zT6kPsoNDT7AtqXZqlLNqSogpmGpuZxpO46j2KptmfmsbTn8v+qgWjby2XEnlaqWe6mcTVmunqoPao1srjdIFZ16L1Xs91K9fDaVylfz43on1ew3GulWem9Ua6ULxUahUEzVMs1Gf1ysFZrdUTpTiWUKtS6\/jbrDZrdQ1kzDtnJlwxFeVmiM1FS\/VidBwYOQRGsYTyS7Zf4XjlOdWqeXqhYbqWKtP+BfrV4YDMap5rjQYbzrGObTSeY9BagOVVXVHEApwnyKEKIg4rsaUBACSNX4D9BUhY+BoiFbAQrWMR9i1\/egzJgPdaqBYLZptqICZtoEUUIh5aPHfyCGvMFfUoHPRwwSrCI+C4NZS6kuu5hRRgmj\/CM6kAmEECEZ8zmOGNUJn7Qq4l9E41+Ffw\/+a\/jHAOJXtmkrCjaDr8X\/\/47Fv6YCNKYovNtN03FU\/tU1TTEtBViqzW8M1UK2LdhtzjA7jLZXbLDeCQbdTD+VyTSLtWwxJo1qzfC3cEGTTEqxSiyZjPcLtWIokFqZ9DDdHQ5biVaz0YqVKq1SqzJMFAzFNqudTCXZLwwbhUymwe\/X0d4ouZdOVtKjZNkxLFPV6oW8pZbrqU5\/L11JNotONcVFYHKvV80ZQbepaq+Y2dtLpnvd4SiTTKb7\/EsVetVyJ1\/uFZvZTmHMb\/VxasDv\/eag1k8NapnBuGqYlmmrZrnM552TrToW\/0yxGdyCvV5Wc7K5\/KDs5KvA7tWKxV5ZVW0np9hckuQElwVR9amWTQCBhcuOOdbbk6fAeJk2FhILfM0413Cx6YdW6o54Mh6Lzdcj8VrwZ7ZbmdZeP9NItivJyoXU2cRw3OIOQCteagWr51ydDWzLtvioGNVOSuiANNhJSlpK\/Erh5hY5FndavLhKcv+Fzzu2bXE9JXxjwOBUUKWxkHXT2T9tg0nDC2hLsavZSd1eaiO5Hz1ychJnwroBqR4nwkwQzxKl+z+kXn3y7vR6FTaZ6izVZ6aF+VbC7se6YUOkv9o\/OvzP14ffXBSfF3PzXj7lr2V+DB42JW0H8HRAbNHVR24C7z\/4+sVnXz36z7dfTV9Yxp8H\/OHdV8+k9MHjySvCSSvOsY2RRNHvkrmMC7NDqAXDMb4+\/C4QV2+ef\/7N5JVlHOxPG28Ov5u2hKOd1Aitk1uwlv7j168mja+OnvOb\/unfgnbYA88+MV68H\/zju0+lx4bxCW89Jc9fJaQEl1bGwxf3pZfB24STQtPlqKQ6KdWy0zx98HDaSh9+y7v44Y+8+e7hi4RU+vHbw8Pn\/32f\/wv5kRw9f8jH5v2jo89fSfcfSW\/2jx4+SRhPgg++WkXWXYcByHMPKpHSyMbrRM6JDQrmu69PxPLh10+l744CJSE95z39yecv7j9+4R8lpMcHD99\/\/PQhH7k3z59zc+zln5L06LnxRkrd43Pq2Y\/CBXtd02xbux1HL3\/zTz4FJpB\/PuXThPDWu\/\/8TeLzINAST0hGyhzyS+nR0RtJuveQC41nLx5LL\/efcpvriM+ap\/fuB58WStdwjHJ91w6mmcurf54InHvffiaVngda+93nxzf9q4eHXFE8DAYt9ZBrls8OuA9S+u2xVCKBTnlEnklfPdl9wb5BHj84tpukRw8+kx4f8S6Wnh0+4teZRz\/uHx49L0nv7gfj85jwmfDJvcAi+\/OxlDgItP+bg69eHvzAG28XYXssY9KC+J840odfT1vSvc\/TUunBg+B+f8gH5Afy8IVx\/88HfIDCAXl5j8+Jz+4F73yR4WIrFFTvP7p\/IF5iXUZpo6EDwfz5H66ipb+9evP088BmenDIH14eHvAp8ITPgdKj5+9KiYfBJEjf437KN6FjuJ+WEr+FpvF3Tw5fBM93REb6c\/8zfucfff4wEEnSj0f8buMGlvTsgHDp9ObJ4VMpcRjomaf7fIC+CRTJY8Lf81vosLw8OBBuY902Eu8f7b948u3X\/z00uHS6\/\/XnT+7tH3HJ9OLzo3u\/7T8nL6c6\/s1BOHAvnkoZwq3dJ48CrS49CnXJHZHyzfOjw4NH7x\/5gTFlHB49+sbgMurxo4N7v2WePeVT4ocwqBJEWJ7df8LfdJ+PXOqzT4Jo1ndPdkl+X5Wow8HPXgbRkDcvQumTOA2IrGDP\/hA669tBfFm\/XWJNbTYCf2We3n\/y9o3eO054eRDYx3dMuAmT6LtXm0sKuGP3aC9RikFe6ELm\/tPGA8FXR5L+H19bpajtsOLpAAAAAElFTkSuQmCC\"  \/><\/p><p>The diagram above shows a firm operating under conditions of monopolistic competition. The curve W represents its<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The W curve represents the Average revenue curve (AR) <\/span><\/p><p>M= marginal revenue <\/span><\/p><p>X= average cost curve<\/span><\/p><p>Y= average variable curve<\/span><\/p>\n",
+        "Topic": "Market Structures",
+        "Difficulty": "Medium"
+    },
+    "Question 45": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Maximum <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Minimum <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Decreasing <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Increasing <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>If the total fixed cost is the same regardless of output, the average fixed cost will be <\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>If TFC is constant, the AFC will be decreasing.<\/span><\/p>\n",
+        "Topic": "The Theory of Costs and Revenue",
+        "Difficulty": "Medium"
+    },
+    "Question 46": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>20 kg <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>8 kg <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>180 kg <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>60 kg <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Use the table below to answer this question.<\/span><\/p><p><table><tr><td>Number of workers<\/td><td>Total Output (kg)<\/td><\/tr><tr><td>1<\/td><td>39<\/td><\/tr><tr><td>2<\/td><td>52<\/td><\/tr><tr><td>3<\/td><td>60<\/td><\/tr><tr><td>4<\/td><td>66<\/td><\/tr><tr><td>5<\/td><td>66<\/td><\/tr><tr><td>6<\/td><td>63<\/td><\/tr><\/span><\/p><\/table><\/td><p>What is the marginal productivity when the number of workers is increased from 2 to 3?<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Mp = (60 \u2013 52)\/ (3 - 2) <\/span><\/p><p>= 8kg <\/span><\/p>\n",
+        "Topic": "The Theory of Production",
+        "Difficulty": "Medium"
+    },
+    "Question 47": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>4<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>3<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>2<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>5<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Use the table below to answer this question.<\/span><\/p><p><table><tr><td>Number of workers<\/td><td>Total Output (kg)<\/td><\/tr><tr><td>1<\/td><td>39<\/td><\/tr><tr><td>2<\/td><td>52<\/td><\/tr><tr><td>3<\/td><td>60<\/td><\/tr><tr><td>4<\/td><td>66<\/td><\/tr><tr><td>5<\/td><td>66<\/td><\/tr><tr><td>6<\/td><td>63<\/td><\/tr><\/span><\/p><\/table><\/td><p>The maximum number of workers that should be hired is <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>At workers, the total output was at its peak. <\/span><\/p>\n",
+        "Topic": "The Theory of Production",
+        "Difficulty": "Easy"
+    },
+    "Question 48": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Between zero and infinity <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Zero <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>One <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Greater than one <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>When a firm's average revenue curve is downward sloping, its price elasticity of demand will be <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>When AR curve is downward sloping, PED will be greater than one. <\/span><\/p>\n",
+        "Topic": "The Theory of Price Determination",
+        "Difficulty": "Medium"
+    },
+    "Question 49": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Excess crude oil produced in the world <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Difference between the supply of and demand for oil <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><\/span><\/p><p>Total supply by OPEC members<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Total demand for and supply of crude oil<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The world market for crude oil refers to the<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The word Market for crude oil refers to the demand for and supply of crude oil. <\/span><\/p>\n",
+        "Topic": "International Trade",
+        "Difficulty": "Easy"
+    },
+    "Question 50": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Marginal cost of the commodity <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Normal profit of the seller <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Average revenue of the seller <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Marginal revenue of the seller <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The price per unit of a commodity to a buyer is the same as the<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>TR = P x Q ------ (1)<\/span><\/p><p>AR = TR\/Q ------ (2)<\/span><\/p><p>Substitute TR for (p x q) in equation (2) <\/span><\/p><p>AR = (P x Q)\/Q <\/span><\/p><p>AR = P <\/span><\/p><p>This means that the average revenue of a seller is always equal to the price per unit.<\/span><\/p>\n",
+        "Topic": "The Theory of Price Determination",
+        "Difficulty": "Medium"
+    },
+    "Answers": [
+        "A",
+        "D",
+        "C",
+        "B",
+        "B",
+        "B",
+        "A",
+        "D",
+        "D",
+        "A",
+        "D",
+        "B",
+        "D",
+        "A",
+        "B",
+        "B",
+        "D",
+        "A",
+        "A",
+        "B",
+        "A",
+        "D",
+        "C",
+        "A",
+        "C",
+        "A",
+        "B",
+        "D",
+        "C",
+        "C",
+        "A",
+        "A",
+        "B",
+        "A",
+        "A",
+        "D",
+        "A",
+        "C",
+        "C",
+        "B",
+        "D",
+        "B",
+        "B",
+        "B",
+        "C",
+        "B",
+        "A",
+        "D",
+        "D",
+        "C"
+    ]
+}

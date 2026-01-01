@@ -1,0 +1,1304 @@
+{
+    "Question 1": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Applied arts<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Fine arts<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Liberal arts<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Theatre arts<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Artworks that are produced to serve a utilitarian purpose are classified as<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Applied arts are all the arts that apply design and decoration to everyday and essentially practical objects in order to make them aesthetically pleasing. Examples are Architecture, Fashion design, Interior design, and Graphic design.<\/span><\/p>\n",
+        "Topic": "Classification of Art and Elements and Principles of Design",
+        "Difficulty": "Easy"
+    },
+    "Question 2": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Painting and sculpture<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Architecture<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Drama<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Poetry and prose<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Literary art involves<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Also referred to as imaginative or creative writing. It involves the use of words to create or describe scenes or images.<\/span><\/p>\n",
+        "Topic": "Classification of Art and Elements and Principles of Design",
+        "Difficulty": "Easy"
+    },
+    "Question 3": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><img src=\"data:image\/jpeg;base64,\/9j\/4AAQSkZJRgABAQEAYABgAAD\/2wBDAAIBAQEBAQIBAQECAgICAgQDAgICAgUEBAMEBgUGBgYFBgYGBwkIBgcJBwYGCAsICQoKCgoKBggLDAsKDAkKCgr\/2wBDAQICAgICAgUDAwUKBwYHCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgr\/wAARCABjAGgDASIAAhEBAxEB\/8QAHgABAAEEAwEBAAAAAAAAAAAAAAkDBwgKAQUGBAL\/xABDEAABAgQDAwYLBgMJAAAAAAADAAQBBQYIAgcTCRQjChESITNTFSQxMkFDUWFzg5M0UmN0gbMWF9MYGSJYYnGElaP\/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAwIE\/8QAGxEBAAIDAQEAAAAAAAAAAAAAAAMSAQITIzH\/2gAMAwEAAhEDEQA\/AJ\/EREBEVMo4EHooOdaHuTWh7l0Dmk9TC9A3n00FvjXQjjG\/JwOrtB92RR87cWvKqsKsYnOcOX11mZbSrphNG0speJKo1B7wQmoTh\/lxlQSR4XEMcOrqVVYEcnruOzDugsBlOaWbObM5qqpPDD5jOSzZ+M5BlG4J8zs4jWTdyF5lt1pDqnRZ\/wCazCnSVZNBy2QgdDIQjtxGPXCGAcI83nD\/AMfk60F3EVFs4C7FgMEsMeDHg54e9U5hhdxY4\/B5sGA2nwyYx9PmQfUi+djr7vDevP8ASvoQEREBERAREQcE8yP+ygf5X5crB9UuWVpkrmX2Bq4qSctx94Txdv8Atk+op3CuQi6WpHyLUX2yt0H9rTaOZlZnMDExy1vOSSmTflmfi4\/qaep8xT3bj+M4eSVXbSyi85q\/tQq2e6Aanlgp3IBlcwwDG4b6m8\/+XQJ8tWm2kO0IeXo7aiijS+ZN31D5f5ly6S0u21dRu4GOYj3hx8wg\/wBtR45fZjVtlVUv8YZc1I4lUy3By035kXTJpuBkbkH9MhF7Gyhg8nN5GV7NgAh3bjMaSjEPtCE8dGo9FW5vLfswOhzc2kvrVFkPSaDhD0YIKsupziIiAiIgIqZS6I+tYp3YbZ\/Z8WYVa\/y9zuzzG3qSW4fG5BLWJDuR8PU9nQ8nvQZYLoa6r+jctKYc1hXlUy2SytiLUdTKbP8AA3bjwe8mPqUMd3nK7aWBLvA1l2RTlw79bPK34Yx\/DbiJxPqKKK77aT3pXzTgjy4bOyaTVjq6gpI2Lu8vb\/Dbj4andumUn+1g5TrPG9SVNbrYoKUO5VjY7jDMfVJjJjISHMSDccPR+IoTClM6cEeOTdMhOIUhVSVRc6ovbW05tQyHuQofOyGpjHSdWy6bFE27Qg27gZF4lEGyJSXKw9m7NJON5UVN5iy11DtGsJE3PD6m8q6WXvKTNk7XZMAXee8wkZIi6enO6ccD\/a1FqzF4UeeCv\/aDsv73r5iDNb7kbMH0q1dMtSPfFJeP\/kF7T5ar0To2Rf7\/AN2S3+cGT\/8AVPP6SunaptHrNL257NKatlzxYVM\/kzUZ5k1atijxiGTyE5iDgo3rBOShZQUdKBVfffVxKnnGB1qDpun3xQS8XxCQgMhVKPb1Z5bRajLySq3jJKnKSwOQjwOSSaVDCRxp94Tzyfqt+ia6SLjBh6EOZFQcqxFxmzhslu2qwNa3BW5U3U82bh0RTF8w4sBx9EcfrFfMvPp8JUZbgdibQwvXetj+\/AfMgwyrrk+GycrmQ45Ea0uVy2OPsnskfuWjgfzBkWA12XJDyNxnn1mlwBI8OMBSCsReTh+rcC\/pqdBWqvOuEkFqtr1b5+z6Zt2w6akLh01i6hDTI5gOOhg\/Ummp0GnfndkjmRblmpPMk835D4KqOn3+6TRjqjJpk+IJeYXvbm7h68uvz8qq4nMvd\/DNUTQj9\/uItMY\/hjXhmEvmc5mAJbJmZHTtwXTE2bC1CEJ3a53QpopH7WuTE393GZP4806pmUnoA7gWpJpBVIib444fD1NLslhjd1ZlcVYzmofJ64yg3EmmI\/srntG7wfeNyetGg9Psyqcteq2+egaUvHZ69AzSabpMxldEAPVIPxfUIL1epprb1oOkaMoemGVK0PTrOXSpo1HgYsmbXTGIfsgtI+HaYDCNp41sc8mg2mGeN6OW9SZH55zOXzF3l20ZClk3gXTeOG2np+MD9Z2faKsaciVXqwQXKIrpiIiAiIgKALlU20adVhmQ12e+WU2xilUgKN\/XBBQ+0PSC1Bt\/ljJqfEIpubo8+qUthyBq64CtiwwS6k5E4fmhz+fHBDhi+YToD\/Va19n2yuvJ20Nwk8uRqUZ6fo6pajcvpxW0zH2uoTn0m4\/W933anu3GxOtQtBuEvSzVBk\/bxl64nk1JxHRRcNuzH3hCeqGtmrZZbF23HZ35Zy45qZl9R5jOG0Mc+q5621Candt+6Gve7NjZlZJbNXJX+V+V7XFMJo9LrT+qXocG+TQntJGHkH\/oWTkMMIw5486aaYwSZfkQoDHgh7FbS4u0S3W7Cnh0zcFlLI6qZN8Bd2FNpfgIQGoPoR0sflH1K56KjDXw2tnJm6uyXwTXP2wVm8n9OjJqOsv48R4w\/Lk9aP8AD7RYLbKu9yttnFfBTmbRYOASrf8AwTW8pJw9RkThk1PxB9p8tbeeJsMnWSCwA2nmwGte2gj8+ZEhh\/AdebrAcJ\/KWo4gedDU5t5BDqJ2nadooc1Ls7aSqaTVjTLKqZA\/G6ZP2o3DFwInTwFFj68GOC7dRqbF24rMe3V+PZC3X0TOJbX9BtXJ6bnmkQ8vncmGThlGRSVq6YiIgIiIPPZi5aURm5Rcyy6zMpppOpJN2sW8zlj8WoBwOPXzY8EV+Mu8sqGympCW0Dl3TDOTyaUNt3l8sYC027cf3MGD0QXpEQOaHsREQEREBcY8PThzLlEHU46RppxUA6oLJ22OZADoie6XFwD+5012yIgIiICIiAiIgIiICIiAiIgIiICIiD\/\/2Q==\"  \/><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p> <\/span><\/p><p><img src=\"data:image\/jpeg;base64,\/9j\/4AAQSkZJRgABAQEAYABgAAD\/2wBDAAIBAQEBAQIBAQECAgICAgQDAgICAgUEBAMEBgUGBgYFBgYGBwkIBgcJBwYGCAsICQoKCgoKBggLDAsKDAkKCgr\/2wBDAQICAgICAgUDAwUKBwYHCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgr\/wAARCABbAGcDASIAAhEBAxEB\/8QAHgAAAQQDAQEBAAAAAAAAAAAAAAMFCAkCBwoGBAH\/xABLEAABAgQEAgUGBwoPAAAAAAADBAUABgcIAQIJExQjChEzQ1MSFSQxNIEhIjJBYXODFhdEUlRjk6Oxsxg1QlFWV2RygpGSlJXD0\/\/EABgBAQEBAQEAAAAAAAAAAAAAAAADBAEC\/8QAHREBAAIBBQEAAAAAAAAAAAAAAAEDEwIREiMxM\/\/aAAwDAQACEQMRAD8Av4ggggCCFIIBOPnXqgJUedUY2Axj+OUnX8iIwah+rLb3pm4y+a4STpvVJZkwJggXS+1DOnGQfd5yFKPqz\/RHp7F9Ra2XUXpeaoNvcyEUZE5dh1ZXEQxrEeP5wcBTVK2uXPcj64z3NzpWZwJRVznJQyqm0roQjenRezjWjH2Y+YMZI6BGF\/Z5nZ0z+wuIFaJYmGdKpTl8sZR5\/hwz4RyMauNsE+Wm37z\/AE+ntmTpPOjyR6ZuCL6OREoIQg9uLT+iu6kk31HSvFi9Wn9wdVbM3+cpNWrVO5w6Ie2MiP8A7PfEMii6nvYI87LzvOq9+Xon2TU6FCnL6AuE67+Kj\/Bt8uH4QjbmfAuPxIumUghSE4AggggM8\/q98YRnn9XvjCAUggggI86k9j8mX\/WmzNb1MghZFqxPmUS6uxx9jcR5Mdgn+ccr9Ja53U6Ztzi5ZTmZFkuTbKbyRA8ot30dRtk2yDIPvRx2Q5\/k4xQz0qfTjOwzQh1Aqaticbc4cO0zkmTJdvbUd2tJ9Z2f2cTsUhDXWf1CqV6ljxSuv0rsPmabUcmkaZ3aOF9nUjUEIMgyd6PmRoSwq5F3tGu8kCvrWsIAcvzGnI6bZe0RE5agf6MhI1CP54CfNGePVHbnJc0s86yi1TiwnwMhdUIlSQo+8GQfl4Q9ZPV74rp6Ntem0XPafzLTZ3mDIaa6Z44NL0nITrJw3WTFIT3iw6vs4sOxXoxD3Cqx4YfWxrjxnfTCcNn3Zyt\/SRu\/3w4zRTEwuBNlC8pD58PBVDz\/ALI6HCCAZcC4cqCAzz+r3x861WFAmIrVF2xjH5ZCRmq3dgnD\/L2\/iQ1S42uuEtp2ya1ol6rhcBr1GAvIGoJ\/L5cBDuonSFNKmnEyHlV4uKwVKkxdsmdsZVJxYZ\/7+3EaaidLhtFlWdHFhkmh00TG1JlO2kehKRJ8FY\/EwGSJx1X0ldOytaLAM7Wlyfn5m5gVG1DTl\/1jiHtfeikWHVCULnKkEyTJI5yJfRUyZVxacZPE2yxPsUjC8qHpeVpZW\/eLb3OIz8V5G3xafs\/EjSt7\/SgrermqGTdbu32fujizzSwqEGK12fRD2C92Tb2+77T3RXzqs6Z7jpi1wQ0gdKvtc1EdEHHJeCDtqE6fc5fEDiLsZ3vaBBCkJwdeypBcZXigXnUNEawTBKo3wQwPPmR0IDjB+GTa+sJDsW7665UnzhLcVOBMhO1F5+Uf+ka3hUIjKiDClETOQnZCGKA9H9+msP8AWdMP\/KEjdth9JdQi82sCSmNsk7ThvqC7bo9jdFA0beP+0EjeWmX0fO669qY0U5VgYXCQKedoqcnFJ5CxYPw04yfvCR0NWg2N0Bskps20soLKHmttQCJxJMO0cSE29wqjxCcuK4035YBa5NFoVrLBQueqrL5zd2\/ApHCYHLHmKCEz458f2wRuyCLps8\/q98YQF+eG1cwgcD75DqMmf80qIOAdo1vc9cfTa1Gicx1zq09gRszA2lObEpcMm+XDJjiNOPr7wmPwYQ8Tutkqn0qLp1neaCNzU1pSHXrlroQY04x95HNVrratrbf1UwFMKGLHxLIErqlIC8S8kInfCDJy1u33fLidgibfDdzUK+G5yarkKjLPLVPi\/wBFTd2jTj5Yxj+rHGpoy7yHiY6c1Ck1jbZkm2SXRtQvAiEa1y5AQY1gx+H4sZ2g0wnCke5tutuq1dzWlmoPRGWyOUwPBScKPux7Y9zcJ+jgPBRdP0WW2exaurRME\/TvTYbtViRnTc3XIxM6fBEo7Mowdnucsg4p5qhS+fKLVAdaV1QlVYzvjOq2F7auFtkGSJ69Gouuoxa3e+vwrTUJZL6SbWYbS19WPoahaRQPb4iO6Pq5Y6cUqEKAWylDgMY+zGOFYbRP5lThkRpWhQQBMPbe7hyjWgIIIIDPP6vfHzqVQEgc5lJsBjH2hCQrHiK50Tla4CSs9Pp3cnQLOp9vSti8ifjB+GTOPu4CjXpK2rBMdXqi\/wAAy3h+4uVkBBYTQ5NBsSYOjj+TDzj7QY\/3kREtV0DNSy6VGhmRnomSWGNZt5wu00quE5ZO82+0jphlCxy0ySWVoYJdt8lNOnYijI144sw85AEH8gnl\/j\/TG106UKVNkAHqyZB4fBtxPgpzV56cfR37QrJ0AZuqYzjqLOuAR4mc3xIPOmTkw\/JweocQL6Xq3tzBXOjstsbcBKhTyap2kycWAxj9JJHQJHMt0p2bqjv+purYpsF5DUzyk3DlceBfwcg9whP0hCR2yOsQEohRuoVw9XZfonSpnI4zBMi8aRrTC8SOpbSR0gqJaaVKxZgN4nmoTomH90c0KB83EnV2YvDHEQ+jBaXknU8pEg1B6lpMVUzzQNQOUkygXLa0W5t7g\/zhOqLio5XWIJ6tWidQfUflZVO7WiHL9TUDeTIyzGn5eRQTuxqPEHHMjXig9VLWqwPNGavy2oY5jl9Vtqkxf1ZB\/vI7VijwLhtfNFdGulovo9RqRktTqJha26qDHjylR\/ieeE3kdXDEJ\/Ph3cLK4G2NDe8k97OnrJ0\/TEsHnmNmHnZZk2yfhCfHbyE+0Ftk+0iYcUMdFtq7N9sN3dUdPytTaoanlwS8WFtUk9mWoybZB\/aDJ+qi+QXNHCtNnBBBFAQQQQBBCkJwBFK+tTop3c3zal8v1Vpq3DWyM8IW5G8uSpf\/ABWMZfSOX9XF1EJbeT8XCAZaZSNLdLZAZ6eSi0CQtTOgEkQJU+TljHkydWEP8Yjwww9UZQBH7s4fRH5CkBGWcdLu2ea732K\/zKzLW2fGgRBqlTaq2BOGOI9ry1GTvOXEkhC2h5OqFIIAghrmtcqQN2QyMu3mxL1deGGHqggP\/9k=\"  \/><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p> <\/span><\/p><p><img src=\"data:image\/jpeg;base64,\/9j\/4AAQSkZJRgABAQEAYABgAAD\/2wBDAAIBAQEBAQIBAQECAgICAgQDAgICAgUEBAMEBgUGBgYFBgYGBwkIBgcJBwYGCAsICQoKCgoKBggLDAsKDAkKCgr\/2wBDAQICAgICAgUDAwUKBwYHCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgr\/wAARCABbAFwDASIAAhEBAxEB\/8QAHgAAAQMFAQEAAAAAAAAAAAAAAAEJCgIDBAUIBwb\/xABBEAABAgQDBQQFCQYHAAAAAAADBAUAAQYHAggTCRESI1EKFDNDRFNhc5MWISIkMWODs9M0VGRygcMVMkFicaPj\/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAMCBAH\/xAAcEQEAAQQDAAAAAAAAAAAAAAAAAwECEzEREjP\/2gAMAwEAAhEDEQA\/AH++OXScHHLpOFggE45dJwccuk4WCATjl0nGmdq1o9hXp2t9qhAiVKfmSp1SoeDHj\/klOfzxuoj69qozQVGw58Lc29pF4WJB0XS6dyVd2Lp6ilQpIT8sY4CQNIsifZGG5U+xvGPVdG4Z56fBzBb4+Nyr3gYb+5daLvNTivAdFUdNo14SS\/11Byj0KA1SSm6aQH7whaADJxbuPAL28cbTjl0nCwQCccuk4OOXScLBAEEEEAQQQnHLpOA1FVP6GlqfXVI5lGJI3JSHVFKXgwDGMfHEOPPXmRqrNpmwri+VUOKhVjeH5RjQDUl1O7ptTljH7scSXNv\/AJkA5bNmPcBxQPBELrVCYbEzlTY9xNRQTmbvw9SIpGr62ISKR6Sb+zCX9NeDZltVHrzc+g35Qy+LqcvxB\/mQ5BDDfY\/r+o0Nb3Uy3Ly89wSon1rlMvq+Wo\/MHD8m+XWN2JiCCCKAggggLcfL1fee1lvzYE1b3KY2YhPDwOboNPv+JGHfy2z7dy17zQFN3HdKVVuiUgRvbQTcoT78H2jiNztStjptJct9UOVzqjqR8ubThCkUFqRtVEOROP8AiB+XE7xIRuntC8l9l6ZPV1wcylJJkYBam8TwM5Mcv9mAc98445r7tUGzVpDCqBT2OrX4icumOaJmkMZPiEiNWvdHJVyXRaox6flkLGNGMinQ4Ptxds627T5fStH2vpZ0YaSpspDzRuar51qknhk0\/dw3xBFWp7Iko6O2VGfWezjzfteY9dTih4Qja1KB0bkpdMigZP8A0GOH0cufah9nteRWlZ7gLHmh1akunvd0uonwfiDiM9BGshwme2qzlZW73AAW1V\/KXee8YeMQ0TyOZZy\/kj08ZZGHrDiEGzVRUlOKNanKkcEOP1qZUQcdpZHtpPtmRVo1UrlprysKuIQuglbVqUi9OT4vu43kT6JUffy\/uhYvD\/yS\/wCI5r2fj9tBK4o7HWOedhppgVqECYaCn2TmEGSQ+YpIT7yflx0rF01fBLrOMNwaW11TERuaUZwqBcBREl9AkZnHLpODjl0nAN0Z\/uzp5Js2aN4rS3VOfIesjoCdxWsvLSEUeJvIOUR5882S252QXMA5ZertOTWrdW8Qz6rQq1B6ZPD91EuvM9mConLBYSq7+XGVCTtdLs5VxdUniY5YOWP8QnL\/AKxD7ze5la1ze5j6qzE1+r1nGpHQh5S9WLwxj+HpxCRSPTzrT9sJyfZG9tpbmtrv3AarY2+YVDi8vC8aRAhTC1CEJDi+dHsz+ZrLXl0ZL42tepVivRMXeq4ZEo\/rCIvmd39YP9OJKGyo6i2aeyczFbTWoHJHaByZ25mY1QwPzs5Kv2fU+782OYiiMImMKoOnjH4oocN7NFnNnljz8JLVvxk+BjugIbSqKXy1vo\/\/AGcv8SFNhy3KF2WPJlZBYhqm\/D86V+7J5DIRKp+rt8ye7HDj1sbE2as2wApq11t2dkRJJcARNyAY5Dj68ROX9kW1QTFH9VNpkjrppzrghClL5pRXwS6ziwl1gi3KTceOL\/HLpOPQsEUaMvZFpUWSYeuT6GDzIBlPtZGfVWw0zT+QmhnLgI8CG81lMRfL9HT\/ANz4cMl2btBci\/tyGq0tpaVUPL+8KtBAhQi8SOj897nd\/aS7V+tGWgt9Ruj\/AF2RlYCohlmnGmGTu6f3Y9McPk7GLYfUHs4WfBdm4DjJ8ua6Nnd3VT6O38zw0\/6kQ9FPNgbG7YU2v2fbSlvFdZInf7oHS8Blxfpp26RPtGn+8l4epDi6pMJSDRMAeMePxNSLujL2QaMvZF+EzJW3s2AaSoAumcfJdSkxuQ5d4q2jm0X7R\/EJx\/24ZFoOsqqtLchmrynDEQvlNvKZegIT0dSnJqRNpUJwlT4wnFLGOY9xB9YZO25XZ6KkuNV+PM7kLoMZ3J0ValUUcikMYyE\/eE\/6cQkjbjkOsZHMzVPZvcq1D5hqcw45AqRiEoPgL5anwyD+JLHHsUNJdk7vnWtR5Ya5y1VwFZx26qjgSzVejDUej\/EGSHatGXsjdjCuCKNGXsg0ZeyKCrjl0nGjrenlVUUo6sLY5SRKHBtUATLcEt8wEIOeCRP6b43sEBx\/szNkLYbZw0y4rGo3ynrF8X97eqtcko9Xj9WL1Y468FLTlui5BAJxy6Tg45dJwsEAnHLpOKCi1Jb8E4uQQHjOXTI3l2ysXCrW5FkqO\/wZbcBwGvqMSYvIIplqcwY\/L8Scey8cuk4WCATjl0nBxy6ThYID\/9k=\"  \/><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p> <\/span><\/p><p><img src=\"data:image\/jpeg;base64,\/9j\/4AAQSkZJRgABAQEAYABgAAD\/2wBDAAIBAQEBAQIBAQECAgICAgQDAgICAgUEBAMEBgUGBgYFBgYGBwkIBgcJBwYGCAsICQoKCgoKBggLDAsKDAkKCgr\/2wBDAQICAgICAgUDAwUKBwYHCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgr\/wAARCABiAGkDASIAAhEBAxEB\/8QAHgABAAEEAwEBAAAAAAAAAAAAAAoCBggJBAUHAwH\/xABKEAABAwIEAgYCCg4LAAAAAAADAAQFBgcBAggTCRQKERIjM0MVJCExNEFTYWNxg5MWIjJEUVRkgpKUo7GzwxcYNUJFYnOBkaHT\/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAMCAQT\/xAAbEQEAAgMBAQAAAAAAAAAAAAAAAQMCEhMRM\/\/aAAwDAQACEQMRAD8A37thYDBkEP7jAfUv3dD+FVZMMB5OpamuPjxT+IRoNvbTLTTpbAjWh2jUbuUqh9F8wzkXBPvchPL20G2UZMCYdeCqWtPho9I00uawophQV+ZRpbyu9r1oUibbj3hPycnvf6ZPZWyFg+ZyrQb1g5GcBx9oRRk7eTPh8SDlryjWTdCB0\/adax1FSdHgmyUXTrmTExKTb5jbyeHufGvV1iFx0rpxdp+FfeCdevMgyP6cwjGvX5pHDgTfb\/aIPL+EFxrLP8Ti405a+mLEvKJn4CBE\/LzMgM43g9zbJt9Q\/L7v6xbCs\/3WKi0dG91K\/wBXrifUtFv3oxx1etHNPP8AEmPmE7xv+0GMf0ilJhJu5MMyng1k+6IioyIiICIiArLvjZK2+oO2UvaW7FNtpWCnGBGj5k5F2+vAivREERzi5cMqteGTqXPQZMXD6kZgpHdGz5Be6G\/wZPlB+GvW+Ft0gPUtoLcMbb3QeOK4tzu7ZYh8XceR4\/ycn8tb1+Llw6qV4jek2VtURs3HVUUIj6jJM33u86vDx\/yEw7tRPbl20rC0FwJW1dxoFxFTkG\/I0lGLkXeDINQ+a8eTCYPo315aa9c1tQ3I08143lAYC9ejSY7btgTq8Mo\/LWsjpemp1nE2et7pSh5j1+ZlCTsyxGT72H3bfc+k3Pq1pBtDfi8Gn2rAV5Za5ExTkq3LuCcxL8g13Gp\/VbfHWXdD+l\/ULV5Juf5Fux50gdvuxj2xp0OS3LP3BmLS3Upm50C72H1PzzKSalF5ZG5Nz+WpoVn6+h7nWsp+5EC7GdjOQzd+1MP+\/kIPt4fvUJsnvKUF0dHWZA6huGpTlLSU2P07bBr6Fn2\/tcu2H18uT9X\/AIaVsWNhiLhxkgCTZjetscM+Qg+2NfbnQczyfbw3Nrt\/7K6b7IiICIiCkXhZfmVS+WYmDcfVjgsa9bPFY0VaEoR27vfdUGEo2NsYU3E4778hdvt4YbeGPd4fb5MdzH8KDJjDHDH2lpJ6VNoVsdIUtG6zKOqSn4at2ZBtKjhSuhjcTjby3Ax+YQf8NeL64elZahbqkkaJ0eUS3ouHJ3YpuS9YkCD+E+DEtW10LyXavdVB6wu9cKYqOScF3CvpZ+RwRQssUjCVsj99VIikoL3jRRxE7\/aD4+vIG0DxuSNuBThImeZPReXtkHuD+DIPcIvB0QSD9J\/SqNExKXp+3t27cVRShGce3aFfC23bce2PAfvfMtiumzXRpF1Y5cxNP1+oCpD4YdsrJs623GT6MneKG2u2o2vK2tzODqS31VSEPIj8J9GuiAJ+yVeieibsiiaWb48vFKstyjNhqWlJho3KPPy1Qet7nyferNLT70sDVpUcgxt7PaUYOsanmJQbeLFCFI3I4ITwx7a3uc5b+UVsWoqKq6utnT9U1zSeMDNyEO2cS8LubnIOc48MSN+37\/Yz9eHX8SudUTcaQjgSrA0e6w68hxdgnUsa7g8H7h13Rqh1W1xdM8JMzLwm47kpLczkz\/n9aydRBg1cro8nCuuPHkZl04N4rPnH3RYR+RoQf1SxMvd0Quw07uGsHqKqCn8+51jbzbQbsX\/PiLcwinoIxGqTox\/ETsIydVLb2Oh7gRLcnYw9Butt4X6AiwKuraC51jKwPQd36DlKcmG\/ixsu12yKbQYO4sZuI7w0dPvEKsvK0FcqlW45\/FgT0DVDdr65HuPLxwJ8H7XdpzU3REEV5agrBXU0v3dmbM3fpV5DTMO62ytnovEH5ZFZq86gvf8ATdwtde2q9xs2b031AcG1uc7JNeUb\/WFXjVvmDN\/WDQLqTGx2xEI1KXw+ZGPcGP6Qg9tTF9GFxo+8Wli311mLJu2y1BSLF+YLYXYyZCZ24+3\/ANrtdZM+NJmmHojuoqsGRJLVLeuLpLuvVIynxc2T6Qi2O8PXgJ6QNBhY2t2kW4qeu4\/Em3Vslj3g+88sfhj7v2Fnjh7Xsor6PO6kUCUeH9pSH60ud9YuQioKcmOBMnWqlSLwsvzKpAREQEREGE3GD4SNruJFZB5lZxzeOuNDNinpaoBD7BCE2\/c7jq8QZOx1KLpe6yNztOd0JmzN36VcQ1QQbrYfsXKmwlyZSZerNh7S1uceHgx0tr3tvI3+tDB5Q3YpuHx5HZ\/xtuLvOWJ8p8H8annhEw3XKMv4RBm8RS8uENXDy43DmtJV7qOjmPOUk3xExifc7cfljH9Goj1W0vUlB1Q+o+sodxGysW6I0fsXItsjcg\/EGRSTeiz35wuxw12lvZCRwI+oOo3sZtZidecbchOYH\/Exw\/MWK3bGzBERXTEREBERAREQEREBUlHgTL2cVUiDTvxtOjyN9Qs5XGtLTLPOM1ayAxvn9G4th8vIbY+92\/lCY5Nz51jJ0TW\/s9a\/WpWul2eC4ACrKcI75Yovc71mT\/zIRSIs+TDMtMOqnSgfRnx5rXar9OFvZh1TNUP9u4LGDiyZxxbhwPlyEJ3fhk3Bk+sU24n1ufRdZBVFETTDnIt7vj+IatqQ1E2Pi6p+weTudDt5jd2\/RxXXYJufgVGF8IuviqjhpzDP6Hk27rb8Xly9vsYrsEBERAREQEREBERAVHKtvxcf6GCIgoaZcuXD7XLhh82C6yQoOh3b\/wBMOqNiiu\/xokcLMT9LHL1oiDlxEdHsMCYMWIQ+z5QsMv7lzkRB\/9k=\"  \/><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><img src=\"data:image\/jpeg;base64,\/9j\/4AAQSkZJRgABAQEAYABgAAD\/2wBDAAIBAQEBAQIBAQECAgICAgQDAgICAgUEBAMEBgUGBgYFBgYGBwkIBgcJBwYGCAsICQoKCgoKBggLDAsKDAkKCgr\/2wBDAQICAgICAgUDAwUKBwYHCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgr\/wgARCACcAKUDASIAAhEBAxEB\/8QAHQABAAICAwEBAAAAAAAAAAAAAAgJBgcDBAUBAv\/EABcBAQEBAQAAAAAAAAAAAAAAAAACAwH\/2gAMAwEAAhADEAAAAZ\/AAAAdfsayNUSipGuMnuXiuAAAAAAAAIdTFqLnurbGq5ZVZ1Y4NoAAAAAAAA1nUTPuAGdNm6y55q777i2U65h0AAAAY95RmzUcbpTt+VrYAr86i5PznX5foWdSMpe29U2hobb0qdquh36HHxnYdQfICWD9GVKHBPOFGenggAAAAAyHc8d8hJ0boijNnSMqFcAYVmogZDy7bRU1Vc\/X5zoAAZ0YrIGwXMNJjhIHvKkAAABX3MaoWe9EZ23NyWl1ylXqWu1iyxzudM7cJsKC86NMwp0uzyAAAY8QRiR6Xm46JGc1lFT5GRmktXbRFM+I28VY533rhKQ7RUyBGnAAAPkWJT11z2J0tfYnnPfK9s0kABqzaYpn3\/PWCefbEBpwAABrnYw4+QAAAAHz6AAAP\/\/EACYQAAEDBAEFAAMBAQAAAAAAAAYEBQcBAgMIABARIDBAEjFBFhf\/2gAIAQEAAQUC9Oa6+zEz7TBrk4Ur3p8UvPuQdjlKryJVwS9pSEU+LaiQWtIzc1OJKuoN8UykawokTmqJIpQmfwywX2BANlvvy5OQ47Xs0lfv4dtSy9IP9EqrOiUh75YSivwTabZzc+66wvNrjFvqdCcdZLv+jgnH+b41HsZHt+rrlc9q5GW4HudZNf8AHddW67qwGJOLUHNkpAZMgptuP5krPM0bvdEbgicMfL6Vrb+GTvdjUVorqoomnUsnBoVZ1ixVX8rud+\/rpWtOM5URsC9l2elBt4K7YjbopEpXGzZ\/6LUCJxwShrDa6KCIZfBVx9rSJFD9wA1VeF1woID4U2eBUBChonL9SF1mZya3BmV+hvanJ2zDGr0ivt4TrYDDFqJCjbsHomphArAy7tW7yjRGMuBsMhYmIpvXtDJ9zm59QyDTQ2GV6JU2rejcvzNbhGJrhPg7r+azlvetvjJZT\/iwh0clry4dIbiVykd7bW9K0oZVhxhkhrKRJ+DHbpqETqa5fVtNIdXh76Q1ByszyjIwyiTN0k2L2STGY1C3kEe+RuVXhZolVYVqb0Er1gHGB4clT07cgKGrD5wTpsCTB4SPGrJIrMYhz2DvfNbyRE9xp5\/za5euTR\/++Q9rg6PixjYGYbQeUnRgxyUxkwKViS3VMqxtRb5\/zbh8tWGsNa3JnptxY8eHH6ClixEo9CQCXhEu+hfFoS6FdttLaertT6\/\/xAAbEQABBQEBAAAAAAAAAAAAAAACABEgMEABEP\/aAAgBAwEBPwGJVCiqGpvWxPF5DgKPE+T\/xAAcEQABBAMBAAAAAAAAAAAAAAACAAERIBASMDL\/2gAIAQIBAT8Bqz8nTeuRcZU52U9W2pFYs+BFEOGuI5IUNS8oRrrBd\/\/EAD8QAAIBAgQDAwkFBQkBAAAAAAECAwQRAAUSIQYxQRMiURAUIDBAYXGBkSMyQqGxFSQzUsEWNDU2Q4KUstHw\/9oACAEBAAY\/AvUs8aaiF2W\/PCZVV5TV08rzCMElStybc7jF\/Y80zOCUpIKYrEykghjsOXLEdaN2jlDX57g364oM4o2us1Op++GINuttr+x\/2AWmZ6uo0TM7KdKKDtv1Pw8lRklRVl5cvq7KhO6xMAV\/PUPl7HmFdWxRo0cnYhYWJFk7oP5eSbIPOo0p6uAsY2Au7i1rG43tfx6+xV2dsjluz7OLQwFnbYHfw54Mjk3Ykknr5Mqqowt2qQh1PYWbbncePsVJwhEpBq5hNK38yr0+v6eWOspZCskLh0YfhYG4P1xl2fxgAVdHHKV1X0kqLj5H2Grq3jCR0rGngVTfuqSL\/E8\/QgpL70c8kXyvf+vqwM2zqmpydgJZQN8f5sof+QMF6jiWGVgtxHT98n6Y7PhbhmNUH+pWOTf5C1sCKkjo6U33eOK5P1Jx2VTxLIi2IKwWW9\/hjWx3JuSevoOMgzuope03cROQDgvXzJmAIQBaq+2kHwI53ufhhYeK8imppgQNdJ34yPGxNx+eIfNeKKdWni1iOVtJXls1+R35Y7aiqklU9Ua\/kIVrG2xx\/FPPlb8sdye3j3RiQ0aAyhT2audibYmpc4lWkyuo7sKUbqQw0i4v9826k7XxrqamR\/e7E45n6439XttiPMspzieGaNrq4kP\/AMeZ+uFStzCGsQMlxNAobSOYuLc\/E4jpOI8okoS7qplR9SLe9yetht9fdiryHh6Oon8zfvViR\/YkW56vebgfDymnr6OOaNhZkkQEHDZnwD5tTWUWomuAzX3Orp0\/PEmVZ9lstPLE5U6lOliLHY8jsQfmPXD9jcO1tTdbhoaditt972t+Ej4i2Icy40rFpoe45pEGp2F90Y9Pl44\/ZHDmXrBDq1EDmx9\/j6PY8RZNFPyAkK98C97asVNfwjnqNHctBRTxHUB\/Lrvv9MNQ5lRyQyxsQyOttwbH8wfU9hltBNO1wCIkLWvyvbljXmghy2G4u8zamI35KP6kc8JPmQbMajSvatMO4WG+y9Bfp7hhaSgpI4YkFlSNQAB8vU1uf8UcMw1DxJdHQiOTWbDZufQfG2DpHXYenQ0HF5PmM0umWxIuTsASNxvbHm3DWRwUylV1NHHu9uRY8yfj6wcC5LmMclHEitW6Bf7YMe7f3C3z9Cp4ny6DRFGv7rHIO9Ukc9P\/AL1xLl9fA0U8DlJo25qwNiD8\/LBmVPbtKeZZEuLi6m4\/TFJxCujtJFtURxnZJBzG\/obQof8Af7\/h4Y7w+I9LMeJVP2lPAew2veQkKu3XcjE2aZjO0s9Q5aV25sT5Q09PNFlsV+1rAo06hyXf71\/DEeXUMemKFdKL7sSd0QZgBenqh0PgfceuGybiHL3p5luRqGzrcjUp6jY7+XMOEZD9kqioiFmO5Nm9w6erTgih09jQNrmkSW+uQj7pHu\/W\/lh4j4mpHTJdZU2Yh5ttiLC+m9hfEWR5DRiGnhFlUfqfE+XzDMVEdQn93qwO9GfkRcYfI86iIdACHCkK9wDsetr226+Sgz\/W4jhnHbqjEXjOzDYi+xvb3YjrKdg0cqBkPiD6mszqeRAKandx2jWBIGw+ZxUZxWyapqqdpJW8WY3P6+T9v5\/\/AIZTP\/DF\/t2H4b9AOuFpqWIJGi2RFGwHotR5jSx+cojeaVJXeNipH0ub\/LEuSZ3TFJEPda2zrzBHyI8lLRQ1plmobxVCsLFDzA9\/x9TDTU1XGkU9YFnjb7zgbi3wONsQ5\/xvTdjl4VZIqa\/em6i\/gMLleRZfFTU6ElYolsAfTahr4wtTGreaVKgakbw+BPPE9HnWSVMfm76Wm7FjGfAhrWIOJ+HZ9dq9AYrMxUMt\/wAI2ufE8repo8khluKOiBkX+V3JP\/XTij4v4xmlVXk7SLLwttSDlrvvud7eGBFEoCqO6o6eprMjmA\/eqdowxHIkc8RQ53wxUaVWVBUqO4o5ag3Ucvr6kca5jkyz5gABrkcldl0\/d5csaVFgOQ9Xe3tf\/8QAKRAAAgAEBQIGAwAAAAAAAAAAAREAECExIDBAQYFRYXGRobHw8cHR4f\/aAAgBAQABPyHJaR40DdHHAZkwAEKQ30e6osgCdyRMiAp0FDcAC0YD18FWQ3CkYKIg8ACaUYOsyAb2ivFAAC+ZSr6IBgo9KAGcIKYAKNDwtugg5b9GA8tYACwqOuBnWhoHh23SQAMHLcI4LWs+HLx1ok+BgQbgKzBt2IAm4CD5vAABGMiwPHAAAE\/MNIAHaSZABMKn8JSZ3rC0VlhDQtAUaTLXOkUu2UWp9pCPYEAAPIc5lIRug\/TQDOjpWAAzp1IAASvRzIHqCqaBgBJzB5Apso8kNnnQFIAAKUWGaAA6vkLA7AgDRmYSo3LCZtqgYoLlCVOvMsArwWwALEGABsfBAAB3vrEDwBA7NkP1AZIjpFBCDR+gRbGMgMtIAACpdhdJ7gMx+N8IwDAAXDpPhAHKFQAQIMAENXcHAALCmdIgxFAqgXiAt\/hAgDo8DHCgGyWQoAJm61aDQVWcRngHgAAAXZAAHCN7CCmAEfQoABfl9QnuepMsqQOn3ADTBeWCgAAGgWwAARNT7BjJH8w2mH0CbLlABr+0wIAJ75fC2AwimbUYCt9g7Iqd5cgAe1bNIgWSDUqNRKjzJHEUACQH\/UHBfGZCR4sRWAgOAw8AAfPyWEAAF+DZwAfQPEOACAV7BsGSqbDCbR5srpKgADaRhOB\/BA+MAgbZdTc1f\/\/aAAwDAQACAAMAAAAQAAAAUFAAAAAAAAABHAAAAAAAAAKEKAAAAAEEQAAOAAAA0igAAAAQUhAAQQAAAAIgAAAAVALHQAAQAAEgGgALDAAAAF6AAAQVAAAAQgAAAAAAAA\/\/xAAbEQEAAQUBAAAAAAAAAAAAAAABIAARMDFAIf\/aAAgBAwEBPxCI5TTr\/IDyy2oRyDeTeXef\/8QAHREAAAYDAQAAAAAAAAAAAAAAAAEgITFAETBQUf\/aAAgBAgEBPxBOetxSCijrrce3K4QAW9f\/xAApEAACAQIEBgICAwAAAAAAAAABESEAQTAxUWEQIEBxgfCRwaHhsdHx\/9oACAEBAAE\/EME\/iydr25ioy7sdRbyaBlcGOjWs1GHepZ+CCjBOhDyYFth6MlX20thSTC4C8gpOUPo6XP8A6TJekDQYQwACbc7pbHGY5uMk+KKacVatpqAGG9DfIyeHa7Y58iMgvQBAUCuy3mHvHQLoeU+x0EAWts7l4fsbZhZE7fmvRfui8k7fQyms8cHoLJdRkSrBHTznmSCJVoiaDZrQAAuPxHYAaHOLV3smW+VI65\/WHhPQVUbFxP67vS3i9Mr2WFOZVg9KY1p1Kg8DibgeBRxCCAaYhsUrEjA6akNTqQEIPZTEmwmwv1UWkx6yLYkAzDHEgbmj0kDUYqRWn+xegIArgAAAGfQAA1mXVBpjrKIszzpcosNQkyEQV7Cj0\/nKRB+TDR9igAwjPA\/ySLaymgSJuZg24tpI5qS63IYIPlZBIaIuBnU4ND5oSQAotz3WNsK3sQUOYazgGsYJ53hAFUlpAIK3ADE23vRMt\/PJEoTvNA6afu5iFhgF\/gxJmvJRiVg77bYPYSKGkES6rULi2Koc7mIXcksI4AgkfhppAEsNzhf3Q2hxLP1QJAALDgFZ6kmukNKQ0q\/9LCrEInn98NqEoAIA9p0TgICvw\/gKf4OCMAVZq7sDz4qqBQHLtw\/psFB2bwy6PkOW51lSltgEJT0azr864QB9okxSLCuwU02padDAAdpFbdeiNepLpydoCWY5kNKAE86PRliptuGDLYAQ65lvAQBgggokWcCNWeaYv7nOGQIyIgHNDCh4hk+9sEP071gJtFOFWl5IQBAaU0iRliKXjO1t3V\/\/2Q==\"  \/><\/p><p>If the shape illustrated above is a mould, which of the following will best fit into it?<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A mould is a hollow container used to give shape to molten or hot liquid material when it cools and hardens. That is, anything put into it would take its shape.<\/span><\/p>\n",
+        "Topic": "Classification of Art and Elements and Principles of Design",
+        "Difficulty": "Easy"
+    },
+    "Question 4": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Basic shapes<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Basic forms<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Elliptical shapes<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Elliptical forms<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p> <img src=\"data:image\/jpeg;base64,\/9j\/4AAQSkZJRgABAQEAYABgAAD\/2wBDAAIBAQEBAQIBAQECAgICAgQDAgICAgUEBAMEBgUGBgYFBgYGBwkIBgcJBwYGCAsICQoKCgoKBggLDAsKDAkKCgr\/2wBDAQICAgICAgUDAwUKBwYHCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgr\/wgARCAEOAP4DASIAAhEBAxEB\/8QAHQABAAEEAwEAAAAAAAAAAAAAAAgCBgcJAQMEBf\/EABcBAQEBAQAAAAAAAAAAAAAAAAACAQP\/2gAMAwEAAhADEAAAAZ\/AAAAAAAAAAAAAAAAAAAfC+7ZZEtBNUzsQTE7EExOxBMTsQTE7Jj6TNzU1fQAAAAAAAAFl3pZZpfFSAAAA3NaZdzU1fQAAAAAAOIIzugfO5ESsUipb0zbLlpjdbpnY6x2c9VcqL2smV55cnThGu7Dmx\/UAZsqwiqc5MGjOXODKprdNdlk3sAAAcQPnhA+dniKxZd6WWaXxUgK6K5qiccHJxsniG4803botLoFSAqpqNzl7WTe00AABxA+eED52eIrFl3pZZpfFSArormqJxwcnHmTx8mGdcu7N6NEb9zRGe5JXCH+INj40tWlvGgI2aF6wgmyegMAA4gfPCB87PEViy70ss0vipAV0VxVGVcWdub2+M6Q3NaZdzU1fQAOIiS7iJO5HwpKr4pkb1RRldWAAcQPnhA+dni45rHzfpDArPQwKz0MCxz2CxAncE+uVWEFZ2Z55qMDZl+oAAOIiS7iJOyGvayb2rIxZ69UXZ2XYrAKdfmwMQRTwTsD08BA9PAQPTwED8ObUoTEr4TbAlIIp4JQPTwED08BA9PAQPtDY+LVuorOIeTDhPOzZdfZWAAAAAAcQim7CWdm2dFZ3ME2G2WSJORDObz+hgAAHEJ5sQnnZpd9FdYAAAAAAinKyxD5sXrG2OTuIsu+tWeTDOcRBOW9zQinZ2PJ66wACmHkjcRtkoGAAAAAAUxDl5q4LB266PZWGyh19gAtS6xFyUUQZfN5DBGgtOW+GM4tqDAAAAAAGoHb9q7I3vpysKdguubFrdvqM8iGfQBDCZ0PJftr4xFH4yfT9\/OsgrAAAAAAB88j\/AKwrvskz3tX0d7Ym5kwnmwzR32yliKZ1umMcqG+3LMwa5YOzX3KwAAAAAAABYF\/2maWae\/oo+r8ombGT9bCayT8TIW0+dh5M31qwAAAAAAAAAADWfFvdbq+bhNUqKavdNiayrJemoAAAAAAAAAAAAdPcMZ\/LzALRu4AAAAAAAP\/EADQQAAAEBQEGBQMCBwAAAAAAAAQFBgcAAQIDCCAQERQYMDcxMjY4QBY0QRIVFyEiIyRQYP\/aAAgBAQABBQL\/AIdRG37Cn+dCiOdCiOdCiOdCiOdCiOdCiOdCiOdCiOdCiOdCiOdCiEyczUSc+G43b7ptn26+G43b7ptn26+G43b7ptn26699bvMqXe+jcoI+jcoI+jcoYVaTyOsJffbjfbjfbjfbjfbimVFU5+KHQxyvzkPiU5V64TYbg5UPLjsmG7Rhc\/DqFIDmJeGJZFPDKOY14o5j3hjmPeGJZHPDOaIHjTRHdBtfdNtcbt9pt+afjiOAviXC2PUXBjNrdVPmbj0B0G19021xu32m35p+OGUv8rY7PbXVT5m49AdBtfdNtcbt9pt+afjhl91scKxIShJ\/ynpp8zcegOg2vum2uN2+02\/NPxwy+6gUJDAg7r5DoQCn0bjMvFcVJ3DwhtBa8Qm3qgbh2iKwxtiEuQlpSoFYpC9TL+pufQHQbX3TbXG7fabfmn44ZfdOm+CZbSyvXVWLhDpz3w2fbrQKChhtjJdq0ejgTRvoYpu7buUXqNba+6ba43b7Tb80\/Fv3QOm5Kh48YZCtjZ9utOYPo6hvE+4bSoxZKlhlDYEWRdjU2vum2uN2+02\/Nu31V+Xa2fbrR+MwfRzcegHUbYuc5MY9q42L7+ptfdNtMy8KbF3LQzkctDORy0M5HLQzkctLORkc1CFQCdaRsCBx16im5SJw\/XLQzkctDORy0M3BUWgyUt0fjMH0c3HoCH6IhhDfTCiLlYRaW1903Q\/GYPpLHNFWUk3Tce6fo5g+jm49AQfEwNQk2OJncTB1pP2we4uc\/gsu44HLuOBy7jgcu44HLuOBy7jgcu44HLuOCy7hyrTymJoiwAkqSShbB7ADn8Fl3HA5dxwOXccDl3HA5dxwOXccDl3HA5dxwWXcK5vMlFqGRYASUpDYragiOyf67pBKB+TfXycCUUL6jydZc2b9rKvr5YW7t89synK11nhmMKsi4u3bVi2pMiGtTs7mVRNcCB8rSm2CTWQzXKS5au2xFvX+Mjqhhi6lMt1PWymD3wZOauokSJHXATk5KD0cxDco6igGEtU1gwl2lZMA3SwtbnIxmvolckC8JtYYd9dZSddyiwsOEExKaEOqfhQocEH0DQIMzCnJQJxyc0MJsDQ+lwlVQjEZjUQmAJGdfK5d\/tSeadf327WhWZgTov0rFMgFem8Z1XdukWlzTKp33FDB7IMP18ojLjnWjHR6biRM6a5V06QIywksptD\/ALsX0gWMS3FaCR\/wHsKxpU5+xi8iq0xQXGZebg9Dhf3sotnhDqPkXkdhpGS+nBXwcpJApumTE5gfGSexEVRiAVeKC6JqES5C6aU2Q+TyAU1oAZF5qH2NwOBrfIuuui1SrHwbdI0j1I779w1rFphtp\/ByAd2ygk\/fEXhV7G28Csu3sdtniRyio1LRhQYF54clVZLka7BKFFZVuKNAtgkcgyS0CxuVJ9cSmPzbJMdbt27VHwTAZZLgDhq0St1dBcYCisYzjolzlJrZlynwZesYlKc4x5ZsapD2UpUy+I6Ny5Zbmue+vYUnRmRim\/y0FgQYzLVAWi5y3FOnMP0whlQsBbeYnhg9IUKHBB\/irctmco4Rars39G+c4x7TIVVOaVFBUSBfkZMNiMTKq0U0\/qnjo1FCFT3yVYlitZJ9wWLXCEuztzlH6ZwXFRgbjGOxxMQhpKW75d21bvUGTQNobXP4DtPCfQyQS3+w\/8QAHxEAAQQDAQEBAQAAAAAAAAAAAAECESAQMDIxEkBQ\/9oACAEDAQE\/Af6KE4kkb0JT6JqlW9CVb1VKt6Eq2qVb0Nq32qVb1ZvtpJJJGkkkkkk4TQmIIq33Tzn3YlXbIo7WuVGk616x9N3dYj9H\/8QAHhEAAQMFAQEAAAAAAAAAAAAAEQABMAIQIDJAUDH\/2gAIAQIBAT8B9QIWed9eB9eCrXJ4qsnyCCCFwggghxPDt4B43QjpsJvlj0f\/xABTEAABAgQABQsSBAMDDQAAAAABAgMABAURBhITITEgIjNBUWFxdYGTswcQFDAyNjdAc5GUlaGxstHS4hUjQlIkYtMWJaImNENQYGNydILB4fDx\/9oACAEBAAY\/Av8AYeermRynYcm6\/k791iJKrb2iPB+fWP2R4Pz6x+yPB+fWP2R4Pz6x+yPB+fWP2R4Pz6x+yPB+fWP2R4Pz6x+yPB+fWP2R4Pz6x+yPB+fWP2RI17IZLsyVbeyeNfFxk3tfb8UrvE8z0Su2ULiljox4pXeJ5noldsoXFLHRjxSu8TzPRK7ZQuKWOjHiFVwDwSwvalky82\/kQ+ynFQhCrWviknSI8JNN5of048JNN5of048JNN5of04qT9Y6oNPdlE094zTSWxdbYQcZI\/L0kXEaDGgxoMaDGgxmEGBQKA2gvqbKyXF2SANsmAh16mtDbUuYUfckxj4QYXuKUdKJRgADlUTfzCDhLQ6tPPONvoStEyUkEG+jFSLbUM0yQwpW2zLtJbZQGUHFSkWA0bkd97nMo+UX\/te5ysN\/THfar0Zv6Y77D6M39Md9h9Gb+mLf2sPo7f0xS6jUXco+\/INLeXa2MooBJ7TXfLTfSDUV3ieZ6JWrMTE6kHJy9OVjK3ypIA9\/m69al5oZhKFYtupIUPaNWIovFbHwDtNd8tN9INRXeJ5nolasxXj\/ALuX97nXrXF7nu1Yii8VsfAO013y030g1Fd4nmeiVqzFf8lLe9zr1po7dKftzatWIovFbHwDtNd8tN9INRXeJ5nolasxX\/JS3vc6ypmcmUNNoF1uOKASkbpJ0RP0Ggzv4hOTEstgFpP5aMbMSVbeYk5rw3W1uyskxMNhbBmFlSnEnQbJvYcJvvQF4VYSTLz22mTCUoHKoEn2Rmq1WHA839EEU7COqNu21qnS2pI4QEgnzwt2l1qQmiDrWyVIUocoIvvX5YLeEeDs1LYptlFtEoPAsa08hgRReK2PgHaa75ab6Qaiu8TzPRK1Ziv+Slve5BlFKE5Uim6JNtXc7hXucGn3wZmuVNeSv+XKtkpabG8n\/uc8Z4oXFLHRjUqlpuWQ62sWUhxNwRyxKYSYNSBlVzM0UPMIV+XovcDa5M0SWAnVMlhLtGXbFPnynFGTKRiY20Ukfq8+8HWlhSVDWkHT2iu+Wm+kGorvE8z0StWYqbFASlExUUtJ7JVnLSU417DdONp2rQudnZlbrrqiVuLVcqJ2yevQuKWOjGqpnGB+AxSqVWJZGUNIZ7HmsTXsnEFiP\/c8J6n\/AFSFqdpLyv4CfF8VsX0g\/t3U7XvTMS7oW2tN0LSbgg6uu+Wm+kGorvE8z0StWYzaihcUsdGNVTOMD8Bii8VsfAIVRJpzJPoVjykxbY1\/I7cTXUgwvbyc\/Sb9ilR7tu+jftcEbx3tXXfLTfSDUP0qebxmZllTTyQbXQoWI80d66vTHfqjvXV6Y79Ud66vTHfqjvXV6Y79Ud66vTHfqiRn8FaOZd16bKHVF9arpxb21xMLSJE\/g9PlGzNpStX5rpQARjXvnVjHNuRU8CZ+lldNl3JjIy+WVrQhQCc4N4711emO\/VHeur0x36o71lemO\/VDFIp7eIxLMpbZRe9kpFhqqZxgfgMUXitj4B1qf1YMG2P42jPDswD\/AErBNrHgvbgVvRK4Q0pzGYmmsdO6N7kOqrvlpvpB2ql\/88r4Ilp4m79WSmbeO4FDWJ5E25SYrflpv4x2qmcYH4DFF4rY+AdaaodQvkZphTTltwi0VzqQ1Nwl6nza3ZVR\/Ui4Sq3Lin\/q1VWwywLpym+yJ15TD6H2xdtSidBO5aNme55n5xsz3PM\/ONme55n5xsz3PM\/ONme55n5xsz3PM\/ONme55n5xsz3PM\/ONme55n5xTcFOqA+p2YmHB2BLqdQbqWrEB1ui5zZ4plLnG8R2XkGm3EXvYhIEVXDHAunKbMxOvKYfQ+2MZtSr6Cdy0bM9zzPzjZnueZ+cbM9zzPzjZnueZ+cbM9zzPzjZnueZ+cbM9zzPzjZXueZ+cbM9zzPzhqUwmkXJttpy6EGYaABOa+mKXTZ5vEeYkGm3U30KCQD16RWCsNt1eUCXz\/ADEKbHnKUeIYOS7nchtlXKlS1D2jxDBOoDulvBB4EupI+IwOAdvozjq7pcS0WxuDEUPeD4hguxLLxXFvOJbVuKKm7GEg\/tHb8F6oGTiOlhtC9o3cKVeYH29ZTz7gQlIupSja0OtfjhnHm82Sk0FWMd5Xc+2FPU3AqqOqxbt3RrVHhF80B+sYE1JhYH5mKLpB4SBDMsiu9iPPaGpxsosd9Xc+2EvMuJWlQulSTe\/acFKFKslZxkLQkbZU9Y+xMAb3b6JhjKtYy6VVUnNv2UL710CJXDGrVDJMzkqHZZr9bt0g4qRu54bnnceiYPNg5I3KsqQdNrjGO\/oFoZcl6Giamms\/Zc3rlFW7Y5hAQ3KtgDQAgQUOSrZB0goEPK\/B0yM04rG7Lkxiqxt22gxl1uGtYOvKzi5Tkle3EO\/nBhur0OcQu6El5kK1zKiL4p3+0ZVhklnB6UW0VEZsZN0n\/E4q3B4hVpGr4uQMg4sqV+gpSVBXIReJeVwnqyZim4OMjISDufHCibC37bjPyCEysoyltptNkIQmwA1K5GflW3mXBZbbibpUN+E4XyrKnMHqotTbrTItkAo3xdzW2uN0AiETcq4FtupCm1JOYg7eqqGEainGlpclkK23DmSPPaH8J621\/GVqcVMl1Y160G1jy5zy+IMYFSE7ivzyseaSk5wyNF94n4Ylq\/rixfJzbaf1tK08ozEcENVSmTCXZd9AW04k5lA6qboE\/LtuZdhQbLqbhK7HFVyHPE11PKyFon6I8pJQ5pLZUfcbjgtqpHqUUJRXT5B\/LVt9s624\/TyaOFW9CJWXbCW20hKEjaA2vEJthLoUmWYabTY9zrAojzk9ZGB+E0\/alTJORccOaWc4dpJ29w592MdBuCMxGqnpZ8qbarUknJa3MtwpSfelepRgvgtMXrM+QkJaF1soO2B+46B\/8hLtUZ\/vSoHLT6lZyknQjkHtJ8RrbVQRZTlQW6jPpQslST5iOu1glhu8tchmEtOaVMfyndT7RCKhTJ1uYZcF0OtLxknU4OpbGMUyyMYDa2Q+7UKwYwHfFQrk0ckwiX1wZUdsnQTvQMN8N5lU\/XXxjFTpxgwTptfSrf8AN4k+\/JzqHi5LNZYIVsawnFxTbbsAeWGaTSpVT8w+vFaaRpUY7Jrlelqe7fMwGS6bW2yCLHezwX6FNS9TbSi5xBk133Akk388FEk44lKVfxEhNXxFcIOg74zwGq6\/+FTWa6HrlBO8oD3wJqnTzL7ZGZbLgUPZ167hTKPZViTk8lLrCcx7lF\/8KvPGO4oADSSYWmdwgbffQP8AN5TXqPmzQqnYKU1VGohNnJl1RBcHD+rgGbdj8SKzPVJQ1026nuN5I2vEl0OkzlqvOIs1iaWUH9Z3N7zwXn3FKUs3UpRuSd2KZ2aBdQdDJO0soNvZccvXUQylmpstq7EmdGfcVuj5w9TZ5lTbzDpQ6hQsUqBsYDlOqb7JGgtulNoRJNYRZZCdHZDCXFEbmMoXh2SU1JDKtqQVpZsoXFrjPphyUwTpSKc1PALem5pDecWzZzdQ06AI7L6onVInJhROduWWfiVf3Qmpy9KVMzCO5cnFldju2O3vxiNoCQNASPEn6hMdww0pxdtxIuYnsI5hBT2S8ShBN8RAzJTyADrNz8hMrZeZUFNOtmykEaCDDb+VSmoMJCZ1jbCv3cB68nWZRtKDOyf54SnulpURjHkIHJ1s0MYUYSUa9IbSpTWXGZ9egC22NJvozRYDg8VrbjSylQpjtiNrWmM\/XE7SZ96XeT3LjKylQ5RAkMOqeqbyaNZNy+ZxR\/mBzHhEZeUp085MYuZgthIB3zePxqrIQjFbybDTfctouTbf06YTKYP0Z+ZJPdIQcRPCrQIaqGH89lFJVjCQlj+XwKVpPJaESko0ltttNkIQMwHi1VpSQSX6e6hITpuUG0FtYIKTYgixB1OmJOSqUiiZlWm3HZhp1OMCkJIFx\/xKTAkqRTmZZpOhtlASPZ4y5hXJtXkKm6VYyU7E6c6knhzkf+NUnCGqtf3nUWwVA6WWznCOHbPjUzg7WGcdmZRY7qTtKG+IfmXqcqZkGjcTzAzYu6RpG\/tb\/W0Q3T6bJuPvuqxUNNpxlKPBCMKOqDT0tpYONLSCyFEr\/cq2aw2hFh42W3UBSVDOkjTGWncDJErJuVpZCSfNHebLeaP8n8HpSVNu6aZAPn\/1h\/\/EACoQAAECBAYCAAcBAAAAAAAAAAEAERAhMUEgMEBRYYFxkWChwdHh8PFQ\/9oACAEBAAE\/Ifgc0\/6Q3o3ZgAAAAAAAAAACZMG28sLvi95EeRHkQUz2yxYAAYMKGXUsAEDMzNJD5QnAUAiAawNFQBnAsogGlRkABQphSUDBgHjC99pAFp5ApCIwTDNeYiKoAPrb9BoACIBSEQZbzAH1Ro8MiAUhEGc8wVqVd1IUxnxAKQiDNeYK9Kz70Alv6wUeFgBARbWQHsAQGUNMgAbFQ1qWgBXFYgAHscoQAEQBSEQZjzBX2PDKizICKNAAERnEXO1EQaBygIYAlhPEAEHbAHYBvjFIRBpHmAMbQAALgvgES0MDXHQBMyD6JWvERAADnytIhBxCkIg07zTxGhBIEnHSL\/IIvHFQIABSEQRcGcg6HApNhCBAgSU8KEpaKAAwhQSAAAE8MwfkBGAIECTHfMkgc8DJaEAujDJrAA3Rh0+QuZGEUzIjR4vhWDKAMlsGBAIAroAU4cqnHQgXgGgDAoaQAwIECBAgQIMB4VSQAAX2vMeDM9yBQAMCBAgQIEDDAVxZkAm8+E0D3AUVPyhnzwAFNBBjABTQSFQB4UXRKVoICDhOE4TjJtD6SACsZnAouIK7gIFLwUADkooZzeuh2Q\/JnBgE9h0AoIpuGKgSTCIEG4OSEoauAXkz3h8Kv0BVQFVeb1ABUOIIdgAg\/VMQgGwQyDNICl0GmBS6hWVuIGSpBEBAFLvgygdQl1DAAyooLdAAgPQDgAAFIW4VgMLRdP8AaAK2fzVACAB+xFQI4xBJVIDuCZCRNyIS4LQHrS\/AIC\/JQAP3FjYgCNvmN0EAYeJAAFMPm334HdkAvS2sJAaJo98AGsWp+UABYJ8IriB2CqIABTBxLtbgOD2I0gcxug0IL1TGiAATVuzioBgFQ\/YGEBd9FQCkCQDlM5WDTHoD2QuYgUAaIDdckDAAAIpaD3xgJAAVoYgAw\/aMggG2SibgPi1F13EFQs1AFNqwALfXgps8j2uwHCVVoEiIPaP6mirCLb1bcVGExbEAKwQADVWSLXTkfgwlABQAYpEEg2gAgVQAHGgkSCAH70xUk9a1lRIQFW1ABon0jdr9gYAsjAAKQFYAMxLc+A9kXxF2iIAAloN6AgAC7QCQaV+8CpoPGALk8CVgBQADhVKXA+a4R+onAA08dCgFHtAAOULcCsNNUI+qkDvIl7AAuvp2wAOnmZx1qVtLicQAHSt7R+gB9tVOiLAfVAmp5NBsEAFr8F4Nn41wkAAGgBq2HhHoAjfvECBT+2QUGWT4\/wCg\/9oADAMBAAIAAwAAABAAAAAAAAAAAAAAAAAAAAQAAAABQAAAAAAAABQAAAABQAAAAAADn0QABTwAhABAgAAD0BQABW0AQAAGgAAD0BQABX8TzBCGQAAD0BQABfWBQAAU2gAD0gDDBHnhAABGgEAAEEEEFnAEEEEGC0AAAAAAC0DHggAABWAAAAAAAQEBAkgABwAAAAAAAWAABBwARAAAAAAAAQw0wDViAAAAAAAARg1BBXFAAAAAAAAAWhBSVAAAAAAAAAAACkRggAAAAAAAAAAAABAAAAAAAAD\/xAAeEQABBAMBAQEAAAAAAAAAAAARAAEwMRAgcSFQQP\/aAAgBAwEBPxD6N0aZ5tt\/wMvIzsdL7NIu+0d+8s4XK5XK5VhhyuVzieLwXwaOb83WYQWgPFvQzIiHynzAI4mvSCPjv\/\/EABoRAAIDAQEAAAAAAAAAAAAAAAARATFAUHD\/2gAIAQIBAT8QyIQhC5\/orBRXh7f\/AHpgxOr\/AP\/EACsQAAECAwcEAgMBAQAAAAAAAAEAESExURAgMEBBYXGBkbHx0fBgocHhUP\/aAAgBAQABPxD8HGI2P\/zpp9Hdehr6Gvoa+hr6Gvoa+hr6Gvoa+hr6Goqy2C24EKF2j+I+5vua4qnFc77myrua7aQQTZqFy1bkHhgCIiIZYKoYgLu\/NyctFhpLVEQNXp+j3ySAA7WUn7auXT9+5wK4Fre13YszgSlENMCCS2sD35ru64UQFSf5j8BkEXlWfpBxg+\/NZipBWTbEXlWfpBxg+\/Nd0AFQIU\/uxbIai8qz9IOMH35rmgNjjFRQBcp\/HTek0wRtFVsF6QeRG4QNILJRxufPJK4gxydBCnDAASUgKJzlWfpBxg+\/NboB24opEvovfNgcAyVoAfNf1Yd7TmM00zk98w4dBTy0wiBMDdJKB0CC50OHa35Vn6QcYPvzWYeJxggIDETGACa5jewwIa3GPdw5DypF1d3RAIQBv\/wSHzceb0qz9IOMH35lGCMXTRAuAYafcJiFowhqhkdtBRbQbwElWfpBxbVxXJBm8offAZs2bNBix22CZdFyoIAWh2y8SLBQ9s2YMrk0rbNjjGCIF4SGmm8CCbpkXKEN\/OoLDjwnuL5+EgnFU4qnFU4qnFU4qnFbH0dSCZsUSwAOJBOKpxVOKpxVOKpxVOKqcNwwXKRDjj4O0rwUKnWR9ryL6pxAeTXJhxgwYMGDBg0aUf0oEAfgamn6+QjtQkjOd1yYMYMGDBgwYs1JGbGwqNyIKCCV66zrDcAlFeYBIY5K\/DkBAA+qxj6zbGlI+Qhw+ZyFIOLN5by3lvYLmN0H3RJ2ghUL3bGlIPyV3yulRIJklEoXU8Aug3EaEh9JNvpUZbKO2lqWWdFMbgQlQUMIAV08DPBaCAsEQ0nxY5AIJgnFcGVmNboYdRod0ck9CUoFAzgHcdP0emaa+m9kAKD5D9UWPG\/DXhQu7zQJUTCAT8IgwY5BgEgDngRp3DIBrnhfsCFCz5laAAA36+kUeQukFsPMVsFdHsMxFIwDD8AFo3IvFXPDTBXDIcs2+COu1xkLLmqVAJMd6VUA0fq0JEXg9bINcydYIKLQv1eEkJV358m2DguN9ND+A3AbIFmrEcULBNGQgL+CXwFMMxEG8ELKKEq4GqeI18JmUrq3lO2UaxOyIiFJtugANXZPyxWcTeR00z6qdjkG6dE1Y\/VFJVhwaATRkvzpoDgvzCXWUSQq3JEdOSaEor9VEIAsCgtgydqrBkMGlD9cAGpvO0KEEhE\/dJAmizlnUGIscCZUR572liZoCho7PeUQoiPBa4\/IoFs2GLH2tBzXHG4rvTkgYDTKWMc0cDfGi6iGnBvD5QB84CDrUzEFua3UITANE2B86UhE\/pGUoArduxJCAeyfkPpj\/wBlpEGx0F6cZIlWvzmMdLmLC+QBAMVAA1hR2B6rDebYmPgAgNvbT4WkyKfWJAad\/K04JyN06736GMFiCKogjh37lDApNKH3yQtROlEK\/RNsYHSvUE0BrOfjpliU7Agxyw34U1IUPZgwswkEHURo+egmzBkjGzjdlACAIJcNO\/pETIGamB\/4lCCJ2UCuseiwZZ7nWQGA+FkiwACPQZvhqJlrJ6eBxcZ19H\/qiTl9rZ\/+h\/\/Z\"  \/><\/span><\/p><p>The design above is composed of<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Circles and squares are basic shapes.<\/span><\/p>\n",
+        "Topic": "Classification of Art and Elements and Principles of Design",
+        "Difficulty": "Easy"
+    },
+    "Question 5": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Certain parts than others<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Colours predominantly used<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>The entire surface of the composition<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Colour harmony<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Emphasis in a composition, means that attention is drawn to<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Emphasis is a principle of art which refers to the use of visual elements to draw attention to a certain area, usually a focal point, in an artwork.<\/span><\/p>\n",
+        "Topic": "Classification of Art and Elements and Principles of Design",
+        "Difficulty": "Easy"
+    },
+    "Question 6": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Shape and size<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Size and texture<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Tone and shape<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Tone and size<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Use the illustration below to answer this question.<\/span><\/p><p><img src=\"data:image\/jpeg;base64,\/9j\/4AAQSkZJRgABAQEAYABgAAD\/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL\/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL\/wgARCAC8AzYDASIAAhEBAxEB\/8QAGwABAAIDAQEAAAAAAAAAAAAAAAUGAgMEAQf\/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf\/aAAwDAQACEAMQAAABv4AAAAAAAAAAAAAAAAAAAAAAAAADz0AHh6AAAAAAAAAAAAAAAAAAAAAAAAAaTcAAAAAAAAAAAAAAaTc07gAAAAAAAAB57pNznyNwAAAAAAAAAAAAAADi7Q0bwAAAAAABXLHBE6AAAAAAAAAAAAABBzkOctigZ6wJQAAHnoA89AABXLHX44pThkalfQAAAAAAAAAAAAAAp8kiKnJkgAAAAAAAAArdUPp751aScAAAAAAAAAAAAIQm2OQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4O+vHy7ARliPr0v8++gqAAAAAAAAAAI4056JsrFmxrpZXnoAAAAAAAAA1cNXJHVL9BUeqy+FNkJzsKt09c8VqxaqcXphmAAAAAAADUbVWyLOq+JanL1AAAAAAADh7ok+Sa7tVjiCW36R8Tta\/QUTKnoAAAAAAABiaoHGzgDXsFYs\/PAlmAAAAAAPD0DDOoGFg5Jc59OPYY8+HceR3soIZNG3RFThT7hU7ObQAAAAACvHdV+u4HJ1gxyxKrv7+43+1C3HoAAAAFcgqWS0QIAAA6uUXO+fEJxfrLHIAAAAAA8rybN3oAAOTrFYs2mALMAAAABioBO9eG84I3vsp7Bpw8iNU8aIzGZMIf2ZMoL2aNfBq7yKlKrb46RQAAAA4jir68mNKvAAYZiDnA5ISzVItoAAAFNuXxsjggAAAAAH06z0i7qAAAAABCzVenzIAAACt2SAJ8AAAAFUma\/LHR09EUSMdI6jdF7+g6Ibp6jpgN8oZwOuUOuH0SR0x\/LEGV3gZ4AAAAAwoclYDs94Oo2g5eqlXUEKTSDnDXWLXWSzIuUAAAHxH7dQSkBAAAAAGzd9IO6VFAAAAAA1wVhgCfc3SAAAcOngsYAAAABRL1S5QynkCZTWcAduffFmW1TjdvsfcVdaBV1oEBMbwAAAAABU7ZEwZKycPYghYwtqsaS2uLtABGnB0d1fLWAABhmPmtU+61w+WpqGTwA3GlZLOfPbnddi6N4AAAAAAAAVO141wszRvAHHsrpKSwAAAAAR0NaqudczV5IxmtXAaJ2IqpsteUgAAAAAAAAAAARsHbhBzgMchTblAdxDWmNkxE9tfOuP6rIAAAAAIeYEBqsgg5nMAAAAAAAAAAAAQ3JZBWfLOIKdAAAAAAACLr90FT13AVyxegAAAAAAAAAAAAAADRVLkKjnaxWLN6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP\/8QALhAAAgMAAQIFAwMEAwEAAAAAAgMBBAUAMEAREhMUFQYQICMxNSE0UGAiM4BF\/9oACAEBAAEFAv8AwP8Av\/kyaAH3vqhDgaDJ7SGhLgepi1MBwd9NtAxwHLYXXv8A8n3v\/wB3M\/7+0T\/P538Tk\/xffIR7kK13xycxPpUuvcA50e98hfM5yzB3aKA43KCmBmZgEvO77PWYPdWf77\/etDXCpPztzxH6gfHKWom53VnTVWeJQQ\/6Pdf7anJSRfaJ8JzbkXKvb3bcp5WpAmuMnlMifGO1YwFCzbCWQevZ4pGgx3xmjEoTpu4fzFZa9HRkPmCjg7aPMBiwf8NtD45v4fTzP1+2u2xqJo1SD7GAsAZLLZHaXLyqS66i1nsoLhdWz642a\/rRVs+4G0k4NDwsKKJz2xPjDq6rAmDcayBiwOwYwFB8x68wrYnkhsByNn05RZVZDr3Ee5qGBLP7\/T\/992rnAhVNJ2n\/AHMBaC2Fmv7IzFYUFxoW7Vcmcq2IsLs1yI69gbC7KC81d42VWAOq0CByhmc93GqB6s5h1LvXuXk0gCva1216yqq\/tMQUWMjykjQYmf36ztKojly\/m2pse3832Q9lZqPqBkcRpVbERMTHYzMCMCWo78XJCwqu46Lux1WTZc1E1JU0HLtIODrvGyqykxYh4WFWFlXYpoOWUTnuIQctDDqO5tr8orOGq6ujpRUihnsaz8CKAGro17huSuwoGNynxMTHSva6avLOlZs9FdhyZqbzA4poOX1pnwiD+TbEeEflZrLtJVZbQLx8Y6ZEICW5UElalNsW9dSoqJbQP9+MiaDYmCGws67FNB67CzrNU0HLZE0G\/wDExCZz2uSD1VXGLNv+Opf2PU0r0UkZNCXmczC8y1cbo\/cxgwqZVem3lmuNqvkNOI6OtqlLOpnaB0miUEPVuepdclIIV0GqB6qrTpO6RFACQWdp1CESks2mUoQvNtzEEKpmg39+RM57eMGaLBITFgzQZEiwImc9xgLAQw6rbVeLC9G1J59cJVW6duyNSvVqM03xHhHRzf1dPobl6VD1sJvqUOqv9LW6Rx7jc6W3YIU0PSijZrlJ17A2VOUD1VmkprVA9VZpJaYCwEGVR3PD45n9JjwnOYQg1aDOq16QsKrPMGXPLe2umZisPGdrQiPCPv7lPr\/iwfOvFPyh0Lz\/AHF3rfTvj5OrqRK5EoMejRHzW+la\/V+omrKm0DFgWFGliWg9VmvFhdSwTOWK42F1LBHx6BsKrWDBh+WQS8Kbis1ThDwqOfNawpGgCpuX4vzmUPaK6e55yirVXUTZuJqQpguX9k47l6X206rbdXLqNqVvteqMB1K8u4v83BKndUAJh59T2dXqmEMDMKVdG4729TOX6VDpWmxW+oYmJiYnPdE+MNGaLRITG1XlvKtmLA265MivZF6rlwr7Yx3Pj4Gpz4Gpz4Gpz4GpxeNTXxSVIHqM8D+oOaObF6KyBrV+lczyJufd92v8tyjMF1EV22GZmXFLsNEWKlDgsJ\/OxPu9Lp7EeleE\/YH\/AEKAmc9vP45v78tViMq9gXruM97dqVxq1+ztZyLZNzH1eVNdLh5c0k1IFmtZn0tjhM1q41LEWqv4XLyqQ1rAWk3B9HY\/IhEx0cg689FKGvKrgcUlaA7E1Tl24mCj8bNgKqc+uSUdO9W93Uy7EOQopotMBYCGHUaQwYqmaDOXD9\/oU6S6Su2s0UWh+LthFTLTXn7FEEISzItcu7HtLcT4xy9QC8BMr49Ompt6z0LmOizyzl2q34rUxspxLbeV8KurgACx7MwFgeR2YSXLev7vcFdSUMv2uro5xMNejXtIrPlZuSD1VmmDbtioKRdcvjVpqqL73YV6ufQKToOz6z28ZYSnh6TrPKuX5S6cUEtIsakU\/B0uLyKS5ERCO4PPCOeppVuTryMzcvWOKoSU9ezn1rUnhmJez1PE8q3YlWLVCYiIjvnKFyVDpUBHQ0T5MbDuIxVDyIiI\/wDHX\/\/EABcRAAMBAAAAAAAAAAAAAAAAAAExcID\/2gAIAQMBAT8Bgpe6\/wD\/xAAZEQABBQAAAAAAAAAAAAAAAAABMDFAYID\/2gAIAQIBAT8BvRTDQDtv\/8QASBAAAgECAgUJAwcICQUAAAAAAQIDABEEEiExQVFSEBMUIjAyM0BhIEJxIzSBkaHB0QVDRFNicnOiJFBgY4CSk7HhdILC8PH\/2gAIAQEABj8C\/wAHSIzAM\/dG\/wA8Is3yhF7elMEYHKcreh8qYg3XAuRRkRwVXWaEkZup2+fYmQWRsreh5HVGuUNm9PIfk795vPD\/AKb\/AMqx38c+VxH8IVif3nqD4ef\/ACpDxSm3xrpDnrItm+IpS3fk67fT5DAsqtZS1yBq0eez5Tk6PbNbRfNWNLIy5piRca\/K4h8pymMabViFZGDEvYEVCrqVYDUfP40sjANNcXGunwoRjh55BIW2ev8Abvm0GeX7BWtfqrrRIat3H4SfNCMgtxke7QZTcH+xEso1qNFFjpJ5big3vjQ3mFhhGbESd0bvWjG\/XL+ITtrI92wbHqngq41eWzOwUbzWTDQvMfStCrAPWnibGski7CTposMbptxGjkxRzKbMrOdFFiySKu6g3RA6natdfBSrVpEkj+IoMjBlO0f1O+m1iD7M0e9c3\/v1+Xza2OhV3mjiJ9OIk1\/s+nIVYXU6xWRyWwjHqtwVff5TM+ljqWmbFSEBdUQ0UOjARSJpRh99EMMsq6HTdQZGyTJ3GohhllXQ67qGJw\/irrHGKEif\/KMi6cM56w4Dvq41VlljVqDpmbCsdIoOpup1HyJd2CqNprJhIHkc79lX6RCvpb\/iriWGT9m1ZcVh5Iz8KzROG8hJFxDRRRxZh7En8P7x5YySGyiunYgW\/VIdg9go4up1ihBKScO3hudnp5Muxso1mpcZNpUGyKaWWI5Z07p3+lasrroddxoTwWE6fzDcauNDDQynWpoYiDxl2cY3VnX4EbjRxUIup8VBt9aDCzIwrm2+bOeqeA7uQxyC6mpMBJ3NJjJ8hdzdjqUUJcReOAahWSJMo5bEXFc7gmMcmu19FCL8oJzb7H2HtyGlF9w01d4ZC3Fqr+jhwP2uUSRNZhQE0Yb1FdWUA7m0VceSLHQBQke4wiHqrxn2jHILqaGExJvGfCl+7tj7EeAgPWJ6\/pQnwy6hZ04h+NCRDdTXScP4y6xxjdWdPpG410rD+IO8vGK5xNX+1dKgF\/1qD3hv+NCRDdTXOL82c9ccB31lazIwoYWY3Q+E\/wB3JDil70bUkg1ML9tzcfWnOzdXTMb1n91T7JZtAGk0UjY5hsNGORbqaWKU5sKx6rH3auNI7PInykn2CutJZdw7G8cjKfQ1lxK514hroSRtdT29zRUX6Ih0\/wB4fwqw1e2Y5B9O6hBjNMfuTD76uO0zMQBvNW659QteLb0assHysh3UMXiRfnO+dqchmQXw7H5ReH1oMNINHFQC\/wCsj4h+NCSM3U10qBb38VOL1+NCRDdTRlQf0d\/EXhO+tjKR9dCNtOGc9RuA7qMbjQa6LiPEHdbjFH94Vh\/4a\/7dro8Ru6K6ZibnTdb7fWmKi7W0CmSbNl05gRq9hkOphY1ziZi2y+zkaJ9R27qlwknegNh2Rgw72Ud5ht7XfEe8KDDSDq7bocXVQaZX+6ljjFlHYmOQXU0uCxGkfmX39mWY2A0mmZTlw66FvqoxiFUddEiWq5w6VYoObk7knD6UVOkGhC5vAx+Tbh9OTIfmrnqngP4cjYiMXhbxU3eooMpup1GjNGLwMflEGz1FXFmVqCH5q56p4DRRxdTrFDCzG6nwn3+lWvlddKtuNczKLYgOAw++oozrVAO0Mr\/VvrpeL8P3V31YdljJh3b27EYeNrM2liN3b5Se41u2lX9cgYfR2aLsgTMfj2aYePvSa\/hUQi7tvtoYiCwnX+Ybqzro2FTsNGNxdTXRJjdh3H4xRjcXU10Sc3P5t+IUUcXU6xQwsxuh8J\/u5L\/ornT\/AHZ\/Ct4NX\/RGP+mfwoqwDIwoYWY3U+E52+lGNxoP2V0XEeIO63GKhiTTzffPaF2NlGs1bSMNHVhqHsczzg5zh9pl3i1TYdhZ4209jLJsJ0fDt8RuuO2w+KA8F+t8KDKbg6R2WMn3vkH0dnh14R+Jo4mIXjPioP8AcUHQ3U6jXSsONP5xOMfjQkjN1NW1MNKsNhpopRlnTvDf61lOgjSrDWppoZtE8ev19aMb6j9ldFxPiDutxiiHtl23rmDKrQt4bZu76GijTREHWMwro5lVoW8Ns2r0NGN5Ut+8NFNBiZVzJqfiFCDCwlzsfdRZ\/GbvHtMPCh8RrUI0+k76HOva9LIhurauUTc4DGGvfby83EQGzX00Ula5JvYbOXpuE0SDvLxVddDjvLu7B4zrU27YIguxoR+9rY9syNqYWNPgpO9EdHqvYySbQNFRAizWuezWV75bfdarjSKzj5q56w4D+FXFHERi8LeKg2eooMpuDqNLJEcsyd0\/dRBGWVdDpuoSRHLOndP3Vm7rLodT7pro+EizZT4m6gcVi2J3Cu9L9dd6X6670v8AmrvS\/wCatKF\/3jWWJFQeg7WMPqVNF+RTmyutJCpuF7PpOEPNzj+aiHGWVNDD2+lINB7\/AGuSJCxrO5DSn7PIR4uFbtH3vUUsiHQewjww8OLrydphsQwvHqNDbg37p4P+K3g0I204Zj1G4Du5L\/orn\/TP4cgngOWdf5vQ1fusuh1PumubwN8xFpGGo0sai2\/4+UDvcOPeU0JsLM7uvumrTERS7QeS3fk4RWZFSFNmavnEH1f8UXdYpVXSbUk2rNs9lTLm62q1CWO+U76wkynTIcp9sqwuDrFGSAZot27sssSFj6VmxL\/9q1liQKPTyXPJ82kNnHDQI1H2i7\/QN9FpPFkOZ+0eLbrX40cFiB106uVtooYeQ3hbw3Oz0NFHF1OsUMNMbofCf7qKsLg0IZDeBj8m\/D6HkEODOkraRxqNZU0na2\/y5DoM3ENdZI8cwSs7fKy8TcpU6jSxu2bDSHR+zyczzWYDWb1cciqzFSuoilTSdw2mlx0+hV8NexLL8nJvGqjePMvEvs2jRmPoK6wEY\/aq8pMp+ysqKFG4eUKOLqdYrMmaXC7U2pQeNgw9gySGyiulYhSsS+Gh7bpWGNpl2b6MGM+TfUb0MNM2Y\/m5OMUY3FwaOFnN3Auj8YopiHFm2DXS4WO\/NfrSusVljGna20+eY8HWqBjryVzskQLcnykir8TRTAwsf7xtQrncW3PS+uodo0k8K5m2bqvzZHwatT\/5qvzN\/wB41ZVAHp5kthmMD7121141xC710GrHBzX+FWw+G5v9p6WTFyGZxpC+6PIZpE63EKBgxJABuM2yvni2pefxlwNVhQL5pCOI1YCw8+0bamFc2kazRDu0cuB1aKy\/JxDfQbEMZZNfpVgLD\/B3\/8QALRABAAECBAMIAwEBAQEAAAAAAREAITFBUWEwQHEQIIGRobHR8MHh8WBQcID\/2gAIAQEAAT8h\/wDG76HdZyD\/AE6Av\/03qgiaMeeXE2PPup9LGHkcqO12xKdQSaEY0NG\/AY9sTjzh30iv0OwkMRGbTkPo9Dnn1vs4l4HI7YJmDXux2fS7V9zpXq\/u0ELhfsicajmw+gCPWKxhOk6V+tvOmPYzOv6RyCKF764Y89b488oJ1oGQhghqcq4DLMJwzqUukgslqS5GRhLvPsSQsENSoqpNgMTP3KgAgID\/AHScecT5tNyCaRqMAs8RrL89sd05rwZs9M0GAUiZ\/wCIYV7k2PemRUSrn2oSIlxKQ+j78xlQD3iodL+6nQtNQK9HagBBVxM+WQnOZFJMoWyfClme2tiPdq89\/CmptSjK8Vx2oFiWGL6UwrEsBY8qi\/aQm\/k1PR46\/FR89waMPoCT\/wAdnF7N791jIl5GOXSOT9VRO\/HJyaOwB5YTOjkYDXXo7VBshLpOU2gCxai3e5A59KV7LjnpqGhxl4zfFX7hOjs7NDKNk5vih4Io9ManYhsjitGiwZQ\/KbUBIKJEzp6AiJS50aRmHJeP3QCyyGfI4qIErY8owdVAylb0UMIpkBPoVbm8yQ0EIJhmeHIaj+aLnrT+Wwjl3PXeWIPplqTkfMu4d8sJnSpn\/KuTAWWUyKFIxnoqNPwI1bUqVum41ONgk4VDolvkwawpnGjUUNnLyMc4a8EmM070qPUQlFEm83xm3ZGNMJTAN2IX+nIWQhrn4KyZS7T0PzUEWbq9e16ZMRJKtlD8JpSgEYi9uhAIyOCcZxOd1Q4qtC+ki5lGPl26sSVCndFrz8JVIgRzOSdGFKuRR4yxvOdqACDDux3z5UuuwbM1ffTjGNmevcl8ytHV71K+CPk59FRuzJQDAIydRvQ2YvCY5g0fG3HonWgysrI4rRpO2X4Q2VA7MjTQJmCY2TanIdUCUgu1fPfv2JaZDwxPu9YZLPiTxrdMD7rRORL5Pd+O6l0NTQoYS5DC9KMVlKTLGYqgJBCRM+HIwaI+Y0ujdDKx4OTBQ8AA+aHxhE44IgBdWrFF0w2KAQALAZd+RIOGZalSvtbCdKECBHCHLiIBvFICkgjNpUoC9CGhWji4KhobcaVsv5oQCMjglMGkjzafzTgwJEzKUmnC847GZCBQwOTRSB2bNJ2WkfK7a18sQGk7YRPMbVOi84dTeliW59V69nPqtHFkLG1+SoKJY52qosQnUaWRQsSfcxWZ0GkGMxPB2YEzbU1qEK4DMl4WAAWZaTpSqy3eIZFU\/tKRGFK1OMkPYy8DRvUHUwcExJYSrwC9Fo78OC41NCpCldQ\/LV6awza7lL5B0t7UslGHLrW0aMKEcykDQz5tf4pAIkjiNE5GIjjZdiempD6tyjblkM6atLZr9po+4VnESpk7BnGydqPyWEzpGduvq70LkRHxqdG1tdmzWKCvwI4gzSFgYrSlxRlbQ+PegAACwHCho8pg3\/XBScCUw0cd0mKDpj88ZDcB1PY\/PDLcqasPceHewWwL7PFooJAjHmneahUHBw1lXoIc00moRRqTYU\/ZuVGLN6kxHE8rqUAksJnSyLV89+\/ZJzLaNTOmzB4NSYlutyl9AAySnZ9FmvepTWA5rUqSslOX8lADB6RlOIAssplUbC8PT5aAygIDuCQqfF2qBKwUIkjI9iDsLyqIRXc8G5Mp8Kx6cfGND68ZAySQ14\/d6gsOTU4TO3Jnb6PLh6DjesUMbu6UAkshnSmZlcNTor2RIqT1fm2U1Cl4EaNqm6u8ACUmAwnTkKLzQTFalSA8r1OtG9qRk0fvzgP1YUECLkDQ6fLGfuwqSFZky1KXiwNk1rZ1OE8wQucSoozPcmCcB9eJLoToM8Pmib9160kaQF2oaeldq4hLK7btIjAuROPzQaoUkw7cPDtZKkxGu48Biml+Dxn8tgDOjehbAzeMXMsCoeMxeo2fXg3X9ybFKjJd6t+HamBOwugJBCRM6ZTswDGzKACCNxM6XWuQfVrRtzSGdevL3dtUoOyMV8UC65192zTPoAIYjQEjkMCtRyqGf9SPFr+H+K\/kfiv4L4r+G+Kmpdzw\/KtkERTxZlTIKwewtYYMSJSshxLnwwBbp0pfwXy+\/pH0MnXigkHTKgEwRbA8gBRLHVqVMfltwEvLxpyOJYXoPo39GorK2ceblREiArjcSk7YZPMbUkkOFQ4xvDUoIBGRzoQGDchQ7jogdymYp1qB3+allgv1zcoTBkEB8aGbuZcSixQxYFDJJhTqei\/vUvyyT9vZ5f0AaPSiEWL6HPuhkpIDOFYvwLIbU8JQPXL2e+bc0JnThGxF39eEL2OUVvqs2tuTjkUkhwoQ+NOdz6U5chImfe8HJxehQI3vWcuIegZNBhQeI5Yn6KU2n7F4UfksJnSHrVc9+9BQFCOdKEhmzfaKUCVgKtoyogN9YrGk4xflx8ywKBQ9oyz80iujMcx07RRkITUrGCt1z2WnYOsJtQFgJJ2NyCaEoYcy7rUdeWfXgrXd1HUpBMe6VHc2TVNUY78X8qjNMW1DZrgEHKAJLCZ09SCTuFKnOmXc93+NiiW9TO\/GwWMw059aGHJRF9TSjKwWsPlr1FSNytHrw\/aZ09yGt4KRMGygj1otgV7ng5aFAt4fmlRlCg+abLfrQQQYUQsNlc8qkzpiCKCuw66AAgIDhoV4UbHwz3pZ4oUTVIID3Gtk5CDmVEb0eoqVAX+LRUhZfxWC9hp08OJGL05DJbxJDUVJDKVlcosXeX+KjokyRSvA2IfCgQAwDn8heNS7g4sCgoF0pkv51dC7GR+Jq9JZK0FCDAD\/AOO\/\/9oADAMBAAIAAwAAABDzzzzzzzzzzzzzzzzzzzzzzzzyzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzjzzzzzzzyzzjTzTzzzzzzzzzzzzzTzzzzzzzzrzzzzzzzzzzzzzyh3zzzzzzzyy+7wzzzzzzzzzzzzzzjbzzzzzzzzzTjzzzzzzzzzzzzjTzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzyh+9TzzzzzzzzzzgxTTzzzzzzzzzCwWTRDTzzzzzzzzjDTzzzzzzzzL\/wA0888888888Q8sc88888848sA4kM80U8888888V840w88888wf\/wD\/AO8jzzzzzzzjzzywzzzzzyR3ySSQQShfzzzzzi1zyzyzzzzzj\/8A\/wD\/AP8A\/wDPPPPPPEPPPPPPPPPPCIKGBNFGEFPPPPPGGPNLHGPPPPLP\/wD\/AP8A\/wDPzzzzzzzjzzzwTzzzzwTDACjy30zzzzzzzQDjzTzgjzzzzzP\/AP7Mc8888888sA08g888888cwAkM88888888888cc884wY88888s888888888888888M8888888888s888888888888888scs8888888888888888888888888888888888888888888888888888888\/8QAHREAAgIBBQAAAAAAAAAAAAAAAWAAETAhMUBBwf\/aAAgBAwEBPxB6GIbGenAC3bJpg6ZbMssdpf8A\/8QAIREAAQIEBwAAAAAAAAAAAAAAAQAhMUBB8FFgYXCAscH\/2gAIAQIBAT8QzUIzQxC8epBrDS7wR3GrwU\/\/xAAsEAEAAQQBAwMEAwADAQEAAAABEQAhMUFRYXGBMJGhECBAscHh8FBg0YDx\/9oACAEBAAE\/EP8AkyZZCJtDn\/tCzshbL1vrj\/H2opINyxs6cT\/2MmWQibXz9kYEgj5GT9f8mnpxLsSDsfnHUov5Bh4RNNqMhcMr8UYFizK4aAwyxhiZSaq4SEgazcviPH1QIAkzf8w9OEEF2t\/X0gZXB7rr\/wAeDRf5nL6a6VG104ZPn684TdG4ifa32gFQBWWN\/T\/D5+suFIdk2I0F+cfRAgCSN6AKgCssb\/LYBKW6LL\/BQRBc7VwOpSo9KWCSpJ7Qe\/4E6yoAAAiwMJfU\/nOHi8MB4rLxxSQi9B5iTJ1PxUJVtDTYYLZ9mmy3gncAks6oiKDrtw3Pz0xIqF\/Jk6lQGUuw1RgKgQ8cigQAQAQB\/wB6DNC94ELr0KUmVknAcTmo6lkSPZigGQ4Aqeq09s\/lFURMo1jqK6oECFpA7P8ApEvbxDCeEPimhkclTlfq\/wDYQhGkYiPhEz2S\/v8AkQ83vwG3YL+1GfZhu850aqAD5ZXf8fOZENKiEgcI8fjZf3iHbq9KgCOAIWkAqe1FeWgoOybntSlguIfEbf8ASoIgIDDiUW70fXDBDDBkdOGGsdoTNluFprycdHpJ+qn0yERfxpk3IS5HLhjsNDWiSA\/8OfQBJubIPKPj7ZuYp1\/HxXbp8rBGYN\/3SSXxFeC2fbX0QNAmQOqunDEj\/q\/3TBWIG0gvO+\/b8QmrmOOr0OtTZmeqKQDhWuXeaaTblCzsxGZ\/ik0NkL8hytNLJjFMt82JP83hnNflOVkaMOgOx++NP9UyMpGgOQ5Ki7kPI4DfZqgvqSkDhHZSYkgN+UPFBtErdcjwMjvHNASizIHf4IU8WALE+W2C9WtkCJ3MHHdKJubpFdMin3qbIrqR3S+SrV2hUjoMQR1akh0Qx3Mj8CA8zKLx8ApUGT4UflRjVTht4A2tSmDlcL6uT34+zWRYA4qPPTMfL\/PncH4Tcgs2DLVs94gSEU1BEcqtOyyKltnKvietSzBnYZO3DugnEnnnSdOn4wR+WDIfp3VvM4w3f3jp+Dvuh4B7opS5CFi0cd8nmpfzSQSLifCdylVR9oRyO+lx9D0TwydThKtYowAG0ckj3H8AkpR9xvUtL80o6y3QTcbnn4xUgwZUqvKbr9bKPhk7jWNq0wnq\/TFOE4EIdWwe1u1GWEKJE5PWBGs5z2t80AhsETiRZ8mqbWhYsdED9\/ViQkASI5EbJUAKsvP1THsVPCRK4R5YfDQDDZJHz+EctPHASr4rHZUSGrh\/RugQACACwfaEiMTa0jpK4e6iGF0lu3g+tO4gwbpsX6f11+y7hfC0EguhKO26dKXcgkR4A1n9g6mDZ0TSUN8AlwXPsIdR2qOYkfAsLko4CUxAe3Tp6RTizIMEyGkq2\/wCxaNfIeZIFED9PCUrzDgRiN9hj2qDzZJksInuJ3pAEcH5eGuT6PTPqMKnJ0RoYCF7wA\/frR7hCOQOA28H+XJiTb8B1GtPtMCiOAJX2KOUSI9MtzMUAZ7rI6R0lZOPsV0vBx5N0b8S8gbiOz03Yoz7YN9CklfFvNWM92lUqquV+8YxagpARKFqA5JEIO2sft1okXyr4eH1wwuoQAZVqNcAOYP6rPW3gJKgEAMAcffmFIuwTTTfWWFR8SH63ZqZEQqQVse1\/wDT6hiXksHVbFNO\/EKfZUfiuVLqL+PmgqMfvdRdehR\/xrRdMrht0UZYQokTkqPHI5n16HTz2PWPjkJE8VCWbVCbWh8+8nQLI7HYmk4q6IbHDRwv395N1MBrkeE4qJq0Zk06Wn9V\/Bsa9kR81NFAOZy89Oqg1yyMaSaGmpfU\/WC06dnSa\/zOX1nyyZz7xyzg\/dJWbrrl5CcUE1ssEMHlqfN5ME2ji9o+w8VChiQh+GmBjA7JkIC\/V+lqKyAULg6jTivk0g+yfJ6Tfxrl9w4MWzfpSJFGVWV9QAqhXH6E+aC2GXCEj7etZGqJSXCNo3x0uaaOMryrtfRn2kGupw1eDXA3YNxdHmMR6ZgFRwBK+xSWJgUgLWLoxLqe1QbvIKiLlukSNZk4Yp9kFW9Ugkl9IYs\/3By08chCPipcdjmXfodv7gywkBInDSX7GLZrhLace\/0dkUHd8PnqZ7G+gzIHdRTMJM2rRw7eJxIQuR8lTxL8k7M7race9In+TYNK6jh3Lx1yUOYte0wjxyUbhA2ACnNY96d4XMxIr9eomhotCcDrn2pyDucCwHB5zQMLgEAGAPSjfqyJUzzOfn0bXhYFLE+t16RzSyy3fWSkOlmGA+X2esmcSFpnLvHpisSr2WPHgem7TDyzCQP8WphVRENuLVyaamHFne\/jdPweHBEJkOaHfAJsdI6TI1PWl4wF79LJ0op0QNjpHSZGoX2m3BMvm5\/b8OkyB1Sx44Hy8Ncn0caeF53yNuntIyjzQH9laBal5me59vaYyykur\/Zqc4orBt465KgCKxgYbSNXrB03vt2eagqBrtGOYx3X1EBRZgButPuFB4PdPBtij1AAwBYPsRkKULC09sfVEACVWAKBABIjIn0hBxcFEn5onXSG1RXskeis3PSA0Nug9chsnlRP4j1j4Jh3si+IoQQEOEJH29JXY2TMjDHS49MIMzB4P6aVtzl4jBybNnwfDrMgd0rgwXQDToTHOO45CyO1sTScVfvRkHwP7N1YHEKw2OdfDUC8LeHK5KhVgFAPh8O4w9ykrZMIYTSVaIK4QLAenJQwuEomNrzU0elzOVJscnt2cekTA2RvHim0MAnnE2DbrHZfa+AEwk2TmhN5I+hV0RyUB6lr4MYIyvOLVDOiwajgMHc+opWwJhiSTcNMJsFjBuqO83bSdY4oe0Bdn1JdNihmbI8Z+qYdIkICJKMj2wEARL2+pJGQxgyxtjJvOaAgAlXP5J36Gvn1m6D+vWBJM+VNI8i3jrsEHj1hquBsSGghDvxMB5+R6J2kovif5hKaCIMl1L7+mvraiTeA6Cz70b8S8gbiOysug3TsRhLcMUGFxCQOEavGFkX\/AKhv9G4szIHdLDymKxc8q+KU570IOVppVhrLB3z9THvTRFz+nANjsqf4nKD0UOrmhqW4ntid9VMQp3r9f+r5ixpgZS9AQPinKTkHkcud+qS1jOQyJ1l+icbkyBJE6XTvSDIjOlVfdfTeCaRa3h1Li9mb0Y7OGyvAzH6fvvrRGOkdrh69\/VXcukA5XAd6vDjhKMg86n8A0xA5jCRuPcmdUYSYiRVtcJ6DuBiDA5\/ct1ePUj8HCTIqHvZ7UkDFI2MnlNuKj7aAJGHSJUs8w5nLz06oEAUQiWSlosfC8rMcvj9mWBIGRKA4l62\/0HTqlumtnTJ0bHZ5p3dRoqBZogOUxQ1AWSWK5d3n8R4XZlGuqKQmlix3A32c1dCQtXouPLQAgokTDTZKwGKK7a7ZooP5F4RsT4Ar\/wDb1LmyiFpdAFbNCjSxMxqD3H7R1BBpsnKclJTJAiFIiS8Uyaxmwsn2Pbt96CLEyB00wSFE9G7er3ptn0VyVjSd3B5oQ4uV\/j\/xoMV8Ce7l8\/gggCiEd1AvNOMjDf8AhxIFTMYEkT7kuAJLROOotXOCG5LeB8r6icCch\/kbnmp2bEQO0Q7w8DUeTDrvm\/b\/AAgfhMgaRqXH+Xhrmn3uPkDkakqQOZN2jl38IzAlVgCiuuEAmcMIRO23FRvy4xP4On454AYpLud9mlAmAIoRCWoEdy3B0OO+fqMt92EIT2qYkwpAnwzfnP0VwyaQUD2B3SWSZOR+jOrnTExIm8FEZCbKTdXB1ovUm6jcXaFmdp6Ipshhlf8AGKfheK1i4XPalDCQmZ+wMgMSfdGKSQbC\/CE0wSSW1scF3y1hEuYeD8R+ECZA0Me9LRTN3JdtvpaghHMq\/Qmn7Binu5VoNrxT0OGSBkZ8+fb1TKJjZlgHw7xVuky8JwmVvpV+5KCNgnESzGf3HneRhdJpOauggHlfEOk9aZC0Fm4QYTSxUnzESyBZaYiw3aPvMALvK\/x+dGa+GUxcdLS8VGQCvYj+KLg4lC0ggN4KAAAEAFgqP25QkPk+1CrsQvVXt7z2p8WOgntRy9aBmBABAHptuiIUGQJyWXqDVypN0UPmgSm6Nn6pXoCFPCxRoHwcPB+SWVGU61+zeiQfBNIfy8NCLkRKWaJy1ZLkcGPhqa2YfC21n5\/AvNwSbhpSz5KDv4iCyODsVPFEtNr4\/wDVEE1kQS8XOChKMvkuYf8AtGCCAwHj88VlVFk4fDD4qLzIAlGeRM4qRYrBgHcURBGyydmQaCuypE8RlO9WmkDAdg\/+O\/\/Z\"  \/><\/p><p>The illustration reflects contrasts of<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Tone in an artistic context refers to the light and dark values used to render a realistic object, or to create an abstract composition.<\/span><\/p>\n",
+        "Topic": "Classification of Art and Elements and Principles of Design",
+        "Difficulty": "Easy"
+    },
+    "Question 7": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Shading<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Painting<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Chiaroscuro<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Serigraphy<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The effect produced by the combination of light, shape and colour is<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Chiaroscuro, in art, is the use of strong contrasts between light and dark, usually bold contrasts affecting a whole composition. <\/span><\/p><p>Serigraphy is a fancy term for silkscreen printing.<\/span><\/p>\n",
+        "Topic": "Classification of Art and Elements and Principles of Design",
+        "Difficulty": "Easy"
+    },
+    "Question 8": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Body design<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Body painting<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Graffiti<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Tattoo<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A permanent pattern made on the skin is called<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>It is called a tattoo.<\/span><\/p><p>Graffiti is writing or drawings made on a wall or other surface.<\/span><\/p>\n",
+        "Topic": "Art Appreciation ",
+        "Difficulty": "Easy"
+    },
+    "Question 9": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Clay<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Mud<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Wood<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ivory<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Plasticine is an art medium that can be used in place of<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>William Harbutt, an art teacher in Bath, England, formulated Plasticine in 1897. Harbutt wanted a non-drying clay for his sculpture students. He created a non-toxic, sterile, soft and malleable clay that did not dry when exposed to air.<\/span><\/p>\n",
+        "Topic": "Artistic Skills, Techniques and Processes ",
+        "Difficulty": "Difficult"
+    },
+    "Question 10": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Romanesque period<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Gothic period<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Medieval Period<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Prehistoric period<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Mosaic art of decoration was introduced during the<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Romanesque architecture emerged about 1000 and lasted until about 1150, by which time it had evolved into Gothic. The Romanesque was at its height between 1075 and 1125 in France, Italy, Britain, and the German lands<\/span><\/p>\n",
+        "Topic": "Historical Dimensions of Art ",
+        "Difficulty": "Medium"
+    },
+    "Question 11": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Nature<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Drawing of human figures<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Still life drawings<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Distorted representation of an artwork<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>An abstract art is a realistic representation of<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Abstract art uses visual language of shape, form, color and line to create a composition which may exist with a degree of independence from visual references in the world.<\/span><\/p>\n",
+        "Topic": "Classification of Art and Elements and Principles of Design",
+        "Difficulty": "Easy"
+    },
+    "Question 12": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Logo<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Yarn<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Motif<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Posters<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Which of the following does a textile artist use to form patterns?<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A motif is a recurring fragment, theme or pattern that appears in a work of art. Textile designers use it.<\/span><\/p><p>A yarn is spun thread used for knitting, weaving, or sewing.<\/span><\/p>\n",
+        "Topic": "Artistic Skills, Techniques and Processes",
+        "Difficulty": "Difficult"
+    },
+    "Question 13": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Oil painting<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Watercolour painting<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Pastel painting<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Gouache painting<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Varnish is essential for the protection of<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A varnish is used to change the sheen of the artwork and protect it from absorbing pollutants from the environment. It often is available in a variety of finishes including gloss, satin and matte.<\/span><\/p>\n",
+        "Topic": "Artistic Skills, Techniques and Processes",
+        "Difficulty": "Difficult"
+    },
+    "Question 14": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Constantinople<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Rome<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Paris<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Crete<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Byzantine art emerged in the 4th century in<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A central feature of Byzantine culture was Orthodox Christianity. Byzantine society was very religious, and it held certain values in high esteem, including a respect for order and traditional hierarchies. Family was at the center of society, and marriage, chastity, and celibacy were celebrated and respected.<\/span><\/p>\n",
+        "Topic": "Historical Dimensions of Art",
+        "Difficulty": "Medium"
+    },
+    "Question 15": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Classicism<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Modern Art<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Impressionism<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>The Renaissance<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Pointillism became more popular during<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Pointillism is often considered part of the post-impressionist movement. It was primarily invented by painters George Seurat and Paul Signac. While Impressionists used small dabs of paint as part of their technique, Pointillism took this to the next level using only small dots of pure color to compose an entire painting.<\/span><\/p>\n",
+        "Topic": "Historical Dimensions of Art",
+        "Difficulty": "Medium"
+    },
+    "Question 16": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Canvas<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Wooden panels<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Metal panels<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ceramic Panels<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Which of the following supports was used by Roman painters for expression?<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Romans refined the technique of painting mosaics and murals and emphasized natural themes such as landscapes and narrative themes drawn from literature and mythology. The primary colors used in Roman painting were deep red, yellow, green, violet and black.<\/span><\/p>\n",
+        "Topic": "Historical Dimensions of Art",
+        "Difficulty": "Medium"
+    },
+    "Question 17": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Complex architectural rendering<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Simple architectural rendering<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Use of magnificent stained glass<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Use of colourful marbles<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The glory of the Gothic Cathedrals is in their<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>While the Gothic style can vary according to location, age, and type of building, it is often characterized by 5 key architectural elements: large stained glass windows, pointed arches, ribbed vaults, flying buttresses, and ornate decoration.<\/span><\/p>\n",
+        "Topic": "Historical Dimensions of Art",
+        "Difficulty": "Medium"
+    },
+    "Question 18": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Animals<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Plants<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Buildings<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>People<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Prehistoric cave paintings reflected<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>In prehistoric art, the term \"cave painting\" encompasses any parietal art which involves the application of colour pigments on the walls, floors or ceilings of ancient rock shelters. Most of them reflected ancient animals such as the bison and the bull.<\/span><\/p>\n",
+        "Topic": "Historical Dimensions of Art",
+        "Difficulty": "Difficult"
+    },
+    "Question 19": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Sphinx<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Mummy<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Mastaba<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Nefetiti<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The Egyptian sculptural piece that is half man and half animal is the<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The Great Sphinx of Giza, commonly referred to as the Sphinx of Giza or just the Sphinx, is a limestone statue of a reclining sphinx, a mythical creature with the body of a lion and the head of a human.<\/span><\/p>\n",
+        "Topic": "Historical Dimensions of Art",
+        "Difficulty": "Difficult"
+    },
+    "Question 20": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Masks<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Textiles<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Engravings<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Decorations<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Dogon of Mali is renowned for its<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The Dogon are best known for their religious traditions, their mask dances, wooden sculpture, and their architecture.<\/span><\/p>\n",
+        "Topic": "Historical Dimensions of Art",
+        "Difficulty": "Difficult"
+    },
+    "Question 21": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Roundness of shoulder<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Rigidity and frontality<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Use of bright and raw colours<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Short feet and small thighs<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Which of the following are characteristics of Egyptian arts?<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Features of Egyptian art includes paintings, sculptures, drawings on papyrus, faience, jewelry, ivories, architecture, and other art media.<\/span><\/p>\n",
+        "Topic": "Historical Dimensions of Art",
+        "Difficulty": "Difficult"
+    },
+    "Question 22": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Lagos<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Oshogbo<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ibadan<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Esie<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The Mbari artists were mainly based in<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The Mbari Club was a centre for cultural activity by African writers, artists and musicians that was founded in Ibadan, Nigeria, in 1961 by Ulli Beier, with the involvement of a group of young writers including Wole Soyinka and Chinua Achebe.<\/span><\/p>\n",
+        "Topic": "Historical Dimensions of Art",
+        "Difficulty": "Difficult"
+    },
+    "Question 23": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Benin<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Nok<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Oyo<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Jos<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Which of the following towns is famous for the production of calabash?<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Oyo, the ancient political centre of the Yoruba people and one of the most crafts oriented towns of the western states of Nigeria is noted for calabash carvings in Nigeria.<\/span><\/p>\n",
+        "Topic": "Historical Dimensions of Art",
+        "Difficulty": "Difficult"
+    },
+    "Question 24": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Nok and Benin<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Nok and Ife<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ife and Benin<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Benin and Igala<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>In traditional Nigerian art, there is a cultural and artistic connection between<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Both are ancient art traditions in Nigeria. The human figures of both Ife and Nok are decorated with beads. Ife heads are more idealized in its composition while the Nok heads arc more stylized. Nok heads were made only in terra-cotta while Ife has both terra-cotta and bronze heads.<\/span><\/p>\n",
+        "Topic": "Historical Dimensions of Art",
+        "Difficulty": "Difficult"
+    },
+    "Question 25": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Owo and Shagamu<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Owo and Ado - Ekiti<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ado-Ekiti and Ilesha<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Shagamu and Oshogbo<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>In Nigeria, thorn carving is practised in<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The thorns used for these carvings come from 2 varieties of trees: the ata tree and the egungun tree. There are thorn carving centres in Owo and Shagamu.<\/span><\/p>\n",
+        "Topic": "Historical Dimensions of Art",
+        "Difficulty": "Difficult"
+    },
+    "Question 26": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Indigo dye and white alum<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Yellow dye and white alum<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Green dye and white alum<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Red dye and white alum<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The starch used for designing in adire - eleko is boiled with<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The adire-eleko process is a tedious one which consumes a lot of time because most of the time, the patterns and designs are hand-drawn. <\/span><\/p><p>These designs\/patterns are achieved using bird feathers (Quill), palm leaves or sticks which are dipped into the cassava paste and imprinted on the white cloth.<\/span><\/p><p>After the successful completion, the fabrics are immersed in a bath of dye and left for 15-20 minutes.<\/span><\/p><p>Adire-eleko is traditionally done in indigo color, but can also be dyed in any color of your choice.<\/span><\/p>\n",
+        "Topic": "Artistic Skills, Techniques and Processes",
+        "Difficulty": "Difficult"
+    },
+    "Question 27": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Religious purpose<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Economic purpose<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Royalty<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ceremony<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Wood carving in Yorubaland was primarily meant for<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The custom of art (including wood carvings) and artists among the Yoruba is deeply rooted in the If&#225; literary corpus, indicating the orishas: Ogun, Obatala, Oshun and Obalufon as central to creation mythology including artistry.<\/span><\/p>\n",
+        "Topic": "Historical Dimensions of Art",
+        "Difficulty": "Difficult"
+    },
+    "Question 28": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Natural synthesis<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Unnatural synthesis<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Motif design<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Freedom of expression<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The Zaria Art School is known for its<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Members of the Zaria Art Society were concerned with the increasing influence of foreign cultural values and traditions on art in Nigeria, and the consequent erasure or denial of local artistic traditions and ideas. Thus, the concept of 'natural synthesis' was conceived and advocated by the group's founder, Uche Okeke.<\/span><\/p>\n",
+        "Topic": "Historical Dimensions of Art",
+        "Difficulty": "Difficult"
+    },
+    "Question 29": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Twin Seven Seven<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Jimoh Buraimoh<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Jimoh Akolo<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ulli Beier<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The famous artist who worked with Suzanne Wenger <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Suzanne Wenger worked with Ulli Beier, who was also her first husband.<\/span><\/p>\n",
+        "Topic": "Historical Dimensions of Art",
+        "Difficulty": "Difficult"
+    },
+    "Question 30": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ben Enwonwu<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Jimoh Akolo<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Kenneth Murray<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>William Faggs<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Which of the following is regarded as the founder of Nigerian museums?<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The museum was founded in 1957 by the English archaeologist Kenneth Murray.<\/span><\/p>\n",
+        "Topic": "Historical Dimensions of Art",
+        "Difficulty": "Difficult"
+    },
+    "Question 31": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Yaba College of Technology, Lagos<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Institute of Management Technology, Enugu<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ahmadu Bello University, Zaria<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>University of Nigeria, Nsukka<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The first tertiary institution in Nigeria to have an art curriculum was<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Members of the Zaria Art Society\u2014established by students of Nigeria's first art school, Nigerian College of Arts and Science Technology, Zaria (now the Ahmadu Bello University, Zaria).<\/span><\/p>\n",
+        "Topic": "Historical Dimensions of Art",
+        "Difficulty": "Difficult"
+    },
+    "Question 32": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Benin<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Warri<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ondo<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Akure<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The annual Igue Festival is celebrated in<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Igue festival is a celebration with its origin in the Benin Kingdom. It was originally celebrated as a festival to renew Oba Ewuare's magical powers. One tradition states that the festival date coincided with the marriage of Ewuare to a wife named Ewere.<\/span><\/p>\n",
+        "Topic": "Historical Dimensions of Art",
+        "Difficulty": "Difficult"
+    },
+    "Question 33": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Drawing<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Graphics<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Painting<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Pottery<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The use of lines to describe an object is known as<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Drawing is essentially a technique in which images are depicted on a surface by making lines, though drawings can also contain tonal areas, washes and other non-linear marks.<\/span><\/p>\n",
+        "Topic": "Artistic Skills, Techniques and Processes",
+        "Difficulty": "Difficult"
+    },
+    "Question 34": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Painting on walls<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Printing on papers<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Drawing on canvas<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Printing on fabrics<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Dyes are colourants most suitable for<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Dyes are used to print on fabrics.<\/span><\/p>\n",
+        "Topic": "Artistic Skills, Techniques and Processes",
+        "Difficulty": "Difficult"
+    },
+    "Question 35": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Apart<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>At an angle<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Closely<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Overhead<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>In lettering, one of the principles is that round characters are placed<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>In lettering, things to consider are size, letter spacing &amp; line height, alignment &amp; proximity, and readability.<\/span><\/p>\n",
+        "Topic": "Artistic Skills, Techniques and Processes",
+        "Difficulty": "Difficult"
+    },
+    "Question 36": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>E F<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>G H<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>I J<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>K L<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p> <img src=\"data:image\/jpeg;base64,\/9j\/4AAQSkZJRgABAQEAYABgAAD\/2wBDAAcFBQYFBAcGBQYIBwcIChELCgkJChUPEAwRGBUaGRgVGBcbHichGx0lHRcYIi4iJSgpKywrGiAvMy8qMicqKyr\/2wBDAQcICAoJChQLCxQqHBgcKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKir\/wAARCABgALkDASIAAhEBAxEB\/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL\/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6\/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL\/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6\/9oADAMBAAIRAxEAPwD6RooooAKK4TwBrOsa9Z3UuqX9xuWW5gid4oQkhE8iqyhVByix8g9d3ToazPGNx420bWNA0vQ\/FEclxrE8sO+8sogkexN+flXPagD06ivNBonxgA58V6Cfc2Z\/+Jpf7F+MH\/Q1aD\/4Bn\/4mgD0qivNf7F+MH\/Q1aD\/AOAZ\/wDiaP7F+MH\/AENWg\/8AgGf\/AImgD0qivNf7F+MH\/Q1aD\/4Bn\/4mlGj\/ABfA\/wCRn8Pn\/tzb\/wCJoA9JoryPVZvirpcsdv8A8JJol3eyjMVnbWRaRhnG45ACrnjcxC9s5q9baX8ZZIFe58QeHoHI5QWzNj8dtAHp1FeZXGl\/GSGFnt9f8PXDgcRm2Zc\/Q7cfnVG4n+K9nrttpl5ruiQm8TNtcGxcxSOOsZYD5XxyAeD2JIIoA9borzj+yfi7\/wBDJ4d\/8A3\/AMKP7J+Lv\/QyeHf\/AADf\/CgD0eivOP7J+Lv\/AEMnh3\/wDf8Awo\/sn4u\/9DJ4d\/8AAN\/8KAPR6K84\/sn4u\/8AQyeHf\/AN\/wDCpvhnqvizXJdXl8TanZyx6bqM2neTbW23e8eAX3dhk8DFAHoNFcXoWqaxqPjnW7KW7ujZaffFUIjh8rZ5ELeUx2787pSwP+zjPau0oAKKKKACiiigCna6RptjL5llp9rbv83zQwKh+Y5bkDueT61x\/jn\/AJKL4A\/6\/rn\/ANEGu1tL60v7VLmxuYbm3k+5NDIHR+ccMODyCK4Lx7f2kXj7wJNJcxLFHe3Jdy4wo8g9aAPRKK53UPHnhvTdLn1C41OJoYX8siPLM7eijq31HFcrqHxl0i4uINN0OeK1vZpNsk+s\/wCixWiYJLtvwWJwQoHfqRxkA9KSWORnWN1Zo22uFOSpwDg+hwQfoRTZLiGGSKOWVEeZisas2C5xnA9eBXk8WvaJ4JnvNc07xzpviB7tjLqdtNfwGWdgAFaHacKVUbdmCCMDjAqvf+MYfGutWOp2fiHRPD1no0zz2rX12hnvGKbRlNy7Y+Sp5Oe2eKVxnslUpxqLaiv2ZoktlQbvMG7eTnIAGCMcc5PXGO9czpPxT8K37ywXet6ZaXEABkLX0ZhYHoUckbgfTAI7gcZy9Q+J1ncza9YaRdW0xt7Xz7a++1IbcjADDejZGOTknq2OMYpiN9xLpVzNp1lp9vcX+oLLcq80rMrlcZaZiuQoLKoA3EDAAwPlxf7H1iwsorTxJ400+JmBWGHD2wIycBTFLExwOO\/6VR8C+MrAW19DrHizQnumnljS4a5RZCQ21CN0h3qVVT0Xp\/FnI5\/x142t9F1oWHh2fQryJYUuLy7vSl3JPKdw28uAMKoOMjAbjGMFDO1t\/DfiLT7yO402fYwJ3JNq89xHInHeRGKnJPXdkcZXqOq027lui0Gp28UV\/a7WkWMl0+YHDoxAOD8w6AghhyOTwvgTxz4bn0e1v\/7f0nTftEZW60prlUWKfOA0SM2VUgH5RwcgjB3ZdonxXsbrxNqiatKmn6V5qLY3VywVNoUBg\/8AcJY5G\/b8pFAHpNBIAJJwB1Jrx\/xJ8WtR1DXE03wJbWlxao+5tRubpYUuGjZWZIixAZeNpPOQTjAGava18WNK1Dw5FYxebZanqE32O6tSytLZRniSXjIIwflbuWBwcEUAd\/4f8Q6d4n0sahpE3m25kZMkYIIOOR2yMMPUMD3rQmnitoWmuJUiiX7zyMFUfUmvNbXTtB8CI934HvrS1jCobrTLm+G25GCFZd7EpIccdN1b1x478Mav4cl+zeKNM024uoHSP7XcxpJBJ0+ZGYEFW7e1MR0h1SyEE0\/2hTFDjfIuSoyAeo68EdK4z4TSpPaeK5oWDxyeKL9lYdwWUg15Ncw6aPhc1hb+JdJFydTLY\/tOJpSgkkUTNkqx4YYX0JOM16T8Cpo5fDGuqkkDsNeuWIgmEigEJghh95T2PfrSGekQWVrayzS21tDDJcNvmeOMKZGxjLEdTjuamqm2r6akjI+oWqus62zKZlBErAFYyM\/eIIIXqcirlMQUUUUAFFFFAHKaR4Kk0U6TbWWs3EemaVLM8dogZTMr7sJIwbDhS2R8vYZ7k8t468PeHLDxx4LJ0fS7e2lu7k3X+ixqjqICfn4wQOvNeqVwXjnn4ieAM\/8AP9c\/+iDSA0bDRPB+pXLR2vhPT2h27kujpsXlSYODtbHXPYgVn+Jfg34Q8SDf\/Z66bOE2LLYIkeBz1Xbg9euM+9djfi4jswbBWLo6sIo9o8wZ+7lhgA9z1xnHNV5NMa48hy0sRzulT7XMceoGGA\/E\/lTA8SX9mZoNUjYa5Dd2O8F43hMMgXPIDAsCcdyPwqzL+zyBNBsW1kWBzukF28Znj3dGTyjh9v8AEHwCemAK9yuraO8tZLebf5ci7W2OUbHswII\/Co4NPtrdU2QxlkGA5jUN+gpWHc8r8K\/ArS9G+0T36pf\/AGqAxvZ3ccTBGycMr7CV4I+7gj1I4pLb4W+BdEtoNL8SSwLeuZHSWSNEDBmJAEhjAYgAcHpg8AHFeuRhwgEjKzdyowP5moruxtr+Aw3cKyIemeCPcEcg+4osB5bYfDLwimoSro50nVIZCrMsrW8kiOOu1fKIxgL8vAyx6d9bWPgx4RvrN\/s2iWcFyUJ8yNniXfxg7QSAvXjHp0rq7zTLUX0U0ekNcTwjzIbghGWN\/u52s4O7B6gdO+aW81K\/tdLeaXSrmVj8uy0KSSDI+9tLAY9gSaAPAR8JrP8AsGa7hhhu7e+LiDUdLP2pLcRyZJCFvnBUNzuAwMEA43ZmkfBJdRsFvk8Taa+nlgzXEJaSQKegMW35TgMfvnOAMdTXZ\/CPW3h8A+JNGljEtvp0UsnlTfK43IfMXaAMjeGyCQQCOxFa3gHSNW8JeDLAXiS2Nymoi2t\/KdJUurWQh8yfMV+XMpBBGCMDO4hkB5Drfw5utM8Wvo8E+n3EMYBhu5UMaShRwp25+Yhlz75PQZNax8CXOneMLe21a2t3gE4jktftCiV1YlQyq5BYA45UHHfvXq3jrRLQ\/E9NDl0YXUviZBKb9RzZ4ISRgMfN8iA8n5C2ee\/qWjx6d4n8JabcahYWt0k1uhaOWBXUNjDABh0ByKLBc+Zbn4WXumafrUmqvY2NuNzafLLOmZ9u44XccgHAU52nLDr0O98IvBmgeIrG4mudCk1qaB0EyyzpFEnyKw2FeWOQQQTg8e9e+W\/gbwpaoqweG9KUIxZc2cZKk+hI46CtLT24njW1jto4pSiCNWAYDvgqo\/LI96dguea3fwu8HTBkuPh9eWyAqwmt7gN2zghJS3scKc9fofB3wzoMEniK+t9HtkubPxBd29rO8OZII1wFRSw3KAGI9eTmvVq4P4Wf6rxf\/wBjVf8A\/oS0AT3Pw7judXn1E3sQnl1mHVQ5tMshjVVEed2cHaDn612i5CjeQWxyQMAmlopiCiiigAooo69aAOS8E+ILm98Gz6prt00zRXt1G0nlAYSOZ0UbUHPCjtmuX8aeK9Hm8deCLiO4laK2vLhpT9mlyAYSBgbcnn0zXqFvbQWkfl2sEcKEltsaBRn1wK4Xx9DFceP\/AAFFPGksbX1yGR1BBHkHqDSA3x458Pn\/AJe5hxnmzmH\/ALJUMvxF8KwXCwT6ssUz42xvDIrHr2K+x\/Ktt4dOsY1eSO1tkXhWZVQDPpWF4p8K6d44sRE2oSRlAVDW7q6kHqGU5DDB6fQjBAIYGRffE3QbjUY7CCRJRM4KXH2d5FaERs25Rt5O9dmO2d3tW5D468OOhMd46jOMNaSr+hSsHwr8K4\/D+uR6hfaodT+zlmtg8RR4WYKCQ28nouDnqCc989zBeW8l3NaJcK9xDhpIiQHRW6HH93qAe+DzwaAMWTx14dUKzansGepgkw3tytMf4ieFIwpk1iNQxwu6Nxk+3y0\/xcZ7Tw\/eajGn2trNPNa1UAb4QwMg5yclFbHPUcCuJs\/G\/wDY9reS6barcafA0V5HcRyAKbN3w24sT83zYAyCduc4GCDNLVvibo9jdMYfE9vIzkmK1+ySLheOrBHJPPt9KtaX8VdAuHlXUNXtIPK2gv5bBJCeSFJO7gdcqOT35rrZH09ruPzljdxMFjeTDBZCpb5c9Dt9PUfhxVj8STB4iudN1021r5EhtGCht73O8hSuW4jZRuAPTcOaQFbS\/EXw10h9Wjh1mxhS+lkkZ\/MbOJAN4GenzA9OMbfSpU8deAtLN3JYeJrNlvbpJJrcuPLwxCyfLjHQsxPU45z0rZ8P+NY9Z1e402KMTX9qwS5EQcRhd3yuN33cod23qD8ucitOaKDxFdW5jSRrC3beZ0leNZmH3VUKRuUH5t3TgYzk4APljxP4ni13xtDqF3HHBp+6NbWxW689YohjMeQRtRst8vGM44Ar6UtviZ4JW3RE8Q6dGiqAiq20AAdlxwPauA+MHw\/gtYBrGg6bLLMF33Dm9fK7XHzKGzliG5JP3VOBnkdJ4X8X6Vqvhuymk0qwMvmyW0qRRgqjLkRgdcllVT+IoA33+JHgvO4+JLNduAf3pA656dKbP8QvBUsMiHxHaRCXh2jlKMe33hyDjjI59CKg0zVvBmr2Yvjb6RHZvp6Xw+0QxK6IzMHLjkDDAA+hP0q1o+n+Hdfja5h0HRzakDYpt42kI7MwAwuRyBknBHQ8AEcF4k+L7aDIJbC\/tJdNaR7ZIkLXFzGAsgWU7yuQWCtyW4I\/G78F\/E+nz2etpdajC17qGv3M6RoCFfftOV4BwTnrXVav8MfDGpytO2mRowQqIYVWNCdpXsvHBPT1zWH8FtOsdKtfFljp6si2viG6gVSCdsaEKgz34zR1Gd3HrlpL4ln0NRJ9sgtkunyvy+WzFQc59VIx7Vo1iaf4bFn4ovNdnvprq6ubdbYBkVVSNZHdRwOSN+M+gGeck7dMQUUUUAFNdisbMoBIBIBOM06kdd6MuSuRjI6igDmvB3jW18a6et3pkSqiopuEeX54WZdyrtxzwQc8DngnBrn\/AIkOyePPh8U6nVZByccFAD+hrotD8C6T4dvra60prmJ4LNbLb5gKyxKSV3jHzEZ4brjj1rN1\/wCF2meJZYJNV1jXHa2kaSAreAeUx\/u\/LxSA2b7w491dfbEvSt4qbFlKsvHYEIy56nrnrVKy0bWruwD3WpfZp97qVktI5duCVBBPJBwCCeoPTJrE\/wCFL6P\/ANDD4n\/8Gh\/wo\/4Uvo\/\/AEMPif8A8Gh\/woGdlc3KeH9CaeaJpFt0AYWsDHccctsQEjnJ4B49a5DXPHfg69VUvry0S4gCSxid1jliJI3LyQyEjjPHJyOgNM\/4Uvo\/\/Qw+J\/8AwaH\/AAqqfgH4XLbjqWvE8c\/bh\/8AE+5\/OgDCl+KNxfeI1sdBmtbu0W3dUlvIXM37wZEbBSS4ACncqsT8oPLZPBrpniXwvouoaJFbDUbe6eD7RdwsfIWKPdKgUsAwIbcDx0AHJIx65b\/Anw5aRqlrq3iCBEJZVj1DaFJ6kALUv\/Ck9E8vy\/7e8S7MY2\/2mcY9MbaAIYrrTdF03SLTU5\/7SvbchtQmLopKtG6HbkrgF3ACjBbk4OGNcimjy6\/4+udR0y1tobXyY4bNZI5IVeRSJdzEHKkOIwThsheeOvaN8E9EdGR9d8SsrDDA6mSCP++aUfBXRgSRr\/iYFjk41Q8n\/vmgCDwX8Ntc0jUb2+8UanY6nLciKJlWIkSxoMDecLnjA28qcAnJ5r0xQFUKoAAGAB2rzv8A4Uvo\/wD0MPif\/wAGh\/wo\/wCFL6P\/ANDD4n\/8Gh\/woA9Cmj82CSMHbvUrn0yK8S8ReA30fVNUuvDWraasUuyQ2LX\/AJDQOImRiqncPmLu\/VdpUYNdX\/wpfR\/+hh8T\/wDg0P8AhR\/wpfR\/+hh8T\/8Ag0P+FAHk3w2tkvtenufEN5ZQ2MbrFFFGyOryCSV1jCgnHzkkKfl29e1fRMGtWMlwCqokjKodvOiyq8kZIc5AJPTPX3riX+Bfh6SbzZNY8QtJjG9tRycZz12+oBob4F+HXOX1jxCx99Rz\/wCy0AddqEUF1eSXMOpRxyeQqwslztMUiliDjowO4ZB4+UcHtyXwWuhcaZ4nRpGllHiG6d5Cp+bcV5zjGTg8D29aib4CeGH+\/qevN9b\/AD\/7LXQeFfhxp\/g07dE1TVFgaYzSwSSxssrEYyx2bj+dAHQ6frFnqd3f21m7NLp83kXAKFdr7Q2Mnr8rA5HrV6uU0XRte0vxFrVwY9P+yapqIuvMW5cyRxiJExs8sAsdn97jd3xz1dMQUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAf\/Z\"  \/><\/span><\/p><p>In the pictorial composition above, the eye level is represented by line<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The eye level is the height of one's eyes looking straight ahead; it is the reference point for drawing perspectival lines. All lines above the eye level will go down to the horizon vanishing point, and all lines below it will go up to it.<\/span><\/p>\n",
+        "Topic": "Artistic Skills, Techniques and Processes",
+        "Difficulty": "Difficult"
+    },
+    "Question 37": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Sculpture<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ceramics<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Carving<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Craft<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>An armature is essential to the artists in executing large works in<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Armature, in sculpture, a skeleton or framework used by an artist to support a figure being modeled in soft plastic material. An armature can be made from any material that is damp-resistant and rigid enough to hold such plastic materials as moist clay and plaster, which are applied to and shaped around it.<\/span><\/p>\n",
+        "Topic": "Artistic Skills, Techniques and Processes",
+        "Difficulty": "Difficult"
+    },
+    "Question 38": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Keyboard<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ruling pen<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Mouse<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Pencil<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>In computer graphics, the name given to a device used in navigating the window environment is<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>It is the mouse. The keyboard is used for typing.<\/span><\/p>\n",
+        "Topic": "Artistic Skills, Techniques and Processes",
+        "Difficulty": "Difficult"
+    },
+    "Question 39": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Top size of a given object<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Inaccurate size of a given object<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Lower size of a given object<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Accurate size of a given object<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>In CorelDraw application, ruler guide is used to get the<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Ruler guides are different from grids in that they can be positioned freely on a page or on a pasteboard. They give the accurate size of the object.<\/span><\/p>\n",
+        "Topic": "Artistic Skills, Techniques and Processes",
+        "Difficulty": "Difficult"
+    },
+    "Question 40": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>HB<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>2H<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>4B<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>4H<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Which of the following grades of pencils is good for making dark marks?<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>From all the option listed above, 4B is the darkest.<\/span><\/p>\n",
+        "Topic": "Artistic Skills, Techniques and Processes",
+        "Difficulty": "Difficult"
+    },
+    "Question 41": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>3B, 2B, H and HB<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>3B, HB, H and 2B<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>H, HB, 2B and 3B<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>HB, 2B, H and 3B<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Which of the following is best arranged in order of softness?<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>H is light.<\/span><\/p><p>HB is used for drawing.<\/span><\/p><p>2B and 3B are used for making dark marks and the darkness increases with numbers.<\/span><\/p>\n",
+        "Topic": "Artistic Skills, Techniques and Processes",
+        "Difficulty": "Difficult"
+    },
+    "Question 42": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Oiling<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Steaming in hot water<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Rinsing in cold water<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Greasing<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Calligraphy pen can be preserved after use by<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>When a pen is not in use for a prolonged period of time, wash and empty it out before storing it away. Also, keep it stored vertically (i.e., in a cup) with the nib pointing up to prevent ink from settling in and clogging the feed.<\/span><\/p>\n",
+        "Topic": "Artistic Skills, Techniques and Processes",
+        "Difficulty": "Difficult"
+    },
+    "Question 43": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Linseed oil<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Fixative<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Polymer<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Poster colours<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Atomizer is most ideal in the application of<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>An atomizer is a traditional, non-aerosol way to apply fixative and it functions like an airbrush.<\/span><\/p>\n",
+        "Topic": "Artistic Skills, Techniques and Processes",
+        "Difficulty": "Difficult"
+    },
+    "Question 44": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Wood<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Feather<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Clay<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Charcoal<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Spatula can be improvised using<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>From the options, wood is the best option for improvisation due to its strength.<\/span><\/p>\n",
+        "Topic": "Artistic Skills, Techniques and Processes",
+        "Difficulty": "Difficult"
+    },
+    "Question 45": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Lemon yellow<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Yellow ochre<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Blue<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Green<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Which of the following pigments can be obtained locally from clay?<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>It ranges in colour from yellow to deep orange or brown. It is also the name of the colours produced by this pigment, especially a light brownish-yellow.<\/span><\/p>\n",
+        "Topic": "Artistic Skills, Techniques and Processes",
+        "Difficulty": "Difficult"
+    },
+    "Question 46": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Performing Art<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Visual Art<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Literary Art<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Coptic Art<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Architecture, an important feature of the built environment, is an example of<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Other forms of visual arts are ceramics, drawing, painting, sculpture, printmaking, design, crafts, photography, video, and filmmaking.<\/span><\/p>\n",
+        "Topic": "Art Appreciation",
+        "Difficulty": "Easy"
+    },
+    "Question 47": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Is naturally warm in the dry season<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Occurs naturally in the wet season<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Occurs naturally<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Is artificially kept warm<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Ikogosi Warm Spring is described as a natural phenomenon because it<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The Ikogosi Warm Springs is a tourist attraction located at Ikogosi, a town in Ekiti State, southwestern Nigeria. Flowing abreast the warm spring is another cold spring which meets the warm spring at a confluence, each maintaining its thermal properties<\/span><\/p>\n",
+        "Topic": "Art Appreciation",
+        "Difficulty": "Easy"
+    },
+    "Question 48": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Work is monumental<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Colours are sharp<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Elements are well organized<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Surface is bright<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A work of art is successful if the<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Traditional way of looking at art, namely the visual arts, suggests that there are five basic elements of an art work \u2013 line, shape, color, texture and space. When they are well organized, we say the art is successful.<\/span><\/p>\n",
+        "Topic": "Art Appreciation",
+        "Difficulty": "Easy"
+    },
+    "Question 49": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Graphics<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Painting<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Mosaics<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Collage<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Captions used to enhance television announcements would be more understandable if produced as<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>From the option above, graphics best suits.<\/span><\/p><p>A mosaic is a pattern or image made of small regular or irregular pieces of colored stone, glass or ceramic, held in place by plaster\/mortar, and covering a surface.<\/span><\/p><p>A collage is a piece of art made by sticking various different materials such as photographs and pieces of paper or fabric on to a backing.<\/span><\/p>\n",
+        "Topic": "Art Appreciation",
+        "Difficulty": "Easy"
+    },
+    "Question 50": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Indigo dye and white alum<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Yellow dye and white alum<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Green dye and white alum<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Red dye and white alum<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The starch used for designing in adire - eleko is boiled with<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The adire-eleko process is a tedious one which consumes a lot of time because most of the time, the patterns and designs are hand-drawn. <\/span><\/p><p>These designs\/patterns are achieved using bird feathers (Quill), palm leaves or sticks which are dipped into the cassava paste and imprinted on the white cloth.<\/span><\/p><p>After the successful completion, the fabrics are immersed in a bath of dye and left for 15-20 minutes.<\/span><\/p><p>Adire-eleko is traditionally done in indigo color, but can also be dyed in any color of your choice.<\/span><\/p>\n",
+        "Topic": "Art Appreciation",
+        "Difficulty": "Medium"
+    },
+    "Answers": [
+        "A",
+        "D",
+        "C",
+        "A",
+        "A",
+        "C",
+        "B",
+        "D",
+        "A",
+        "A",
+        "D",
+        "C",
+        "A",
+        "A",
+        "C",
+        "C",
+        "C",
+        "A",
+        "A",
+        "A",
+        "C",
+        "C",
+        "C",
+        "B",
+        "A",
+        "A",
+        "A",
+        "A",
+        "D",
+        "C",
+        "C",
+        "A",
+        "A",
+        "D",
+        "C",
+        "B",
+        "A",
+        "C",
+        "D",
+        "C",
+        "C",
+        "C",
+        "B",
+        "A",
+        "B",
+        "B",
+        "C",
+        "C",
+        "A",
+        "A"
+    ]
+}

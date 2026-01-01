@@ -1,0 +1,1304 @@
+{
+    "Question 1": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">CRK<span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Physics<span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Literature-In-English.<span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Chemistry<span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">What subject is this?<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">3<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This is Literature-In-English<\/span><\/p>\n",
+        "Topic": "General Literary Principles",
+        "Difficulty": "Easy"
+    },
+    "Question 2": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Amorous <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Saviours of mankind <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Helpless <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"><span><p><p><span style=\"font-family:serif;\">Architects of man's destiny <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This question is based on Femi Osofisan's 'Women of Owu'<\/span><\/p><p><span style=\"font-family:serif;\">In the play, the gods are portrayed as<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The play explains the implications of the decisions of the gods on the people.<\/span><\/p>\n",
+        "Topic": "Drama",
+        "Difficulty": "Easy"
+    },
+    "Question 3": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">A friend in need <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">A good leader <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">A great warrior <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"><span><p><p><span style=\"font-family:serif;\">An enemy and a butcher <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This question is based on Femi Osofisan's 'Women of Owu'<\/span><\/p><p><span style=\"font-family:serif;\">Orisaye describes BalogunKusa as<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Orisaye is a virgin, having been betrothed to Obatala, the god of purity and creativity since birth. As a result of her virginity, Balogun Kusa demands that she be added to his harem as his share of the spoils of the war.<\/span><\/p>\n",
+        "Topic": "Drama",
+        "Difficulty": "Easy"
+    },
+    "Question 4": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The most brilliant woman in Owu<span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The first wife of the Oba <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The oldest wife of Oba Akinjobi<span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"><span><p><p><span style=\"font-family:serif;\">A courtier to the Alaafin of Oyo <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This question is based on Femi Osofisan's 'Women of Owu'<\/span><\/p><p><span style=\"font-family:serif;\">Erelu is<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Erelu serve as the link between the gods and the people of Owu.<\/span><\/p>\n",
+        "Topic": "Drama",
+        "Difficulty": "Easy"
+    },
+    "Question 5": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Lunatic <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Soldier <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">God<span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Herbalist <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This question is based on Femi Osofisan's 'Women of Owu'<\/span><\/p><p><span style=\"font-family:serif;\">Balogun Kusa is killed by a<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">Orisaye is mentally ill in the play. She prophesies that the Allied Forces will not make it back home and Erelu Affin will die in the town of Owu. She is also responsible for Balogun Kusa's death.<\/span><\/p>\n",
+        "Topic": "Drama",
+        "Difficulty": "Easy"
+    },
+    "Question 6": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Alonso's wife <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Assistant to sycorax<span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Leader of the spirits <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Prospero's daughter <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This question is based on William Shakespeare's 'The tempest'<\/span><\/p><p><span style=\"font-family:serif;\">In the play, Ariel is identified as <\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">Ariel is the leader of all spirits controlled by Prospero on the island. <\/span><\/p>\n",
+        "Topic": "Drama",
+        "Difficulty": "Easy"
+    },
+    "Question 7": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Forty days <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Eighteen months <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Two decades <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Twelve years <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This question is based on William Shakespeare's 'The tempest'<\/span><\/p><p><span style=\"font-family:serif;\">Before the shipwreck that occurs at the beginning of the play, Prospero and his daughter have lived in the Island for <\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">This can be seen in Act 1, Scene 2 (line 54).<\/span><\/p>\n",
+        "Topic": "Drama",
+        "Difficulty": "Easy"
+    },
+    "Question 8": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"><span><p><p><span style=\"font-family:serif;\">Populate the Island with Calibans<span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Marry her <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Destroy the Island <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Complete with Ferdinand <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This question is based on William Shakespeare's 'The tempest'<\/span><\/p><p><span style=\"font-family:serif;\">Caliban's intention to rape Miranda is born out of the desire to <\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">He wants to marry Miranda so as to inherit the island.<\/span><\/p>\n",
+        "Topic": "Drama",
+        "Difficulty": "Easy"
+    },
+    "Question 9": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Caliban<span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Ferdinand <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Ariel <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Stephano<span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This question is based on William Shakespeare's 'The tempest'<\/span><\/p><p><span style=\"font-family:serif;\">The character associated with savagery in the play is <\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">Caliban is a savage and deformed slave who works for Prospero on the island.<\/span><\/p>\n",
+        "Topic": "Drama",
+        "Difficulty": "Easy"
+    },
+    "Question 10": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Dependent on the spirits for his survival <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"><span><p><p><span style=\"font-family:serif;\">Eager to conquer the world <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Full of mistrust for everybody <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">More interested in studying than in governance <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This question is based on William Shakespeare's 'The tempest'<\/span><\/p><p><span style=\"font-family:serif;\">Prospero is portrayed as a man who is<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">Despite his political position, he is more interested in reading, especially about the art of magic.<\/span><\/p>\n",
+        "Topic": "Drama",
+        "Difficulty": "Easy"
+    },
+    "Question 11": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Women liberation in Nigeria <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Child quest of an African woman <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Exploitation of the African woman<span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Sex discrimination in Ghana <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This question is based on AsareKonadu's 'A Woman in Her Prime'. <\/span><\/p><p><span style=\"font-family:serif;\">The novel explores the theme of<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">A child is a woman's most prized possession in the novel and a woman without child is considered less than enough.<\/span><\/p>\n",
+        "Topic": "Prose",
+        "Difficulty": "Easy"
+    },
+    "Question 12": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Divorce <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Barrenness <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Inability to bear male children <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Inability to marry <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This question is based on AsareKonadu's 'A Woman in Her Prime'. <\/span><\/p><p><span style=\"font-family:serif;\">According to the novel, the worst calamity that can befall a woman is<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">This is because a woman who doesn't bear a child is empty, useless and unfulfilled.<\/span><\/p>\n",
+        "Topic": "Prose",
+        "Difficulty": "Easy"
+    },
+    "Question 13": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"><span><p><p><span style=\"font-family:serif;\">Girls sing songs of praise and admonition <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Mothers lure their babies to sleep <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Fathers narrate animal stories <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Boys abuse girls with music <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This question is based on AsareKonadu's 'A Woman in Her Prime'. <\/span><\/p><p><span style=\"font-family:serif;\">In the novel, Asogo is a game in which <\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">Pokuwaa meets her first husband, Kofi Daafo during an asogo game and Koramoa, her friend meets her husband Kofi Dede while playing the game too.<\/span><\/p>\n",
+        "Topic": "Prose",
+        "Difficulty": "Easy"
+    },
+    "Question 14": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The Kyrie must be rendered only in Latin <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Everyone must take Holy Communion <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"><span><p><p><span style=\"font-family:serif;\">There must be fasting every month<span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The Credo must be recited in Igbo <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This questionis based ChimamandaAdiebie's 'Purple Hibiscus'<\/span><\/p><p><span style=\"font-family:serif;\">In the novel, one of the changes introduced into St. Agne's church by Father Benedict is that  <\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">Jaja however does not like this idea of taking the Holy Communion.<\/span><\/p>\n",
+        "Topic": "Prose",
+        "Difficulty": "Easy"
+    },
+    "Question 15": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">A fanatical Catholic adherent <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">A tough retired soldier <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">A soft and gentle husband <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">An uncompromising traditionalist <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This questionis based ChimamandaAdiebie's 'Purple Hibiscus'<\/span><\/p><p><span style=\"font-family:serif;\">Eugene Achike in the novel is portrayed as<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">Eugene is a religious fanatic, who takes the practice of his Christianity to the extreme.<\/span><\/p>\n",
+        "Topic": "Prose",
+        "Difficulty": "Easy"
+    },
+    "Question 16": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Sisi<span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Jaja<span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Kambili<span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Maria <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This questionis based ChimamandaAdiebie's 'Purple Hibiscus'<\/span><\/p><p><span style=\"font-family:serif;\">In the Achike family, the character who is central to the theme is<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">Kambili is also the narrator of the novel. <\/span><\/p>\n",
+        "Topic": "Prose",
+        "Difficulty": "Easy"
+    },
+    "Question 17": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Marlin <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Geisha <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Shark <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Iris <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This question is based on Ernest Hemingway's 'The Old Man and the Sea'.<\/span><\/p><p><span style=\"font-family:serif;\">In the novel, the type of fish caught by a Santiago after days of effort is<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">He eventually loses the fish to the sharks though he tries so hard to bring it to shore.<\/span><\/p>\n",
+        "Topic": "Prose",
+        "Difficulty": "Easy"
+    },
+    "Question 18": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Influence of the sea on man <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Struggle of man against defeat <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Attempt to catch fish <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Desire to understand life <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This question is based on Ernest Hemingway's 'The Old Man and the Sea'.<\/span><\/p><p><span style=\"font-family:serif;\">In the novel demonstrates the<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">The man is not willing to give up even after loads of disappointment.<\/span><\/p>\n",
+        "Topic": "Prose",
+        "Difficulty": "Easy"
+    },
+    "Question 19": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Careless and indifferent <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Warm and friendly <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Cautious and skeptical <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"><span><p><p><span style=\"font-family:serif;\">Hostile and callous <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This question is based on Ernest Hemingway's 'The Old Man and the Sea'.<\/span><\/p><p><span style=\"font-family:serif;\">In the novel, the attitude of the old man toward nature is quite.<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">Santiago is the protagonist in the novel. He is a humble fisherman but exhibits a justified pride in his abilities.<\/span><\/p>\n",
+        "Topic": "Prose",
+        "Difficulty": "Easy"
+    },
+    "Question 20": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">At the end of the book <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">When he sleeps on the boat for a few hours <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"><span><p><p><span style=\"font-family:serif;\">The night before his fishing expedition <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">In his house <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This question is based on Ernest Hemingway's 'The Old Man and the Sea'.<\/span><\/p><p><span style=\"font-family:serif;\">Santiago's second dream occurs<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">Santiago usually dreams of lions he sees on the coast of Africa as a boy.<\/span><\/p>\n",
+        "Topic": "Prose",
+        "Difficulty": "Easy"
+    },
+    "Question 21": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Visual <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Tactile <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Auditory <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Gustatory <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The question is based on selected Poems from Ker, D. et al (eds). New Poetry from Africa; Soyinka, (ed): Poems of Black Africa; Senanu K. E. and Vincent, T (eds.): A Selection of African Poetry; Umukoro, M et al (eds.):  Exam Focus: Literature in English; Ernubetine, A.E. et al (eds.): Longman Examination Guldes and Nwoga, D. I. (ed): West Africa Verse.<\/span><\/p><p><span style=\"font-family:serif;\">The dominant image in Adeoti's Hard Lines is<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">Visual imagery is a mental picture which appeals to the sense of sight.<\/span><\/p>\n",
+        "Topic": "Poetry",
+        "Difficulty": "Easy"
+    },
+    "Question 22": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Admonitory <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Panegyrical<span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Metaphorical <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Sarcastic <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The question is based on selected Poems from Ker, D. et al (eds). New Poetry from Africa; Soyinka, (ed): Poems of Black Africa; Senanu K. E. and Vincent, T (eds.): A Selection of African Poetry; Umukoro, M et al (eds.):  Exam Focus: Literature in English; Ernubetine, A.E. et al (eds.): Longman Examination Guldes and Nwoga, D. I. (ed): West Africa Verse.<\/span><\/p><p><span style=\"font-family:serif;\">The tone of Umeh's <\/span><span style=\"font-family:serif;\">Ambassadors of Poverty<\/span><span style=\"font-family:serif;\"> can be described as <\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">  <\/span><\/p><p><span style=\"font-family:serif;\">A sarcastic tone usually mocks the person being addressed or discussed, sometimes with the use of irony.<\/span><\/p>\n",
+        "Topic": "Poetry",
+        "Difficulty": "Easy"
+    },
+    "Question 23": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Attend conference in towns <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Are concerned with their daily needs <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Always worry about heaven <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Rarely sleep and dream <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The question is based on selected Poems from Ker, D. et al (eds). New Poetry from Africa; Soyinka, (ed): Poems of Black Africa; Senanu K. E. and Vincent, T (eds.): A Selection of African Poetry; Umukoro, M et al (eds.):  Exam Focus: Literature in English; Ernubetine, A.E. et al (eds.): Longman Examination Guldes and Nwoga, D. I. (ed): West Africa Verse.<\/span><\/p><p><span style=\"font-family:serif;\">In Owonibi's<\/span><span style=\"font-family:serif;\">Homeless, not Hopeless<\/span><span style=\"font-family:serif;\">, the persona explains that street beggars <\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">These beggars don't have a place to sleep and don't even have the luxury to have ambitions.<\/span><\/p>\n",
+        "Topic": "Poetry",
+        "Difficulty": "Difficult"
+    },
+    "Question 24": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Sonnet <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Ballad <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Dirge <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Lament <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The question is based on selected Poems from Ker, D. et al (eds). New Poetry from Africa; Soyinka, (ed): Poems of Black Africa; Senanu K. E. and Vincent, T (eds.): A Selection of African Poetry; Umukoro, M et al (eds.):  Exam Focus: Literature in English; Ernubetine, A.E. et al (eds.): Longman Examination Guldes and Nwoga, D. I. (ed): West Africa Verse.<\/span><\/p><p><span style=\"font-family:serif;\">Cheney-Coker's <\/span><span style=\"font-family:serif;\">Myopia<\/span><span style=\"font-family:serif;\"> is a<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">The poem describes the anguish and underdevelopment in the society.<\/span><\/p>\n",
+        "Topic": "Poetry",
+        "Difficulty": "Easy"
+    },
+    "Question 25": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">South-Africa <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Ghana <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Sierra-leone<span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Kenya <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The question is based on selected Poems from Ker, D. et al (eds). New Poetry from Africa; Soyinka, (ed): Poems of Black Africa; Senanu K. E. and Vincent, T (eds.): A Selection of African Poetry; Umukoro, M et al (eds.):  Exam Focus: Literature in English; Ernubetine, A.E. et al (eds.): Longman Examination Guldes and Nwoga, D. I. (ed): West Africa Verse.<\/span><\/p><p><span style=\"font-family:serif;\">Jared Angira is an Africa Poet from<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">Angira has been called Kenya's first truly significant poet. He writes the poem 'Expelled'.<\/span><\/p>\n",
+        "Topic": "Poetry",
+        "Difficulty": "Difficult"
+    },
+    "Question 26": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Oxymoron <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Apostrophe <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Metaphor <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Simile<span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The question is based on selected Poems from Ker, D. et al (eds). New Poetry from Africa; Soyinka, (ed): Poems of Black Africa; Senanu K. E. and Vincent, T (eds.): A Selection of African Poetry; Umukoro, M et al (eds.):  Exam Focus: Literature in English; Ernubetine, A.E. et al (eds.): Longman Examination Guldes and Nwoga, D. I. (ed): West Africa Verse.<\/span><\/p><p><span style=\"font-family:serif;\">The dominant technique used in Serenade is <\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">Apostrophe is a sudden use of exclamation to refer to an inanimate object like an inanimate person.<\/span><\/p>\n",
+        "Topic": "Poetry",
+        "Difficulty": "Difficult"
+    },
+    "Question 27": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Enjambment <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Apostrophe <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Invocation <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Ellipsis <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The question is based on selected Poems from Ker, D. et al (eds). New Poetry from Africa; Soyinka, (ed): Poems of Black Africa; Senanu K. E. and Vincent, T (eds.): A Selection of African Poetry; Umukoro, M et al (eds.):  Exam Focus: Literature in English; Ernubetine, A.E. et al (eds.): Longman Examination Guldes and Nwoga, D. I. (ed): West Africa Verse.<\/span><\/p><p><span style=\"font-family:serif;\">The sun in Donne's <\/span><span style=\"font-family:serif;\">The Sun Rising<\/span><span style=\"font-family:serif;\"> is depicted through the use of <\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">Apostrophe is a figure of speech in which an inanimate object is addressed like a human or an absent person is addressed as though present.<\/span><\/p>\n",
+        "Topic": "Poetry",
+        "Difficulty": "Difficult"
+    },
+    "Question 28": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Restorer of lost glory <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Messenger of hope and peace <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Friend of suffering masses <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Fearless message-bearer <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The question is based on selected Poems from Ker, D. et al (eds). New Poetry from Africa; Soyinka, (ed): Poems of Black Africa; Senanu K. E. and Vincent, T (eds.): A Selection of African Poetry; Umukoro, M et al (eds.):  Exam Focus: Literature in English; Ernubetine, A.E. et al (eds.): Longman Examination Guldes and Nwoga, D. I. (ed): West Africa Verse.<\/span><\/p><p><span style=\"font-family:serif;\">In Raleigh's <\/span><span style=\"font-family:serif;\">The Soul's Errand<\/span><span style=\"font-family:serif;\">, the soul is portrayed as a<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">The soul is sent to the high and mighty in the society and is asked to tell them what a terrible job they have been doing. He is also sent to bring out the shortcomings of institutions and other concepts in the society.<\/span><\/p>\n",
+        "Topic": "Poetry",
+        "Difficulty": "Medium"
+    },
+    "Question 29": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Classical <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Literary <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Biblical <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Historical <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The question is based on selected Poems from Ker, D. et al (eds). New Poetry from Africa; Soyinka, (ed): Poems of Black Africa; Senanu K. E. and Vincent, T (eds.): A Selection of African Poetry; Umukoro, M et al (eds.):  Exam Focus: Literature in English; Ernubetine, A.E. et al (eds.): Longman Examination Guldes and Nwoga, D. I. (ed): West Africa Verse.<\/span><\/p><p><span style=\"font-family:serif;\">The allusion in Hughes's <\/span><span style=\"font-family:serif;\">The Negro Speaks of Rivers<\/span><span style=\"font-family:serif;\"> is mainly<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">There are lots of biblical allusions and references in the poem.<\/span><\/p>\n",
+        "Topic": "Poetry",
+        "Difficulty": "Medium"
+    },
+    "Question 30": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Accept soothsaying <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Accept life as it is<span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Condemn soothsaying <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Move in the direction of God <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">The question is based on selected Poems from Ker, D. et al (eds). New Poetry from Africa; Soyinka, (ed): Poems of Black Africa; Senanu K. E. and Vincent, T (eds.): A Selection of African Poetry; Umukoro, M et al (eds.):  Exam Focus: Literature in English; Ernubetine, A.E. et al (eds.): Longman Examination Guldes and Nwoga, D. I. (ed): West Africa Verse.<\/span><\/p><p><span style=\"font-family:serif;\">Fletcher's <\/span><span style=\"font-family:serif;\">Upon An Honest Man's Fortune<\/span><span style=\"font-family:serif;\"> encourages people to<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">The poem denounces the activities and claims of astrologers.<\/span><\/p>\n",
+        "Topic": "Poetry",
+        "Difficulty": "Medium"
+    },
+    "Question 31": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Pathos <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Parody <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Pyrrhic <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Props<span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This question is based on General Literary Principles<\/span><\/p><p><span style=\"font-family:serif;\">An action in a play that stimulates the audience to pity a character is <\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">A tragic character experiences usually goes through downfall, losses, defeat or suffering and all these elicit strong emotions from the audience.<\/span><\/p>\n",
+        "Topic": "General Literary Principles",
+        "Difficulty": "Medium"
+    },
+    "Question 32": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Epilogue <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Eposition<span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Cartharsis<span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Catastrophe <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This question is based on General Literary Principles<\/span><\/p><p><span style=\"font-family:serif;\">Purgation or emotions, pity and fear is <\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">Catharsis is the release of emotional tension after an overwhelming experience.<\/span><\/p>\n",
+        "Topic": "General Literary Principles",
+        "Difficulty": "Easy"
+    },
+    "Question 33": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Apostrophe <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Dialogue <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Soliloquy <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Aside<span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This question is based on General Literary Principles<\/span><\/p><p><span style=\"font-family:serif;\">A device is dram where a character speaks alone is<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">Soliloquy is an act where a character speaks out his thoughts.<\/span><\/p>\n",
+        "Topic": "General Literary Principles",
+        "Difficulty": "Medium"
+    },
+    "Question 34": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Resolution of conflicts <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Law of poetic justice <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Character delineation <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Casual arrangement of events <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This question is based on General Literary Principles<\/span><\/p><p><span style=\"font-family:serif;\">A pilot in a literary work is about<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">An example is an episode of a proposed TV series. <\/span><\/p>\n",
+        "Topic": "General Literary Principles",
+        "Difficulty": "Medium"
+    },
+    "Question 35": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Setting <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Space <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Locate <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Atmosphere <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This question is based on General Literary Principles<\/span><\/p><p><span style=\"font-family:serif;\">Tone and mood of a poem refer to<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">Tone is the feeling displayed by the author towards the subject of the poem while mood is the feeling created by the poet for the reader.<\/span><\/p>\n",
+        "Topic": "General Literary Principles",
+        "Difficulty": "Medium"
+    },
+    "Question 36": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Tragicomedy <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Tragic hero  <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Comedy  <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Comic relief <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This question is based on General Literary Principles<\/span><\/p><p><span style=\"font-family:serif;\">A funny incident within a serious situation is<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">Comic relief is the insertion of a funny scene in a tragedy to reduce the tension.<\/span><\/p>\n",
+        "Topic": "General Literary Principles",
+        "Difficulty": "Medium"
+    },
+    "Question 37": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Dies abruptly <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Achieves greatness <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Is undeveloped <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Undergoes changes <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This question is based on General Literary Principles<\/span><\/p><p><span style=\"font-family:serif;\">In literature, a flat character can be described as one who <\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">Flat characters are characters who don't undergo any change all through a novel.<\/span><\/p>\n",
+        "Topic": "General Literary Principles",
+        "Difficulty": "Medium"
+    },
+    "Question 38": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Case list <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Protagonist and antagonist <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">List characters <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Order of appearance <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This question is based on General Literary Principles<\/span><\/p><p><span style=\"font-family:serif;\">Dramatis personae in aplay refers to<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">This is a compilation of the characters acting out a play.<\/span><\/p>\n",
+        "Topic": "General Literary Principles",
+        "Difficulty": "Medium"
+    },
+    "Question 39": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">A dirge <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">A monologue <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">A prologue <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">An epilogue <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This question is based on General Literary Principles<\/span><\/p><p><span style=\"font-family:serif;\">The speech made at the end of a dramatic performance is generally called<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">Epilogue gives clarifications to some happenings in the play or informs the audience what happens next. Sometimes though, it raises more questions as to what becomes of certain characters.<\/span><\/p>\n",
+        "Topic": "General Literary Principles",
+        "Difficulty": "Medium"
+    },
+    "Question 40": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Objective <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Subjectivity <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Verisimilitude <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Dialogue <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This question is based on General Literary Principles<\/span><\/p><p><span style=\"font-family:serif;\">Which of the following is central to narrative fiction?<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">Verisimilitude resembles reality.<\/span><\/p>\n",
+        "Topic": "General Literary Principles",
+        "Difficulty": "Medium"
+    },
+    "Question 41": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Energetic <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">A policeman <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">A soldier <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Abnormal <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This question is based on Literary Appreciation<\/span><\/p><p><span style=\"font-family:serif;\">He put himself in uniform, made one for his five year old son, and marched with the infant from dawn till noon every market day, in the main road singing 'Kayiwawabeturi'&#8230;.<\/span><\/p><p><span style=\"font-family:serif;\">The persona in the excerpt above is portrayed as <\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">The behavior portrayed in the lines show an imbalance in the person's mental health.<\/span><\/p>\n",
+        "Topic": "Literary Appreciation",
+        "Difficulty": "Difficult"
+    },
+    "Question 42": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Epigram <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Oxymoron <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Euphemise<span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Antithesis <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This question is based on Literary Appreciation<\/span><\/p><p><span style=\"font-family:serif;\">He is a faithful liar<\/span><\/p><p><span style=\"font-family:serif;\">The line above is an example of <\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">Oxymoron is a figure of speech in which two words with opposing meanings are used together intentionally for effect. <\/span><\/p>\n",
+        "Topic": "Literary Appreciation",
+        "Difficulty": "Difficult"
+    },
+    "Question 43": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Hyperbole <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Euphemism <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Litotes <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Innuendo <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This question is based on Literary Appreciation<\/span><\/p><p><span style=\"font-family:serif;\">Fights by the book of arithmetic<\/span><\/p><p><span style=\"font-family:serif;\">The figure of speech in the line above is <\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">Innuendo is a derogatory hint or reference to a person.<\/span><\/p>\n",
+        "Topic": "Literary Appreciation",
+        "Difficulty": "Difficult"
+    },
+    "Question 44": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Policeman <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Madman <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Sole of a pauper <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Sole of a soldier <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This question is based on Literary Appreciation<\/span><\/p><p><span style=\"font-family:serif;\">And when you trudge on one horny pads <\/span><\/p><p><span style=\"font-family:serif;\">Gullied like the soles of modern shoes <\/span><\/p><p><span style=\"font-family:serif;\">Pads that even jiggers cannot conquer<\/span><\/p><p><span style=\"font-family:serif;\">Horny pads in the lines above is a reference to a<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">Symbolism is the representation of a concept through symbols or underlying meanings of objects or qualities. 'Horny pads' is used as a symbol in the excerpt.<\/span><\/p><p><span style=\"font-family:serif;\"><\/span><\/p>\n",
+        "Topic": "Literary Appreciation",
+        "Difficulty": "Difficult"
+    },
+    "Question 45": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Quatrain <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Sonnet <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Couplet <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Sestet <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This question is based on Literary Appreciation<\/span><\/p><p><span style=\"font-family:serif;\">'Lift not the painted veil which those who live call life:<\/span><\/p><p><span style=\"font-family:serif;\"> Though unreal shapes be picture there,<\/span><\/p><p><span style=\"font-family:serif;\"> And it but mimic all we would believe<\/span><\/p><p><span style=\"font-family:serif;\"> With colours idly spread, behind, lurk fear.'<\/span><\/p><p><span style=\"font-family:serif;\"> P.B Shelley: <\/span><span style=\"font-family:serif;\">Sonner<\/span><\/p><p><span style=\"font-family:serif;\">The stanza above is an example of a<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">Quatrain is a poem or stanza of four lines. <\/span><\/p>\n",
+        "Topic": "Literary Appreciation",
+        "Difficulty": "Difficult"
+    },
+    "Question 46": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Limerick <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Lampoon <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Light verse <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Light opera <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Use the following excerpt to answer this questions.<\/span><\/p><p><span style=\"font-family:serif;\">'I wonder how long, you awful parasites, <\/span><\/p><p><span style=\"font-family:serif;\">Shall share with me this little bed ,<\/span><\/p><p><span style=\"font-family:serif;\">And awake me, from my sweet dreams be lost.<\/span><\/p><p><span style=\"font-family:serif;\">By sucking blood from my poor head&#8230;.'<\/span><\/p><p><span style=\"font-family:serif;\">Mbure: <\/span><span style=\"font-family:serif;\">To a Bed-Bug<\/span><\/p><p><span style=\"font-family:serif;\">The lines are an example of a<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">Lampoon is a written attack on a person or group.<\/span><\/p>\n",
+        "Topic": "Literary Appreciation",
+        "Difficulty": "Difficult"
+    },
+    "Question 47": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Bat <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Cockcroaches<span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Grasshoppers <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Bed-bugs <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Use the following excerpt to answer this questions.<\/span><\/p><p><span style=\"font-family:serif;\">'I wonder how long, you awful parasites, <\/span><\/p><p><span style=\"font-family:serif;\">Shall share with me this little bed ,<\/span><\/p><p><span style=\"font-family:serif;\">And awake me, from my sweet dreams be lost.<\/span><\/p><p><span style=\"font-family:serif;\">By sucking blood from my poor head&#8230;.'<\/span><\/p><p><span style=\"font-family:serif;\">Mbure: <\/span><span style=\"font-family:serif;\">To a Bed-Bug<\/span><\/p><p><span style=\"font-family:serif;\">The poet persona expresses dismay about <\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">This is shown in the words 'share with me my little bed' and 'by sucking blood from my poor end'. <\/span><\/p>\n",
+        "Topic": "Literary Appreciation",
+        "Difficulty": "Difficult"
+    },
+    "Question 48": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Metaphor <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Simile <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Personification <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Hyperbole <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Use the following excerpt to answer this questions.<\/span><\/p><p><span style=\"font-family:serif;\">'I wonder how long, you awful parasites, <\/span><\/p><p><span style=\"font-family:serif;\">Shall share with me this little bed ,<\/span><\/p><p><span style=\"font-family:serif;\">And awake me, from my sweet dreams be lost.<\/span><\/p><p><span style=\"font-family:serif;\">By sucking blood from my poor head&#8230;.'<\/span><\/p><p><span style=\"font-family:serif;\">Mbure: <\/span><span style=\"font-family:serif;\">To a Bed-Bug<\/span><\/p><p><span style=\"font-family:serif;\">The most dominant figure of speech in the excerpt is<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">Personification is the attribution of human activities or qualities to inanimate objects. <\/span><\/p>\n",
+        "Topic": "Literary Appreciation",
+        "Difficulty": "Difficult"
+    },
+    "Question 49": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Caricature <span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Ridicule <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Satire <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Lampoon <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This question is based on Literary Appreciation<\/span><\/p><p><span style=\"font-family:serif;\">You <\/span><\/p><p><span style=\"font-family:serif;\">Your head is like a drum that is beaten for spirits.<\/span><\/p><p><span style=\"font-family:serif;\">You <\/span><\/p><p><span style=\"font-family:serif;\">Your ears are like the fans used for blowing fire<\/span><\/p><p><span style=\"font-family:serif;\">The lines above are good example of<\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">Satire is a literary device which ridicules the ills of the society.<\/span><\/p>\n",
+        "Topic": "Literary Appreciation",
+        "Difficulty": "Difficult"
+    },
+    "Question 50": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Listener is wise<span><p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Speaker is a porter <span><p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Listener is more experienced <span><p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">Speaker is more experienced <span><p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">This question is based on Literary Appreciation<\/span><\/p><p><span style=\"font-family:serif;\">'This thing you are doing is too heavy for you, he said. 'I went to school only a little, but I have killed many more years in the world than you have'<\/span><\/p><p><span style=\"font-family:serif;\">                              G. Okara: <\/span><span style=\"font-family:serif;\">The Voice<\/span><\/p><p><span style=\"font-family:serif;\">It can be inferred from the passage above that the <\/span><\/p>",
+        "Answer": "<p><span style=\"font-family:serif;\">D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\"> <\/span><\/p><p><span style=\"font-family:serif;\">Speaker is more experienced. <\/span><\/p><p><span style=\"font-family:serif;\">As seen in the words \u2013 'I have killed many years in the world than you have'. <\/span><\/p>\n",
+        "Topic": "Literary Appreciation",
+        "Difficulty": "Difficult"
+    },
+    "Answers": [
+        "3",
+        "D",
+        "D",
+        "B",
+        "A",
+        "D",
+        "D",
+        "B",
+        "A",
+        "D",
+        "B",
+        "B",
+        "A",
+        "B",
+        "C",
+        "C",
+        "A",
+        "B",
+        "B",
+        "B",
+        "A",
+        "D",
+        "D",
+        "D",
+        "D",
+        "B",
+        "B",
+        "D",
+        "C",
+        "C",
+        "A",
+        "C",
+        "C",
+        "D",
+        "D",
+        "D",
+        "C",
+        "A",
+        "D",
+        "C",
+        "D",
+        "B",
+        "D",
+        "D",
+        "A",
+        "B",
+        "D",
+        "C",
+        "A",
+        "D"
+    ]
+}

@@ -1,0 +1,1044 @@
+{
+    "Question 1": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Profit and loss account and credit branch stock account <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Branch stock account and credit branch adjustment account <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Branch adjustment account and credit profit and loss <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Branch adjustment account and credit branch stock <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The accounting entries for good stolen in branch will be to debit <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Goods stolen in branch <\/span><\/p><p>Dr. P&amp;L Account<\/span><\/p><p>Cr. Branch stock Account<\/span><\/p>\n",
+        "Topic": "Branch Accounts",
+        "Difficulty": "Easy"
+    },
+    "Question 2": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>It improves the skill of workers <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Makes an organization to grow <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Deters people from committing fraud <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Makes management to be efficient<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>One of the reasons why accounting records are kept is that it <\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Accounting records aids defection of any act of fraud. The purpose of accounting is to accumulate and report on financial information about the performance, financial position, and cash flows of a business. This information is then used to reach decisions about how to manage the business, or invest in it, or lend money to it.<\/span><\/p>\n",
+        "Topic": "Nature and Significance of Accounting",
+        "Difficulty": "Easy"
+    },
+    "Question 3": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Last in First Out <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Weighted average <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>First in First Out<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Simple average <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>In the period of rising prices, which method of stock valuation is most appropriate?<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>LIFO method is best used during inflation because stock is valued of current prices.<\/span><\/p><p>LIFO is not realistic for many companies because they would not leave their older inventory sitting idle in stock.<\/span><\/p>\n",
+        "Topic": "Stock Valuation",
+        "Difficulty": "Medium"
+    },
+    "Question 4": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Income <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Liabilities <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Expenses <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Drawings <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The net worth of an organization means the excess of its total assets over its total <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Net worth = Total assets - total liabilities<\/span><\/p>\n",
+        "Topic": "Introduction to Company Accounts",
+        "Difficulty": "Medium"
+    },
+    "Question 5": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Partner's capital account <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Revaluation account <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Partner's current account <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Realisation account <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Which of these accounts is dissolution expenses credited?<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Realization account records dissolution expenses. The object of preparing Realisation account is to close the books of accounts of the dissolved firm and to determine profit or loss on the Realisation of assets and payment of liabilities.<\/span><\/p>\n",
+        "Topic": "Partnership Accounts",
+        "Difficulty": "Medium"
+    },
+    "Question 6": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 21 901 <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 19 021<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 21 109<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 21 091 <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><table><tr><td>.<\/td><td><\/span>N<\/td><\/tr><tr><td>Balance as per cashbook<\/td><td>5, 467<\/td><\/tr><tr><td>Uncredited  Cheques<\/td><td>4, 410<\/td><\/tr><tr><td>Unpresented Cheques<\/td><td>19, 404<\/td><\/tr><tr><td>Cheques wrongly debited by bank<\/td><td>1, 440<\/td><\/tr><\/span><\/p><\/table><\/td><p>The balance as per bank statement is <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Balance per cash book 5,467 <\/span><\/p><p>Unpresented cheque19,404<\/span><\/p><p>Uncredited cheque(4,410)<\/span><\/p><p>Bank error 1440<\/span><\/p><p>Balance per bank statement 21,901 <\/span><\/p>\n",
+        "Topic": "Bank Transactions and Reconciliation Statements",
+        "Difficulty": "Medium"
+    },
+    "Question 7": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Invoice <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Cheque book <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Credit note <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Pay\u2014in-slip<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Which of these is the main source document for recording cash paid into bank?<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The object of preparing Realisation account is to close the books of accounts of the dissolved firm and to determine profit or loss on the Realisation of assets and payment of liabilities.<\/span><\/p>\n",
+        "Topic": "Principles of Double Entry",
+        "Difficulty": "Easy"
+    },
+    "Question 8": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 110 000<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 80 000<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 90 000<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 30 000<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQMAAAARCAIAAABW2l64AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAIYSURBVGhD7ZpPasJAFManPcag5BKBUnIHQdyEXkG6Cd14AjfipuQKxY0UvEMoQi4RLHMN+96bN0nGKl01tPr9FmZmXmbcvO\/9Gb07Ho8GgJvnXp8A3DZQAgAMlAAAc0YJdfnUUda6aozbLeIFAP4p5MuLnYtGJ0pgFawrkxVvzCpPqrXuAOB6cIdmZG00ipRQl6QCQzqYpzK3k1kmA8FOlqQONQFwDTj3mYxFEv1bVEoIrARKCN\/dnZLIy6ahQZKvlhMTZgS9PnV9ow0HCXpaWMqKwqzVePaLAPhNWkeOyYpeTiB58EMlcgIlhKLLD91M8odOk\/y5lYHUV1RdGS2v0rnfUK33D2SRSbVtSzX0H2AYpLIh9xMHZQ+l6C2lzuW7I24ZFO+ldpyIwZM+iGd\/OnHmel95HfCINTHlYG\/tiD6bj5rf8duDJToLgCHpSqIePSV4vzXNwXfIIYr7sP+ddEoR3zSb95qC+rbKZqwDTSzN5kUk5MugcOIlRKaok8AASP1B5ZF6aBhRrO\/nBA3UGuZ\/DNw2fWR7tS\/fN8aH+oDPOC3wcvBH4KjblkT94ihWgr8qkjBPuPoj6izc4aTRCFKoQkJo18IRRF2Gi9v+9niCPgEMyJkrVCLuE9K5drk+c5g89wUSoTes5OSv7Q8MKh2t\/T0kuu4IYjuesTHafu4sAIYm6hfwX1QAmMt3RwDcElACAMYY8wVgYjZnRKWLCAAAAABJRU5ErkJggg==\"  \/><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAASQAAAARCAIAAAD7W0YRAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAARJSURBVGhD7ZpLauNAEECVYU4hHHQJgQm6g8F4Y3SFkI3xJifIJngz+ArGG2MmdxDBoEuIZHSNTH3lbv2sdj7jmem3iaTq7ip1V1WX2rl6e3sLPB7P5\/NN\/no8nk\/GB5vH80Vcvf36eb\/cFnKrJIvNbVw+iYTuWHAxdBlXPQcMkfE4mj8+TEK6HEb\/PLD0Eqfof6R9NfJ1usrkur6KhqzTM3rauIi+BeHkbh7Jgw3wiHfZ6v6pDCcPi4TavgN4+zRN17ncfhhdxlWvA2QHVVvmz1UAukUa8CHz4PlsyNOqRFuBj8HnIcTEucm3RcjxQDJY4mK7bHHUnjaOIiwjw3DEDYgwvkFnLZ5ztehdlC\/1t\/8KkoSiQ6MNYy2KNAY\/FghFmFC\/rf1ZwLd\/BHfo1zUkzSZjWiB27mK7J78on3a487AsHmPfbFcFItPTxln0HUUO8DYtNxC36GQcxHi7CFZ0pSKVQDZJ4W9jm3YbjbC6dDMeJ1mWYbTdxjFOeHIzfy3sfm3aCUtARsv18YXkVaqWcn\/C+GN\/oPa+0Xxx87zCwSLIFFkm+qHVtLSVeJrEtxuc4+a+VIM2liJ4LSEmQt4Iomue0vAa47B4QQk9IHraOIuaBySaCmbNZQW\/WG5HtB9TCpE4jm85oWSrw9gWwRSwCFwGsD3FeTQgX6PbgdOBhOrdTjid0N6W76GK58x2pEO7CApSUddgmCTJsV5hnjAew4qmwihntEux3Wlqvp7qqMkC4lGURPM7H2nOSNlG0QXkB8114Onlq1yZaEump427yAg2qCvh64qqXjMZG0DsaMFEwVrBd9F8ijJb1I37aLI5RzcxOp1d\/drAK1fRtj5kMpZJl3ZeDVZBFaKRIcj1FV2U2ut2Gs8jq4Bsl1Jdu2AsoVmoUawXJdDVh9qZcDIT5053r7Qio7BzLntEFed1HxnBxvsF0RZpDNRNZDTXNe\/lvNGGTAeg0ZZlEp112rRLThqowgUeWRedi0kqOtph62kDxRzTVmh4hkF5VZiNjvVdX7ZWetq4i1x+Z0PnXG6DATXcEM4fTfeUU0i06U5ocUL7UBXOGBkN6c5qQTwls2Bn3oOdjZ3Zcw5ct2jm4pJCMx5\/Z9W\/N3raOIsw2CSbd6dZdj35mOOkz\/0V684WMU3nPWc0+6C0vTA24WiTqbVH7dJeO4uFmDQOg1tD0Lb9lPF6EAbkazmCro2giCmwM\/ttbSD9LsHfzJDuNMXpDNOZtcRh\/du+p42zyP5RGwwxDzHYOoQFx3s8W8fTPrhYbMYHo9nsZWn1QX\/V8e3h3z2aHtpZw2oDW5epjCUd2nEdGhZb82CbFO4N0cOk7G6Jxhgj48PFXRyHxy6NT2Vurp09fRjrqRynU+e9PsGAuSQtYqKnjZPI\/yPyJYPr9TJr9wDPX4fLN5vnq4A0jdVr7r\/W\/il8sF0o2SpNV4H7\/5Z5LhdfRno8X0IQ\/AaPSuSFMBWO9gAAAABJRU5ErkJggg==\"  \/><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAASMAAAARCAIAAAAZh11oAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAOQSURBVGhD7ZpNauswEMfdHsO0+BKGEHyHwqObkCuUbEI3PUE3JZuSK4RsQnm5gykFX8K0z9fIG2lm9GHLcty+lPQxv0Vqa0Yfdv4jjZReHA6HRBCEE3NJfwVBOCUSaYLwHUikCcJ3cHH48\/vhflvjXbHc3OV42exNcTZ7erxJ9eUJcTrkgdgiZ2AtjE\/QBa39tQeqCz+N7hduReTgSLpaz1elvuoXesTnaNNlkt4sZhneJ+VbRVdN9UqjK5bDYQZPM5\/P11z5U6Q3j8tCX8Gw8D3R0Mx9CFvtU3yxunA+aBF2gypENs3dMIPA3GxABvX2PqDhiM8YE2ePRaH1xqGmAi3LOAAHad6Peb5B8okeRP3e6FuiuB2M9F4gkOBRZbH67wFhPycLJeo2oE2td+IJ5m5WVLPfqTWnmCh9oPjK3d4TX8xnnMns0yaocgw1FWjFdKoKPOB5DA88JIxeoFy1yw1UyEUP+0qvgo63hkLNLK3VC2QCerSE22Zn+jFGahRXWnuvMYUKv3dDtBfhHMnvNj2pF1jsTNvsn7fJ7Bfd4wKRXWO99FqtLK1pPuYzzmRPRByVdwSuAf3xekgLIgoVHgWnEjThA4ed8zv0rLe78ATkh1r1VmbmtXhtqpmpXHmBUq7eJtgZNP+i6nczQ2gB0gvIRrGFIPFehJ+MErbJHJOm+cALj4\/G\/bojPiNNHGngYFS+9gVOgOzhkwIQfevXqkeEvc4Y+dlsAfEIIdqZiNxQU4FmXgu1SQNL0yv49Povlk6SyK8Lu2NwVNimzisD0+BAL8LPRad0g3uRqzRuV0R8ek3uKT+rvPQETgQjuL3UMqOcfWgQECqtQMM2YXHUSR3mq8c1ydCooq\/y670IZ4pa0Hjy1+BEGifiM9LkRhqr3B7NdOHFAuFEtIdRzgzlu6\/PuzIw\/+jMz\/KZsw5\/VEH+QS\/CeaEXtFaq5m2taG\/V3jVFfMaZvEijUCOBY1UmzacYATqVcvMwg5Vwv7PfaAiuW7e2ilhOWzBFtfZ2UMEA8rrzR6XORpzjDqo+1ItwzgRzKYU6Cak7KwgJAk8FUKXtQIv5jDPZX65hHne3LXgwoDEW0Kb9vcLzdyxcHnJ2Gi0Gf00OeLTaXC7yPG1Mm9DJ7fu9vXlMXxxT5xGwzA4p5KNKdS\/8oMKZ4kiLcQSkrUHJuV92nyYjPseb5H\/5BeE78LNHQRBOg0SaIJyeJPkLTjIWLcN3pacAAAAASUVORK5CYII=\"  \/><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAR0AAAARCAIAAABvve\/jAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAKFSURBVGhD7ZpBauNAEEU1PoZI0CUEJvgOgexsX8E7k0VygmyCNxNfwWgTTHwHEUJ0CeFE19BUdZWkbkXuGY07AwP\/LSK7q9xWoH7\/6pZ\/1HUdAQCCMtErACAc0BUA4YGuAAiP7q+K7XKTy0iUzB8frmN9cwbV4f42K+nFbL1bpTIGwL+gqT239KwqP1nknpxRobr+fLlbEE\/vJLG6fn9aLO5ePvmlBHT8r+DJzpsBgHFoOWsNd1i1eLIsPTkjQ5OoKl6NqUxF1+l0Zq5EdeQAAP8PxZZ9imyq50bV4Zn9RKpcajx\/PlQcavHkjA5Noji+4HD7LenK3FPrbPlmSdw390DjLe2gQOarAaIXsz\/XDwEQhmLLNZvMb8QjLMQjkksRW3yZ0N\/y6NahJ2d0aNJoLCqzW7viSV5rM07aJ0T+IjYZoSh9xNYbrRTUXO52j3Oeu0e6kulONrYAnEnxxk6QXEV7XcGXy21hIlX1Ya4uH5UtLE\/O+BCfB7YSMtry2Inct3aMIsfytTDZzb+UkmTi64dGiC3kZaJIiAp8E1riZXac8sJvlvd8o8oa4iL+fS16cnwhPWcnaRkHYsrs57CyBqUpbqih4W\/iTpK73iF\/BiAws7UcAcbpFfdN+RsJSzc7Xjw540MTbuDUoTrf8uK6Z9NYGtxQA\/eNPLHdNgIQGi3xXhFKgbo7KtkTaePV4skZHTJ+VWZ7xywd2+luUxcAbf3szq8X4q6vZ7+qWUgLfB\/pDbd+7dZkz0+w3AI15uXuZzo8OaND5rmwHEco5C7No7T2yS7dnh43WEPdoPAlu5uW36fFl8kACM2fFahd5Q6enFEh\/J4dgPDg94EAhAe6AiA0UfQLn1Deog\/r8OcAAAAASUVORK5CYII=\"  \/><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAARwAAAARCAIAAACAf4TdAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAO+SURBVGhD7ZpNauswEID1yjuFScklDKX4DoHSjckVSjYmm56gm+LNI1cI3oRC72BKwZcwLb5G34xmJMu2otip+7OYbxNbMxqNnmaksfr+fHx8KEEQ5uOCfwVBmAlJKkGYGUkqQZgZ+03VPN9vi1o\/KpVk+7uYn38XrpsDL0kYdt4aGKq53YdqY4wPOa+XcA7Vbp2X\/KxZpo8Pq4hfHGmn3SWgM0VEJxU0w9JDyx54TJdlfv\/caMkPAbG4Xq93Fb+2RKtNutRPSXZWnLYGgkSrhyzhZy9HPRR+IRT3sLft97CsdbH1LFxAZ6IIk6raYaIt0w2lX7S6DYbTd9C8mUNzQBQt8Gd5OdxqIBNgbqdyjQ0MCXfvSQMeuoxzSZgJPhcYc540zwc8SZIrXIb4CqO7PPROjYDOZNFfyKlXbFeLyEZpfLdHpW4JRCnJL5ygOIvs+iVHLZjP7dt22KhnZtQRMmCbkixTOQu7tlWZr+HX2DiB9dbRt20Ij9vSOgWim2bYvaVn3OvhcI4el1wlj0vCV0AboNmGo0uoVOr6DbLCWeaAzmTRhWqad2zw7PzdEii+c17sW10c1AYPvqONJpAggHRpCYGoa0ujXOavVyDRL7QBQE6TSHex+80Jut4CMOy2WGgTjnFLZ9x81wTrvZ7xoYfeOXpcAiXIMOwUGE04Fyi\/oCgn7BcMR3iP98aNhoDOdNH5t386LSFCsGiEIKPY9zXqk3CZ3uCWTKVX\/VLhhIwySfTL5+jawPH5IPAZ528yOrNV+VqdcCEoPTHHDnXxj7cOOaZmRS+4Bvc1\/r45ilOZHSWgExJdmE8MfZ59BZTNZguh2ufLBusB9Zceta0Bh4RTaRxj5wjLjgcUK4aWXPgM5loAt0qzy4UJ6EwXwUnFUeUch1DLzH37xzWPYcYtGhPHF57Yvi2UHlfvXEcYeeMwglFzpO1UOwRFp6TVd0ARbnY5WnC6W2gJ6EwWYVJRWnNVAiK60XCgfOMLDYM3GD2NUXwNA9fFkwmgascZ21H2meuWvUyvjm2qF9vRtcHtdEoHjNOsdOXm02p9CElHzhE2K87\/MZunMAldlZizgGPVhL5eHj63SNTPqZDOZJH546+9qELayyq3PUnT9wKfURw92Vus9gqLvtY1bSPSs55t4jhqrDLYM\/eGdmynh+NNz5KBNNrR++8qSZKyxGftFggOl+miKFhqW93uHfcGr+BO30N1ao6uEcQYEmahHxm9f15X3A3OloDOJJH8L3VBmJnzb\/8EQfAiSSUIs6LUf78haG1qw5UKAAAAAElFTkSuQmCC\"  \/><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAASUAAAARCAIAAAAUmS0vAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAASYSURBVGhD7ZtRbuJADEDT1Z4iouISkRDKHZAqfhBXqPhB\/PQE\/an4qbgC4qeqljtEFVIugWBzDdYeeyaeZDKwackuu\/N+mow9ztjxeBxWe3c6naJAINAJ3\/hvIBC4PmG\/BQLdEfZbINAdd6efP54Wmz3fatL5+jHh689RbNn815lsgVkFco2V0AMclrvyv3EB\/x8Uiv7k5XkU8xCQr6bLjC5\/Q2RoN70m+hbFo9mkzwNr4AXvsuXTtlBqnyUePc9Tvv5DgNMUf3bv65y7gOv4Dyk1nU5XOd8GSorta+344LyHarRew9vYbxZl6DwiQ7vpLhH2k3HcIwVFnAxx++0\/8s5y8qrkK3AaismM6k48Gl9j+8O2grB2drYUh2pKdbyAvxXYbYchnR8lxfYND5l0gNFJBvj+szcquR6Rod10t+g7ihqwWyHarXzDexfzeD78WKKWPkrNLEQN8rWZY1QRS51sI0ZXYcbl8FllRb5Tkl5sTvnkcS3EYmq5LD2azufRkuWexz0U7INwzPKrgsMLPVSLpyM+Znq2nMJfUJxFr7UFWE\/hcT3k9uv2yVeLw3g92E35nqHq1L+nwMT3sB33+wPsCghvs8jQbrpbVP+9pMg\/UDEdjxKrFUoexY2522\/eohkelwS8UHjx8Ha5LxVky92ATlaY9E6HrlLv4YFLJnRtUGeSssICBWUL5AcZ122hW5kpiiP+0W7bCIM4E058bjS1d2LNvrXVe0Z48ZD\/pFUJhNsLdzzd8YGCQQq0cthIrgW4XPP5dfvAmzlOHuq1g3OgwrEAtz0iQ7vpDSKx3+CdwDcB7hd8T2drntqxkFLYp0EG4Gvnw6Q\/TCC7VYNjii0mhzDJHuE8fhKZk+w3r5xdpKKM9ymg1AKLnreqfAm0Wjrw+cQ3FrV39LSza7NVuJWgOFTa9UYvXPH0xsfGlje6pp\/S4NftAn0A7Db+aNDkq+YvddHxVPGIDO2m98R+45qNXJyyNrynL1muAeKEu1xtcwPkGdZergD0BUrGeYjaokgd3S5lAye7UqzgrEAuRRvv4yxccWj0oglnfM7R0rUbRnVlHFaOKtzQlV3wLDwiQ7vpDaJr\/PubfRx7wFxabCJX10WlnUazZZnVoiggXBgalBGu4WJN0GrJqmev1t14VvA8TtIcB7cXNXzxuYQWrt0q9HMRQT0zxVg1WJQDut7QhxWf\/R6Rod10twj3G1dDLapD7416FANZsKj8tAnpIpKxnn38pUjHgDQHO4IPDlElyLj59DPNglO5hH+P5AYQF6V6PcBeLXnHLWDFu7Nrq+jblq3DpsmLigVFY3w0MqSeBUjXLDWXzX8Gkc4cjmyHQbdabZ\/I0G66W2T\/ezfUBPHFhcCe0dJ0Mjlu8Bq14nc+rGHc+tgTE8gafbnz\/fiwKG+eR4WRRWmaZpla1Bx\/YNLDgFiUMI7j81mSxMIGIJQFlXmlSoPAs2bhOMBTLH1lQ4YhTaMsg2uHDAerXoh4lnat+IBY2rdWpR\/idM33LjgiN4+MmchMGQ47Y30iQ7vpdVH4\/wGBQHdc4\/stEAi4CfstEOiKKPoFOpWibBaNsRgAAAAASUVORK5CYII=\"  \/><\/p><p>Determine the amount of goodwill <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Goodwill = Purchase Consideration \u2014 Net Assets <\/span><\/p><p>Net Assets = Assets \u2014 Liabilities <\/span><\/p><p>=(190,000 + 170,000 + 60,000) \u2014 (50,000) <\/span><\/p><p>=420,000 - 50,000<\/span><\/p><p>=370,000 <\/span><\/p><p>Goodwill = 400,000 \u2014 370,000<\/span><\/p><p>=30,000 <\/span><\/p>\n",
+        "Topic": "Partnership Accounts",
+        "Difficulty": "Medium"
+    },
+    "Question 9": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Supplementary general warrant <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Provisional general warrant <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Supplementary statutory warrant <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Reserve expenditure warrant <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>An instrument used to release fund which the ministry of finance had earlier withheld is <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Receive expenditure warrant is used to release fund withheld by Ministry of Finance.<\/span><\/p>\n",
+        "Topic": "Public Sector Accounting",
+        "Difficulty": "Easy"
+    },
+    "Question 10": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Complex <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Quantitative <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Relevant <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Qualitative <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Processed data is only useful to users if it is<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Only relevant data ate useful for users to make decision.<\/span><\/p>\n",
+        "Topic": "Information Technology in Accounting",
+        "Difficulty": "Easy"
+    },
+    "Question 11": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 24000<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 21000<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 25000<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 18000<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAASkAAAARCAIAAAAOpc2hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAC6SURBVGhD7dmxCcJAAIbR0zGC4hKChTs4gCuIjdhkAgcQVxBrtxBcIii3RowY0IjYXa55r0kywMf94QZ1XQegd8P2CfRLe5CH9iAP7UFq8VyW59h90x6kF2\/VqCi6b9qDHsV4n4zb9II7Bkin2ZjbU9V+vM03x9VUe5DY9bC8zJrYniXuw3q3eJ18Niek1RmaH5x7kMy\/yak9SOs9NLuT0+aEtH5fMDS0B\/34\/u+zOSEP5x7koT3IIYQHoMtLSXMzuzIAAAAASUVORK5CYII=\"  \/><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT8AAAARCAIAAAAkFTwOAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAWKSURBVHhe7VtLauNMENaE\/xQiwZcQhKA7GEI2xlcw3ohscoJsgjcmVwjemEDuYEJAlxAZdI1MvfqpVluK7ZnIv76N1V2lrurqekm2f319fSUjRowYIC7kc8R3Ub89zB\/eahmNCKN8ns+fSxmMOBLG2nsIIHLv32+eHqepTIyIACJ4lRQvi0zGIw6Fjl50xE1Fl4D8hEZmSaeUcBC0IfZqCJzrZHn2odvlvLoaDQJ4e3Uu2a7FMJikdnw5mbXsNcLTh0SdM6gxZz0QT7NJslsNtxvE3RzQpqXTxyKX6yjK101ykw3ADw80SBd0NVp2O0s2r8PvoMmknK9ccIBRJIFBqs19wOwRnp4kjF5wQ1BjMrvlFJJOlxC\/QF+fJn7hpEGD0xXe+rNp1BOg\/NhNBhG8hxrkqOeVppfJ73rYbwkgjqDnwhjyUb9tsTbm12is7BoZdlsviiI8vUn\/kRsi\/TLVnogmTqqk+oQbU+4PYDYvnq62km8gBejj5KTAkHk1lRdFshIik\/Rq0hW0cyI0t4bXTNiy6cbrD5mA7gE+NbvN6K3hCCGaXCOs+9zb0GqXRVOTyay4eV\/hesLvLE9bs2aYhyYSkqxIxgaBlYl8W6tVWuzF03oDEYPIAqEtaJHW7gNSArAFWGzp1aR6L+updQBDQ7Z4wa0EOgjOk5Mr3htsFcKIo4gmCBGe3qSLpK5\/44QiEIiacJLUTdFuhRmHGmu4lsaazwjORnXcNJ8t1C0f11zp4ZqyiN9itXPi2ugkem3Q0XgQoXwG2TAJDCoTgmX5im57sT2VZ4AKXYd+LAASCKE1WIYHpZ8vGuGYTDFWm62Vl2n5SyVYtibNDS66xDW590GfVubJCysi3JVlnRWlfxl8kCMFZe01SODU7C3459UipYHA0TCoMpwpJJQ8uK1GhKc\/qcc3RnlBR59mN+h6lBO4bkvPzedCTggDin9F4WQgcEftnKwxh4isTTI9SIcPXtpSBKS54KZDug7RUkjcAVOH6IUolBl280boNqE2ghGJ2uAt+GmKDn4Q0umd0UJ6H2NR\/QyjYK8cGrB\/tMgKYO+p2VvwFusupcvR\/B9gNbWtiPDESBcqGTqRIU9Ke+VygEEtmyPAz3EUCrHvwI5YO5INwC0wr4v8ttcywbxlL9uyT6hv9GKiEUwK3XYKCYCsY5pNhEkiGK55jnGANRRG+R3GzLcQluXj0FPrIqX1aIKncSaQUIoiwtOfBLVXUqhV4MXCUq32QhokhaOl2WzBbZ04itR+F1QKVDffFr8Et4FxEoFLUsDGUjww8P4dwy98nwX0c3qiVToaqPBdbyFcF7fUz+y2DzDqaHUfEVlBfO\/UekgJHw0Whi7VaJDgUFKZkGugf54Rnt4kjF5p4\/Q7Zu8dtIJ6vCIqr8pddGW+AyifxdF5fYEz8EYRTnzuZT8hNPwLHsEkqwdSk4ks1epzc8h9qrwtdknoml4CMCWkEcAQfuo+hrcvQF2+4xQ7q0+W8K0qtKRSpEpChb7dRGYQlYXwDbL31BTsya5SWo8GC4Pvz8NEqImQY+RIYU9rbDbC05ukfq0Bjms1Qt47Gn7JYQHKko4l587JrFhmWVrrG2Clu897M3hMXy3S4zTCmZW2SgS6RevlqmVolkZq0lPSXqXBbZbFsaWFex\/daX6tYSljWceezfPdDq81mSXL0Bk4cPRxTLRM1qIbqmYs68tqbLFhEO\/UrC241rCt40jR7\/qZzVoKoITSamfwaw3LBgrGYLZlQ8eJiPD0InX6pSRr26bKyeB4mOCvKxEFavh595M0+skYrXVs9HjnvPcp77io39byVY7A+eLhZwBfU0PVGf+lsBdQAOg7rjF0j4kOtdf0CaYD+itoNCg\/q\/COGPGPMf7HaMSIYSJJ\/gD5KVuooBn\/eQAAAABJRU5ErkJggg==\"  \/><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT4AAAARCAIAAADL11cwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAShSURBVHhe7ZtNauswEIDd8k5hWnIJQym+Q6B0E3KFkE3opifopmRTcoWSTSivdzAl4EuY9vkaffMneWTLduImkFB9m1rSeCSNNKOR2158f39HgUDg3LiUn4FA4KwIrhsInCXBdQOBs+Ti+9\/fx4d1IUVDunidJfL8M8p3UX84lYfEDu9UB3h4eMrdsz3xVTtJ1FZCRpPnp3EshYp8NV1m\/FiX2LPpMorH88lI6l6BZyxly8f3Eit\/TDx+WqTyfHLkKzA2zpsmfS7AHplOp6tcisfgpFftFBG\/hUiHoO2K9UNjidgDSQhEHIn9mzBhjuMrfBTi5Ba3cfGRH8Z3T5h8K5EMt+r5nC7lZz1J2guc62s4Sw9KmX9QjnLDVk1uKO59lY4Lle8b3G8sxCLZhk\/IIU1\/sLUFN2syZzYV7Ak+mixuP5YoZQ5yJ2+gSnm271RnPuCIs27EyhK2Xlf3Clt0u+0bOuZKCGPTtfuSeaExu+ZoVQ3LUEVE8zZNSnlTMzXflUaLMxCPcexcsuUUftrp6DmKDt8sbK9qDTy9eNAddIj9TvC8WxdFts1nCVqezoTRbSKbnOGQO7rmyvgaTsii+AQnhH01oKn5mcoEkPtx4mRNyUwVbKlYb6I5JQgErC\/sAtgWkngrsuX2xuYSb5wNkPgVJRmkwkSafAW7hLRIA8GbBzYNKzdJvV\/Yot7CZnBUfg0OHx4iveruQ\/\/svKNV9405ukL+hl5AOYtknelCKXc1i57l9KUqbE2i5DdOMpPx8Iy039Yt45tFIxP299Kgx8i\/HkxlwC6wlAgvhgmNQll+yZOGTuZBTcp18fQBMABDv70xlfxfNizsJxqojjaUl6nROztYUgl8T3pidZpi\/SJ7lUVI+Whyh8+c46ukvi5s4SFJJsP5xi53Ad\/sWkYbj+8rrSYHp7iIJRlwhdbsK9gsq9M4Dq2W0erNLGrKdu+lw8gBHT0puIET7\/S56Cq2HlKnp0m5rsRUZODCSITo6LIJZGsUqKqUDYDNgaFdggnfylm5VKGZsIQO4hO2eIMW+9UQvKNVEQF9NU3RA\/D0hBIkL3sYo46\/uzqtltmRXXrpNHLAuZDaDWGSS8b9pOQwqOkYv9e150YfuGfoXgjRop5f02nAtdmy2ioqviASY1qEK9whmYvDfnSM1vjuywZ8dXZH3\/myzSOUZC0H0GUcH37L9LFHL71GDnTDWY0JqnyHlQ0ypAldV06m9kDNG9\/kggIrcah9nIZtoVa46dByq+ZDWquD5EMCu4o5rFxFsnxFGYlX2OIOiadgPx94pmBoNrWOFhHfLQo0qumziOrJMuK82lHo6g6p7NlmGf97TuWuvXQbOSBLbj5UyD6rLb8jxCImtA9pcv8kAyJ3\/W5dfX1MJ5OvNT6jVPwmmRnUOxdj9QJr40uAlO8\/H6rC07i0bVGapllG41q83mxtNaAGpZRj\/WKeJLHSAShhS+0tI1ANrHG39zfpWjVabuZOpOgUHNqtMY9eZJQyxPbuGjbutUw1FGcA8GpLL9USkFi\/kQPOErTZSAvV9se+TeE\/hwKBs+QYd91AIHB0gusGAmdIFP0HsKiZWr1seT4AAAAASUVORK5CYII=\"  \/><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAATsAAAARCAIAAAAt\/px0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAUxSURBVGhD7ZtdSutAFMej3FUEpZsIiGQPBfGldAvSl9IXV+CL9EXcgvSlyHUPQYRuIujNNnrP13wlk0karbY4vxczH5n5n5MzMyfpvSfb7TaJRCJHwqn8jUQix0BcsZHIMRFXbCRyTJxs\/\/29XaxKKSry+dNNJtcHSvVi6z5MwVrjEfjzcGEvBlz4o27uF4ebx+my4MvR5P5unPI1smPTaZKOZ5OR1D0B91gqlrcvFVa2A0qn0+njRorfCs7ND1EpLpbTTsXEt8pOx3fzXK5\/Mfv2+c+5mZcrx2H7wuGFR71AZ7laGFfs3oRZcZqe4aWQZpe4gMvXTXgBVO\/1g\/nb2DzjpjaaXPFuJntOuXrosWZ\/UPav5ZM+hwUJUXuwOYqKQ3cZGaqXNZ6T+QX2yi5waynWHKlDmv5gq5ezVB\/P1uEsx76ugbMN\/sLxPEserMxEtbu9R5P55euSV9v99ftCusyTpQzP3RF7Srse2bxRiyWQnFUm5TtYlPK+B7VNJQ3ZSg\/AaQfdnOBl4qZaelRE9HjtwtzF6ewQsgux22UwY4HPUUw\/JXSXVdNhMtEcmZqvKjWKI8XjJW2RDhXU5VoqY\/is0LOqGz1TeLBHD3T7LLiZjPly84gT5nO2zoL3q9E5V6fneLhwpA5qan55qjav0FcfYGI72KzSTzz2sxs8qQGqfwKVbmaS3VgFXSpX62QmN+rKYvl2wQe\/2kXEenhEOLY9EFFVH\/hHGUOQRUnyUaG17UoasjPzSjBDT\/PpTfmFDJPPOeoWqzO6h+4XnV67UD2GFMunVEkTtMtxNTZDIsS+5q4+Ryn8SryyrbegkMkKd2QZZzl9MIU3lcf5vdQMFe7aDCqvFe7TbHkQdTr8\/MWAKABmhCnVqjFIuNagSB3UZK1YCBCcmT2idwo60EQJn\/ud+bIHXlEcI\/AIeXhVyWPzmrOQLBe772eDJNLxNT5SNkpObz6ssSTiUIOIcHV67JJ0ZnSZoQc9qVKrXTw750GSCLGsDkcRHiVtsnuZbLBH9hUowpBWLzWgSX1BZQ+vrLAH6z9FwM9fDYmirQGXUL\/XdStBrNPRZK1Y2pNwR4ItVM\/La10WsyQa\/HD3CfgAhci0NR\/IInBUyJtSwNh2zNrAeM1zDAQ8OKCUX2PEEJCMkQtMRhbGKyVol3db\/ayv\/bL7mTyAfl76VFD1mSLo532RXVHuYnIOxrNnKwY11bNimbaWbkiCodjvlsXwxiXf31yfy+6q93Yd7HI87YqK34c1xOvNFX14K9a3UJLxMEjoVU8p6oGlziFgF+Pe6OT+OxKQ3WnyAHb10oCg2mGKTj9\/CZgQd\/1GweGqdiQ+W8TNQ5pwxUq8c6ukTLA\/UU7BX47L1bOyefPoKGwGJtdQ3mOQM9DFqbQL6Ad2snerUVmd\/jZc+3as8CphXNkSv2WJLlHfystEjcdv9nJqupZ47HK\/tTsHZ9gu90aWzbl1q6MsmtUB2Z0m27TP7hZC0yHG5+1B5bvPVPadoiN+vhhlh6iTFWcQ7\/LZy49V9RnS5P4Lipy+qcFOJjX1MjCazGdZhj6zqmG7xDcOqyafTD5WeI1N6bOkPmpEBNwqldBFfThu9Adk8BqOqEafNiWuSHMXV4o4p0AYrUme50WB19B+8eaxC7CnyPOkKGT2brusO3WHgKP07bZAo6RFNjd3mKxon13\/OtAUWp\/OdojIrllKQVX5rGgR0PIgaHhrHEDNuB8cO2znO9i9an12bYr\/dycSOSaav+5EIpHDJa7YSOR4SJL\/VUmVHTlxCvsAAAAASUVORK5CYII=\"  \/><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT4AAAARCAIAAADL11cwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAOdSURBVHhe7ZtNauMwFMfVMqcwKb6EoQTfIRC6MblCyMZ0kxNkU7IJuULwJpTJHUwo+BKmHV8jo\/chWXKdTDSdDji836bW97PRX+\/ptb07nU5KEIShcc8\/BUEYFCJdQRgkd6dfP5fPRc1FQ5rv5gk\/K9UcoItfJwhCBxIKFzoiaqm2s3VJj3H2sppE9AyENN2raLLIYq7YAXmqVLmezbYV9vsO9CvOvnUBQfjfWAeneQFJlevloeFGCykQe2mh1cVzq4LAJgiYo2hEHYhkjgvrlc3QaLLSY\/6hy23eu25eEG6AOJuiSjqSsjSHPXjO9BF6JY\/aSapyT\/oObvoBTV2iZBwXda0+GhhpggD24MZxx1k+Pq6hxbh2x6V7wYIXRsRZNioK7KZdu\/7pBAZOR6rFCgWP1gqa2JuyXcurRi7b5tb6NgtCIODgJvRYbWFbpbnZ2BbyWfEDVUcP2kXW9btWWRTe1J+m4kODRk5WEEJbkjkV62KvFhhdI45LB6dtgwVdr9WkFcRRBEzAo7Dzznk9J3ZfoN5eQYf1sWqMFWmuxYVTjnAwTmQOp2oLurUmdHX7yTb8wGgZTyQIX0RvNQ0I1zhgl6b54CcX9JDhTVdlmFHnLVQkeWkdoviqt9ZaEj4qjupVPE60gjDu\/nQQeUSTJ9CQO5ZPECjx\/LAm+0fXMnpDOpvYBBx41jakLjagY5hTXK7wVXBvmgvpldmcUXRWEpea+qXLOjcu+s\/QALDWHDokHJ7oggVdKJQHbYFW0xSkWb5VoL\/0ycpeR8a4khseu3J1ZXzONuP+ueW6zywIV5BMMeyDjevC0Wwf4U290m2qIwbX6CsD4ODT0HoxujRfh9HuZq+1Op+O8RPsl7qEt3SSLd6A9RIcgxOUX4PkOErav2r020aHJM7SZuUE4S+AWLknpexBUSJHg3yH5X0d3ATSZddoaA4b8GV838Qa7GzpFAFIbIH\/ejW7v9riW1C9DVC16hx9nBE0a7euwXAzQa3M1YHPFXLknilw1yVFI+bkOGcbfGqy5sKJJwgBmF3Gm9R4GwtvZ\/LGdCE0fYKb+v8kw8u1UpIHwLRP02ZlvW5+ejfO8kWSkLzaepM36q1roVae3SsgrUEqTdOyxFfJd9PGWZ\/oW8\/a5ryIpscMQQjC22UddbS4vTp9gppu6d8P\/C9HnPt+gjBwrsowDwKM87Xv5HBZft8j3Da35HWdQJoQlyvcLvL\/uoIwQJT6DV1k6j+DK2\/6AAAAAElFTkSuQmCC\"  \/><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUIAAAARCAIAAAAnojImAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAQMSURBVHhe7ZtLauNAEIZ7wpxCJPgSgmB0B0PwxvgKxhvhTU6QTfDG+ArCGxPwHYQJ6BLCQdfIVHVVSd225IcmCVZc32KmpX6qp\/6uX5rkz+fnp1EUpcvc8d+KonQWlbGidJ7SVBeb59kqt0VjojiZhFz+T2jcLxywe5Rbe9O7cDucCvlsOZ6nVOyNXl8GAZWRdlWSjaEJTAy1CfA66qXz501ha34psNPj8XiZ8eX3Egxe4ojLyq\/GxlWVDmsgNYLGkwSCIl\/NqiBsV2VBGWdLlHlvNCWFB4PhFwYdxDDMfW1JqNgd2WlFaQNobWGmqLNGis0aM2r0iHoIH7FluqaM2a6K+Quzv9tcfR+UaTqcJKXsSkeIsFGgswGVH\/e3c6yFRD7czQ5uSgnrxQbUDQh4ty3SR2ZDqvYOboNyonI820WaeBcmnY\/hb2eZ0t92Nlg03jDn7wYu4vCRBHfFDQ+ldA6WzTGLR+mj90BSCB56xuT5DgQJ0dKqirkzRfGBBWnkAeE2W91jKqczhs+AcEInTr5aV6dP3c0DO9kwINzHgId4tp4ebvgaLisO3b7TAIcEv0Et\/KllcRbYbrqiXi+DcDC1k8Ks1pFkb6i+fJsVMkwUg9Au2Q15JHgOaE7PJFj3QxVVc+UGYK3t8VFAGLWrEo5\/qYaAF0Nsz4ASuqKox0ZWckduCg0D0kLpJAmCe\/jTHjYQ8egUeqMn7MEVKK4KshJkN9hv7LU4C36RoK5sT3gNcMULuGQ32Af1+mH1TB75aoGHADbXVHzbOD54n3Or7iTEWDcHgDMcIw328HLqBnSl60qaypBhbQ\/yod5Caw+qpkc5SnUEoG6jCIWZvmeo4miI55Hl0t2o\/WcA6WIS5sf6oe9syhVQc5wL7aoEyMacWZwkDe7ROlMMWvuOCFnI94UtaRwwnJBlZoVEsc3kDPtPoSZ5eQaj\/v3gJKLjxRp0O3nqWx2vn+GKUn2r3fAXVmETO42SzlXINwNpTfIMvfNyfLWrYlDGbCjJ5WG4Wj8IhWyLHSijUGfBv2JO3mweEF8kSSAWUWoQopry1ZsEerb0342pgfhocsNsZAVSkhhlD19krOM8xx2SgXNDhvrY4use3F+YZxrgkOQUfMYxq3SNWoMocFigzZOYFD22q+Jgkh\/\/gFRTGUX5voSN5ItqFEVpageIk8f36nb5ldVtW3OTxmwY8Kk4+KZbrmFvZfE0DH2nWr90xKmJRqOPFZa5gVNVdaGbvHrvwnLJbgDuFFFk0pRnD97K9oC3YKXTOAEieBFBOHGxX315FU5p4uRKfjXCXaRQswOKojigbnbDZHL8S\/UPUWwW5c+QWfS\/YRTlJKCbbf8Vc92VZOMDO6KpWFHORn\/fWFE6jjH\/AMA7hpoHvI+ZAAAAAElFTkSuQmCC\"  \/><\/p><p>Calculate the prime cost <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Opening stock of RM 10,000<\/span><\/p><p>Purchase of RM 8,000<\/span><\/p><p>Return outward on RM (3,000) <\/span><\/p><p>Cost of RM Consumed 15,000<\/span><\/p><p>Direct Wages 3,000<\/span><\/p><p>Prime Cost 18,000 <\/span><\/p>\n",
+        "Topic": "Manufacturing Accounts",
+        "Difficulty": "Medium"
+    },
+    "Question 12": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Bank account and credit joint venture account <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Expenses account and credit bank account <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Joint venture account and credit expenses account <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Joint venture account and credit bank account <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>When expenses are paid on behalf of the venture, the accounting entries is to debit <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Expenses paid on behalf of vendor <\/span><\/p><p>Dr.  Joint venture account.<\/span><\/p><p>Cr.  Bank account.<\/span><\/p>\n",
+        "Topic": "Joint Venture Accounts",
+        "Difficulty": "Easy"
+    },
+    "Question 13": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>All records relevant to the organization  <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Records of assets of the organization <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A collection of data items <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>All records relating to employees<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Which of these is a content of a master file?<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Master file contains vital information about the organization .A master vendor file, sometimes called a supplier portfolio, is a complete catalogue of an organization's suppliers and vendors across every department. <\/span><\/p>\n",
+        "Topic": "Information Technology in Accounting",
+        "Difficulty": "Easy"
+    },
+    "Question 14": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 3 850<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 6 650<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 1 550<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 6 850<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Use this instruction to answer this question.<\/span><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAATIAAAARCAIAAADR67e+AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAC4SURBVGhD7dmxCcJAGIbh0zFEcQnBwh0cwBXERmwygQOIKwRrtxBcQpRbI0YRYkDr+4vnaZIM8HJfuEHTNAmIZPh5AmHIEsKRJYQjSygrn6vqnHtvsoSy8v02Ho16b7KEIHJ+TCfvPl2QQCntaN2dbp+PzmIrSyjqelxd5vV69or0kDb7ZXteGrFQUrdcvzgtoZC\/G7aWJRTULdevDWvEQkk\/bkdasoQIev+YRiyE47SEcGQJwaT0BMlsSWVMAqNmAAAAAElFTkSuQmCC\"  \/><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUQAAAARCAIAAAAqvEJhAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAOqSURBVHhe7ZtNiupAEMczwztFGMklAiK5g\/CYjeQK4ia4mRO4kWwGryDZyPC8QxAhlwj6cg1fdVd1pzt21Mh8qK9+m0mnujqlU9X1TzPzdDgcPIZh7p9n+skwzJ3DxcwwD8LT4e+ft2lW0lARJctxSNctVGvyu2DuHYAf5zE+C3NrYHYFo\/ls6NMtk2IRpzleNud0MT17\/nAyCujGUpBEnpencbwo5Lw2tJ8TiD4+uwTD\/A9U6\/ejdlmDNQltRJZemU3rquloEjLb919wAhKO57JK8\/RcOdt+FtWuPfqbxB\/O4Hvhtsx8NlDKu0Fr36vWK9Fdo77IvLAPjdTLV+vqKtMvYWrih4MgK0tvX4En9nWjpR\/r6tqIJj2GBg8\/tTwwF6k1g7objJLBJhVbWFNPOBwNkT\/vreg9wQzMdKH76laUJF5KRjTp1ejJ7TMFerbmKGCGQYrFdPe67G9jGjfBrhf0MHv8HhR9We5k3XU2uQ\/AqOdKTwBzG7J5uRRNO0\/fcH9A8nTbx2YvrkU3D8c4Qpcl5rmxCAkDWiUc4+QyW3kTcjRxOkIjxZl5+g5eMq46MHfA6kFWwHKr06sR7TPlbwcqWa\/Nlcy0UyzS\/ei31flsqmpPVyayi3Y3XXKaXWyhNwUYE5Z5uSlkYkuiRHYsbPZevnVrc7kI6QKaq1eROws8YQI1ARsBVT9xyhGIEjlbiAkY4fbTGrB6EFrkQGGP2mfi94h7Iq1NWx7DWICCg1IWSW1QLKxO6ObFb20Op0zuYqbKx5TFATTEWICi05XAjXKwce4ll5TBFY6XBnwVZgHjg5TYYRiTqtiUKgspCWGAVxrSwC66m5zFLMOALB2EdZqCmARhqdHvpjWXnHlJkaDpUAbdHc8HfB14PiiO+2PU26yxGRd4pIrgWxumpJ0v2AJVr8EaIhna2SSKudH86CAdVS+ACrbMPpR+bigFqjOUwyRMiboElQxGuUtz1WZxahs46QiQrC8+5JGU\/KztAVsPsp\/aiKF9pnhn9uqN4tM2CebhcclDym9MY+uVsrvJ\/UcjkXEsLLEOcINRMglD0O7FIl71Ri9ZJhYTGH6Ghzohaiyijo3wtEpy9FzE7Wj4Iaa3K+BKO8Aar7tpPZj5H4ZpNjwxMyyMhRHponcXhmlwLsPNZG1M6GS643+00EfWx9\/OV2JtE8S3B8Ewx1xymn3T2C\/TX458B4FWTCJbvQ0xzM9zt525li7frHJPqnuG+Tn4\/5kZ5iHwvH8xyBJadgn72AAAAABJRU5ErkJggg==\"  \/><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUcAAAARCAIAAADBi\/liAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAO9SURBVHhe7ZtNauswEMfd8k5hUnwJQym+Q6B0E3KFkI3ppifopnhTcoWQTXi83MGUgi9h2udr5I1mRrYkj53067WE+W0Se6SRbPSfGSnt2X6\/jxRFOSHO+VNRlFNBVa0op8bZ\/u+fu9tNzZeWLF8vUv4+QLPjfke0\/R98cD7U\/Yc8i3KijK6yajUvSv6OJLOH+2nMF47Vuw\/0TOdRPF3OEr6xNuRZFJXFfL6qsN0QbT8RmP78oItPJZ7em5kryo8EFdHPn8dBuoVogPKsN7edsiSTqcDjeEINiHTxgHIti0O69vt5NC\/vm\/63AUEB3osmauUrAOk9RktMmKPYzErYhNzstiYVZ5dmdaaXxkm53TXDpl\/GFBKnV8mmrqPXBnqSYyfJ90vczkim9hpSPny2BYPrpKsi7N1kll89FSaYkc1tLdXVbcltwC783WF8RAI8XzfsitvYBlmeRwU37SbgDYx0rhVFIF2szdp5Z+lKKTK5oBUWX0DOresX1KZskk\/LOAtjT4AWOSzr9dqk8bK4o0BBlMXzJVgwDlF+h2egqIRdOOQ4TrhUYC\/pghrXm60TzqoVtAa1cPMQ8AbKQjtVFgIDIwqew+rdTsl7NI6O1cpIun0ZKmnl84A1ChtXohVZ07zSFw9MuQOmY87Aq2fIVsns2kQb0nv9VPGIQJZjDqP0H5XPckBCJ1wpcNvWC4YYGGEJ4oCI0FYe8JCP5tHMvaA6QG\/JVQoNsXYWdDU2Yt8zzaHFToke2rHRe6TgyC+DY5+ifAizGAlMF97uuc8kHswkE1nVHAJo7dKFjSKQ58yVsJIDXfiIQWVMD5zvedjg8djbyIONjDjq+SCukmkIW\/4oyicRT2+cFDlyfjVgElXdVE9YrWMqZLhktQR7XMMxB2RYNrQc0APFLoxb8smd701GHPGg5xHoMNH8SIAnmlmu5bfytVC+tDmQdMY1qGwyqg6yWrN7NGdBVBAD5uzMpLbfdvVXK29fzbrhophqVqaTFDmxJbBbQANCPIA9MadRKRz53szxlSNNHnRoxAHPwRy8S+\/C7KujLsQJ4U1RRMTy0YK\/fFlh0XJtpUtLmTK3t7EcMMl\/hZKFB87BeXO+TFOofkEg24vZZLPBKQBOP6eHPU4KnAgn0l1\/5yYgHUj1Bui6tM2lEUXPQd\/Gvbx5uXVsaeW4JNiHogzirzokEJm3VoFgVbnmkZ5k0v\/ueCvh2zcEr1lRvpVjzsCVDtyeQBjl+lv81U1RvhfN1W+lV0tpolZ+GKpqRTktougf\/LHnjJsr+nUAAAAASUVORK5CYII=\"  \/><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUkAAAARCAIAAADfQsnRAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAATLSURBVHhe7ZtNauMwFIA9ZU5hUnwJQyi+Q6B0E3KFkE3IpifopmRTcoXgTSj0DqYEfAnT4mt03p9kyZZsp9PJTDP6NrGlJ+npSe\/pyZ358fHxEQUCgYvjSn4DgcBlEXw7ELhMgm8HApeJvm\/XL\/ebvKLHKMrW+2UqzyPR7T\/R9ktgBb5g9N6ZGGY6+0THmfivL0TAj7F9kGT++DCL5UUod4ttIc+EJWTUtht3qvjchmIYEkr2wOM8Kbb3LzXVjCaePawzef7e9Myk3ImZwEZSdEbGmTierXqUg821WCx2pbwGzog4NsRcBJeyyjenLAV7L7WH1lZjVxX6drlDf0\/mK44C8ezuOzop7HyY2B89qcqjCqg42D97KMbxRJ661G\/NqRE4K3X5SunUlPdNOiUve6+7h6gcsoI6nOuXA24\/bs+tiwMfwe6qn3rHTmJ9vqfLvd63VhbRpHlGAgDY6Z+ua2cNuiaZr29et9itEjH7M3uzhvcLazESiYxGUH9bm5WxbyxrqC5Qza0gKC5yajduOqrMNX1bP2vmDX2KeebCNJVcpd+L7QJ+WbGxqnalffoGnMTpTZJXVXEslykYjd0uuUnJ3iPgsJxcs3x8DclZVb2Bb8eeqquort+xQFVYwEpu8gnlEJQNqjhBJz0stq4wKLbHqRRX+bOdcaRLlq7yQ7RqWvKGgY1CFwLoQW4ENDxfFZok2Clsp6vNW7aGvSevnJj4x0L\/4Tk5M27ohctJhrb08HSwEGKBjGHLcwNws6fm5djN0HoU882FMRYCnjF9g5jNCrBu2lUHVeVnHBCkPeseGAKTPbAarDjCdpdQaoOnh0IvqfhpCzr2PVX938lhM6g0l4KBRZU\/4bgoYwZvcidFJ+PgbtjNsCXOjSJYMr\/FZpxPVq8ltDMjG9qlV7iloJ3xQCO5cniaS1IjUbQvqbXxTkelXqyHqGjLu1469upTzGsKRhZCLOEKG6NVVVMjPOseGMSMpOLlVjQm0K4MRXK+Onsxsu02kyu1X+h0dwAJIcUPKyuE8TFsS3w55XOAA446KlbB5PENtJFoZGvvE+6Q3rJlIHNA\/8juaGsONO+x1GicQdRn3bG4FBtrCnZSFyer+qXr\/r9hXYrBlhxK26mtgfrwxWG558DxVMG5LWtvHBkQXyieoF9v8siZp3J4oVJO+H4TyfQUzYnQOcoAr7ABXm\/gpzjunmEKdLgpThrrk9hdOW88J+BXbNgUg5\/PTlL1q9c9MBb2UxV6eVUlULir0Lc5PEiqpeMLPPCHPT4zzB0Cvi9B2xEx+v3DsdHYCY0AVu4osohzqiQRAg2M6RN29Kycu1CHti4bGst5ngFd5b3TUV1x1qu\/mFjy\/peGHsV8c1HIQogGVnSTqvGqMr3rHhhArK0uR651AatjmqyWkUW0A5vtuUrlAO4q9W9XrG+xcBbw7YovCESWZeAl+LDeT4+6GBDpRhYK7t42zYu+qVn9WZ9YW8OvV2nKEaUpbzpyCdfm6HpAGs\/SAPCMZQ6VwV2ogOcB5cdOR3XiN9EqepIGbW37FXPPBcY5XM8neS7KmdqZvWEn5t8UjMGdUzMKga6mgSGs9XJZ0BboiJjV9pZzVIX\/BxYIXCb938kDgcB3Jfh2IHCJRNEvXeirNmtob\/QAAAAASUVORK5CYII=\"  \/><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT8AAAARCAIAAAAkFTwOAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAARPSURBVHhe7ZtLauNAEECVOYaw8SUEJugOhpCN8RWMN8abnCCb4E3wFYI2JozvIEJAlxDJ6Bqe+krd6pashZOJhn6bSNXdpepPfSTP3JzP5ygQCIyQX\/I3EAiMjeC9gcBYCd4bCIyVm\/Of3w+7rJTbhnT7sk7k+gLVSTT0jBnSZ2ivL4fN+Lc2MPWC1EviSgJjw9hDwNzG4rDa53JNzJZPj4tYboxWlv+K4sVmORPBC7FN4S7fHwqUDiBePNKQPob0wV5iixeY9Gq1GmzW1XCf+02WFAfYZNyWJ10VVxIYGey64LIA7WK+fzhV0tgDuy6NA08qsx0cP6yc43jCHYR4Sifjsxqg89q0bTGpPup49bVAqIE1qgOi+9zvsaR41zCMBqE5riQwRmbLO9o732mvkyihibc6HXHr0zmOS+aUX48n+sWI3ZqTsQYHvQNYQJdWnrfkiKeU6+tjlgm1WEPMNtpLIzeZnQExz5b6beOuJIjwMtKm5iGz5fb2bY\/C5krGuc+9\/9i5lnjmoiJ3Li3MsTKv9sLhuNiROJoCo4I33txJkByncgIsuKueDjkcqfHVCpIxlIOrFchBoWqAYbtsQnmeK+qjpHkq4lAftHTVcT19asu5pVU+5Pv3ef1EquGTNd\/xEDavOPCMUNCqy433gQ11fcWDX74VFaYt7Jxu10my5mFldow2oqJV47vPdSX+uahyay66ejXGWOwCm8ALAWbwitH8cHtdSWCswK4DsPGwmZyGa9QNkdonquqTLyw+De8VN8ADmO\/rkXBW9ahIRU1IJp\/dJujk\/nq3rw\/VgGI5t5BnKeha8IdLhCh\/73nDLLNn9pXWiY4X9ziY1WrJWX7gM+Curl1oTuziqIKigjnRAXTORZVzi1cpG8YFkUzXWojAfwl5lYZr4wOKyAEK1Px228nE84uRdewRyNMUCYy6TZnE6Jj9+PpwLNEwgzEI7sizbPr9COaKGU3UOPNsnAHdNU1RFQYCuEvvpbS4AkPn4sMbU4cODoyd5I6KKV92Ei+UNn96vPh7L3ouvS9qOLAZ8mWru49me8FTDF78PMTBiixzv5Kr+z4fwV3Xd7e0UscHuONcd00uz6UHe4lm06tFlsCPA4tm6y1xEJzGNK6zW6Rz9N5WApCCl3JmVbxhP06fpivFCfmCJGh\/Wd7Th5vK7FX9rThYM5LjzHWl\/WrQnHRcB3bYjtCk7luW6K5qThkZ+rzhwSt0g5BIuudi6fEqtZdIpstvGr4RXh2B0aGHRdxLkwkVueoHfBi0TQ4KZ2Jugpauf62R6ocw\/qpCpGma5zSOGo2volCWRnkO15CB9HMX0dfHaEPhdpMkECTgecfpcpJl8tDGElsbKIlfa9OA9qMZHiI6rBvEnFwtbYQeS0XUltTfsVlCc6lMPc2HasdOQ5fZ6trmtTYwOqwN7zjfROuomM08Kvwfo0BgrFx67w0EAj+V4L2BwDiJor\/IGJkhi0yuNgAAAABJRU5ErkJggg==\"  \/><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT4AAAARCAIAAADL11cwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAPXSURBVHhe7ZtLauNAEECVYU4hEnwJgQm6gyFkY3wFk43JJifwJngTfIXgjQnjO4hg0CVEMrqGp77qbqWlGDIJVlJvY3VVf0pKfbqbmbPD4ZAYhjE0fsmvYRiDwkLXMAaJha5hDJKzw98\/d7ebSppKvnicZ\/KcJPUOu4SyAcOvAw\/8Rq3mp\/PV6xknQ7merQp5JkbT++UklYanDeRATPUrSSc305HIHpFFniTFajZblyg9LcDtZx+2LJ0s8R2VVvPT+er1jCHAwQnZnAKw2tw6J+9Q4YY5Tc\/xUcnm9xTLxUpHg7PBsFOoEPVLe39gGENCCySjpbXebbGo5mOMsWyMmb3Y7upe1W\/Utkmzy9GmqpLXGgfr\/s4V8bDuN\/u+ZieIaG+\/bzNDuGfULjyRay2SlQwNNbgngF+ZrcMYJTDqjTZOzGZvHhaRIMHH5gvJ9P5wb8XAEsPw4JI0uuBATi+gdFbVC0Rf2q2KX1NJHebB7f1duQbHBPfFrOE04K\/gmCTmoi1C6Avuy12h1t9RKgnnzOb+AtoqVvuxrsBpJpvLejyhZIaYMQoZda7Lu0zWR4fN3rnihhZ+wjCsnsta3yZfuLil4fgdihW\/McgxbtlS94GMnwb4Exz5GHENiNz6lR8CqHJ2q466YaZQD6k2DxJNXFXKPdaZ0WUGXk37ayqIJORSL7WefP0deLnR9ArHRdZ+Q9uYBpSI6Jh5kG6b08m1a3E3aGF2w5aYS3I1nRIg9ZddD3+f9gnF+CmQPxKUvYMT7VvOU660EVAVD10Jda3SIVL8JH3w2jIgXCyaMNjX\/xsxYwJgm4oa3BKIpJdem10kY6zmOSaDYl9ivObXWIpluGZWKL\/Ycm\/c88cwfhRSB8h9enN5tyoaunX5TPtrrhEROHtQ5nCXWQAfjluEwng6+AhdxnDY0nlU9UfTYbPG7sMWYnV+dUmxu72DFldpQTbwitsJRL+PYfCeUJM8H2\/FpzpVGLqtSlPvHrBCyZmOJP69LhzmpLp5CQEvtuBHt8MQM9AlFPIWs5UO2JdZ1RAsFzQEFwFRYxTJQFzq+uchsPmOzRK7VYUfT\/tWCW+QARZVmyfNIOWaT8rBtNHSbnx3aAOo51vxeY1P9g+uwazSatCpiv+TDO9eFL1PL0yhmiwntXd\/KiJ2bO8G1Uk9YdA50OTT6euG08X9Mn3ylrt+ufXXTtuLuM5IMD\/iTE\/yPC8KfIZ3G+873ogn6LYZYKV8oKChtIYvbrIMk4dveZ4nRSHvGxhsfGMCxwBaf31f3eNSjcr+55BhDJKjbpgNwzg1LHQNY4AkyT\/eOxccARAvBgAAAABJRU5ErkJggg==\"  \/><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUEAAAARCAIAAADMlYklAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAOdSURBVHhe7ZtdauNADIDdsqcwLb6EoRTfIVD6YnKFkJfQl54gL8UvJVcofillcwcTAr6EadfXyEojzZ8z+fGyXeK1vpfYI81IcaSRPLRXu90uEgRhsFzzpyAIw0RyWBCGjeSwIAybq92vn89PZcO3mmzxNkv5OoraNar4YyPir319WgguRvsoR8qBCKpX06KiyyR\/WU5iukb6iK6jeDLPEx54QxZZFFXFdLqqld5FAQ9jepmenUM8WeLDFUaEitj9IqlTEfJaZVxTPtmo7inCXjqOb0iBSGcvKqmrQk+F2IM5l1A52s\/9h\/HtXM7XF4YFZNxrNFdVsUO7fsdamt1hVKV3qFC9r9s\/Ev1AUZc4vU\/Kpom+WpypG0Bb051qDpgWwbSKiNZ2dc0KflOpVWghe7eICp7qS7BLgE\/rD6BlSb643xS4dsgB4ypw0ltSNmpKxTwMkj+0rjA+ZMszJYyHdPaGIRBoG6kYJbcUv\/EtFM2m+YR0i\/uLwmdaXJlpZrcBrFcQpxC0UJucHQbCF+JUDVMZ50HQhWgmVSj9z2pD8ddMZ64BfVcV2zttgfYheCIkogVtAgN6VlO+uxuf4wB6VRVk\/6S3Vtl31d5lC8hQvk3yuUngkC1MYHpg1pgwZtr2i69cVM3sLzrrXFolvE9TvnJaUbWpt6oK3qeQVxDZlGE0SJWfS3+zqVVgH4PMJfkDzgvYDqNnYTqhW8YBvZDal8j+YW8Dyh0X6Htwj4KTyOSh6dz+kK3ua4sgONzETlXyOSYK5zAnvC7aPlwOoahOzfkST\/AtBbcNVdv\/EeQAO8pdLto\/4u2+8h7pAxbTpvyoVYJmj5jBp6Yf+Q2E8XFkL+8vCuZwW29U3021IwDWOW4M7ckXwMXJxx8M7wvfCbf9GvNCHPT2oLIDHhfAR7VdfZQRFV5NL1vCeKHeTm\/y9J7LDWtvEeZwp16261c8gOEWUY0oZQZe+7j4OtsCh7XulNv1M6j4g27\/aqDQJpHBM+fdMMGECCiSA6piEvVKvaMe8XZfObAyz68qXYTN2ClbnUctjIHQj65DaIvhQvHPedpfFP4bj8w5v8WkpdYQq8xy0ppbRA1RGDunr3bUO5J1lD1JludfJe0bL8v4wzH3+Pnk2o7DRgDrpO9814HFPE1VW3uOt0rZfl\/XoLLneQAcsOWayjJIfbjuThX+S5yw1NjwdMPFD9p+Ivm\/JUEYNmedSwuCcLFIDgvCkImi328+MmavtldKAAAAAElFTkSuQmCC\"  \/><\/p><p>What is the amount of sales for the year?<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><table><tr><td>Dr.              Adjusted Cashbook     Cr                      <\/td><\/tr><tr><td>Balb\/f<\/td><td>4,000<\/td><td>Cash<\/td><td>8,500<\/td><\/tr><tr><td>Sales<\/td><td>6,850<\/td><td>Discount allowed<\/td><td>500<\/td><\/tr><tr><td>.<\/td><td>.<\/td><td>Bad debt<\/td><td>350<\/td><\/tr><tr><td>.<\/td><td>.<\/td><td>Bal c\/d<\/td><td>1,500<\/td><\/tr><tr><td>.<\/td><td>10,850<\/td><td>.<\/td><td>10,850<\/td><\/tr><\/span><\/p><\/table><\/td>\n",
+        "Topic": "Control Accounts and Self-balancing Ledgers",
+        "Difficulty": "Medium"
+    },
+    "Question 15": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Received from a creditor <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><\/span><\/p><p>Allowed to a debtor <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Received from a debtor <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Allowed to a creditor <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Use this instruction to answer this question.<\/span><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAATIAAAARCAIAAADR67e+AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAC4SURBVGhD7dmxCcJAGIbh0zFEcQnBwh0cwBXERmwygQOIKwRrtxBcQpRbI0YRYkDr+4vnaZIM8HJfuEHTNAmIZPh5AmHIEsKRJYQjSygrn6vqnHtvsoSy8v02Ho16b7KEIHJ+TCfvPl2QQCntaN2dbp+PzmIrSyjqelxd5vV69or0kDb7ZXteGrFQUrdcvzgtoZC\/G7aWJRTULdevDWvEQkk\/bkdasoQIev+YRiyE47SEcGQJwaT0BMlsSWVMAqNmAAAAAElFTkSuQmCC\"  \/><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUQAAAARCAIAAAAqvEJhAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAOqSURBVHhe7ZtNiupAEMczwztFGMklAiK5g\/CYjeQK4ia4mRO4kWwGryDZyPC8QxAhlwj6cg1fdVd1pzt21Mh8qK9+m0mnujqlU9X1TzPzdDgcPIZh7p9n+skwzJ3DxcwwD8LT4e+ft2lW0lARJctxSNctVGvyu2DuHYAf5zE+C3NrYHYFo\/ls6NMtk2IRpzleNud0MT17\/nAyCujGUpBEnpencbwo5Lw2tJ8TiD4+uwTD\/A9U6\/ejdlmDNQltRJZemU3rquloEjLb919wAhKO57JK8\/RcOdt+FtWuPfqbxB\/O4Hvhtsx8NlDKu0Fr36vWK9Fdo77IvLAPjdTLV+vqKtMvYWrih4MgK0tvX4En9nWjpR\/r6tqIJj2GBg8\/tTwwF6k1g7objJLBJhVbWFNPOBwNkT\/vreg9wQzMdKH76laUJF5KRjTp1ejJ7TMFerbmKGCGQYrFdPe67G9jGjfBrhf0MHv8HhR9We5k3XU2uQ\/AqOdKTwBzG7J5uRRNO0\/fcH9A8nTbx2YvrkU3D8c4Qpcl5rmxCAkDWiUc4+QyW3kTcjRxOkIjxZl5+g5eMq46MHfA6kFWwHKr06sR7TPlbwcqWa\/Nlcy0UyzS\/ei31flsqmpPVyayi3Y3XXKaXWyhNwUYE5Z5uSlkYkuiRHYsbPZevnVrc7kI6QKaq1eROws8YQI1ARsBVT9xyhGIEjlbiAkY4fbTGrB6EFrkQGGP2mfi94h7Iq1NWx7DWICCg1IWSW1QLKxO6ObFb20Op0zuYqbKx5TFATTEWICi05XAjXKwce4ll5TBFY6XBnwVZgHjg5TYYRiTqtiUKgspCWGAVxrSwC66m5zFLMOALB2EdZqCmARhqdHvpjWXnHlJkaDpUAbdHc8HfB14PiiO+2PU26yxGRd4pIrgWxumpJ0v2AJVr8EaIhna2SSKudH86CAdVS+ACrbMPpR+bigFqjOUwyRMiboElQxGuUtz1WZxahs46QiQrC8+5JGU\/KztAVsPsp\/aiKF9pnhn9uqN4tM2CebhcclDym9MY+uVsrvJ\/UcjkXEsLLEOcINRMglD0O7FIl71Ri9ZJhYTGH6Ghzohaiyijo3wtEpy9FzE7Wj4Iaa3K+BKO8Aar7tpPZj5H4ZpNjwxMyyMhRHponcXhmlwLsPNZG1M6GS643+00EfWx9\/OV2JtE8S3B8Ewx1xymn3T2C\/TX458B4FWTCJbvQ0xzM9zt525li7frHJPqnuG+Tn4\/5kZ5iHwvH8xyBJadgn72AAAAABJRU5ErkJggg==\"  \/><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUcAAAARCAIAAADBi\/liAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAO9SURBVHhe7ZtNauswEMfd8k5hUnwJQym+Q6B0E3KFkI3ppifopnhTcoWQTXi83MGUgi9h2udr5I1mRrYkj53067WE+W0Se6SRbPSfGSnt2X6\/jxRFOSHO+VNRlFNBVa0op8bZ\/u+fu9tNzZeWLF8vUv4+QLPjfke0\/R98cD7U\/Yc8i3KijK6yajUvSv6OJLOH+2nMF47Vuw\/0TOdRPF3OEr6xNuRZFJXFfL6qsN0QbT8RmP78oItPJZ7em5kryo8EFdHPn8dBuoVogPKsN7edsiSTqcDjeEINiHTxgHIti0O69vt5NC\/vm\/63AUEB3osmauUrAOk9RktMmKPYzErYhNzstiYVZ5dmdaaXxkm53TXDpl\/GFBKnV8mmrqPXBnqSYyfJ90vczkim9hpSPny2BYPrpKsi7N1kll89FSaYkc1tLdXVbcltwC783WF8RAI8XzfsitvYBlmeRwU37SbgDYx0rhVFIF2szdp5Z+lKKTK5oBUWX0DOresX1KZskk\/LOAtjT4AWOSzr9dqk8bK4o0BBlMXzJVgwDlF+h2egqIRdOOQ4TrhUYC\/pghrXm60TzqoVtAa1cPMQ8AbKQjtVFgIDIwqew+rdTsl7NI6O1cpIun0ZKmnl84A1ChtXohVZ07zSFw9MuQOmY87Aq2fIVsns2kQb0nv9VPGIQJZjDqP0H5XPckBCJ1wpcNvWC4YYGGEJ4oCI0FYe8JCP5tHMvaA6QG\/JVQoNsXYWdDU2Yt8zzaHFToke2rHRe6TgyC+DY5+ifAizGAlMF97uuc8kHswkE1nVHAJo7dKFjSKQ58yVsJIDXfiIQWVMD5zvedjg8djbyIONjDjq+SCukmkIW\/4oyicRT2+cFDlyfjVgElXdVE9YrWMqZLhktQR7XMMxB2RYNrQc0APFLoxb8smd701GHPGg5xHoMNH8SIAnmlmu5bfytVC+tDmQdMY1qGwyqg6yWrN7NGdBVBAD5uzMpLbfdvVXK29fzbrhophqVqaTFDmxJbBbQANCPIA9MadRKRz53szxlSNNHnRoxAHPwRy8S+\/C7KujLsQJ4U1RRMTy0YK\/fFlh0XJtpUtLmTK3t7EcMMl\/hZKFB87BeXO+TFOofkEg24vZZLPBKQBOP6eHPU4KnAgn0l1\/5yYgHUj1Bui6tM2lEUXPQd\/Gvbx5uXVsaeW4JNiHogzirzokEJm3VoFgVbnmkZ5k0v\/ueCvh2zcEr1lRvpVjzsCVDtyeQBjl+lv81U1RvhfN1W+lV0tpolZ+GKpqRTktougf\/LHnjJsr+nUAAAAASUVORK5CYII=\"  \/><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUkAAAARCAIAAADfQsnRAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAATLSURBVHhe7ZtNauMwFIA9ZU5hUnwJQyi+Q6B0E3KFkE3IpifopmRTcoXgTSj0DqYEfAnT4mt03p9kyZZsp9PJTDP6NrGlJ+npSe\/pyZ358fHxEQUCgYvjSn4DgcBlEXw7ELhMgm8HApeJvm\/XL\/ebvKLHKMrW+2UqzyPR7T\/R9ktgBb5g9N6ZGGY6+0THmfivL0TAj7F9kGT++DCL5UUod4ttIc+EJWTUtht3qvjchmIYEkr2wOM8Kbb3LzXVjCaePawzef7e9Myk3ImZwEZSdEbGmTierXqUg821WCx2pbwGzog4NsRcBJeyyjenLAV7L7WH1lZjVxX6drlDf0\/mK44C8ezuOzop7HyY2B89qcqjCqg42D97KMbxRJ661G\/NqRE4K3X5SunUlPdNOiUve6+7h6gcsoI6nOuXA24\/bs+tiwMfwe6qn3rHTmJ9vqfLvd63VhbRpHlGAgDY6Z+ua2cNuiaZr29et9itEjH7M3uzhvcLazESiYxGUH9bm5WxbyxrqC5Qza0gKC5yajduOqrMNX1bP2vmDX2KeebCNJVcpd+L7QJ+WbGxqnalffoGnMTpTZJXVXEslykYjd0uuUnJ3iPgsJxcs3x8DclZVb2Bb8eeqquort+xQFVYwEpu8gnlEJQNqjhBJz0stq4wKLbHqRRX+bOdcaRLlq7yQ7RqWvKGgY1CFwLoQW4ENDxfFZok2Clsp6vNW7aGvSevnJj4x0L\/4Tk5M27ohctJhrb08HSwEGKBjGHLcwNws6fm5djN0HoU882FMRYCnjF9g5jNCrBu2lUHVeVnHBCkPeseGAKTPbAarDjCdpdQaoOnh0IvqfhpCzr2PVX938lhM6g0l4KBRZU\/4bgoYwZvcidFJ+PgbtjNsCXOjSJYMr\/FZpxPVq8ltDMjG9qlV7iloJ3xQCO5cniaS1IjUbQvqbXxTkelXqyHqGjLu1469upTzGsKRhZCLOEKG6NVVVMjPOseGMSMpOLlVjQm0K4MRXK+Onsxsu02kyu1X+h0dwAJIcUPKyuE8TFsS3w55XOAA446KlbB5PENtJFoZGvvE+6Q3rJlIHNA\/8juaGsONO+x1GicQdRn3bG4FBtrCnZSFyer+qXr\/r9hXYrBlhxK26mtgfrwxWG558DxVMG5LWtvHBkQXyieoF9v8siZp3J4oVJO+H4TyfQUzYnQOcoAr7ABXm\/gpzjunmEKdLgpThrrk9hdOW88J+BXbNgUg5\/PTlL1q9c9MBb2UxV6eVUlULir0Lc5PEiqpeMLPPCHPT4zzB0Cvi9B2xEx+v3DsdHYCY0AVu4osohzqiQRAg2M6RN29Kycu1CHti4bGst5ngFd5b3TUV1x1qu\/mFjy\/peGHsV8c1HIQogGVnSTqvGqMr3rHhhArK0uR651AatjmqyWkUW0A5vtuUrlAO4q9W9XrG+xcBbw7YovCESWZeAl+LDeT4+6GBDpRhYK7t42zYu+qVn9WZ9YW8OvV2nKEaUpbzpyCdfm6HpAGs\/SAPCMZQ6VwV2ogOcB5cdOR3XiN9EqepIGbW37FXPPBcY5XM8neS7KmdqZvWEn5t8UjMGdUzMKga6mgSGs9XJZ0BboiJjV9pZzVIX\/BxYIXCb938kDgcB3Jfh2IHCJRNEvXeirNmtob\/QAAAAASUVORK5CYII=\"  \/><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT8AAAARCAIAAAAkFTwOAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAARPSURBVHhe7ZtLauNAEECVOYaw8SUEJugOhpCN8RWMN8abnCCb4E3wFYI2JozvIEJAlxDJ6Bqe+krd6pashZOJhn6bSNXdpepPfSTP3JzP5ygQCIyQX\/I3EAiMjeC9gcBYCd4bCIyVm\/Of3w+7rJTbhnT7sk7k+gLVSTT0jBnSZ2ivL4fN+Lc2MPWC1EviSgJjw9hDwNzG4rDa53JNzJZPj4tYboxWlv+K4sVmORPBC7FN4S7fHwqUDiBePNKQPob0wV5iixeY9Gq1GmzW1XCf+02WFAfYZNyWJ10VVxIYGey64LIA7WK+fzhV0tgDuy6NA08qsx0cP6yc43jCHYR4Sifjsxqg89q0bTGpPup49bVAqIE1qgOi+9zvsaR41zCMBqE5riQwRmbLO9o732mvkyihibc6HXHr0zmOS+aUX48n+sWI3ZqTsQYHvQNYQJdWnrfkiKeU6+tjlgm1WEPMNtpLIzeZnQExz5b6beOuJIjwMtKm5iGz5fb2bY\/C5krGuc+9\/9i5lnjmoiJ3Li3MsTKv9sLhuNiROJoCo4I33txJkByncgIsuKueDjkcqfHVCpIxlIOrFchBoWqAYbtsQnmeK+qjpHkq4lAftHTVcT19asu5pVU+5Pv3ef1EquGTNd\/xEDavOPCMUNCqy433gQ11fcWDX74VFaYt7Jxu10my5mFldow2oqJV47vPdSX+uahyay66ejXGWOwCm8ALAWbwitH8cHtdSWCswK4DsPGwmZyGa9QNkdonquqTLyw+De8VN8ADmO\/rkXBW9ahIRU1IJp\/dJujk\/nq3rw\/VgGI5t5BnKeha8IdLhCh\/73nDLLNn9pXWiY4X9ziY1WrJWX7gM+Curl1oTuziqIKigjnRAXTORZVzi1cpG8YFkUzXWojAfwl5lYZr4wOKyAEK1Px228nE84uRdewRyNMUCYy6TZnE6Jj9+PpwLNEwgzEI7sizbPr9COaKGU3UOPNsnAHdNU1RFQYCuEvvpbS4AkPn4sMbU4cODoyd5I6KKV92Ei+UNn96vPh7L3ouvS9qOLAZ8mWru49me8FTDF78PMTBiixzv5Kr+z4fwV3Xd7e0UscHuONcd00uz6UHe4lm06tFlsCPA4tm6y1xEJzGNK6zW6Rz9N5WApCCl3JmVbxhP06fpivFCfmCJGh\/Wd7Th5vK7FX9rThYM5LjzHWl\/WrQnHRcB3bYjtCk7luW6K5qThkZ+rzhwSt0g5BIuudi6fEqtZdIpstvGr4RXh2B0aGHRdxLkwkVueoHfBi0TQ4KZ2Jugpauf62R6ocw\/qpCpGma5zSOGo2volCWRnkO15CB9HMX0dfHaEPhdpMkECTgecfpcpJl8tDGElsbKIlfa9OA9qMZHiI6rBvEnFwtbYQeS0XUltTfsVlCc6lMPc2HasdOQ5fZ6trmtTYwOqwN7zjfROuomM08Kvwfo0BgrFx67w0EAj+V4L2BwDiJor\/IGJkhi0yuNgAAAABJRU5ErkJggg==\"  \/><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT4AAAARCAIAAADL11cwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAPXSURBVHhe7ZtLauNAEECVYU4hEnwJgQm6gyFkY3wFk43JJifwJngTfIXgjQnjO4hg0CVEMrqGp77qbqWlGDIJVlJvY3VVf0pKfbqbmbPD4ZAYhjE0fsmvYRiDwkLXMAaJha5hDJKzw98\/d7ebSppKvnicZ\/KcJPUOu4SyAcOvAw\/8Rq3mp\/PV6xknQ7merQp5JkbT++UklYanDeRATPUrSSc305HIHpFFniTFajZblyg9LcDtZx+2LJ0s8R2VVvPT+er1jCHAwQnZnAKw2tw6J+9Q4YY5Tc\/xUcnm9xTLxUpHg7PBsFOoEPVLe39gGENCCySjpbXebbGo5mOMsWyMmb3Y7upe1W\/Utkmzy9GmqpLXGgfr\/s4V8bDuN\/u+ZieIaG+\/bzNDuGfULjyRay2SlQwNNbgngF+ZrcMYJTDqjTZOzGZvHhaRIMHH5gvJ9P5wb8XAEsPw4JI0uuBATi+gdFbVC0Rf2q2KX1NJHebB7f1duQbHBPfFrOE04K\/gmCTmoi1C6Avuy12h1t9RKgnnzOb+AtoqVvuxrsBpJpvLejyhZIaYMQoZda7Lu0zWR4fN3rnihhZ+wjCsnsta3yZfuLil4fgdihW\/McgxbtlS94GMnwb4Exz5GHENiNz6lR8CqHJ2q466YaZQD6k2DxJNXFXKPdaZ0WUGXk37ayqIJORSL7WefP0deLnR9ArHRdZ+Q9uYBpSI6Jh5kG6b08m1a3E3aGF2w5aYS3I1nRIg9ZddD3+f9gnF+CmQPxKUvYMT7VvOU660EVAVD10Jda3SIVL8JH3w2jIgXCyaMNjX\/xsxYwJgm4oa3BKIpJdem10kY6zmOSaDYl9ivObXWIpluGZWKL\/Ycm\/c88cwfhRSB8h9enN5tyoaunX5TPtrrhEROHtQ5nCXWQAfjluEwng6+AhdxnDY0nlU9UfTYbPG7sMWYnV+dUmxu72DFldpQTbwitsJRL+PYfCeUJM8H2\/FpzpVGLqtSlPvHrBCyZmOJP69LhzmpLp5CQEvtuBHt8MQM9AlFPIWs5UO2JdZ1RAsFzQEFwFRYxTJQFzq+uchsPmOzRK7VYUfT\/tWCW+QARZVmyfNIOWaT8rBtNHSbnx3aAOo51vxeY1P9g+uwazSatCpiv+TDO9eFL1PL0yhmiwntXd\/KiJ2bO8G1Uk9YdA50OTT6euG08X9Mn3ylrt+ufXXTtuLuM5IMD\/iTE\/yPC8KfIZ3G+873ogn6LYZYKV8oKChtIYvbrIMk4dveZ4nRSHvGxhsfGMCxwBaf31f3eNSjcr+55BhDJKjbpgNwzg1LHQNY4AkyT\/eOxccARAvBgAAAABJRU5ErkJggg==\"  \/><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUEAAAARCAIAAADMlYklAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAOdSURBVHhe7ZtdauNADIDdsqcwLb6EoRTfIVD6YnKFkJfQl54gL8UvJVcofillcwcTAr6EadfXyEojzZ8z+fGyXeK1vpfYI81IcaSRPLRXu90uEgRhsFzzpyAIw0RyWBCGjeSwIAybq92vn89PZcO3mmzxNkv5OoraNar4YyPir319WgguRvsoR8qBCKpX06KiyyR\/WU5iukb6iK6jeDLPEx54QxZZFFXFdLqqld5FAQ9jepmenUM8WeLDFUaEitj9IqlTEfJaZVxTPtmo7inCXjqOb0iBSGcvKqmrQk+F2IM5l1A52s\/9h\/HtXM7XF4YFZNxrNFdVsUO7fsdamt1hVKV3qFC9r9s\/Ev1AUZc4vU\/Kpom+WpypG0Bb051qDpgWwbSKiNZ2dc0KflOpVWghe7eICp7qS7BLgE\/rD6BlSb643xS4dsgB4ypw0ltSNmpKxTwMkj+0rjA+ZMszJYyHdPaGIRBoG6kYJbcUv\/EtFM2m+YR0i\/uLwmdaXJlpZrcBrFcQpxC0UJucHQbCF+JUDVMZ50HQhWgmVSj9z2pD8ddMZ64BfVcV2zttgfYheCIkogVtAgN6VlO+uxuf4wB6VRVk\/6S3Vtl31d5lC8hQvk3yuUngkC1MYHpg1pgwZtr2i69cVM3sLzrrXFolvE9TvnJaUbWpt6oK3qeQVxDZlGE0SJWfS3+zqVVgH4PMJfkDzgvYDqNnYTqhW8YBvZDal8j+YW8Dyh0X6Htwj4KTyOSh6dz+kK3ua4sgONzETlXyOSYK5zAnvC7aPlwOoahOzfkST\/AtBbcNVdv\/EeQAO8pdLto\/4u2+8h7pAxbTpvyoVYJmj5jBp6Yf+Q2E8XFkL+8vCuZwW29U3021IwDWOW4M7ckXwMXJxx8M7wvfCbf9GvNCHPT2oLIDHhfAR7VdfZQRFV5NL1vCeKHeTm\/y9J7LDWtvEeZwp16261c8gOEWUY0oZQZe+7j4OtsCh7XulNv1M6j4g27\/aqDQJpHBM+fdMMGECCiSA6piEvVKvaMe8XZfObAyz68qXYTN2ClbnUctjIHQj65DaIvhQvHPedpfFP4bj8w5v8WkpdYQq8xy0ppbRA1RGDunr3bUO5J1lD1JludfJe0bL8v4wzH3+Pnk2o7DRgDrpO9814HFPE1VW3uOt0rZfl\/XoLLneQAcsOWayjJIfbjuThX+S5yw1NjwdMPFD9p+Ivm\/JUEYNmedSwuCcLFIDgvCkImi328+MmavtldKAAAAAElFTkSuQmCC\"  \/><\/p><p>The discount column on the left-hand side of cashbook represents a discount <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Discount on the debit side is allowed to debtor that on credit side is allowed on credit. Cash discount is a loss to the company and should be debited to the discount account by giving credit to customer account.<\/span><\/p>\n",
+        "Topic": "Cashbook",
+        "Difficulty": "Easy"
+    },
+    "Question 16": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N4350<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N6000<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N5150<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N4000<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Use this instruction to answer this question.<\/span><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAATIAAAARCAIAAADR67e+AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAC4SURBVGhD7dmxCcJAGIbh0zFEcQnBwh0cwBXERmwygQOIKwRrtxBcQpRbI0YRYkDr+4vnaZIM8HJfuEHTNAmIZPh5AmHIEsKRJYQjSygrn6vqnHtvsoSy8v02Ho16b7KEIHJ+TCfvPl2QQCntaN2dbp+PzmIrSyjqelxd5vV69or0kDb7ZXteGrFQUrdcvzgtoZC\/G7aWJRTULdevDWvEQkk\/bkdasoQIev+YRiyE47SEcGQJwaT0BMlsSWVMAqNmAAAAAElFTkSuQmCC\"  \/><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUQAAAARCAIAAAAqvEJhAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAOqSURBVHhe7ZtNiupAEMczwztFGMklAiK5g\/CYjeQK4ia4mRO4kWwGryDZyPC8QxAhlwj6cg1fdVd1pzt21Mh8qK9+m0mnujqlU9X1TzPzdDgcPIZh7p9n+skwzJ3DxcwwD8LT4e+ft2lW0lARJctxSNctVGvyu2DuHYAf5zE+C3NrYHYFo\/ls6NMtk2IRpzleNud0MT17\/nAyCujGUpBEnpencbwo5Lw2tJ8TiD4+uwTD\/A9U6\/ejdlmDNQltRJZemU3rquloEjLb919wAhKO57JK8\/RcOdt+FtWuPfqbxB\/O4Hvhtsx8NlDKu0Fr36vWK9Fdo77IvLAPjdTLV+vqKtMvYWrih4MgK0tvX4En9nWjpR\/r6tqIJj2GBg8\/tTwwF6k1g7objJLBJhVbWFNPOBwNkT\/vreg9wQzMdKH76laUJF5KRjTp1ejJ7TMFerbmKGCGQYrFdPe67G9jGjfBrhf0MHv8HhR9We5k3XU2uQ\/AqOdKTwBzG7J5uRRNO0\/fcH9A8nTbx2YvrkU3D8c4Qpcl5rmxCAkDWiUc4+QyW3kTcjRxOkIjxZl5+g5eMq46MHfA6kFWwHKr06sR7TPlbwcqWa\/Nlcy0UyzS\/ei31flsqmpPVyayi3Y3XXKaXWyhNwUYE5Z5uSlkYkuiRHYsbPZevnVrc7kI6QKaq1eROws8YQI1ARsBVT9xyhGIEjlbiAkY4fbTGrB6EFrkQGGP2mfi94h7Iq1NWx7DWICCg1IWSW1QLKxO6ObFb20Op0zuYqbKx5TFATTEWICi05XAjXKwce4ll5TBFY6XBnwVZgHjg5TYYRiTqtiUKgspCWGAVxrSwC66m5zFLMOALB2EdZqCmARhqdHvpjWXnHlJkaDpUAbdHc8HfB14PiiO+2PU26yxGRd4pIrgWxumpJ0v2AJVr8EaIhna2SSKudH86CAdVS+ACrbMPpR+bigFqjOUwyRMiboElQxGuUtz1WZxahs46QiQrC8+5JGU\/KztAVsPsp\/aiKF9pnhn9uqN4tM2CebhcclDym9MY+uVsrvJ\/UcjkXEsLLEOcINRMglD0O7FIl71Ri9ZJhYTGH6Ghzohaiyijo3wtEpy9FzE7Wj4Iaa3K+BKO8Aar7tpPZj5H4ZpNjwxMyyMhRHponcXhmlwLsPNZG1M6GS643+00EfWx9\/OV2JtE8S3B8Ewx1xymn3T2C\/TX458B4FWTCJbvQ0xzM9zt525li7frHJPqnuG+Tn4\/5kZ5iHwvH8xyBJadgn72AAAAABJRU5ErkJggg==\"  \/><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUcAAAARCAIAAADBi\/liAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAO9SURBVHhe7ZtNauswEMfd8k5hUnwJQym+Q6B0E3KFkI3ppifopnhTcoWQTXi83MGUgi9h2udr5I1mRrYkj53067WE+W0Se6SRbPSfGSnt2X6\/jxRFOSHO+VNRlFNBVa0op8bZ\/u+fu9tNzZeWLF8vUv4+QLPjfke0\/R98cD7U\/Yc8i3KijK6yajUvSv6OJLOH+2nMF47Vuw\/0TOdRPF3OEr6xNuRZFJXFfL6qsN0QbT8RmP78oItPJZ7em5kryo8EFdHPn8dBuoVogPKsN7edsiSTqcDjeEINiHTxgHIti0O69vt5NC\/vm\/63AUEB3osmauUrAOk9RktMmKPYzErYhNzstiYVZ5dmdaaXxkm53TXDpl\/GFBKnV8mmrqPXBnqSYyfJ90vczkim9hpSPny2BYPrpKsi7N1kll89FSaYkc1tLdXVbcltwC783WF8RAI8XzfsitvYBlmeRwU37SbgDYx0rhVFIF2szdp5Z+lKKTK5oBUWX0DOresX1KZskk\/LOAtjT4AWOSzr9dqk8bK4o0BBlMXzJVgwDlF+h2egqIRdOOQ4TrhUYC\/pghrXm60TzqoVtAa1cPMQ8AbKQjtVFgIDIwqew+rdTsl7NI6O1cpIun0ZKmnl84A1ChtXohVZ07zSFw9MuQOmY87Aq2fIVsns2kQb0nv9VPGIQJZjDqP0H5XPckBCJ1wpcNvWC4YYGGEJ4oCI0FYe8JCP5tHMvaA6QG\/JVQoNsXYWdDU2Yt8zzaHFToke2rHRe6TgyC+DY5+ifAizGAlMF97uuc8kHswkE1nVHAJo7dKFjSKQ58yVsJIDXfiIQWVMD5zvedjg8djbyIONjDjq+SCukmkIW\/4oyicRT2+cFDlyfjVgElXdVE9YrWMqZLhktQR7XMMxB2RYNrQc0APFLoxb8smd701GHPGg5xHoMNH8SIAnmlmu5bfytVC+tDmQdMY1qGwyqg6yWrN7NGdBVBAD5uzMpLbfdvVXK29fzbrhophqVqaTFDmxJbBbQANCPIA9MadRKRz53szxlSNNHnRoxAHPwRy8S+\/C7KujLsQJ4U1RRMTy0YK\/fFlh0XJtpUtLmTK3t7EcMMl\/hZKFB87BeXO+TFOofkEg24vZZLPBKQBOP6eHPU4KnAgn0l1\/5yYgHUj1Bui6tM2lEUXPQd\/Gvbx5uXVsaeW4JNiHogzirzokEJm3VoFgVbnmkZ5k0v\/ueCvh2zcEr1lRvpVjzsCVDtyeQBjl+lv81U1RvhfN1W+lV0tpolZ+GKpqRTktougf\/LHnjJsr+nUAAAAASUVORK5CYII=\"  \/><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUkAAAARCAIAAADfQsnRAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAATLSURBVHhe7ZtNauMwFIA9ZU5hUnwJQyi+Q6B0E3KFkE3IpifopmRTcoXgTSj0DqYEfAnT4mt03p9kyZZsp9PJTDP6NrGlJ+npSe\/pyZ358fHxEQUCgYvjSn4DgcBlEXw7ELhMgm8HApeJvm\/XL\/ebvKLHKMrW+2UqzyPR7T\/R9ktgBb5g9N6ZGGY6+0THmfivL0TAj7F9kGT++DCL5UUod4ttIc+EJWTUtht3qvjchmIYEkr2wOM8Kbb3LzXVjCaePawzef7e9Myk3ImZwEZSdEbGmTierXqUg821WCx2pbwGzog4NsRcBJeyyjenLAV7L7WH1lZjVxX6drlDf0\/mK44C8ezuOzop7HyY2B89qcqjCqg42D97KMbxRJ661G\/NqRE4K3X5SunUlPdNOiUve6+7h6gcsoI6nOuXA24\/bs+tiwMfwe6qn3rHTmJ9vqfLvd63VhbRpHlGAgDY6Z+ua2cNuiaZr29et9itEjH7M3uzhvcLazESiYxGUH9bm5WxbyxrqC5Qza0gKC5yajduOqrMNX1bP2vmDX2KeebCNJVcpd+L7QJ+WbGxqnalffoGnMTpTZJXVXEslykYjd0uuUnJ3iPgsJxcs3x8DclZVb2Bb8eeqquort+xQFVYwEpu8gnlEJQNqjhBJz0stq4wKLbHqRRX+bOdcaRLlq7yQ7RqWvKGgY1CFwLoQW4ENDxfFZok2Clsp6vNW7aGvSevnJj4x0L\/4Tk5M27ohctJhrb08HSwEGKBjGHLcwNws6fm5djN0HoU882FMRYCnjF9g5jNCrBu2lUHVeVnHBCkPeseGAKTPbAarDjCdpdQaoOnh0IvqfhpCzr2PVX938lhM6g0l4KBRZU\/4bgoYwZvcidFJ+PgbtjNsCXOjSJYMr\/FZpxPVq8ltDMjG9qlV7iloJ3xQCO5cniaS1IjUbQvqbXxTkelXqyHqGjLu1469upTzGsKRhZCLOEKG6NVVVMjPOseGMSMpOLlVjQm0K4MRXK+Onsxsu02kyu1X+h0dwAJIcUPKyuE8TFsS3w55XOAA446KlbB5PENtJFoZGvvE+6Q3rJlIHNA\/8juaGsONO+x1GicQdRn3bG4FBtrCnZSFyer+qXr\/r9hXYrBlhxK26mtgfrwxWG558DxVMG5LWtvHBkQXyieoF9v8siZp3J4oVJO+H4TyfQUzYnQOcoAr7ABXm\/gpzjunmEKdLgpThrrk9hdOW88J+BXbNgUg5\/PTlL1q9c9MBb2UxV6eVUlULir0Lc5PEiqpeMLPPCHPT4zzB0Cvi9B2xEx+v3DsdHYCY0AVu4osohzqiQRAg2M6RN29Kycu1CHti4bGst5ngFd5b3TUV1x1qu\/mFjy\/peGHsV8c1HIQogGVnSTqvGqMr3rHhhArK0uR651AatjmqyWkUW0A5vtuUrlAO4q9W9XrG+xcBbw7YovCESWZeAl+LDeT4+6GBDpRhYK7t42zYu+qVn9WZ9YW8OvV2nKEaUpbzpyCdfm6HpAGs\/SAPCMZQ6VwV2ogOcB5cdOR3XiN9EqepIGbW37FXPPBcY5XM8neS7KmdqZvWEn5t8UjMGdUzMKga6mgSGs9XJZ0BboiJjV9pZzVIX\/BxYIXCb938kDgcB3Jfh2IHCJRNEvXeirNmtob\/QAAAAASUVORK5CYII=\"  \/><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT8AAAARCAIAAAAkFTwOAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAARPSURBVHhe7ZtLauNAEECVOYaw8SUEJugOhpCN8RWMN8abnCCb4E3wFYI2JozvIEJAlxDJ6Bqe+krd6pashZOJhn6bSNXdpepPfSTP3JzP5ygQCIyQX\/I3EAiMjeC9gcBYCd4bCIyVm\/Of3w+7rJTbhnT7sk7k+gLVSTT0jBnSZ2ivL4fN+Lc2MPWC1EviSgJjw9hDwNzG4rDa53JNzJZPj4tYboxWlv+K4sVmORPBC7FN4S7fHwqUDiBePNKQPob0wV5iixeY9Gq1GmzW1XCf+02WFAfYZNyWJ10VVxIYGey64LIA7WK+fzhV0tgDuy6NA08qsx0cP6yc43jCHYR4Sifjsxqg89q0bTGpPup49bVAqIE1qgOi+9zvsaR41zCMBqE5riQwRmbLO9o732mvkyihibc6HXHr0zmOS+aUX48n+sWI3ZqTsQYHvQNYQJdWnrfkiKeU6+tjlgm1WEPMNtpLIzeZnQExz5b6beOuJIjwMtKm5iGz5fb2bY\/C5krGuc+9\/9i5lnjmoiJ3Li3MsTKv9sLhuNiROJoCo4I33txJkByncgIsuKueDjkcqfHVCpIxlIOrFchBoWqAYbtsQnmeK+qjpHkq4lAftHTVcT19asu5pVU+5Pv3ef1EquGTNd\/xEDavOPCMUNCqy433gQ11fcWDX74VFaYt7Jxu10my5mFldow2oqJV47vPdSX+uahyay66ejXGWOwCm8ALAWbwitH8cHtdSWCswK4DsPGwmZyGa9QNkdonquqTLyw+De8VN8ADmO\/rkXBW9ahIRU1IJp\/dJujk\/nq3rw\/VgGI5t5BnKeha8IdLhCh\/73nDLLNn9pXWiY4X9ziY1WrJWX7gM+Curl1oTuziqIKigjnRAXTORZVzi1cpG8YFkUzXWojAfwl5lYZr4wOKyAEK1Px228nE84uRdewRyNMUCYy6TZnE6Jj9+PpwLNEwgzEI7sizbPr9COaKGU3UOPNsnAHdNU1RFQYCuEvvpbS4AkPn4sMbU4cODoyd5I6KKV92Ei+UNn96vPh7L3ouvS9qOLAZ8mWru49me8FTDF78PMTBiixzv5Kr+z4fwV3Xd7e0UscHuONcd00uz6UHe4lm06tFlsCPA4tm6y1xEJzGNK6zW6Rz9N5WApCCl3JmVbxhP06fpivFCfmCJGh\/Wd7Th5vK7FX9rThYM5LjzHWl\/WrQnHRcB3bYjtCk7luW6K5qThkZ+rzhwSt0g5BIuudi6fEqtZdIpstvGr4RXh2B0aGHRdxLkwkVueoHfBi0TQ4KZ2Jugpauf62R6ocw\/qpCpGma5zSOGo2volCWRnkO15CB9HMX0dfHaEPhdpMkECTgecfpcpJl8tDGElsbKIlfa9OA9qMZHiI6rBvEnFwtbYQeS0XUltTfsVlCc6lMPc2HasdOQ5fZ6trmtTYwOqwN7zjfROuomM08Kvwfo0BgrFx67w0EAj+V4L2BwDiJor\/IGJkhi0yuNgAAAABJRU5ErkJggg==\"  \/><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT4AAAARCAIAAADL11cwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAPXSURBVHhe7ZtLauNAEECVYU4hEnwJgQm6gyFkY3wFk43JJifwJngTfIXgjQnjO4hg0CVEMrqGp77qbqWlGDIJVlJvY3VVf0pKfbqbmbPD4ZAYhjE0fsmvYRiDwkLXMAaJha5hDJKzw98\/d7ebSppKvnicZ\/KcJPUOu4SyAcOvAw\/8Rq3mp\/PV6xknQ7merQp5JkbT++UklYanDeRATPUrSSc305HIHpFFniTFajZblyg9LcDtZx+2LJ0s8R2VVvPT+er1jCHAwQnZnAKw2tw6J+9Q4YY5Tc\/xUcnm9xTLxUpHg7PBsFOoEPVLe39gGENCCySjpbXebbGo5mOMsWyMmb3Y7upe1W\/Utkmzy9GmqpLXGgfr\/s4V8bDuN\/u+ZieIaG+\/bzNDuGfULjyRay2SlQwNNbgngF+ZrcMYJTDqjTZOzGZvHhaRIMHH5gvJ9P5wb8XAEsPw4JI0uuBATi+gdFbVC0Rf2q2KX1NJHebB7f1duQbHBPfFrOE04K\/gmCTmoi1C6Avuy12h1t9RKgnnzOb+AtoqVvuxrsBpJpvLejyhZIaYMQoZda7Lu0zWR4fN3rnihhZ+wjCsnsta3yZfuLil4fgdihW\/McgxbtlS94GMnwb4Exz5GHENiNz6lR8CqHJ2q466YaZQD6k2DxJNXFXKPdaZ0WUGXk37ayqIJORSL7WefP0deLnR9ArHRdZ+Q9uYBpSI6Jh5kG6b08m1a3E3aGF2w5aYS3I1nRIg9ZddD3+f9gnF+CmQPxKUvYMT7VvOU660EVAVD10Jda3SIVL8JH3w2jIgXCyaMNjX\/xsxYwJgm4oa3BKIpJdem10kY6zmOSaDYl9ivObXWIpluGZWKL\/Ycm\/c88cwfhRSB8h9enN5tyoaunX5TPtrrhEROHtQ5nCXWQAfjluEwng6+AhdxnDY0nlU9UfTYbPG7sMWYnV+dUmxu72DFldpQTbwitsJRL+PYfCeUJM8H2\/FpzpVGLqtSlPvHrBCyZmOJP69LhzmpLp5CQEvtuBHt8MQM9AlFPIWs5UO2JdZ1RAsFzQEFwFRYxTJQFzq+uchsPmOzRK7VYUfT\/tWCW+QARZVmyfNIOWaT8rBtNHSbnx3aAOo51vxeY1P9g+uwazSatCpiv+TDO9eFL1PL0yhmiwntXd\/KiJ2bO8G1Uk9YdA50OTT6euG08X9Mn3ylrt+ufXXTtuLuM5IMD\/iTE\/yPC8KfIZ3G+873ogn6LYZYKV8oKChtIYvbrIMk4dveZ4nRSHvGxhsfGMCxwBaf31f3eNSjcr+55BhDJKjbpgNwzg1LHQNY4AkyT\/eOxccARAvBgAAAABJRU5ErkJggg==\"  \/><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUEAAAARCAIAAADMlYklAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAOdSURBVHhe7ZtdauNADIDdsqcwLb6EoRTfIVD6YnKFkJfQl54gL8UvJVcofillcwcTAr6EadfXyEojzZ8z+fGyXeK1vpfYI81IcaSRPLRXu90uEgRhsFzzpyAIw0RyWBCGjeSwIAybq92vn89PZcO3mmzxNkv5OoraNar4YyPir319WgguRvsoR8qBCKpX06KiyyR\/WU5iukb6iK6jeDLPEx54QxZZFFXFdLqqld5FAQ9jepmenUM8WeLDFUaEitj9IqlTEfJaZVxTPtmo7inCXjqOb0iBSGcvKqmrQk+F2IM5l1A52s\/9h\/HtXM7XF4YFZNxrNFdVsUO7fsdamt1hVKV3qFC9r9s\/Ev1AUZc4vU\/Kpom+WpypG0Bb051qDpgWwbSKiNZ2dc0KflOpVWghe7eICp7qS7BLgE\/rD6BlSb643xS4dsgB4ypw0ltSNmpKxTwMkj+0rjA+ZMszJYyHdPaGIRBoG6kYJbcUv\/EtFM2m+YR0i\/uLwmdaXJlpZrcBrFcQpxC0UJucHQbCF+JUDVMZ50HQhWgmVSj9z2pD8ddMZ64BfVcV2zttgfYheCIkogVtAgN6VlO+uxuf4wB6VRVk\/6S3Vtl31d5lC8hQvk3yuUngkC1MYHpg1pgwZtr2i69cVM3sLzrrXFolvE9TvnJaUbWpt6oK3qeQVxDZlGE0SJWfS3+zqVVgH4PMJfkDzgvYDqNnYTqhW8YBvZDal8j+YW8Dyh0X6Htwj4KTyOSh6dz+kK3ua4sgONzETlXyOSYK5zAnvC7aPlwOoahOzfkST\/AtBbcNVdv\/EeQAO8pdLto\/4u2+8h7pAxbTpvyoVYJmj5jBp6Yf+Q2E8XFkL+8vCuZwW29U3021IwDWOW4M7ckXwMXJxx8M7wvfCbf9GvNCHPT2oLIDHhfAR7VdfZQRFV5NL1vCeKHeTm\/y9J7LDWtvEeZwp16261c8gOEWUY0oZQZe+7j4OtsCh7XulNv1M6j4g27\/aqDQJpHBM+fdMMGECCiSA6piEvVKvaMe8XZfObAyz68qXYTN2ClbnUctjIHQj65DaIvhQvHPedpfFP4bj8w5v8WkpdYQq8xy0ppbRA1RGDunr3bUO5J1lD1JludfJe0bL8v4wzH3+Pnk2o7DRgDrpO9814HFPE1VW3uOt0rZfl\/XoLLneQAcsOWayjJIfbjuThX+S5yw1NjwdMPFD9p+Ivm\/JUEYNmedSwuCcLFIDgvCkImi328+MmavtldKAAAAAElFTkSuQmCC\"  \/><\/p><p>Calculate the net profit<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Gross profit 5,000<\/span><\/p><p>Discount received 1,000 <\/span><\/p><p>6,000 <\/span><\/p><p>Less: expenses <\/span><\/p><p>Discount allowed 500 <\/span><\/p><p>Bad debt 350 <\/span><\/p><p>Net profit 5,150 <\/span><\/p>\n",
+        "Topic": "Control Accounts and Self-balancing Ledgers",
+        "Difficulty": "Medium"
+    },
+    "Question 17": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Materiality <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Realization <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Matching <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Conservation <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The accounting concept that states that profit should not be anticipated but all known losses be provided for is  <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Conservation concept stipulate that it is better for the organization not anticipate for profit but provides fir unseen losses.<\/span><\/p>\n",
+        "Topic": "Nature and Significance of Accounting",
+        "Difficulty": "Easy"
+    },
+    "Question 18": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Bar purchases account <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Statements of affairs <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Statement of financial position <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Income and expenditure account <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Revenue receipts of a Not-For-Profit-Making organization are recorded in <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Revenue receipt is debited to the income and expenditure acct. A distinction is made between capital and revenue items and only revenue items are included in this account. Income and Expenditure Account is a nominal account.<\/span><\/p>\n",
+        "Topic": "Accounts of Not-For-Profit-Making Organizations",
+        "Difficulty": "Easy"
+    },
+    "Question 19": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 204 100<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 194 100<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N199 100<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 216 900<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Given:<\/span><\/p><p><table><tr><td>.<\/td><td>N<\/td><\/tr><tr><td>Motor Vehicle<\/td><td>105,000<\/td><\/tr><tr><td>Plant and Machinery<\/td><td> 95,000<\/td><\/tr><tr><td>Debtors<\/td><td>  8,000<\/td><\/tr><tr><td>Accrued Rent<\/td><td>  2,500<\/td><\/tr><tr><td>Creditors<\/td><td>  6,400<\/td><\/tr><\/span><\/p><\/table><\/td><p>Determine the value of capital <\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Capital asset \u2014Liabilities =N(105,000 + 95,000 + 8,000) \u2014 N(2,500 + 6,400)<\/span><\/p><p>= N(208,000 \u2014 8,900)<\/span><\/p><p>=N199,100 <\/span><\/p>\n",
+        "Topic": "Incomplete Records and Single Entry",
+        "Difficulty": "Medium"
+    },
+    "Question 20": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>I, II and IV <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>II, III and IV <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>III and IV <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>I, II and III<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Given: <\/span><\/p><p>It records subscription in arrears <\/span><\/p><p>Payments of liabilities is effected <\/span><\/p><p>The account does not show if cash payment is revenue or capital expenditure <\/span><\/p><p>It performs the same function as cashbook<\/span><\/p><p>The features of receipts and payment account includes <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Receipt and payment records all actual receipt and payment.<\/span><\/p>\n",
+        "Topic": "Accounts of Not-For-Profit-Making Organizations",
+        "Difficulty": "Easy"
+    },
+    "Question 21": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>II and IV only<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>I, II and IV only <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>I, II and III only <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>II, III and IV only<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Given: I. Settlements of debts<\/span><\/p><p>II. Cessation of businessIII. Introduction of assets<\/span><\/p><p>IV. Disposal of assets<\/span><\/p><p>Which of these constitutes dissolution of partnership?<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Dissolution of a partnership is the bringing of the partnership business activities to an end. Partnership dissolution refers to the termination of a partnership as well as the cessation of its various business activities. Partnerships can dissolve for various reasons and under many circumstances.<\/span><\/p>\n",
+        "Topic": "Partnership Accounts",
+        "Difficulty": "Easy"
+    },
+    "Question 22": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Assets = Liabilities + Equity<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Net assets = Liabilities + Equity <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Assets + Liabilities \u2014 Equity <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Assets = Equity \u2014 Liabilities <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The correct expression of accounting equation is <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Asset = Capital + Liabilities <\/span><\/p><p>Equity = Capital<\/span><\/p>\n",
+        "Topic": "Principles of Double Entry",
+        "Difficulty": "Easy"
+    },
+    "Question 23": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Public issues <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Bonus <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Right issues <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Dividends <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A part of a company's profits belonging to the shareholders is<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Dividends are part of profit shares to the shareholders. Retained Earnings are part of equity on the balance sheet and represent the portion of the business's profits that are not distributed as dividends to shareholders but instead are reserved for reinvestment that a company pays out to its shareholders.<\/span><\/p>\n",
+        "Topic": "Introduction to Company Accounts",
+        "Difficulty": "Easy"
+    },
+    "Question 24": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>The partnership experiences super profit <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A new member is admitted <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>The business is being expanded <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>The business suffers high losses <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Goodwill can be created in the books of a partnership firm when<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Good is credited when <\/span><\/p><p>Change in profit sharing ratio<\/span><\/p><p>Admission of partners <\/span><\/p><p>Death of partners<\/span><\/p>\n",
+        "Topic": "Partnership Accounts",
+        "Difficulty": "Easy"
+    },
+    "Question 25": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 5000<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 9375<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 5625<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 8000<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>   Given:<\/span><\/p><p><table><tr><td>.<\/td><td>.<\/td><td>Dept A<\/td><td>Dept B<\/td><\/tr><tr><td>.<\/td><td>.<\/td><td>N<\/td><td>N<\/td><\/tr><tr><td>Sales<\/td><td>.<\/td><td>250, 000<\/td><td>150, 000<\/td><\/tr><tr><td>Purchases<\/td><td>.<\/td><td>500, 000<\/td><td>250, 000<\/td><\/tr><tr><td>Discount received<\/td><td>N24, 000<\/td><td>.<\/td><td>.<\/td><\/tr><tr><td>Discount allowed<\/td><td>N15, 000<\/td><td>.<\/td><td>.<\/td><\/tr><\/span><\/p><\/table><\/td><p>Determine the discount allowed by Department A<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Discount allowed on department A =<img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAbCAIAAABweQG0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAHUSURBVEhL7ZZPjoIwFMYrx2gkXIKEBXcwMbMRr0DcGBd6AjeGjfQKxs3EyB2IMfYSxLHXYF7\/UGBKQkczunB+G9rvPfiAvvR1UJYlejrclVGyTfICIS+czOIRRoiSaZLLBG+yWXOJZavFXuTM17EvYwoz1KuUt+NyebyB+e2SRlF6gVF5SeVVo5PqnAoz1K84CI\/W4mMQxq4XBu3PUDB6KoaYJ\/lBiL4YkzLHDFkoDr9TwLLD9UP\/uzyZClaZcvBcfhe8m+sV14YrYIb6FOXKMkJxrD39eCfYTIb7rfRtWFVPqDBDfQp3BcsDjkdgSQmhIFCiP1GC8RDlZx6qfxYvOcg2QxbKAFZaVpcknO9in2arREpQcrPY5ybwJqrOq7IE13MA2Z2hHgUK6z6MOv8Fr9kl6hp+Jq9xHURRpIZP5H9d\/5q3dIW2WzcYMRMtR+zL3YrGJvmHInYo2IzTNFWd165Ra+7r6gAlBzQeu3zIMZpwh6KxSTYUcKXkHIjTEodm4i+3mzAfmYrGJrmtOCz7zMXBAdpdsV8kJxFsPFjlm4rGJrmtOHBsqs4NHpwHd3CGsmnUwANdXfdXqCfYkuWa81VfwgzmunK6FFVXdslN5X26OkLfNKpnIHalrz4AAAAASUVORK5CYII=\"  \/> &#215; 150,000 = N 9,375<\/span><\/p>\n",
+        "Topic": "Departmental Accounts",
+        "Difficulty": "Difficult"
+    },
+    "Question 26": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 9 000<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 2 500<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 3 000<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 1 500<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Trading profit and loss account extract<\/span><\/p><p><table><tr><td>.<\/td><td><\/span>N<\/td><\/tr><tr><td>Stock Jan 1<\/td><td>2, 000<\/td><\/tr><tr><td>Purchases<\/td><td>4, 000<\/td><\/tr><tr><td>Carriage inwards<\/td><td>500<\/td><\/tr><tr><td>Sales<\/td><td>9, 000<\/td><\/tr><tr><td>Carriage Outward<\/td><td>500<\/td><\/tr><\/span><\/p><\/table><\/td><p>Calculate the gross profit <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Sales 9,000 <\/span><\/p><p>Less: Cost of sales <\/span><\/p><p>Opening stock 2,000 <\/span><\/p><p>Purchases 4,000 <\/span><\/p><p>Carriage inward 50065,000<\/span><\/p><p>Gross profit 2,500<\/span><\/p>\n",
+        "Topic": "The Final Accounts of a Sole Trader",
+        "Difficulty": "Medium"
+    },
+    "Question 27": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Unsecured debtors <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Secured creditors <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Secured debtors <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Unsecured creditors <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Upon the dissolution of a partnership business, the party to be settled first out of the proceeds realized is<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Upon the dissolution of partnership, the proceeds from sale of assets are used to settle the obligations of secured creditors first.<\/span><\/p>\n",
+        "Topic": "Partnership Accounts",
+        "Difficulty": "Difficult"
+    },
+    "Question 28": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>II, III and IV only <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>I and II only<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>I, II and IV only<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>I, II and III only<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Given: <\/span><\/p><p><span style=\"font-family:serif;\">I.<\/span>Data capturing       <\/span><\/p><p><span style=\"font-family:serif;\">II.<\/span>II. Data processing<\/span><\/p><p><span style=\"font-family:serif;\">III.<\/span>Informational retrieval      <\/span><\/p><p><span style=\"font-family:serif;\">IV.<\/span>IV. Computer acquisition<\/span><\/p><p>Which of these constitutes information technology?<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>II &amp;III constitutes majorly to information technology<\/span><\/p>\n",
+        "Topic": "Information Technology in Accounting",
+        "Difficulty": "Easy"
+    },
+    "Question 29": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Liabilities <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Equities <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Assets <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Capital <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The rule of accounting equation requires that account payable should be placed under<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>No clear question.<\/span><\/p>\n",
+        "Topic": "Principles of Double Entry",
+        "Difficulty": "Easy"
+    },
+    "Question 30": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>I, II and III only<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>I and II only<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>III and IV only<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>I, III and IV only<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><\/span><\/p><p>Given:<\/span><\/p><p><span style=\"font-family:serif;\">I.<\/span>Cash refunds          <\/span><\/p><p><span style=\"font-family:serif;\">II.<\/span>II. Debit note issued<\/span><\/p><p><span style=\"font-family:serif;\">III.<\/span>Dishonored cheque<\/span><\/p><p><span style=\"font-family:serif;\">IV.<\/span>IV. Purchases<\/span><\/p><p>The item on the credit side of purchases ledger control account includes<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Items in credit side of purchase ledge control ac.<\/span><\/p><p>Cash returned <\/span><\/p><p>Dishonored cheque<\/span><\/p><p>Purchases<\/span><\/p><p>Balance brought forward etc.<\/span><\/p>\n",
+        "Topic": "Control Accounts and Self-balancing Ledgers",
+        "Difficulty": "Easy"
+    },
+    "Question 31": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Current asset<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Current liability <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Fixed asset <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Long term liability <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Subscription in advance is treated in the balance sheet as a <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Subscription in advance is an income in advance which is treated as current liability in the balance sheet. Under the accrual basis of accounting, revenues received in advance of being earned are reported as a liability. If they will be earned within one year, they should be listed as a current liability.<\/span><\/p>\n",
+        "Topic": "The Final Accounts of a Sole Trader",
+        "Difficulty": "Easy"
+    },
+    "Question 32": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Original entry <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Contra entry <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Prime entry <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Contract entry <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A double entry for a transaction that offsets one amount against another on both sides of the cashbook is a <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Contra entry is transaction whereby one amount cancels is offset against another on both sides of cash book e.g transaction involving taking cash to bank for deposit.<\/span><\/p>\n",
+        "Topic": "Principles of Double Entry",
+        "Difficulty": "Easy"
+    },
+    "Question 33": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Constituted Revenue Fund <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Consolidated Reserve Fund <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Special Operational Fund <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>General-Reserve Fund <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Which of the following is used to service all operations of government?<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Constituted revenue fund is a fund which services at government operation. A special revenue fund is established to finance and operate.<\/span><\/p>\n",
+        "Topic": "Public Sector Accounting",
+        "Difficulty": "Easy"
+    },
+    "Question 34": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>It serves as a control during inflation <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>It is calculated at the end of the year <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>It is progressive in nature <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Its flow of cost is in sequence with the flow of stock <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>An advantage of FIFO method of stock valuation is that <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>FIFO means first-In, First-Out. It means during inflation period, goods in would be the most recently purchased. This gives a more accurately value than if the goods where purchased in a much earlier period.<\/span><\/p>\n",
+        "Topic": "Stock Valuation",
+        "Difficulty": "Medium"
+    },
+    "Question 35": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 12 000<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 15 000<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 16 000<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 9000<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>  Given:<\/span><\/p><p><table><tr><td>.<\/td><td>.<\/td><td>Dept A<\/td><td>Dept B<\/td><\/tr><tr><td>.<\/td><td>.<\/td><td>N<\/td><td>N<\/td><\/tr><tr><td>Sales<\/td><td>.<\/td><td>250, 000<\/td><td>500, 000<\/td><\/tr><tr><td>Purchases<\/td><td>.<\/td><td>150, 000<\/td><td>250, 000<\/td><\/tr><tr><td>Discount received<\/td><td>N24, 000<\/td><td>.<\/td><td>.<\/td><\/tr><tr><td>Discount allowed<\/td><td>N15, 000<\/td><td>.<\/td><td>.<\/td><\/tr><\/span><\/p><\/table><\/td><p>Calculate the discount received in Department B<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Discount received on Dept. B <\/span><\/p><p>=<img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAbCAIAAABweQG0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAHUSURBVEhL7ZZPjoIwFMYrx2gkXIKEBXcwMbMRr0DcGBd6AjeGjfQKxs3EyB2IMfYSxLHXYF7\/UGBKQkczunB+G9rvPfiAvvR1UJYlejrclVGyTfICIS+czOIRRoiSaZLLBG+yWXOJZavFXuTM17EvYwoz1KuUt+NyebyB+e2SRlF6gVF5SeVVo5PqnAoz1K84CI\/W4mMQxq4XBu3PUDB6KoaYJ\/lBiL4YkzLHDFkoDr9TwLLD9UP\/uzyZClaZcvBcfhe8m+sV14YrYIb6FOXKMkJxrD39eCfYTIb7rfRtWFVPqDBDfQp3BcsDjkdgSQmhIFCiP1GC8RDlZx6qfxYvOcg2QxbKAFZaVpcknO9in2arREpQcrPY5ybwJqrOq7IE13MA2Z2hHgUK6z6MOv8Fr9kl6hp+Jq9xHURRpIZP5H9d\/5q3dIW2WzcYMRMtR+zL3YrGJvmHInYo2IzTNFWd165Ra+7r6gAlBzQeu3zIMZpwh6KxSTYUcKXkHIjTEodm4i+3mzAfmYrGJrmtOCz7zMXBAdpdsV8kJxFsPFjlm4rGJrmtOHBsqs4NHpwHd3CGsmnUwANdXfdXqCfYkuWa81VfwgzmunK6FFVXdslN5X26OkLfNKpnIHalrz4AAAAASUVORK5CYII=\"  \/>&#215; 240,000 = N15,000<\/span><\/p>\n",
+        "Topic": "Departmental Accounts",
+        "Difficulty": "Difficult"
+    },
+    "Question 36": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 9 200<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 8 000<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 10 200<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 9 500 <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Trading profit and loss account extract<\/span><\/p><p><table><tr><td>.<\/td><td>N<\/td><\/tr><tr><td>Stock Jan 1<\/td><td>4, 000<\/td><\/tr><tr><td>Discount allowed<\/td><td>1, 600<\/td><\/tr><tr><td>Purchases<\/td><td>7, 700<\/td><\/tr><tr><td>Carriage inwards<\/td><td>300<\/td><\/tr><tr><td>Sales<\/td><td>13, 000<\/td><\/tr><tr><td>Return inwards<\/td><td>1, 000<\/td><\/tr><tr><td>Discount received<\/td><td>1, 200<\/td><\/tr><tr><td>Stock 31\/12<\/td><td>2, 500<\/td><\/tr><\/span><\/p><\/table><\/td><p>Calculate the cost of goods sold <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Opening stock 4,000 <\/span><\/p><p>Purchase7,700<\/span><\/p><p>Carriage inwards 300 <\/span><\/p><p>Return outwards<\/span><\/p><p>COGAS  12,000<\/span><\/p><p>Closing stock 2,500 <\/span><\/p><p>COGS 9,500 <\/span><\/p>\n",
+        "Topic": "The Final Accounts of a Sole Trader",
+        "Difficulty": "Medium"
+    },
+    "Question 37": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Treasury receipt <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Receipt voucher <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Payment voucher<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Treasury card <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>An evidence of payment issued to a government ministry by a revenue collector is<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Receipt voucher shows the evidence of payment issued to government ministry by a revenue concept. A voucher is essentially the backup documents for accounts payable. Accounts payable are the short-term bills owed by companies to vendors and suppliers.<\/span><\/p>\n",
+        "Topic": "Public Sector Accounting",
+        "Difficulty": "Easy"
+    },
+    "Question 38": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Trading account <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Appropriation account <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Balance sheet <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Profit and loss account <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>In manufacturing account, depreciation of office machine is charged to <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Depreciation of office machine is debited to the p&amp;l acct.<\/span><\/p>\n",
+        "Topic": "Manufacturing Accounts",
+        "Difficulty": "Easy"
+    },
+    "Question 39": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 4 000<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 4 500 <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 5 000<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 2 000<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Trading, profit and loss account extract<\/span><\/p><p><table><tr><td>.<\/td><td><\/span>N<\/td><\/tr><tr><td>Stock Jan 1<\/td><td>2, 600<\/td><\/tr><tr><td>Purchases<\/td><td>4, 000<\/td><\/tr><tr><td>Carriage inwards<\/td><td>500<\/td><\/tr><tr><td>Sales<\/td><td>9, 000<\/td><\/tr><tr><td>Carriage Outwards<\/td><td>500<\/td><\/tr><\/span><\/p><\/table><\/td><p>Determine the net profit <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><table><tr><td>Sales<\/td><td>.<\/td><td>9,000<\/td><\/tr><tr><td>Cost of sales<\/td><td>.<\/td><td>.<\/td><\/tr><tr><td>Opening stock<\/td><td>2,600<\/td><td>.<\/td><\/tr><tr><td>Purchases<\/td><td>4,000<\/td><td>.<\/td><\/tr><tr><td>Carriage inwards<\/td><td>500<\/td><td>7,100<\/td><\/tr><tr><td>Gross profit<\/td><td>.<\/td><td>1,900<\/td><\/tr><tr><td>Less: expenses<\/td><td>.<\/td><\/tr><tr><td><\/span>Carriage inwards<\/td><td><\/span>.<\/td><td>500<\/td><\/tr><tr><td>Net profit<\/td><td>.<\/td><td>1,400<\/td><\/tr><\/span><\/p><\/table><\/td>\n",
+        "Topic": "The Final Accounts of a Sole Trader",
+        "Difficulty": "Difficult"
+    },
+    "Question 40": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 4 000<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 7 000<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 3 000<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>N 1 000<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAARCAIAAADojAblAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAC3SURBVGhD7dmxCcJAGIbh0zFEcQnBwh0cwBXERmwygQOIKwRrtxBcQpRbI0YRYkDb\/5rnaZIM8HJfuEHTNAkoZ\/h5AoWIEAoTIRQmQoiUz1V1zr03EUKkfL+NR6PemwihiJwf08m7RlcUEKOdn7vT7fPRWWxFCIGux9VlXq9nryQPabNftmehOQpxug36xUkIIf6u0VqEEKbboF9r1ByFOD\/uJ1oihHi9f0NzFApzEkJhIoSiUnoCsoVJZU8JTV8AAAAASUVORK5CYII=\"  \/><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT8AAAARCAIAAAAkFTwOAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAWKSURBVHhe7VtLauNMENaE\/xQiwZcQhKA7GEI2xlcw3ohscoJsgjcmVwjemEDuYEJAlxAZdI1MvfqpVluK7ZnIv76N1V2lrurqekm2f319fSUjRowYIC7kc8R3Ub89zB\/eahmNCKN8ns+fSxmMOBLG2nsIIHLv32+eHqepTIyIACJ4lRQvi0zGIw6Fjl50xE1Fl4D8hEZmSaeUcBC0IfZqCJzrZHn2odvlvLoaDQJ4e3Uu2a7FMJikdnw5mbXsNcLTh0SdM6gxZz0QT7NJslsNtxvE3RzQpqXTxyKX6yjK101ykw3ADw80SBd0NVp2O0s2r8PvoMmknK9ccIBRJIFBqs19wOwRnp4kjF5wQ1BjMrvlFJJOlxC\/QF+fJn7hpEGD0xXe+rNp1BOg\/NhNBhG8hxrkqOeVppfJ73rYbwkgjqDnwhjyUb9tsTbm12is7BoZdlsviiI8vUn\/kRsi\/TLVnogmTqqk+oQbU+4PYDYvnq62km8gBejj5KTAkHk1lRdFshIik\/Rq0hW0cyI0t4bXTNiy6cbrD5mA7gE+NbvN6K3hCCGaXCOs+9zb0GqXRVOTyay4eV\/hesLvLE9bs2aYhyYSkqxIxgaBlYl8W6tVWuzF03oDEYPIAqEtaJHW7gNSArAFWGzp1aR6L+updQBDQ7Z4wa0EOgjOk5Mr3htsFcKIo4gmCBGe3qSLpK5\/44QiEIiacJLUTdFuhRmHGmu4lsaazwjORnXcNJ8t1C0f11zp4ZqyiN9itXPi2ugkem3Q0XgQoXwG2TAJDCoTgmX5im57sT2VZ4AKXYd+LAASCKE1WIYHpZ8vGuGYTDFWm62Vl2n5SyVYtibNDS66xDW590GfVubJCysi3JVlnRWlfxl8kCMFZe01SODU7C3459UipYHA0TCoMpwpJJQ8uK1GhKc\/qcc3RnlBR59mN+h6lBO4bkvPzedCTggDin9F4WQgcEftnKwxh4isTTI9SIcPXtpSBKS54KZDug7RUkjcAVOH6IUolBl280boNqE2ghGJ2uAt+GmKDn4Q0umd0UJ6H2NR\/QyjYK8cGrB\/tMgKYO+p2VvwFusupcvR\/B9gNbWtiPDESBcqGTqRIU9Ke+VygEEtmyPAz3EUCrHvwI5YO5INwC0wr4v8ttcywbxlL9uyT6hv9GKiEUwK3XYKCYCsY5pNhEkiGK55jnGANRRG+R3GzLcQluXj0FPrIqX1aIKncSaQUIoiwtOfBLVXUqhV4MXCUq32QhokhaOl2WzBbZ04itR+F1QKVDffFr8Et4FxEoFLUsDGUjww8P4dwy98nwX0c3qiVToaqPBdbyFcF7fUz+y2DzDqaHUfEVlBfO\/UekgJHw0Whi7VaJDgUFKZkGugf54Rnt4kjF5p4\/Q7Zu8dtIJ6vCIqr8pddGW+AyifxdF5fYEz8EYRTnzuZT8hNPwLHsEkqwdSk4ks1epzc8h9qrwtdknoml4CMCWkEcAQfuo+hrcvQF2+4xQ7q0+W8K0qtKRSpEpChb7dRGYQlYXwDbL31BTsya5SWo8GC4Pvz8NEqImQY+RIYU9rbDbC05ukfq0Bjms1Qt47Gn7JYQHKko4l587JrFhmWVrrG2Clu897M3hMXy3S4zTCmZW2SgS6RevlqmVolkZq0lPSXqXBbZbFsaWFex\/daX6tYSljWceezfPdDq81mSXL0Bk4cPRxTLRM1qIbqmYs68tqbLFhEO\/UrC241rCt40jR7\/qZzVoKoITSamfwaw3LBgrGYLZlQ8eJiPD0InX6pSRr26bKyeB4mOCvKxEFavh595M0+skYrXVs9HjnvPcp77io39byVY7A+eLhZwBfU0PVGf+lsBdQAOg7rjF0j4kOtdf0CaYD+itoNCg\/q\/COGPGPMf7HaMSIYSJJ\/gD5KVuooBn\/eQAAAABJRU5ErkJggg==\"  \/><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT4AAAARCAIAAADL11cwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAShSURBVHhe7ZtNauswEIDd8k5hWnIJQym+Q6B0E3KFkE3opifopmRTcoWSTSivdzAl4EuY9vkaffMneWTLduImkFB9m1rSeCSNNKOR2158f39HgUDg3LiUn4FA4KwIrhsInCXBdQOBs+Ti+9\/fx4d1IUVDunidJfL8M8p3UX84lYfEDu9UB3h4eMrdsz3xVTtJ1FZCRpPnp3EshYp8NV1m\/FiX2LPpMorH88lI6l6BZyxly8f3Eit\/TDx+WqTyfHLkKzA2zpsmfS7AHplOp6tcisfgpFftFBG\/hUiHoO2K9UNjidgDSQhEHIn9mzBhjuMrfBTi5Ba3cfGRH8Z3T5h8K5EMt+r5nC7lZz1J2guc62s4Sw9KmX9QjnLDVk1uKO59lY4Lle8b3G8sxCLZhk\/IIU1\/sLUFN2syZzYV7Ak+mixuP5YoZQ5yJ2+gSnm271RnPuCIs27EyhK2Xlf3Clt0u+0bOuZKCGPTtfuSeaExu+ZoVQ3LUEVE8zZNSnlTMzXflUaLMxCPcexcsuUUftrp6DmKDt8sbK9qDTy9eNAddIj9TvC8WxdFts1nCVqezoTRbSKbnOGQO7rmyvgaTsii+AQnhH01oKn5mcoEkPtx4mRNyUwVbKlYb6I5JQgErC\/sAtgWkngrsuX2xuYSb5wNkPgVJRmkwkSafAW7hLRIA8GbBzYNKzdJvV\/Yot7CZnBUfg0OHx4iveruQ\/\/svKNV9405ukL+hl5AOYtknelCKXc1i57l9KUqbE2i5DdOMpPx8Iy039Yt45tFIxP299Kgx8i\/HkxlwC6wlAgvhgmNQll+yZOGTuZBTcp18fQBMABDv70xlfxfNizsJxqojjaUl6nROztYUgl8T3pidZpi\/SJ7lUVI+Whyh8+c46ukvi5s4SFJJsP5xi53Ad\/sWkYbj+8rrSYHp7iIJRlwhdbsK9gsq9M4Dq2W0erNLGrKdu+lw8gBHT0puIET7\/S56Cq2HlKnp0m5rsRUZODCSITo6LIJZGsUqKqUDYDNgaFdggnfylm5VKGZsIQO4hO2eIMW+9UQvKNVEQF9NU3RA\/D0hBIkL3sYo46\/uzqtltmRXXrpNHLAuZDaDWGSS8b9pOQwqOkYv9e150YfuGfoXgjRop5f02nAtdmy2ioqviASY1qEK9whmYvDfnSM1vjuywZ8dXZH3\/myzSOUZC0H0GUcH37L9LFHL71GDnTDWY0JqnyHlQ0ypAldV06m9kDNG9\/kggIrcah9nIZtoVa46dByq+ZDWquD5EMCu4o5rFxFsnxFGYlX2OIOiadgPx94pmBoNrWOFhHfLQo0qumziOrJMuK82lHo6g6p7NlmGf97TuWuvXQbOSBLbj5UyD6rLb8jxCImtA9pcv8kAyJ3\/W5dfX1MJ5OvNT6jVPwmmRnUOxdj9QJr40uAlO8\/H6rC07i0bVGapllG41q83mxtNaAGpZRj\/WKeJLHSAShhS+0tI1ANrHG39zfpWjVabuZOpOgUHNqtMY9eZJQyxPbuGjbutUw1FGcA8GpLL9USkFi\/kQPOErTZSAvV9se+TeE\/hwKBs+QYd91AIHB0gusGAmdIFP0HsKiZWr1seT4AAAAASUVORK5CYII=\"  \/><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAATsAAAARCAIAAAAt\/px0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAUxSURBVGhD7ZtdSutAFMej3FUEpZsIiGQPBfGldAvSl9IXV+CL9EXcgvSlyHUPQYRuIujNNnrP13wlk0karbY4vxczH5n5n5MzMyfpvSfb7TaJRCJHwqn8jUQix0BcsZHIMRFXbCRyTJxs\/\/29XaxKKSry+dNNJtcHSvVi6z5MwVrjEfjzcGEvBlz4o27uF4ebx+my4MvR5P5unPI1smPTaZKOZ5OR1D0B91gqlrcvFVa2A0qn0+njRorfCs7ND1EpLpbTTsXEt8pOx3fzXK5\/Mfv2+c+5mZcrx2H7wuGFR71AZ7laGFfs3oRZcZqe4aWQZpe4gMvXTXgBVO\/1g\/nb2DzjpjaaXPFuJntOuXrosWZ\/UPav5ZM+hwUJUXuwOYqKQ3cZGaqXNZ6T+QX2yi5waynWHKlDmv5gq5ezVB\/P1uEsx76ugbMN\/sLxPEserMxEtbu9R5P55euSV9v99ftCusyTpQzP3RF7Srse2bxRiyWQnFUm5TtYlPK+B7VNJQ3ZSg\/AaQfdnOBl4qZaelRE9HjtwtzF6ewQsgux22UwY4HPUUw\/JXSXVdNhMtEcmZqvKjWKI8XjJW2RDhXU5VoqY\/is0LOqGz1TeLBHD3T7LLiZjPly84gT5nO2zoL3q9E5V6fneLhwpA5qan55qjav0FcfYGI72KzSTzz2sxs8qQGqfwKVbmaS3VgFXSpX62QmN+rKYvl2wQe\/2kXEenhEOLY9EFFVH\/hHGUOQRUnyUaG17UoasjPzSjBDT\/PpTfmFDJPPOeoWqzO6h+4XnV67UD2GFMunVEkTtMtxNTZDIsS+5q4+Ryn8SryyrbegkMkKd2QZZzl9MIU3lcf5vdQMFe7aDCqvFe7TbHkQdTr8\/MWAKABmhCnVqjFIuNagSB3UZK1YCBCcmT2idwo60EQJn\/ud+bIHXlEcI\/AIeXhVyWPzmrOQLBe772eDJNLxNT5SNkpObz6ssSTiUIOIcHV67JJ0ZnSZoQc9qVKrXTw750GSCLGsDkcRHiVtsnuZbLBH9hUowpBWLzWgSX1BZQ+vrLAH6z9FwM9fDYmirQGXUL\/XdStBrNPRZK1Y2pNwR4ItVM\/La10WsyQa\/HD3CfgAhci0NR\/IInBUyJtSwNh2zNrAeM1zDAQ8OKCUX2PEEJCMkQtMRhbGKyVol3db\/ayv\/bL7mTyAfl76VFD1mSLo532RXVHuYnIOxrNnKwY11bNimbaWbkiCodjvlsXwxiXf31yfy+6q93Yd7HI87YqK34c1xOvNFX14K9a3UJLxMEjoVU8p6oGlziFgF+Pe6OT+OxKQ3WnyAHb10oCg2mGKTj9\/CZgQd\/1GweGqdiQ+W8TNQ5pwxUq8c6ukTLA\/UU7BX47L1bOyefPoKGwGJtdQ3mOQM9DFqbQL6Ad2snerUVmd\/jZc+3as8CphXNkSv2WJLlHfystEjcdv9nJqupZ47HK\/tTsHZ9gu90aWzbl1q6MsmtUB2Z0m27TP7hZC0yHG5+1B5bvPVPadoiN+vhhlh6iTFWcQ7\/LZy49V9RnS5P4Lipy+qcFOJjX1MjCazGdZhj6zqmG7xDcOqyafTD5WeI1N6bOkPmpEBNwqldBFfThu9Adk8BqOqEafNiWuSHMXV4o4p0AYrUme50WB19B+8eaxC7CnyPOkKGT2brusO3WHgKP07bZAo6RFNjd3mKxon13\/OtAUWp\/OdojIrllKQVX5rGgR0PIgaHhrHEDNuB8cO2znO9i9an12bYr\/dycSOSaav+5EIpHDJa7YSOR4SJL\/VUmVHTlxCvsAAAAASUVORK5CYII=\"  \/><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT4AAAARCAIAAADL11cwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAOdSURBVHhe7ZtNauMwFMfVMqcwKb6EoQTfIRC6MblCyMZ0kxNkU7IJuULwJpTJHUwo+BKmHV8jo\/chWXKdTDSdDji836bW97PRX+\/ptb07nU5KEIShcc8\/BUEYFCJdQRgkd6dfP5fPRc1FQ5rv5gk\/K9UcoItfJwhCBxIKFzoiaqm2s3VJj3H2sppE9AyENN2raLLIYq7YAXmqVLmezbYV9vsO9CvOvnUBQfjfWAeneQFJlevloeFGCykQe2mh1cVzq4LAJgiYo2hEHYhkjgvrlc3QaLLSY\/6hy23eu25eEG6AOJuiSjqSsjSHPXjO9BF6JY\/aSapyT\/oObvoBTV2iZBwXda0+GhhpggD24MZxx1k+Pq6hxbh2x6V7wYIXRsRZNioK7KZdu\/7pBAZOR6rFCgWP1gqa2JuyXcurRi7b5tb6NgtCIODgJvRYbWFbpbnZ2BbyWfEDVUcP2kXW9btWWRTe1J+m4kODRk5WEEJbkjkV62KvFhhdI45LB6dtgwVdr9WkFcRRBEzAo7Dzznk9J3ZfoN5eQYf1sWqMFWmuxYVTjnAwTmQOp2oLurUmdHX7yTb8wGgZTyQIX0RvNQ0I1zhgl6b54CcX9JDhTVdlmFHnLVQkeWkdoviqt9ZaEj4qjupVPE60gjDu\/nQQeUSTJ9CQO5ZPECjx\/LAm+0fXMnpDOpvYBBx41jakLjagY5hTXK7wVXBvmgvpldmcUXRWEpea+qXLOjcu+s\/QALDWHDokHJ7oggVdKJQHbYFW0xSkWb5VoL\/0ycpeR8a4khseu3J1ZXzONuP+ueW6zywIV5BMMeyDjevC0Wwf4U290m2qIwbX6CsD4ODT0HoxujRfh9HuZq+1Op+O8RPsl7qEt3SSLd6A9RIcgxOUX4PkOErav2r020aHJM7SZuUE4S+AWLknpexBUSJHg3yH5X0d3ATSZddoaA4b8GV838Qa7GzpFAFIbIH\/ejW7v9riW1C9DVC16hx9nBE0a7euwXAzQa3M1YHPFXLknilw1yVFI+bkOGcbfGqy5sKJJwgBmF3Gm9R4GwtvZ\/LGdCE0fYKb+v8kw8u1UpIHwLRP02ZlvW5+ejfO8kWSkLzaepM36q1roVae3SsgrUEqTdOyxFfJd9PGWZ\/oW8\/a5ryIpscMQQjC22UddbS4vTp9gppu6d8P\/C9HnPt+gjBwrsowDwKM87Xv5HBZft8j3Da35HWdQJoQlyvcLvL\/uoIwQJT6DV1k6j+DK2\/6AAAAAElFTkSuQmCC\"  \/><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT8AAAARCAIAAAAkFTwOAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAPzSURBVHhe7ZtLauNAEIY1YU4hMvgSghB0B0PIxvgKxhvhTU6QTfDG+ApGGxPwHUQI6BIiQdfIVHVVSd1WS440mWDF9S0mra5+U39XSZP8+vj4CBRFGSFX\/FNRlLGh6lWUsVJlzuXhYZUWphgEcbJbRFz+R2jcLxxwfFRHe9GncDmccvl8O19nVJzMnh6nIZWRniaKvWCB+aByBzzNJtn64VAayw8FDng+n29zfvy\/hNPHJOay8qMxflVHQQ8kQpD2bgdOUaSr2gn7m1C9+RZFPZktSerh9P4LfQ1cF6Y8t5BTvnUcsKIMASS2CZYor1bKwx7jZ3yDeohusGW2p0A5xPQbJn01Afk6rMJ0tNhVaqvSPoSzAboJUPDJ7csarRC2799WjUopoV3SAN+AgFNtkD4yG1K3t7AbVBNV45ku0sR5CLL1HH5ay5T+pnOAxcAZ5vOngYtobkmwV9yyKWV0sGy6EjqKGpM\/JIXwzyQIiuINdAjeMsB0FZTlO9aJzQG8bJVeY7ymG4Uvg2hB90uR7uu7xlfZyBlbBoR69HNwY5O4Q4Ur3crQTOmtBjgkJBXUwp1aFmeAU6Yn6vU4jaZLMynMavKP\/BlFV7zkpQwTJ6CvPqchW4J9QHPak2ByHTLUzZULgLV2xHsJbjTI1P3NGfxcsl6j+Ap6ImfHRkZpHZVCy4C0PrpAwvAa\/jVXCzg65gWT2R32YANqqoYSB8opOKk4avEp+G2BunIywmuAJ15An9PgZGdyG9V7cijSDWofm2vgvWysrPeYE6Yr8SyWSwNI\/+ZISw7YH9+AtmJtJVMZ4qnpQcmms1DvtdS2lU5q5aNc4xj1mL3mKN74Hq8hQ9\/T8J4+KBZDLm\/rmz6dKWeA5xYXBpkg9nIcMUGagBTRpJ\/oq+b9D2KOm\/wNpHXAaEF5MQsjTkzcZjjJFDyhylo74H0JOInId7MHuS7ubo189w\/wRIF90Gm4C6sxYZxGydaq34uBtCbhhd5n2b+GmFC9nDVSKodeapI+KOQv2I7iB\/UR3CfmZGX7gPiSSLowiEDDCEVUpM\/i3\/nWfe+lBpIsU8rL2apAApJs2MHVFsu3KPBgZOAioKy5a\/G+jbsLc1IEuBs54Hbct8pY8aaDArsFJnXikxIchpjktzUgsNTZoHwyQkeTb6NxHGeZ6Zfsbl7r6up7qd3WU0ljtgx4Vza+zlZrOFpZsowiNx31Lx2xLPFs9p5imRtYproLVfLqnQdDn9MA7CniOMgynj18rtoDzoKVUWM5iOB4BGH5xbG5r+lM\/krBXpvg2biiKDXd35y\/ifKwqX7Ty6D\/j6IopzmT2NvIOTTwKsop9O97FWWcBMFfDIF2h3ErLQ4AAAAASUVORK5CYII=\"  \/><\/p><p>Determine the amount to be charged in the profit and loss account <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Carriage outward is charged to the P&amp;L acct. It is the cost incurred in transporting goods to the customers place.<\/span><\/p>\n",
+        "Topic": "Manufacturing Accounts",
+        "Difficulty": "Medium"
+    },
+    "Answers": [
+        "A",
+        "C",
+        "A",
+        "B",
+        "D",
+        "A",
+        "B",
+        "D",
+        "D",
+        "C",
+        "D",
+        "D",
+        "A",
+        "D",
+        "D",
+        "C",
+        "D",
+        "D",
+        "C",
+        "B",
+        "B",
+        "A",
+        "D",
+        "B",
+        "B",
+        "B",
+        "B",
+        "D",
+        "A",
+        "D",
+        "B",
+        "B",
+        "A",
+        "A",
+        "B",
+        "D",
+        "B",
+        "D",
+        "D",
+        "D"
+    ]
+}

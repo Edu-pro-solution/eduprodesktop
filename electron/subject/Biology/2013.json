@@ -1,0 +1,1304 @@
+{
+    "Question 1": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Physics<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Chemistry<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><\/span><\/p><p>Mathematics<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Biology<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Which subject are you doing?<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>This is Biology.<\/span><\/p>\n",
+        "Topic": "Heredity and Variations",
+        "Difficulty": "Easy"
+    },
+    "Question 2": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Anabolism<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Catabolism<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Metabolism<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Tropism<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The process in which complex substances are broken down into simpler ones is referred to as<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>All the continuous chemical reactions in the bodies of living organisms that gave rise to energy changes in their bodies are termed metabolism. Metabolism consists of two processes viz; anabolism and catabolism. <\/span><\/p><p>Anabolism is the synthesis or building up of a complex body substance from simpler constituents and energy. Catabolism is the decomposition or breaking down of a complex substance resulting in the liberation of simpler substances and energy.<\/span><\/p>\n",
+        "Topic": "Form and Functions",
+        "Difficulty": "Easy"
+    },
+    "Question 3": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Gullet<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Flagellum<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Chloroplast<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Eyespot<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The organ which is sensitive to light in Euglena is the <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>One of the animal characteristics of Euglena is the possession of eye spot or photoreceptor which is sensitive to light. The gullet is for ingestion and acts as a reservoir. Flagellum is for movement and the presence of chloroplast is one of the characteristics of a plant. Chloroplast contains chlorophyll which is used for photosynthesis.<\/span><\/p>\n",
+        "Topic": "Variety of Organisms",
+        "Difficulty": "Easy"
+    },
+    "Question 4": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Lysosome and ribosomes<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Golgi apparatus and endoplasmic reticulum<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Nucleus and centrioles<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Mitochondria and chloroplast<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The organelles present in cells that are actively respiring and photosynthesizing are<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Cellular respiration leading to the production of energy occurs in the mitochondria while chloroplast contains chlorophyll which is used for photosynthesis.<\/span><\/p>\n",
+        "Topic": "Variety of Organisms",
+        "Difficulty": "Easy"
+    },
+    "Question 5": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Cow<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Goat<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Dog<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Pig<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Taenia solium can be found in<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Taenia solium (tapeworm) is an endoparasite seen in a pig.<\/span><\/p>\n",
+        "Topic": "Variety of Organisms",
+        "Difficulty": "Easy"
+    },
+    "Question 6": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Spermathecal pore<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Cocoon<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Clitellum<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Chaetae<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Use the diagram below to answer this question.<\/span><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAWgAAABkCAMAAACcjlooAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAMAUExURf\/\/\/\/j4+Pn5+fX19fz8\/Pv7+\/r6+gAAAP7+\/v39\/ff39\/b29vT09PPz8\/Hx8fDw8PLy8u7u7u3t7e\/v7+vr6+np6erq6ujo6Obm5uXl5dnZ2efn5+Dg4Ozs7OTk5M3NzeHh4ePj48TExN7e3tzc3KmpqdXV1dvb2+Li4tPT07+\/v8HBwaenp9fX17Ozs87OzsPDw6KiotHR0cvLy93d3bW1tbe3t9\/f36qqqtra2oaGhqysrJ6enoiIiLy8vF5eXo+Pj76+vrGxsbi4uLu7u8XFxa+vr5eXl8jIyKSkpJKSktTU1LCwsLq6uqWlpX19fdbW1tDQ0KCgoISEhMzMzMnJydLS0p2dnb29vYKCgtjY2Kurq8\/Pz7a2tpaWlsLCwpycnJGRka6urmpqapiYmLS0tMfHx1tbW2dnZ5CQkKioqIGBgVZWVnt7e29vb4uLi7Kysjk5OWRkZICAgMrKypmZmaOjo1FRUcbGxoODg5qamomJiWBgYDU1NX9\/f4WFhVlZWaGhoWNjY1VVVa2trcDAwDg4OHNzc4eHh3Fxcbm5uYqKildXV1xcXERERJ+fn11dXXV1dUJCQo6OjpSUlHh4eFhYWFBQUHR0dEVFRVRUVDw8PHZ2dn5+fpubmzExMW1tbaampnBwcD8\/P0dHRzQ0NHJycmlpaUFBQWtra0NDQ1paWjo6OoyMjExMTB0dHRoaGnx8fDIyMicnJ2xsbHp6ejMzM5OTkzc3N3l5eWFhYS4uLo2NjUZGRk1NTVJSUj4+PkpKSiMjIyoqKnd3d0tLS2VlZU9PT1NTU2JiYklJSSIiIikpKW5ubiUlJSEhIU5OTiwsLEhISF9fX5WVlUBAQBISEmhoaBkZGWZmZjY2NhMTEygoKBcXFxUVFSQkJCYmJhQUFBsbGy0tLRYWFjAwMD09PSsrKzs7OyAgIA8PDxERERgYGB4eHi8vLx8fHwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALZKxAgAAAAJcEhZcwAADsMAAA7DAcdvqGQAABq6SURBVHhe7V0HmxQ3tlVXV\/WdTpMTk2cYhmGGPAwMOeecc845R4MBAzbGBGMbY2yvcc5p12G9Trv2ep29a3vzvs3p5ff+wjtXUnVX93TTPQn8+fX5hpJKpVJJR1dX96pUjUghhQ5Bmg6BgA5T6Bh4dZhCCt8eFOkwhQ5GsQ5T6CjIubB67ILGM4VC5Po9wTyZnEKHwEdAPyE4eFWnpdAR2EU0EgETPU+lpNAhuJeoEkFXokdVQgodA0iyocKT8jwB6t6udOloCi0CiHar8EN5fm3UIft7pvAMXf3C+E1CLJ42WQzQl1K4NsISPU2eN4epQwlkn4VgBNHlfCE20p0bU3Z4LDiWNzR+TjSDQ6Lb5HkzRLrpJ4g2I+hCVMOnv6UHPBymEIW0ZkxDRC0dyvME+C7RbAQHiDoh8BMNlckpRKMZ0XcQdUUwhmi\/Srg29hMtQzCPSHqUT9AnHKQQBw51oCX6SkKJ9svjM0qXTyaqRpDxMn2s0lNIhI1EFQigEpJSHTrbMKLOHA6lLSmik0IJmMtCCL8lKaJvU9lGElVx+CY9zkEKCdEDBJcinJ4k0d2Jggg6Ex3g0\/fphxykkBD7QPAHCGEYk08lXRNVRBkI+hGt5dOHaQEHKSRCHvilP8Op5hDnCd9tPUrEq6llREP49D3lVn5b0NzNaC8YBdmFtQWIdFNEJ\/Q+xhH1QFBE1J1PNyq3MoXk4S5nvhOinOhuBOlEK\/j0qXj+ZAptxMNE5xCcIfoOn86m51OLStFoDwXkuQkqxpJGIU0RohHBIn3p\/z2S4Pdofx1JAmV5OUIE+vYeOT9biJqnifroCykkBCZCHWs5xizlxaVvPdpnp9ESWs+BXMRLAoN368g3HO2gKqUR5lle3TNfnrYV8A45SJbokWd15MYgCeFqC8W88KMx2ON5pHfTuA8wEd3Ra+3YxuVFjaf0pRCSEfVQnr5SopPlWSy5rCM3BkmyiGzxctrpMa+H3oguJrp5A835Ac\/7YfSd3KOvvGzwSkQ04nIouS7dE9LRSamiRepNwY2CV\/IT8X4tEs0bEatZ0ApW7Oaavik0c9Ya6l1xgspFIFeU5N5H9NL2lURscxEtiDstRdbKxaehZ2T4queCaLd0pWVqGh\/T4jelYYuOfKPhFFcjFqO8ZBMTN3+HaMSPaIIQ+fKdSHCDEJeJLoou1NMzho7BdhhVPaOEHWRGvsgxRGb0vmfTEl6\/g2avD8TnRlgdaQGPIXw+V7imPm+ETDTQUh37piINQhIaddyOcFuc\/NvwhvL6HjrW\/VbI7GqQGlINa8BOFe3KEAfoB0J8TKJUyjU15dXX92J3GtqGxVSWYq9heMBykE80cy6\/le0dQGORbKjnmWaayDJMJ7OIO9dAqmihjn1jEYy\/sT6kgz2RGjXoGS\/p29sLh6Bw0xH4C2I0\/m0kt1hFO0r\/OXP\/Dn6JVyCI1nF3SCyN3AVg82ZmadJs\/eRKd4kcquAMltelE73Qg\/YdwpJCoBfpWJ90pdfUSQcjgod48MTMhcpn2LtkQw2JQuSyYza9pZkbdZiYYjnKy8HxKKJMRNaITM5nDqErx\/iaQTTkrLyhB1zkEIL2QLC5NOTiMwTZ9JjFVIR+9vuEEbCr5agdt8RrlZSpM2BHcq9xW4xYozop+O0VRCuS9agC7VEZaptj\/b2\/pIxRKvLki32ibmCL91QcpoDoyerS\/flS4a6nB3oy0X66k7dqAGtoqzu3Ol0VHxowXLjB9UFKuskCaooKmuExPZmZbLJYzdaX5dRpLJKvCCXukJv1EiEpeWwfhKdtjnEL40lxbJSVdpGMSeA8lxNfIWXGCbGB0gOwpIWYzy\/95pDIlLmIMrbKO\/LG8XGaegMSItrv0rVAB5jy4BEltAS181tSzGO\/a7X4vaKuwhvUW54kQtMwlDWl\/5TGXuU65Xoh\/hp5LFPjHMFwe2Fs3+E0o9bWivmWJHMvHYHfTNlgdbEQV29HklXFHLugOp4znpRE58+UAY0qrx3Wl+Wau9uTA8qZNBZm081Jmb4yqnfLYWRPv2ERYfDIdJqcRN\/VsfjoO\/9NaLLukya9yVV4buLgtWeG6UvtClsdRCJ2akxIaYRrAHVRSgs27ZWJw8HDc7xD6Pu41pugWeVGIaJD8jLsLhyy3OLXQwrGQY\/6uQyNfQ0Hekkz266DDCWhFelEcz3CHaqdlZ3jZFpON5bKKwVCL0VHI796YGFZwMzutHrLMzfR5QG30Yc\/I3pMV4Am9F8lZ5MQWq2SE8NWW4k0iJk3WdaN2yREJxZUCRbfl\/mV3SCkQyNXbCHqz5nexsWJ+OfQi0S1S+nKcqLXZ0OyZHHcDbGQ\/jiX4vGFmM6KW0E5Jm+iH8sTjeOzhr1QIBrOyEfc+hb9REaudj6B40f4d7ahatnk9GLP3OHTRzabAFqHkCJsE+Sieh1vtGBGc0U1R47RWJFOR9lW7ifEQiTdgxjnFNAmsKN\/\/4QQ21QBgedLxGjed5FZKH5Kl24mQn76MVHP8kXs6QCmMG1L0xRZRJMR8YXEWKqR+DhK03UMyL6fK\/HUJKKdt3CMaEXdXTiu9zTd3\/3igil3fukTZds9AlZP70O3H5JKvi3wzKUHUfxnNLGmuCKZSTk2jHTMf3fthDutpFnchu7jCNHdtQSDAgqju5glG2TjP4jeFdsJivrnuGHqg7Bzl4H9t2S37yJZL9ggFTJQy\/QZ\/vwCNS0wuWVEMMQBW6QdAyMW\/ky\/wzHws9\/sfPjyf\/7qAgp9jUu+dT0NeogjI4u73C0r76MdvozjhSLjPpeA0TLmnfWL4\/q9SaBxx8BZarFBYwJRY9Oe+j36egugtGrQ3EODxWPTeO1mg0v0BTsgm3iLC6EFcXCn6MONW0\/CxZNjADzj\/oO4IC\/3y+sC0ndul6uAv+CUYJAHec8c6CEiaSVrkVZ3RmNRfXlN+QCo2crniP76ctEhopdrMVp6P0+U++SX87mU41m\/vb\/uq0aUdIzr0u9\/BwmxOkMEB\/erXwUZ2HkhW5XVCoz5Hj14nsau4ccQJJGxRwXknFESobYkF7oAeJHIbYz+Pp3ZlPvABlzozRJNkGgb0MuD1q8c9MX6Tevnv7Hp8NYfvjHph\/oS6\/IjJDrdp8pkPE5lE4mWyZ1yRcSiyLUqPfCsvuN1Gq5jH+fHW5NCqcWPXDzcp\/8+OE+Nw4f9lOjwe\/TZhVtoS49fkaihz3fQhyarJ97qMZd4tqgnDI9O55tE5zsLhRi\/7cizBVCBcodCK7AZ8wz4HEvrxKQXBxKN\/wlN4J0\/dHMOb5Ogt\/4beiByqo2JjGHlnJ3e4ap2obVZFwbSHzPFAkhF4J6ZY3FFz2avjNh9kbmPRsPp8z\/i65\/1IZopxtJ8pEmhHEH1vGcchh5uggyWitG8u1mIGpbj3eM46srtyiSBPgq57Xlf6G8O+zetuul4V5592bWcMQqafhg6yRLPk1gDIx7qOmtSWRd6QIheE+XWgzP0Eo6+mzBGPP+46it4dYzZ7wmuHG0+GPYuWwK3vBvStpZGit7LzI0vi1F94Dj4O9NJI7jV8B+jd\/n6CJ0\/Cn4R8IuMTkW3kGn7f1OI\/pAD4R3I\/sc8UUy7oWt\/BfNCYvXCrfbKXAzkPaENqRW8+WgoK+N\/3SUwU7GlCK1eJ8RSogLxAY9p+Pnui9RNOSEi0+XKKhWZR+Tt3SHuMkLfq8p6BkGf2tmEaS5LyG+JDtEr6Z\/yZqXVlJ73eBdx607u0K50AgOlRu74EOc+TcdxX60oOHXlnZNHiU5CHrusrZrAF1sO3+YXadwJysp4tmYCJLpwvDiyGx1\/qgkNoUYz+ygMAXpbVfmv9x7ZJMesrUz8GRnhCU2tAw3BwJ4G4b1dXNzGyyG3VwvXL3ZJvSGxDSUkxH6dmfHqCyD4KTotJtIz6jtk2Hoz5p5gv6EEFP9bF74DNGXlBjDqEBmg73SgS34pRhXGROgFT4lLFGI+ENsowDqFXpSps59F0\/JpPMc3f5etlmW9hDgAOxoY1D3u5zGJ4eESps6GHn6RLtAqULxu8yDeAUi0dgLVGRvOwb+or6KrZU9TzWJODuF7OgR+k\/cdjFcVb6gePlIMlVYB20DvrhOunXQKZhMwaGUSLwcteBqF9vyAajQRVT4Ch91qAJkg2gW9MpVWgh1x+ydWeuU8JAXAb18XboWxl1laW8j1YRgiXfByofJcELPXpEY9DHEtRO5pJDfO0F+kihr2XxiFFXQYsuSZzldG03B32euYwevm9RKBOZynVah7lBbU0s4cjLQ\/0NKro1dx7YaWfM0BcPbv9BV85EJx7gSLcb1OjsQQIsx2f6KcsfQ+KvY+l9uP3uTvQxB7eIqAHmR8\/2apSpPF4vPsKShgzJ5eB60aGHwzrkzDKH5Q6u5z1DAg3ZWdzaSLypA1ytPJcdw2Wq53wAS6pBY+1HaEjx7C4ZLUPMA+tbL07HvyLEj3s2f1Uo5YN2YbRlEGSmHFXMUGeutRjCLgHAz8nzq6VzxDAx98GzoxGnX3XIEs8KdivCxRIDKlHa\/R+DfUfQjBEOr0nCVyLHjPxItqmUPgO+X++ww2nE+O+QtnlRLTMhQdDNkhmEBhwlXBXBTwJeete75kWv6pfyFinz49PdqSY8dtKq0oMaQgF9yDgA3feVKi98IthCaDv8QYB9UB\/OQreYYcJi8MTBfl\/aHQpTldN4Ynhjagz5iv6Ik+1E3Ohv3hl6HeMSH9zQLqKgZvlTfuos5diebD8ZhuGbfBijv9Oto5Xi01gVH35MlodSfeRyjfwQKv\/aiVC18w6DQgjr9XGxNLqEsNwfKFJ0nTXYWBALRAen5toQW6A4GAyCqD9jGqZ+TkZLMkz5mLQ+cnwbQZMlXRWr2evooOcjCJlLsweEOefOY6pXveJ5g7bcRLXFCGGy4xfK2tdJpPf\/nLhTuauo0KzMwbGOhWGBjMaUTPnN24dnnT\/QNFP64yeqiPOEV0k8AsZYnPdgnxNk0QRn9F9EiaCBuuPvMm2ssFssGlP+VrFSwxNTwXoNNWiU2u\/tR9Ba2cioTNdH4RqE1n7ZydnS6syuxAerarRDnIBYU5kBGYqxlGcM6jj8Nf7Uv1cqFPLFLeOrCCnuJgBGHWFw3zRmHMyBUBRlLbUhPhInRx2Rcwwk5pi+Dp43NqMRNEohD2JuNK2RF4ESePhsbnWbpgTf5kH3+cU4qxtgiKDS2pqYGNeJ97u7pJY+Wr\/N1TG5D3IbSyxqtbqeIy3TGT\/ihuoXffob\/xwA+wo1Y4s9IqLM+GJ5nPPLtdws26Oli0n1bngW3+VmU0jUISAIkeo5aW5tAnGHoDeyufHhbq+VXa9Rna+hUIB+ZTz5chi\/xqdAlms4X\/WBlbh1pT7hp\/\/3n54BLX1JHWpW5IRAO2o+el3HSlWjGdlkDOYWcTDZhDdOiyzC+xcXSUzazkvqXgL1RsNNCTpZ0Rzq2D6D1SAp5hWsAoG9DbqqyUMTSFdZc7EwIdNA36wo\/ZiO006A5cN938gcAqaYAYOSupc\/7QEVlPyu9ufVfhZH6MwmsyM2MT0kIc5ifC7yp3QZxXDNFrYTHBM7qlZfRz99e47w54qAvY3qpC3RsoBz7bPFE5ZdV4OCyVWt0odOb3RkEerFo3JlxRi4sPhhzThRK0XWHntTK2ZS7oYcWBOhauy3ZJ8yOX2RbuXOGG8Wy6MQX1Q5dwWolS0obIxr2ILOpdkHE33dupJAe6kFQjVxe46g62Zc3IgU0v0BIo\/68nyKWHX+vUWAj16rbQTIlR93eepKbCIITDWg3VMZEuQVaIYKfeLvMw7ilarO+NQGixGDAjTnQYF\/6qg7poWlASZE+bxhd0qmAnBX5LblZxsQviDUjRgERnumvl+VP0mynqS5UySfT0e3jsUZUhRtGcdHhcVTu4MMZdt\/UPv1NsFZxL4Fxfs9sGKLlG2KYXdGoiDB+66z6uS+4gGKgYugPEP+l8UV4jjRZwuSfyJennKNTMj9QRIUGW0pYAcTg3xUTHeGnqsZAOlX702rgcYVRkuURusUtUSGdcWkmg2sjMkSf+4Aj9kwcwlnDsNSqrmkuYifNHQyX2nNdt7sz4235aAekHiGEExffH8PJLUgi9zwF6COa96VGikb9WKRoT98zoab94bQ6eoFoGp9iLio\/23SfXnYDT9CV7AkVmdaHb7TZqamqrJmdabsv5iPK8MnRb\/hZaxx0FfifBWexSVygLGLhUBvQI\/imDquWI\/5ZpPiQvuFqIp4newNBvGSaN2KDq1hxbJmCeKh3WZO\/3iAN3ovdfiWAGPEU8FzqAGdFtVg6oLC3KyzTm5CiRdmfL2c4MGqJpBdExjLAAW5zFviKiiFcO9bndqtvm+WkYzvGQRRe3kRhVJL6mf1VjrGWoXD0JXeRA+dRxmE97DMsXBexsXXtJ3NLjus2YdRKPfkmvuhLdYhomnBPeXgMvhbVW8JWny5CSYQpzpcyyuUItIby57Et5TmuCYzjoUdwu5kUzdKUzYr18kLbHW\/YYA0T6BwxYMHB0+fLymd16LZX2VCdITnwG+QlKRyOWcM6Lj9BYkHbMkvFd3WbZwTVnNnJb9k7oNCHDLADRQTO7c3YZv33\/nA6IvT39ni2cgejoLyDYRGoljn5QhEnTFf\/1bZvxBh3JYuPm3G91QjSkhdQyOLSo17lh054PkRLitw1ERyE\/HWWhe31HFz8sudtd+FiuGchSX9FqSP\/XgU+Dve96kf5063JdSEehGLbivSN44xAvYbUJHgdnHkWu18WbxoyQvcGpuhNiS07s1OTgFwXLxwahHTx4xJhbxj+l9jXZb7Ro+H5+3cq40hTy4k\/3QCW9GRleI73Nk0UcqAZ3p08L+S3pzp7y9BpwWmfhuEN24yIgvM6br4XYbU12R4o3o1gtf2oE5es3Gj\/pwamNxxt9phj1zojZox86DO3Wd+Xy3WcnTtUZJTqUZ7bT5dLlcHV6DcQY4jFHfWjjow6RibfCxWmGnTk5tGwPEJ7co2fDpB2lYe0X0Q8xELNF7YIVIzdQ5600K7bb4Fxka3EdWiIh0YW3Wbq4u62wdx+rPG8Le7lliCp7DC3hFUL16zbNMNK5EbltSOOPAjoKjuUSF6w3BJZfNxRzcQjRqyqmpwPr5ERAVDxHm93wwCN0VRjRNWsFbB0O8UlWT2skpSbUpn1Hyfn6gX57Og5LVmjfaOgLGzOg3riEEbXhu70gN8PRtja8yo2ByKp7Quox4uOReAiza+lyIu7iH7fTWcLpprNPdNSj9v2HgNzhG4J21MoJXB+ZDhKdCrxLx\/VpG6HlyuNoNubANGYHSRaCCNIYjqwSXq89AnAFuSN\/NRAFeJGkPscLI9LOV8\/w+JDKZl4k1MWAXQ8zvVmNGPIrufaEFx7ofvj5\/BNPbUa0W8Oi4pUHHsRerxlR\/RBXaUpPmnrImmFqOb+tYWUeLsLvMk2PTjWl3oD17vEYwpTfGHIqKmKJNJTn83j4VaFwIe71Z8dyVDPdPqV8GLKyfGarD46zoKizNqCBaDu4jrVvzElKc8S6akmNjiuKULnirr4kgSzz\/M+8uDyRMip358uUNHWBjyiA42mmyX+cQbcWJ+gIH1SsZaJnPC6UyCvYXh+Y9Zn2aPC6XKbld0H0XS7DMHgpIOj35WVx\/aKmZH\/AZxj2EOTOkRyrPGoAyprI85ZDEsGO8Wza6HWtPuv4GLtNYGpdGaq1ppQ60y9M3gUOwvifl4lzMq1FU7LLkNLFpMpMrNRVgn1gcFm40TLTpGaQOcFmmgXIDKiE4TUtFzL5+INNXxq7pl6IPbIylw6ufX5UyFZFoYgdtgdyc0RgAtElsYTa1ck3eUbnBkk+rADokO0Cd0pyFVTUa2sGCRCN7gGB8gx0cETf4+we2S0wIdBxOIOTnwbKvWocqVwZAa9hcf9abn6C1zD88gJYRmXS7Nc4iAcwFDxmEBecD1BNaA9YZr9ckbOJ6PiE4fK3ZSPgbH18OOQiDNVciE6A5740yzC8loc\/CcafrYYdrXCwo6UYjCp5YgG3zQmOy4iEvMeLPlFd6JW3QJw5XfUcusHlg8MNibZcEFkLytrl8Rq1maw5pAhIWNL24xGEqvIBlcQ1\/uhTQYX2WXIwKguy8+2PDiBwnrQK6mt5ifcUtQz6uQXNzWJ77EK8gn6vJw1UmFCAuMGLdkCkbVWhAieQR2YMgeMyMSIV0FxiNCjZZ9bYFpEdxZ0DnqCkDI9lGh7Mkx5QjBToDiPTxcKMfCEmZWGqRByQD8eIXm0FeCOPQ3jTRCe62q1U\/bSsA3ZvJ4SsXQTs+rEGQDGGByJnKwwLbWCuuYkgKWZToiaqOFBlMDmyBrJYpdstSRbngFYx3ZbXQC70NrQQZ0WyZWF0GZAHrgXfLWsnidX6Qv7JS61GNVHkxs10Gr5mKF1j0S401GWLQgh\/4xQFmY3JglyhrhiwONHiATqYEXUStykxk8OJiOEPsiz1i+5DRbvUH1w8p6rx44HXgjnSNMArHED2tzkDhB36XZbHQIqcdOW9fG5HWo0u0b\/Q6ZZu4TWWs0K1iXxuhj+cEHGFO4abwKMXUSm4fFB\/NsttRYhSXSDTzZ4M2zMc5bjsckSgPDysz6RG178egUnD6VJxDfko75ShDVV8y3Eo9FGfhvyfd36n98bHQLznONKhh3XMASTJVNns8DFGzlYhdjkhQdSBBHdw6Iwln2FnbAa+0B6Yzx9XO5\/Rkzfk834uQIrAtWDfpkMEMsYiKxPiIPy0DkaIpTBdXMe4rCZucavRKbwhWT7E4P94ZGFID8dE+KrmUzdDHvnQQiloWe4WQ9co9BSlFRKgveuUdkltNkPBsug0+Q1FUD\/n2nLJsOuD0MG2Y1a5JlrYIa2EfIhTFmx1cV3xgNrOF350EETbW3icRLSElER5r3dD8bxwleTUcP1BdC7ysX6iclsgEwtm5L3y7Ea0IjEiyL3+VUwzIL\/QD7zFfM9y+V4J5l08i9iBawhFLLavf8uicUOk2IG0J+kxEC1tOhvRS8gacWqqkm88kwlwwyu4VE6G1m4aMbIr7c729XLF\/HG6bx+uM\/Npm\/mjRI7IYwodBS9UhY7GRaoP2gFMdCIiU0S3A3jjcNSvNKR47SDcaMMnhRRSSCGFFFL4tkOI\/wMLenJ28CUJMAAAAABJRU5ErkJggg==\"  \/><\/p><p>The structure labelled II is the <\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The structure labelled II is the clitellum. The clitellum is a thickened glandular and non-segmented section of the body wall near the head in earthworms and leeches that secretes a viscid sac in which eggs are stored.<\/span><\/p>\n",
+        "Topic": "Variety of Organisms",
+        "Difficulty": "Medium"
+    },
+    "Question 7": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Mud<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Humans<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Clay<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Sand<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Use the diagram below to answer this question.<\/span><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAWgAAABkCAMAAACcjlooAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAMAUExURf\/\/\/\/j4+Pn5+fX19fz8\/Pv7+\/r6+gAAAP7+\/v39\/ff39\/b29vT09PPz8\/Hx8fDw8PLy8u7u7u3t7e\/v7+vr6+np6erq6ujo6Obm5uXl5dnZ2efn5+Dg4Ozs7OTk5M3NzeHh4ePj48TExN7e3tzc3KmpqdXV1dvb2+Li4tPT07+\/v8HBwaenp9fX17Ozs87OzsPDw6KiotHR0cvLy93d3bW1tbe3t9\/f36qqqtra2oaGhqysrJ6enoiIiLy8vF5eXo+Pj76+vrGxsbi4uLu7u8XFxa+vr5eXl8jIyKSkpJKSktTU1LCwsLq6uqWlpX19fdbW1tDQ0KCgoISEhMzMzMnJydLS0p2dnb29vYKCgtjY2Kurq8\/Pz7a2tpaWlsLCwpycnJGRka6urmpqapiYmLS0tMfHx1tbW2dnZ5CQkKioqIGBgVZWVnt7e29vb4uLi7Kysjk5OWRkZICAgMrKypmZmaOjo1FRUcbGxoODg5qamomJiWBgYDU1NX9\/f4WFhVlZWaGhoWNjY1VVVa2trcDAwDg4OHNzc4eHh3Fxcbm5uYqKildXV1xcXERERJ+fn11dXXV1dUJCQo6OjpSUlHh4eFhYWFBQUHR0dEVFRVRUVDw8PHZ2dn5+fpubmzExMW1tbaampnBwcD8\/P0dHRzQ0NHJycmlpaUFBQWtra0NDQ1paWjo6OoyMjExMTB0dHRoaGnx8fDIyMicnJ2xsbHp6ejMzM5OTkzc3N3l5eWFhYS4uLo2NjUZGRk1NTVJSUj4+PkpKSiMjIyoqKnd3d0tLS2VlZU9PT1NTU2JiYklJSSIiIikpKW5ubiUlJSEhIU5OTiwsLEhISF9fX5WVlUBAQBISEmhoaBkZGWZmZjY2NhMTEygoKBcXFxUVFSQkJCYmJhQUFBsbGy0tLRYWFjAwMD09PSsrKzs7OyAgIA8PDxERERgYGB4eHi8vLx8fHwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALZKxAgAAAAJcEhZcwAADsMAAA7DAcdvqGQAABq6SURBVHhe7V0HmxQ3tlVXV\/WdTpMTk2cYhmGGPAwMOeecc845R4MBAzbGBGMbY2yvcc5p12G9Trv2ep29a3vzvs3p5ff+wjtXUnVX93TTPQn8+fX5hpJKpVJJR1dX96pUjUghhQ5Bmg6BgA5T6Bh4dZhCCt8eFOkwhQ5GsQ5T6CjIubB67ILGM4VC5Po9wTyZnEKHwEdAPyE4eFWnpdAR2EU0EgETPU+lpNAhuJeoEkFXokdVQgodA0iyocKT8jwB6t6udOloCi0CiHar8EN5fm3UIft7pvAMXf3C+E1CLJ42WQzQl1K4NsISPU2eN4epQwlkn4VgBNHlfCE20p0bU3Z4LDiWNzR+TjSDQ6Lb5HkzRLrpJ4g2I+hCVMOnv6UHPBymEIW0ZkxDRC0dyvME+C7RbAQHiDoh8BMNlckpRKMZ0XcQdUUwhmi\/Srg29hMtQzCPSHqUT9AnHKQQBw51oCX6SkKJ9svjM0qXTyaqRpDxMn2s0lNIhI1EFQigEpJSHTrbMKLOHA6lLSmik0IJmMtCCL8lKaJvU9lGElVx+CY9zkEKCdEDBJcinJ4k0d2Jggg6Ex3g0\/fphxykkBD7QPAHCGEYk08lXRNVRBkI+hGt5dOHaQEHKSRCHvilP8Op5hDnCd9tPUrEq6llREP49D3lVn5b0NzNaC8YBdmFtQWIdFNEJ\/Q+xhH1QFBE1J1PNyq3MoXk4S5nvhOinOhuBOlEK\/j0qXj+ZAptxMNE5xCcIfoOn86m51OLStFoDwXkuQkqxpJGIU0RohHBIn3p\/z2S4Pdofx1JAmV5OUIE+vYeOT9biJqnifroCykkBCZCHWs5xizlxaVvPdpnp9ESWs+BXMRLAoN368g3HO2gKqUR5lle3TNfnrYV8A45SJbokWd15MYgCeFqC8W88KMx2ON5pHfTuA8wEd3Ra+3YxuVFjaf0pRCSEfVQnr5SopPlWSy5rCM3BkmyiGzxctrpMa+H3oguJrp5A835Ac\/7YfSd3KOvvGzwSkQ04nIouS7dE9LRSamiRepNwY2CV\/IT8X4tEs0bEatZ0ApW7Oaavik0c9Ya6l1xgspFIFeU5N5H9NL2lURscxEtiDstRdbKxaehZ2T4queCaLd0pWVqGh\/T4jelYYuOfKPhFFcjFqO8ZBMTN3+HaMSPaIIQ+fKdSHCDEJeJLoou1NMzho7BdhhVPaOEHWRGvsgxRGb0vmfTEl6\/g2avD8TnRlgdaQGPIXw+V7imPm+ETDTQUh37piINQhIaddyOcFuc\/NvwhvL6HjrW\/VbI7GqQGlINa8BOFe3KEAfoB0J8TKJUyjU15dXX92J3GtqGxVSWYq9heMBykE80cy6\/le0dQGORbKjnmWaayDJMJ7OIO9dAqmihjn1jEYy\/sT6kgz2RGjXoGS\/p29sLh6Bw0xH4C2I0\/m0kt1hFO0r\/OXP\/Dn6JVyCI1nF3SCyN3AVg82ZmadJs\/eRKd4kcquAMltelE73Qg\/YdwpJCoBfpWJ90pdfUSQcjgod48MTMhcpn2LtkQw2JQuSyYza9pZkbdZiYYjnKy8HxKKJMRNaITM5nDqErx\/iaQTTkrLyhB1zkEIL2QLC5NOTiMwTZ9JjFVIR+9vuEEbCr5agdt8RrlZSpM2BHcq9xW4xYozop+O0VRCuS9agC7VEZaptj\/b2\/pIxRKvLki32ibmCL91QcpoDoyerS\/flS4a6nB3oy0X66k7dqAGtoqzu3Ol0VHxowXLjB9UFKuskCaooKmuExPZmZbLJYzdaX5dRpLJKvCCXukJv1EiEpeWwfhKdtjnEL40lxbJSVdpGMSeA8lxNfIWXGCbGB0gOwpIWYzy\/95pDIlLmIMrbKO\/LG8XGaegMSItrv0rVAB5jy4BEltAS181tSzGO\/a7X4vaKuwhvUW54kQtMwlDWl\/5TGXuU65Xoh\/hp5LFPjHMFwe2Fs3+E0o9bWivmWJHMvHYHfTNlgdbEQV29HklXFHLugOp4znpRE58+UAY0qrx3Wl+Wau9uTA8qZNBZm081Jmb4yqnfLYWRPv2ERYfDIdJqcRN\/VsfjoO\/9NaLLukya9yVV4buLgtWeG6UvtClsdRCJ2akxIaYRrAHVRSgs27ZWJw8HDc7xD6Pu41pugWeVGIaJD8jLsLhyy3OLXQwrGQY\/6uQyNfQ0Hekkz266DDCWhFelEcz3CHaqdlZ3jZFpON5bKKwVCL0VHI796YGFZwMzutHrLMzfR5QG30Yc\/I3pMV4Am9F8lZ5MQWq2SE8NWW4k0iJk3WdaN2yREJxZUCRbfl\/mV3SCkQyNXbCHqz5nexsWJ+OfQi0S1S+nKcqLXZ0OyZHHcDbGQ\/jiX4vGFmM6KW0E5Jm+iH8sTjeOzhr1QIBrOyEfc+hb9REaudj6B40f4d7ahatnk9GLP3OHTRzabAFqHkCJsE+Sieh1vtGBGc0U1R47RWJFOR9lW7ifEQiTdgxjnFNAmsKN\/\/4QQ21QBgedLxGjed5FZKH5Kl24mQn76MVHP8kXs6QCmMG1L0xRZRJMR8YXEWKqR+DhK03UMyL6fK\/HUJKKdt3CMaEXdXTiu9zTd3\/3igil3fukTZds9AlZP70O3H5JKvi3wzKUHUfxnNLGmuCKZSTk2jHTMf3fthDutpFnchu7jCNHdtQSDAgqju5glG2TjP4jeFdsJivrnuGHqg7Bzl4H9t2S37yJZL9ggFTJQy\/QZ\/vwCNS0wuWVEMMQBW6QdAyMW\/ky\/wzHws9\/sfPjyf\/7qAgp9jUu+dT0NeogjI4u73C0r76MdvozjhSLjPpeA0TLmnfWL4\/q9SaBxx8BZarFBYwJRY9Oe+j36egugtGrQ3EODxWPTeO1mg0v0BTsgm3iLC6EFcXCn6MONW0\/CxZNjADzj\/oO4IC\/3y+sC0ndul6uAv+CUYJAHec8c6CEiaSVrkVZ3RmNRfXlN+QCo2crniP76ctEhopdrMVp6P0+U++SX87mU41m\/vb\/uq0aUdIzr0u9\/BwmxOkMEB\/erXwUZ2HkhW5XVCoz5Hj14nsau4ccQJJGxRwXknFESobYkF7oAeJHIbYz+Pp3ZlPvABlzozRJNkGgb0MuD1q8c9MX6Tevnv7Hp8NYfvjHph\/oS6\/IjJDrdp8pkPE5lE4mWyZ1yRcSiyLUqPfCsvuN1Gq5jH+fHW5NCqcWPXDzcp\/8+OE+Nw4f9lOjwe\/TZhVtoS49fkaihz3fQhyarJ97qMZd4tqgnDI9O55tE5zsLhRi\/7cizBVCBcodCK7AZ8wz4HEvrxKQXBxKN\/wlN4J0\/dHMOb5Ogt\/4beiByqo2JjGHlnJ3e4ap2obVZFwbSHzPFAkhF4J6ZY3FFz2avjNh9kbmPRsPp8z\/i65\/1IZopxtJ8pEmhHEH1vGcchh5uggyWitG8u1mIGpbj3eM46srtyiSBPgq57Xlf6G8O+zetuul4V5592bWcMQqafhg6yRLPk1gDIx7qOmtSWRd6QIheE+XWgzP0Eo6+mzBGPP+46it4dYzZ7wmuHG0+GPYuWwK3vBvStpZGit7LzI0vi1F94Dj4O9NJI7jV8B+jd\/n6CJ0\/Cn4R8IuMTkW3kGn7f1OI\/pAD4R3I\/sc8UUy7oWt\/BfNCYvXCrfbKXAzkPaENqRW8+WgoK+N\/3SUwU7GlCK1eJ8RSogLxAY9p+Pnui9RNOSEi0+XKKhWZR+Tt3SHuMkLfq8p6BkGf2tmEaS5LyG+JDtEr6Z\/yZqXVlJ73eBdx607u0K50AgOlRu74EOc+TcdxX60oOHXlnZNHiU5CHrusrZrAF1sO3+YXadwJysp4tmYCJLpwvDiyGx1\/qgkNoUYz+ygMAXpbVfmv9x7ZJMesrUz8GRnhCU2tAw3BwJ4G4b1dXNzGyyG3VwvXL3ZJvSGxDSUkxH6dmfHqCyD4KTotJtIz6jtk2Hoz5p5gv6EEFP9bF74DNGXlBjDqEBmg73SgS34pRhXGROgFT4lLFGI+ENsowDqFXpSps59F0\/JpPMc3f5etlmW9hDgAOxoY1D3u5zGJ4eESps6GHn6RLtAqULxu8yDeAUi0dgLVGRvOwb+or6KrZU9TzWJODuF7OgR+k\/cdjFcVb6gePlIMlVYB20DvrhOunXQKZhMwaGUSLwcteBqF9vyAajQRVT4Ch91qAJkg2gW9MpVWgh1x+ydWeuU8JAXAb18XboWxl1laW8j1YRgiXfByofJcELPXpEY9DHEtRO5pJDfO0F+kihr2XxiFFXQYsuSZzldG03B32euYwevm9RKBOZynVah7lBbU0s4cjLQ\/0NKro1dx7YaWfM0BcPbv9BV85EJx7gSLcb1OjsQQIsx2f6KcsfQ+KvY+l9uP3uTvQxB7eIqAHmR8\/2apSpPF4vPsKShgzJ5eB60aGHwzrkzDKH5Q6u5z1DAg3ZWdzaSLypA1ytPJcdw2Wq53wAS6pBY+1HaEjx7C4ZLUPMA+tbL07HvyLEj3s2f1Uo5YN2YbRlEGSmHFXMUGeutRjCLgHAz8nzq6VzxDAx98GzoxGnX3XIEs8KdivCxRIDKlHa\/R+DfUfQjBEOr0nCVyLHjPxItqmUPgO+X++ww2nE+O+QtnlRLTMhQdDNkhmEBhwlXBXBTwJeete75kWv6pfyFinz49PdqSY8dtKq0oMaQgF9yDgA3feVKi98IthCaDv8QYB9UB\/OQreYYcJi8MTBfl\/aHQpTldN4Ynhjagz5iv6Ik+1E3Ohv3hl6HeMSH9zQLqKgZvlTfuos5diebD8ZhuGbfBijv9Oto5Xi01gVH35MlodSfeRyjfwQKv\/aiVC18w6DQgjr9XGxNLqEsNwfKFJ0nTXYWBALRAen5toQW6A4GAyCqD9jGqZ+TkZLMkz5mLQ+cnwbQZMlXRWr2evooOcjCJlLsweEOefOY6pXveJ5g7bcRLXFCGGy4xfK2tdJpPf\/nLhTuauo0KzMwbGOhWGBjMaUTPnN24dnnT\/QNFP64yeqiPOEV0k8AsZYnPdgnxNk0QRn9F9EiaCBuuPvMm2ssFssGlP+VrFSwxNTwXoNNWiU2u\/tR9Ba2cioTNdH4RqE1n7ZydnS6syuxAerarRDnIBYU5kBGYqxlGcM6jj8Nf7Uv1cqFPLFLeOrCCnuJgBGHWFw3zRmHMyBUBRlLbUhPhInRx2Rcwwk5pi+Dp43NqMRNEohD2JuNK2RF4ESePhsbnWbpgTf5kH3+cU4qxtgiKDS2pqYGNeJ97u7pJY+Wr\/N1TG5D3IbSyxqtbqeIy3TGT\/ihuoXffob\/xwA+wo1Y4s9IqLM+GJ5nPPLtdws26Oli0n1bngW3+VmU0jUISAIkeo5aW5tAnGHoDeyufHhbq+VXa9Rna+hUIB+ZTz5chi\/xqdAlms4X\/WBlbh1pT7hp\/\/3n54BLX1JHWpW5IRAO2o+el3HSlWjGdlkDOYWcTDZhDdOiyzC+xcXSUzazkvqXgL1RsNNCTpZ0Rzq2D6D1SAp5hWsAoG9DbqqyUMTSFdZc7EwIdNA36wo\/ZiO006A5cN938gcAqaYAYOSupc\/7QEVlPyu9ufVfhZH6MwmsyM2MT0kIc5ifC7yp3QZxXDNFrYTHBM7qlZfRz99e47w54qAvY3qpC3RsoBz7bPFE5ZdV4OCyVWt0odOb3RkEerFo3JlxRi4sPhhzThRK0XWHntTK2ZS7oYcWBOhauy3ZJ8yOX2RbuXOGG8Wy6MQX1Q5dwWolS0obIxr2ILOpdkHE33dupJAe6kFQjVxe46g62Zc3IgU0v0BIo\/68nyKWHX+vUWAj16rbQTIlR93eepKbCIITDWg3VMZEuQVaIYKfeLvMw7ilarO+NQGixGDAjTnQYF\/6qg7poWlASZE+bxhd0qmAnBX5LblZxsQviDUjRgERnumvl+VP0mynqS5UySfT0e3jsUZUhRtGcdHhcVTu4MMZdt\/UPv1NsFZxL4Fxfs9sGKLlG2KYXdGoiDB+66z6uS+4gGKgYugPEP+l8UV4jjRZwuSfyJennKNTMj9QRIUGW0pYAcTg3xUTHeGnqsZAOlX702rgcYVRkuURusUtUSGdcWkmg2sjMkSf+4Aj9kwcwlnDsNSqrmkuYifNHQyX2nNdt7sz4235aAekHiGEExffH8PJLUgi9zwF6COa96VGikb9WKRoT98zoab94bQ6eoFoGp9iLio\/23SfXnYDT9CV7AkVmdaHb7TZqamqrJmdabsv5iPK8MnRb\/hZaxx0FfifBWexSVygLGLhUBvQI\/imDquWI\/5ZpPiQvuFqIp4newNBvGSaN2KDq1hxbJmCeKh3WZO\/3iAN3ovdfiWAGPEU8FzqAGdFtVg6oLC3KyzTm5CiRdmfL2c4MGqJpBdExjLAAW5zFviKiiFcO9bndqtvm+WkYzvGQRRe3kRhVJL6mf1VjrGWoXD0JXeRA+dRxmE97DMsXBexsXXtJ3NLjus2YdRKPfkmvuhLdYhomnBPeXgMvhbVW8JWny5CSYQpzpcyyuUItIby57Et5TmuCYzjoUdwu5kUzdKUzYr18kLbHW\/YYA0T6BwxYMHB0+fLymd16LZX2VCdITnwG+QlKRyOWcM6Lj9BYkHbMkvFd3WbZwTVnNnJb9k7oNCHDLADRQTO7c3YZv33\/nA6IvT39ni2cgejoLyDYRGoljn5QhEnTFf\/1bZvxBh3JYuPm3G91QjSkhdQyOLSo17lh054PkRLitw1ERyE\/HWWhe31HFz8sudtd+FiuGchSX9FqSP\/XgU+Dve96kf5063JdSEehGLbivSN44xAvYbUJHgdnHkWu18WbxoyQvcGpuhNiS07s1OTgFwXLxwahHTx4xJhbxj+l9jXZb7Ro+H5+3cq40hTy4k\/3QCW9GRleI73Nk0UcqAZ3p08L+S3pzp7y9BpwWmfhuEN24yIgvM6br4XYbU12R4o3o1gtf2oE5es3Gj\/pwamNxxt9phj1zojZox86DO3Wd+Xy3WcnTtUZJTqUZ7bT5dLlcHV6DcQY4jFHfWjjow6RibfCxWmGnTk5tGwPEJ7co2fDpB2lYe0X0Q8xELNF7YIVIzdQ5600K7bb4Fxka3EdWiIh0YW3Wbq4u62wdx+rPG8Le7lliCp7DC3hFUL16zbNMNK5EbltSOOPAjoKjuUSF6w3BJZfNxRzcQjRqyqmpwPr5ERAVDxHm93wwCN0VRjRNWsFbB0O8UlWT2skpSbUpn1Hyfn6gX57Og5LVmjfaOgLGzOg3riEEbXhu70gN8PRtja8yo2ByKp7Quox4uOReAiza+lyIu7iH7fTWcLpprNPdNSj9v2HgNzhG4J21MoJXB+ZDhKdCrxLx\/VpG6HlyuNoNubANGYHSRaCCNIYjqwSXq89AnAFuSN\/NRAFeJGkPscLI9LOV8\/w+JDKZl4k1MWAXQ8zvVmNGPIrufaEFx7ofvj5\/BNPbUa0W8Oi4pUHHsRerxlR\/RBXaUpPmnrImmFqOb+tYWUeLsLvMk2PTjWl3oD17vEYwpTfGHIqKmKJNJTn83j4VaFwIe71Z8dyVDPdPqV8GLKyfGarD46zoKizNqCBaDu4jrVvzElKc8S6akmNjiuKULnirr4kgSzz\/M+8uDyRMip358uUNHWBjyiA42mmyX+cQbcWJ+gIH1SsZaJnPC6UyCvYXh+Y9Zn2aPC6XKbld0H0XS7DMHgpIOj35WVx\/aKmZH\/AZxj2EOTOkRyrPGoAyprI85ZDEsGO8Wza6HWtPuv4GLtNYGpdGaq1ppQ60y9M3gUOwvifl4lzMq1FU7LLkNLFpMpMrNRVgn1gcFm40TLTpGaQOcFmmgXIDKiE4TUtFzL5+INNXxq7pl6IPbIylw6ufX5UyFZFoYgdtgdyc0RgAtElsYTa1ck3eUbnBkk+rADokO0Cd0pyFVTUa2sGCRCN7gGB8gx0cETf4+we2S0wIdBxOIOTnwbKvWocqVwZAa9hcf9abn6C1zD88gJYRmXS7Nc4iAcwFDxmEBecD1BNaA9YZr9ckbOJ6PiE4fK3ZSPgbH18OOQiDNVciE6A5740yzC8loc\/CcafrYYdrXCwo6UYjCp5YgG3zQmOy4iEvMeLPlFd6JW3QJw5XfUcusHlg8MNibZcEFkLytrl8Rq1maw5pAhIWNL24xGEqvIBlcQ1\/uhTQYX2WXIwKguy8+2PDiBwnrQK6mt5ifcUtQz6uQXNzWJ77EK8gn6vJw1UmFCAuMGLdkCkbVWhAieQR2YMgeMyMSIV0FxiNCjZZ9bYFpEdxZ0DnqCkDI9lGh7Mkx5QjBToDiPTxcKMfCEmZWGqRByQD8eIXm0FeCOPQ3jTRCe62q1U\/bSsA3ZvJ4SsXQTs+rEGQDGGByJnKwwLbWCuuYkgKWZToiaqOFBlMDmyBrJYpdstSRbngFYx3ZbXQC70NrQQZ0WyZWF0GZAHrgXfLWsnidX6Qv7JS61GNVHkxs10Gr5mKF1j0S401GWLQgh\/4xQFmY3JglyhrhiwONHiATqYEXUStykxk8OJiOEPsiz1i+5DRbvUH1w8p6rx44HXgjnSNMArHED2tzkDhB36XZbHQIqcdOW9fG5HWo0u0b\/Q6ZZu4TWWs0K1iXxuhj+cEHGFO4abwKMXUSm4fFB\/NsttRYhSXSDTzZ4M2zMc5bjsckSgPDysz6RG178egUnD6VJxDfko75ShDVV8y3Eo9FGfhvyfd36n98bHQLznONKhh3XMASTJVNns8DFGzlYhdjkhQdSBBHdw6Iwln2FnbAa+0B6Yzx9XO5\/Rkzfk834uQIrAtWDfpkMEMsYiKxPiIPy0DkaIpTBdXMe4rCZucavRKbwhWT7E4P94ZGFID8dE+KrmUzdDHvnQQiloWe4WQ9co9BSlFRKgveuUdkltNkPBsug0+Q1FUD\/n2nLJsOuD0MG2Y1a5JlrYIa2EfIhTFmx1cV3xgNrOF350EETbW3icRLSElER5r3dD8bxwleTUcP1BdC7ysX6iclsgEwtm5L3y7Ea0IjEiyL3+VUwzIL\/QD7zFfM9y+V4J5l08i9iBawhFLLavf8uicUOk2IG0J+kxEC1tOhvRS8gacWqqkm88kwlwwyu4VE6G1m4aMbIr7c729XLF\/HG6bx+uM\/Npm\/mjRI7IYwodBS9UhY7GRaoP2gFMdCIiU0S3A3jjcNSvNKR47SDcaMMnhRRSSCGFFFL4tkOI\/wMLenJ28CUJMAAAAABJRU5ErkJggg==\"  \/><\/p><p>The organism is found in soils rich in<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The organism is found in soils rich in humans.<\/span><\/p>\n",
+        "Topic": "Variety of Organisms",
+        "Difficulty": "Medium"
+    },
+    "Question 8": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>The organism finds it easy to grow freely<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>The organism has a pair of joint appendages<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>The body is not divided into a number of segments<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>The body is covered in chitin<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Which of the following describes a characteristic of arthropods?<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Arthropods have exoskeleton made of chitin. They possess segmented body with jointed appendages but the appendages are not just a pair. In crustacea, the thoracic segments bear eight pairs of appendages.<\/span><\/p>\n",
+        "Topic": "Variety of Organisms",
+        "Difficulty": "Easy"
+    },
+    "Question 9": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>The wings of butterfly rest horizontally both those of moth rest vertically<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Both are active during the day<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>They have similar antennae<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>The abdomen of moth is fatter than that of butterfly<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Which of the following distinguishes a butterfly from a moth?<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Butterflies and moths both possess a pair of wings; while butterflies are diurnal insects. Most moths are nocturnal. Moths differ from butterflies as they have fatter and more hairy bodies. The antennae of most moths are pointed at their tips while those of most butterflies have knobs at their tips.<\/span><\/p>\n",
+        "Topic": "Variety of Organisms",
+        "Difficulty": "Easy"
+    },
+    "Question 10": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Quill<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Filoplume<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Covert<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Down<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Which of the following types of feathers is used for flight in birds?<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Quill feathers (flight feathers) are used for flying; they are large and stiff; they occur on the tail and wing. Filoplumes are small hair like feathers; they are sparsely distributed over the body and grow in clusters. Covert feathers are for insulation.<\/span><\/p>\n",
+        "Topic": "Variety of Organisms",
+        "Difficulty": "Easy"
+    },
+    "Question 11": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Mesophytes<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Hydrophytes<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Epiphytes<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Xerophytes<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The plants that grow in deserts or very dry areas are referred to as<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Xerophytes are plants that can survive in places where water supply is limited, either because there is little of it in deserts or conditions make it difficult for the root to absorb water e.g. high mountain tops.<\/span><\/p>\n",
+        "Topic": "Variety of Organisms",
+        "Difficulty": "Easy"
+    },
+    "Question 12": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Paramecium<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Virus<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Amoeba<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Chlamydomonas<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Which of the following is the simplest living organism?<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Viruses which cannot reproduce independently are smaller and simpler than bacteria and much simpler than protozoans like amoeba, paramecium and chlamydomonas.<\/span><\/p>\n",
+        "Topic": "Variety of Organisms",
+        "Difficulty": "Easy"
+    },
+    "Question 13": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Insects<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Tapeworms<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Amphibians<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Molluscs<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Proboscis is a structure that is mostly found in<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>All insects have basic mouth-parts which are modified according to the food they eat. The mouth-part consists of the mandible, maxilla, labrum, labium, hypopharynx, maxillary and labial palp.<\/span><\/p>\n",
+        "Topic": "Form and Functions",
+        "Difficulty": "Easy"
+    },
+    "Question 14": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Broad leaves with numerous stomata<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Spongy mesophyll<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Spiny leaves<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Prominent stomata in leaves<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The structural adaptation of desert plants for water conservation is<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Desert plants lack broad leaves, with numerous stomata as this will lead to high transpiration of water. Spongyl mesophyll is part of the internal structure of a leaf. Prominent stomata in leaves will make more water to be released to the atmosphere as desert plants need to conserve water, their leaves are reduced which spine to reduce the surface area from which water can leave the plants to the atmosphere.<\/span><\/p>\n",
+        "Topic": "Ecology",
+        "Difficulty": "Easy"
+    },
+    "Question 15": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Crushing seeds<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Scooping mud<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Tearing flesh<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Grasping prey<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The long and sharp clawed feet of birds is an adaptation for<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Birds that feed on flesh like hawk and owl have strong and hooked beak for tearing flesh and strong, long sharp and curved clawed feet for grasping prey.<\/span><\/p>\n",
+        "Topic": "Variety of Organisms",
+        "Difficulty": "Easy"
+    },
+    "Question 16": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Anabaena<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Sulphur bacteria<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Nitrosomonas sp.<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Nitrobacter sp.<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>During the manufacture of food by plants, which of the following organisms use energy from the sun?<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>During the manufacture of food by plants, anabaena is one of the organisms that use energy from the sun. Nitrosomonas and Nitrobacteria are organisms that fix Nitrogen to the soil.<\/span><\/p>\n",
+        "Topic": "Ecology",
+        "Difficulty": "Easy"
+    },
+    "Question 17": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Osmosis<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Translocation<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Transpiration<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Diffusion<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Movement of minerals and chemical compounds within a plant occurs during<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Movement of minerals and chemical compounds within a plant occurs during transpiration. Translocation involves movement of food. Osmosis has to do with the movement of solvents (water); during diffusion, molecules move from one region to another depending on their concentration gradients. <\/span><\/p>\n",
+        "Topic": "Form and Functions",
+        "Difficulty": "Easy"
+    },
+    "Question 18": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Rennin<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Lipase<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Pepsin<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ptyalin<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The enzyme that is present in the saliva is<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Ptyalin is an enzyme present in the saliva. Pepsin and rennin are enzymes found in the stomach. Lipase is seen in the small intestine.<\/span><\/p>\n",
+        "Topic": "Form and Functions",
+        "Difficulty": "Easy"
+    },
+    "Question 19": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Carnivorous<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Symbiotic<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Parasitic<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Saprophytic<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Plants that have special devices for trapping and digesting insects are<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Carnivorous plants are plants with special devices for trapping and digesting insects e.g. bladderworts.<\/span><\/p>\n",
+        "Topic": "Form and Functions",
+        "Difficulty": "Medium"
+    },
+    "Question 20": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Autrophism<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Photosynthesis<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Photolysis<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Respiration<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The process of transforming the chemical energy of cellular fuels into the high energy bonds of ATP in plants is <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The process of transforming food particles containing chemical energy of cellular fuels into energy that are of high energy bonds of ATP in plants is respiration. Photolysis is a chemical process by which molecules are broken down into smaller units through the absorption of light.<\/span><\/p>\n",
+        "Topic": "Form and Functions",
+        "Difficulty": "Medium"
+    },
+    "Question 21": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Are filamentous <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Lack chlorophyll<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Have mycelium<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Lack roots<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Fungi are referred to as heterotrophs because they <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Heterotrophs are organisms that cannot manufacture their food by themselves. Fungi lack chlorophyll; hence, they cannot photosynthesize. They feed saprophytically.<\/span><\/p>\n",
+        "Topic": "Variety of Organisms",
+        "Difficulty": "Easy"
+    },
+    "Question 22": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Paramecium<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Plasmodium<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Euglena<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Chlamydomonas<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>An example of a parasitic protozoan is<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Parasites are organisms that live on another organism called the host; they depend partially or wholly on them. Plasmodium is a parasitic protozoon; it lives inside human blood causing a disease called malaria.<\/span><\/p>\n",
+        "Topic": "Ecology",
+        "Difficulty": "Easy"
+    },
+    "Question 23": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Phagocytes<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Lymphocytes<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Erythocytes<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Monocytes<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Which blood cells are involved in the immune response of vertebrates?<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Lymphocytes are concerned with the production of anti-bodies and anti-toxins both of which protect the body from the harmful effect of disease-causing organisms i.e. they give immunity against diseases; therefore, they constitute the immune system of the body.<\/span><\/p>\n",
+        "Topic": "Form and Functions",
+        "Difficulty": "Easy"
+    },
+    "Question 24": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Heart, arteries, capillaries and veins<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Heart, aorta, capillaries and veins<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Heart, aorta, arteries and veins<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Heart, vena cava, arteries and veins<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The blood circulatory system of vertebrates consist of<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The blood circulatory system of vertebrates consists of the heart, Arteries, Capillaries and Veins. Aorta is part of the heart which includes the vena cavity. All vertebrates have circulatory systems based on a common plan, and so vertebrate systems show much less variety than do those of invertebrates.<\/span><\/p>\n",
+        "Topic": "Form and Functions",
+        "Difficulty": "Easy"
+    },
+    "Question 25": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Cambium<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Xylem<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Cortex<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Phloem<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A plant tissue that carries water and mineral salts is the <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The xylem carries water and mineral salts from the root to other parts of the plant. Phloem carries manufactured food from the leaf to other parts of the plant.<\/span><\/p>\n",
+        "Topic": "Form and Functions",
+        "Difficulty": "Medium"
+    },
+    "Question 26": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Red blood cells<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>White blood cells<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Plasma<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Platelets<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Which of the following helps in the clotting of blood?<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Blood clotting or coagulation is an important process that prevents excessive bleeding when blood vessels are injured. The process involves platelets and blood proteins. Platelets plugs are formed due to exposure of damaged blood vessels to air. <\/span><\/p>\n",
+        "Topic": "Form and Functions",
+        "Difficulty": "Easy"
+    },
+    "Question 27": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Leucocytes<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Platelets<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Plasma<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Erythrocytes<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Which of the following forms about 55% of the volume of the blood in man?<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Blood plasma is the straw coloured pale yellow liquid component of blood that normally holds the blood cells in whole blood in suspension. It makes up about 55% of total blood volume.<\/span><\/p>\n",
+        "Topic": "Form and Functions",
+        "Difficulty": "Easy"
+    },
+    "Question 28": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Sweat gland<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Malphigian layer<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Sebaceous gland<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Horny layer<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The part of the mammalian skin involved in excretion is the<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Sweat gland is the part of the mammalian skin involved in excretion; sebaceous gland is for production of sebum for skin lubrication.<\/span><\/p>\n",
+        "Topic": "Form and Functions",
+        "Difficulty": "Easy"
+    },
+    "Question 29": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Alkaloids<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Uric acid<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Sweat<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Mucilage<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Which of the following is a waste product of an insect?<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Birds excrete nitrogenous wastes as uric acid in form of a paste, a way to conserve water.<\/span><\/p>\n",
+        "Topic": "Form and Functions",
+        "Difficulty": "Easy"
+    },
+    "Question 30": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Skeleton<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ligament<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Muscle<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Joint<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The main structure in vertebrates that supports and protects the body is the <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Skeleton is the main structure in vertebrates that supports and protects the body. Muscle enhances movement. Joint is where two bones meet.<\/span><\/p>\n",
+        "Topic": "Form and Functions",
+        "Difficulty": "Easy"
+    },
+    "Question 31": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Lipids<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Proteins<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Calcium compounds<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Organic salts<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The chitin in the exoskeleton of many arthropods is strengthened by<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Chitin in the exoskeleton of many arthropods is strengthened by proteins. Chitin is a polysaccharide. It is an important composition of a cell wall of fungi. It is the main constituent of the exoskeleton of the arthropods.<\/span><\/p>\n",
+        "Topic": "Form and Functions",
+        "Difficulty": "Easy"
+    },
+    "Question 32": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Propagation<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Placentation<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Pollination<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Fertilization<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The transfer of pollen grains from the anther to a receptive stigma is<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Pollination is the transfer of pollen grains from the anther to a receptive stigma. In flowering plants, placentation is the attachment of ovules inside the ovary. The ovules inside a flower's ovary (which later become the seeds inside a fruit) are attached via funiculi, the plant part equivalent to an umbilical cord.<\/span><\/p>\n",
+        "Topic": "Form and Functions",
+        "Difficulty": "Easy"
+    },
+    "Question 33": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Carpel<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Stamen<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Petal<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Sepal<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The male reproductive organ of a flower is the<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The male reproductive organ of a flower is Stamen. The development of the male reproductive system is a complex biological process, which includes the formation of the stamen with differentiated anther tissues (in which microspores\/pollens are generated), then anther dehiscence, and subsequently pollination.<\/span><\/p>\n",
+        "Topic": "Form and Functions",
+        "Difficulty": "Easy"
+    },
+    "Question 34": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Parathyroid<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Adrenal<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Pituitary<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Thyroid<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The gland that is found just below the hypothalamus is the <\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Pituitary gland is a gland found below the hypothalamus. Thyroid gland is located in the neck with parathyroid. Adrenal gland is on top of kidney.<\/span><\/p>\n",
+        "Topic": "Form and Functions",
+        "Difficulty": "Easy"
+    },
+    "Question 35": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Cytokinin<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Abscisic acid<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Auxin<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Gibberellin<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The most important plant hormone is<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The most important plant hormone that affects growth is auxins. Auxins promote stem elongation, inhibit growth of lateral buds (maintains apical dominance). They are produced in the stem, buds, and root tips.<\/span><\/p>\n",
+        "Topic": "Form and Functions",
+        "Difficulty": "Easy"
+    },
+    "Question 36": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Cone<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Lens<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Rod<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Iris<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The sensory cell that responds to dim light is referred to as the<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>There are two sensory cells in the eye; the rods and the cones. Rods function mainly in dim light and provide black and white vision while cones are responsible for colour vision as well eye colour sensitivity, they function best in relatively bright light.<\/span><\/p>\n",
+        "Topic": "Form and Functions",
+        "Difficulty": "Easy"
+    },
+    "Question 37": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Decreasing dehydration<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Drastic dehydration<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Eliminating dehydration<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Increasing dehydration<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The absence of anti-diuretic hormone in humans results in<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Anti-diuretic hormone or arginine vasopressin helps to conserve body water by reducing the loss of water in urine. A diuretic agent is an agent that increases the rate of urine formation, in the absence of anti \u2013diuretic hormones, the collecting ducts are virtually impermeable to water and it flows out as urine.<\/span><\/p>\n",
+        "Topic": "Form and Functions",
+        "Difficulty": "Easy"
+    },
+    "Question 38": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ovaries<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Testes<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Anterior pituitary<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Adrenal cortex<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Oestrogen is a hormone that is synthesized in the<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Oestrogen is a reproductive hormone. It causes the development of secondary female sexual characteristics like enlargement of breasts, widening of hips etc. it is being produced by the ovaries. <\/span><\/p>\n",
+        "Topic": "Form and Functions",
+        "Difficulty": "Easy"
+    },
+    "Question 39": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Presbyopia<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Glaucoma<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Cataract<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Astigmatism<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The eye defect caused by the development of cloudy areas in the lenses is<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Cataract is a disease of the eye that affects the lens which leads to development of cloudy areas in the lens.<\/span><\/p>\n",
+        "Topic": "Form and Functions",
+        "Difficulty": "Easy"
+    },
+    "Question 40": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Crude oil<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Heavy metals<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Cellophane<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Sewage<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A pollutant that is biodegradable is<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Only sewage is biodegradable. Cellophane, crude oil and heavy metals are not biodegradable.<\/span><\/p>\n",
+        "Topic": "Ecology",
+        "Difficulty": "Easy"
+    },
+    "Question 41": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Sleeping sickness<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>River blindness<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Yellow fever<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Malaria<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A tropical disease caused by Trypanosome is<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Sleeping sickness is caused by trypanosome \u2013 a protozoan. Malaria is caused by plasmodium \u2013 a protozoan. River blindness is caused by a filarial worm \u2013 Onchocercavolvulus and yellow fever is caused by a virus carried by aedes mosquito.<\/span><\/p>\n",
+        "Topic": "Ecology",
+        "Difficulty": "Easy"
+    },
+    "Question 42": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Atmosphere<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Hydrosphere<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Biosphere<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Lithosphere<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The solid part of the ecosystem is referred to as the<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Lithosphere is the solid part of the ecosystem. Biosphere is where life exists. Hydrosphere contains water bodies. Atmosphere - air.<\/span><\/p>\n",
+        "Topic": "Ecology",
+        "Difficulty": "Easy"
+    },
+    "Question 43": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Gonorrhoea<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Leprosy<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Tuberculosis<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Syphilis<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Which of the following is caused by Treponemapallidium?<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Syphilis is caused by Treponemapallidium. Mycobacterium tubercle causes tuberculosis, Neisseria gonorrhoea causes gonorrhoea.<\/span><\/p>\n",
+        "Topic": "Ecology",
+        "Difficulty": "Easy"
+    },
+    "Question 44": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>B<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>O<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>AB<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>To which blood group do universal recipients belong?<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Group AB people are universal recipients while Group O people are universal donors. Group A people can only take blood from A or O Group and Group B people can only take blood from B or O Group.<\/span><\/p>\n",
+        "Topic": "Heredity and Variations",
+        "Difficulty": "Easy"
+    },
+    "Question 45": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Agglutination<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Fusion<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Transfusion<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Compatibility<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The clumping together of red blood cells is<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The clumping of red blood cells in the presence of antibodies is called agglutination. It occurs when people are given blood transfusion of the wrong blood group.<\/span><\/p>\n",
+        "Topic": "Heredity and Variations",
+        "Difficulty": "Medium"
+    },
+    "Question 46": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Rejuvenation<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Xeromorphism<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Hibernation<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Aestivation<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Physiological adaptation to very dry conditions in animals demonstrates<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Xeromorphism is the physiological adaptation of animals to very dry conditions. Aestivation is becoming inactive in hot seasons.<\/span><\/p>\n",
+        "Topic": "Variety of Organisms",
+        "Difficulty": "Easy"
+    },
+    "Question 47": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Internodes<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Stem to leaves<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Leaves to spine<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Flower size<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>One adaptation of Cactus opunitia to conserve water is the reduction of<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Cactus opuntia conserves water through reduction in leaves to spine.<\/span><\/p>\n",
+        "Topic": "Variety of Organisms",
+        "Difficulty": "Easy"
+    },
+    "Question 48": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Hooked beak and sharp claws<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Smooth beak and strong claws <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Big beaks and strong feet<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Pointed beak and strong claws<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Which of the following structure is adapted for feeding in a bird of prey?<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>For birds to adapt for feeding in a prey, they possess hooked beak and sharp claws.<\/span><\/p>\n",
+        "Topic": "Variety of Organisms",
+        "Difficulty": "Easy"
+    },
+    "Question 49": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Melanin<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Carotenoid<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Chromatin<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Chromatophore<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The special pigment for colour change in chameleon is<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Chameleons have specialized cells \u2013 chromatophores \u2013 which contain pigments in their cytoplasm in three layers below their transparent outer skin. This helps to control colour change.<\/span><\/p>\n",
+        "Topic": "Variety of Organisms",
+        "Difficulty": "Easy"
+    },
+    "Question 50": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Symbiosis<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Saprophytes<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Parasitism<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Commensalism<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The behavioural adaptation in social insects could best be described as<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Behavioural adaptation in social insects is best described as symbiosis. None is hurt in the process.<\/span><\/p>\n",
+        "Topic": "Variety of Organisms",
+        "Difficulty": "Easy"
+    },
+    "Answers": [
+        "D",
+        "B",
+        "D",
+        "D",
+        "D",
+        "C",
+        "B",
+        "B",
+        "D",
+        "A",
+        "D",
+        "B",
+        "A",
+        "C",
+        "D",
+        "A",
+        "B",
+        "D",
+        "A",
+        "D",
+        "B",
+        "B",
+        "B",
+        "A",
+        "B",
+        "D",
+        "C",
+        "A",
+        "B",
+        "A",
+        "B",
+        "C",
+        "B",
+        "C",
+        "C",
+        "C",
+        "B",
+        "A",
+        "C",
+        "D",
+        "A",
+        "D",
+        "D",
+        "D",
+        "A",
+        "B",
+        "C",
+        "A",
+        "D",
+        "A"
+    ]
+}

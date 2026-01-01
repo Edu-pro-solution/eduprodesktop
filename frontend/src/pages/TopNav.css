@@ -1,0 +1,130 @@
+/* 
+.top-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  z-index: 1000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.menu-toggle {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.logo-container {
+  flex: 1;
+  text-align: center;
+}
+
+.logo {
+  max-width: 100%;
+  height: auto;
+}
+
+.menu-container {
+  position: relative;
+}
+
+.menu-dots {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.dropdown-menu {
+  position: absolute;
+  top: 50px;
+  right: 0;
+  background-color: #444;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  display: none; 
+}
+
+.dropdown-menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+}
+
+.dropdown-menu ul li {
+  padding: 10px 15px;
+}
+
+.dropdown-menu ul li a {
+  color: white;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-menu ul li:hover {
+  background-color: #555;
+}
+
+
+@media screen and (max-width: 880px) {
+  .menu-toggle {
+    display: inline-block;
+  }
+
+  .menu-dots {
+    display: inline-block;
+  }
+}
+
+
+@media screen and (min-width: 881px) {
+  .menu-toggle {
+    display: none;
+  }
+
+  .menu-dots {
+    display: none;
+  }
+
+  .dropdown-menu {
+    display: block; 
+  }
+} */
+
+.shadowss {
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.1) !important; /* Add shadow */
+}
+.nav-item a {
+  text-decoration: none; /* Removes underline */
+  color: inherit; /* Ensures it uses the default text color */
+  display: flex; /* Align icon and text */
+  align-items: center; /* Vertically centers icon and text */
+  gap: 5px; /* Adds space between icon and text */
+}
+
+/* Hide desktop navigation on small screens */
+@media screen and (max-width: 768px) {
+  .desktop-only {
+    display: none !important;
+  }
+
+  .mobile-only {
+    display: flex !important;
+  }
+}
+
+/* Hide mobile navigation on larger screens */
+@media screen and (min-width: 769px) {
+  .mobile-only {
+    display: none !important;
+  }
+}

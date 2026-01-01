@@ -1,0 +1,1304 @@
+{
+    "Question 1": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ferries <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ocean liners<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Tramp steamers <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Costal liners <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Ships that sail across the ocean and operate on scheduled time tables are <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A ferry is one of the means of sea transportation. It is a form of ship that sails across the ocean and operates on a scheduled time-table. A ferry is a merchant vessel used to carry passengers, and sometimes vehicles and cargo, across a body of water. <\/span><\/p>\n",
+        "Topic": "Aids-to-trade",
+        "Difficulty": "Easy"
+    },
+    "Question 2": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Gambling <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Damage to property <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Death <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Marine problems <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Non-insurable risks include <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>An uninsurable risk could include a situation in which insurance is against the law, such as coverage for criminal penalties. Gambling is a form illegal act which may or may not yield desired returns\/rewards. It is not insurable.<\/span><\/p>\n",
+        "Topic": "Aids-to-trade",
+        "Difficulty": "Easy"
+    },
+    "Question 3": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Micro program <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>System flowchart <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>System software <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Syntax <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The program that makes up the operating system is a computer is <\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The system software is a program in the computer system that processes data and gives out required information as output. It is a program that makes up the operating system in computers.<\/span><\/p>\n",
+        "Topic": "Information and Communication Technology",
+        "Difficulty": "Easy"
+    },
+    "Question 4": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Market integration <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Market positioning <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Market orchestration <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Product differentiation <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>When an organization studies a market that is underserved by others and creates a product or services for the segment, it is engaged in <\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>In a nutshell, marketing orchestration is the synchronization of data from multiple sources (internally and externally) then using that unified intelligence to power more relevant and personalized experiences in real-time across all departments (especially marketing, sales, and customer service)<\/span><\/p>\n",
+        "Topic": "Elements of Marketing",
+        "Difficulty": "Medium"
+    },
+    "Question 5": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Insurance <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Assurance <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Warranty <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Reinsurance <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Coverage against unexpected events is called <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Insurance is the coverage against unforeseen contingencies or circumstances. It is the pooling of risk in order to indemnify the insured (victim).Insurance is a contract, represented by a policy, in which an individual or entity receives financial protection or reimbursement against losses from an insurance company. <\/span><\/p>\n",
+        "Topic": "Aids-to-trade",
+        "Difficulty": "Easy"
+    },
+    "Question 6": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A voyage policy <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A total loss<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>An emergency <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A particular average <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>An insured risk which occurs accidentally as a result of defects in a ship is <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A particular average loss is referred to as a type of insured risk as to which occurs unknowingly or accidentally as a result of defects in a ship.<\/span><\/p>\n",
+        "Topic": "Aids-to-trade",
+        "Difficulty": "Easy"
+    },
+    "Question 7": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Facilitating interaction between producers and consumers <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Facilitating interaction among media houses <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ensuring the movement of goods from the producer to the consumer <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Keeping the goods safe until they are needed <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Communication enhances business activities by <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The enhancement and facilitation of interaction and communication between the consumers and the producers is what is referred to as communication. Effective communication networks enhance the facilitating interactions between entities. <\/span><\/p>\n",
+        "Topic": "Aids-to-trade",
+        "Difficulty": "Easy"
+    },
+    "Question 8": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Financial management <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Marketing management <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Educational management <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Information management <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>In business, the computer is very important especially in <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Information management (IM) is the collection and management of information from one or more sources and the distribution of that information to one or more audiences.<\/span><\/p>\n",
+        "Topic": "Information and Communication Technology",
+        "Difficulty": "Easy"
+    },
+    "Question 9": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Persuasion <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Conviction <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Information <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Education <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>What is the most important use of promotion in marketing?<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Information, a processed data which is known as disseminated idea, is referred to as the most important use of promotion in marketing. It provides a platform whereby the public is well detailed about the activities of a business or goods and services offered by that business sector.<\/span><\/p>\n",
+        "Topic": "Elements of Marketing",
+        "Difficulty": "Medium"
+    },
+    "Question 10": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>National Council on Privatization <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Securities and Exchange Commission <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Nigeria Investment Promotion Commission <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Bureau of Public Enterprises <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The current highest decision-making body on privatization and commercialization of public enterprises in Nigeria is the <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The Bureau of Public Enterprises is a body of laid down rules of activities and protocol to be followed by companies and some other business units\/organizations. It is the current highest decision making body on privatization and commercialization of public enterprises in Nigeria.<\/span><\/p>\n",
+        "Topic": "Legal Aspects of Business",
+        "Difficulty": "Medium"
+    },
+    "Question 11": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Guinea, Ghana and Niger Republic <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Burkina Faso, Guinea and Nigeria <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>The Gambia, Benin Republic and Chad Republic <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Nigeria, The Gambia and Cameroun<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The members of the Niger Basin Commission include <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The Commission of the Niger River was renamed the Niger Basin Authority on November 21, 1980. The member Countries are: Benin, Burkina Faso, Cameroon, C&#244;te d'Ivoire, Guinea, Mali, Niger, Nigeria and Chad. Hence, the member countries of the Niger Basin Commission (NBC) includes: Burkina Faso, Guinea and Nigeria.<\/span><\/p>\n",
+        "Topic": "Trade Associations",
+        "Difficulty": "Easy"
+    },
+    "Question 12": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Outside an organization but relevant to its operations <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Inside an organization but irrelevant to its operations <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Internal to an organization and relevant to its operations <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>External to an organization but indirectly related to its operations<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Business environment refers to all elements that are <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Business environment is a set of forces and condition outside the organization boundaries that have the potential to effect the organizations operation's operation. They are elements that extend to an organization but indirectly related to its operation. it can also be regarded as all of the internal and external factors that affect how the company functions including employees, customers, management, supply and demand and business regulations. An example of a part of a business environment is how well customers' expectations are met.<\/span><\/p>\n",
+        "Topic": "Business Environment and Social Responsibility",
+        "Difficulty": "Easy"
+    },
+    "Question 13": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Credit <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Free samples of a product <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Redress <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A share of profits <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Consumer rights include the right to <\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Consumer rights are generally a reference to a body of law that pertains to things the producers of goods must do to protect customers from harm. So, it includes the  right to redress is one of the rights of a consumer.<\/span><\/p>\n",
+        "Topic": "Legal Aspects of Business",
+        "Difficulty": "Medium"
+    },
+    "Question 14": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Integrity <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Independence <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Landmass <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Population <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>One important requirement for the membership of the ECOWAS is <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Independence is the ability for a body or person to thrive comfortably and successfully without external guidance or control. This is an attribute that must be possessed by any member country of ECOWAS.<\/span><\/p>\n",
+        "Topic": "Business Environment and Social Responsibility",
+        "Difficulty": "Easy"
+    },
+    "Question 15": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>SON<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>NPF<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>MAN<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>NAFDAC<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>In Nigeria, the body that ensures that its members operate according to their professional ethics is the <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>In Nigeria, the body that ensures that its members operate according to their professional ethics is the Standard Organization of Nigeria (SON).The Standard Organization of Nigeria (SON) is the sole statutory body that is vested with the responsibility of standardizing and regulating the quality of all products in Nigeria. SON was established by the Act No.56 of 1971.<\/span><\/p>\n",
+        "Topic": "Legal Aspects of Business",
+        "Difficulty": "Medium"
+    },
+    "Question 16": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Conduct <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Necessity <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ratification <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Estoppels <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A transporter who had to sell some perishable goods without the prior authority of the owner becomes an agent by <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Agent by necessity refers to a situation whereby a transporter sells some goods or commodities (mostly perishable) without the prior notice of the owner. He\/She becomes an agent by necessity<\/span><\/p>\n",
+        "Topic": "Legal Aspects of Business",
+        "Difficulty": "Medium"
+    },
+    "Question 17": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Land pollution <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Water pollution <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Land and water pollution  <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Air and water pollution <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Poor sewage disposal, oil spill and indiscriminate refuse dumping all lead to <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Land and water pollution is a situation whereby waste materials are disposed off into the water and on the ground, thereby causing impurity to both elements. It is mostly <\/span><\/p><p>led by poor sewage disposal, oil spillage and indiscriminate dumping of refuse, etc.<\/span><\/p>\n",
+        "Topic": "Business Environment and Social Responsibility",
+        "Difficulty": "Easy"
+    },
+    "Question 18": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Encourages entrepreneurship <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Increases the salaries of workers <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Motivates government to establish more businesses <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Gives workers on-the-job training <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>One of the advantages of commercialization is that it <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The broader act of commercialization entails production, distribution, marketing, sales, customer support, and other key functions critical to achieving the commercial success of the new product or service. One of the advantages of commercialization is that it encourages entrepreneurship.<\/span><\/p>\n",
+        "Topic": "Legal Aspects of Business",
+        "Difficulty": "Medium"
+    },
+    "Question 19": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Offer <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Consideration <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Acceptance <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Agreement <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A common element in all contracts is <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Agreement is a situation whereby a reached conclusion has been obtained and ascertained by the parties involved. It is one of the features of a contract.<\/span><\/p>\n",
+        "Topic": "Legal Aspects of Business",
+        "Difficulty": "Medium"
+    },
+    "Question 20": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Loans from IMF<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Bank overdrafts <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Central bank loans <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Money from political parties<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Sources of finance to a business include personal savings, shares, debentures and <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Bank overdraft is referred to as short-term loans giving to debtors with the agreement to pay back at an agreed date. It is mostly given by the Bank.<\/span><\/p>\n",
+        "Topic": "Financing Business",
+        "Difficulty": "Easy"
+    },
+    "Question 21": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Bank rates <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Credit charges <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Interest rates <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Bank charges <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Charges for loans paid by commercial banks to the Central Bank of Nigeria are called <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Bank rates are referred to as the charges paid by commercial Bank to the Central Bank for loans granted. A bank rate is the interest rate at which a nation's central bank lends money to domestic banks, often in the form of very short-term loans. Managing the bank rate is a method by which central banks affect economic activity.<\/span><\/p>\n",
+        "Topic": "Aids-to-trade",
+        "Difficulty": "Easy"
+    },
+    "Question 22": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Personal selling, publicity and advertising <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A prospectus, an offer for sale and a bill of exchange <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Advertising, a prospectus and a bill of exchange <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A prospectus, an offer for sale and placing <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>In the primary market, new shares are issued through <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>In the primary market, new shares are issued through a prospectus, a bill of exchange and an offer for sale.<\/span><\/p>\n",
+        "Topic": "Stock Exchange",
+        "Difficulty": "Easy"
+    },
+    "Question 23": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Billboards and postal stamps<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Payment vouchers and statement of account <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Bills of exchange and promissory notes <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Bills of exchange and salary vouchers <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The instruments of credit include <\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Salary vouchers, as well as bill of exchange are the instruments of credit.<\/span><\/p><p>The common forms of credit instruments are:<\/span><\/p><p> 1. Cheque <\/span><\/p><p> 2. Bill of Exchange<\/span><\/p><p> 3. Draft <\/span><\/p><p> 4. Letter of Credit <\/span><\/p><p> 5. Hundi<\/span><\/p><p> 6. Promissory Note.<\/span><\/p>\n",
+        "Topic": "Purchase and Sale of Goods",
+        "Difficulty": "Medium"
+    },
+    "Question 24": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Registered shares <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Deferred shares <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Issued shares <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Quoted shares <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The shares of a company listed on the stock exchange for sale are referred to as <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Quoted shares are the shares of a company which are not enlisted on the stock exchange market for the purpose of selling. A company is said to be \"listed\", \"quoted\" or \"have a listing\" if its shares can be traded on a stock exchange.<\/span><\/p>\n",
+        "Topic": "Financing Business",
+        "Difficulty": "Easy"
+    },
+    "Question 25": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Selling the shares and stocks of the companies to be privatized <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Encouraging private companies to participate in the exercise <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Negotiating with individuals who want to buy public companies <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Advertising for government <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>What is the role of the capital market in the privatization exercise in Nigeria?<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>During privatization, the role of the capital market is to encourage private companies to also participate in the privatization exercise.<\/span><\/p>\n",
+        "Topic": "Legal Aspects of Business",
+        "Difficulty": "Medium"
+    },
+    "Question 26": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Credit note <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Letters of credit <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Banker's draft <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Letter of hypothecation <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>In International trade, documentary credit is also known as <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Documentary credit, also known as letter of credit refers to a letter issued by a bank to another bank (especially one in a different country) to serve as a guarantee for payments made to a specified person under specified conditions.<\/span><\/p>\n",
+        "Topic": "Trade",
+        "Difficulty": "Easy"
+    },
+    "Question 27": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Securities and Exchange Commission <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Commodity market <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Nigerian Stock Exchange <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Central Bank of Nigeria <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A specialized institution in Nigeria that deals in capital investments in the form of stocks, shares, bond and debentures is the <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The Nigerian Stock Exchange is a specialized institution in Nigeria that specializes in the capital investments (bonds, gift-edged, shares, securities, debentures).<\/span><\/p>\n",
+        "Topic": "Stock Exchange",
+        "Difficulty": "Easy"
+    },
+    "Question 28": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Current assets <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Investment assets <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Fixed assets <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Intangible assets <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A group of assets which a business acquires with the intention of reselling them as referred to as <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Current assets are assets that are bought with the motive of reselling them in order to ascertain one's profit; these assets are not bought for usage. Examples are Stock, Cash, Bank, etc. They are used to run the daily activities of a business concern.<\/span><\/p>\n",
+        "Topic": "Financing Business",
+        "Difficulty": "Easy"
+    },
+    "Question 29": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Called-up share capital <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Paid-up share capital <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Registered share capital <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Issued share capital <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Authorized share capital is also known as <\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The registered share capital which is also known as the authorized share capital is referred to as the shares which is mostly used by the public companies. The authorized capital of a company is the maximum amount of share capital that the company is authorized by its constitutional documents to issue to shareholders. <\/span><\/p>\n",
+        "Topic": "Financing Business",
+        "Difficulty": "Easy"
+    },
+    "Question 30": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ultra vires <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A trespass <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Uberrima fides <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Caveat emptor <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>An action taken by a company outside its object clause is regarded as <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Ultra vires are referred to as actions taken and implemented by a company outside its object clause. Ultra vires acts are any deeds performed beyond the scope of legal authority outlined for a corporation's actions.<\/span><\/p>\n",
+        "Topic": "Legal Aspects of Business",
+        "Difficulty": "Medium"
+    },
+    "Question 31": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Rejuvenation <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Focus <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Diversification <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Consolidation <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The strategy adopted by a firm that ceases to operate at one or more locations because of inactivity is <\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Diversification is the strategy adopted by a firm that ceases to operate at one or more locations because of inactivity.<\/span><\/p>\n",
+        "Topic": "Elements of Marketing",
+        "Difficulty": "Medium"
+    },
+    "Question 32": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>An invoice <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A deed <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A prospectus <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A proposal <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A written partnership contract is known as <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A deed is referred to as a written partnership agreement\/contract to be followed by the parties in the daily implementation of duties in the business such as cessation, profit - sharing, retirement, etc.<\/span><\/p>\n",
+        "Topic": "Business Units",
+        "Difficulty": "Easy"
+    },
+    "Question 33": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Conglomerate merger <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Horizontal merger <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Lateral merger <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Vertical merger <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p> The merger of a textile mill, a cement company and a tannery is referred to as<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A horizontal merger is a merger or business consolidation that occurs between firms that operate in the same industry. Competition tends to be higher among companies operating in the same space, meaning synergies and potential gains in market share are much greater for merging firms<\/span><\/p>\n",
+        "Topic": "Business Units",
+        "Difficulty": "Easy"
+    },
+    "Question 34": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Commerce <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Exchange <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Finance <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Construction <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-weight:bold;font-family:sans-serif;\">Use the diagram below to answer this question<\/span><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAACZCAAAAAAkrDNsAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFxEAABcRAcom8z8AABC0SURBVHhe7Z13QBTX2sbfhUVAwQLRqyLRT70q1ihR8xkgiMGCvSxiNzFqNEZjSWLUXHsMsWOsaJKLiVhWERUsoCDXQhQRUQTEUJQiiKh0WGDvzOxLhC3sbHE96z2\/P2aed2YHFp6ZU945c0YgBQpJmOCaQgjUEMKghhAGNYQwqCGEQQ0hDGoIYRDbDwnYgkIP\/PMXFEYAsYbs8l2MSmduhd9GZQSQa0hQECqdObnaiAyhdQhhGIch+Rs9p\/xWgYFqKtLh95WojRWjMORlv2\/uXvtkZCWGqnjZ+wxc9sfAWDEKQ7zjfol\/uCz4D6iMOPkEoPLyyRzIiyqG1DsQn5Ie+BSgIOhUJtyIScteJgYovXChBCRRz2PPFOIPMCakhLLTAwVDt3bMoth8XKkLmDa4VtwPTK1uHILb0k+aSXt3tRLYxD21t7Awj+wCsHFyS2miPUCb5GxwshJ0lrCHB7zHLo0Eo7hCMtsxC8sW6YciAvPeC\/O7dja322XZHoC\/ohJK12YNfPio7OJB8J7DbFlclng\/fyGARd6K+0myDxkRRmGIRT67zK9\/Szi84ZVltywHN762hN3CNtnf79ihT2y34d\/3hdIm0LABsyV8WAeHQREA\/c0coIT9mFFhFIY4RqcBROS9b1ZZClcTzMrL4WqSACRQzOxj\/uVl5n6j\/u+UwFTmEFiUMtWIBYC5kTQha2MU33lJxYBdWz2t57pKV54btsa1cnXwkPW2cC4ynNkX7Xf0hlOsqVeitMIM7j1ktnicPHooeDTT5+WONTqwLiGOmpW69HgbgO7XpFXzTaFLWtVcU+iWXtIH3h3FVOqdO0GvpzE20Ke9qKIjLGMq9aeDBYLh+dmwWXoYbrFHG1WlbiSpE+kT02bs+kVBK+bEf1FoJwBpRnMhQB\/r81nMptLcVsze8uyWTLkF8Axs2VU1NHWifwQtOD+gsT1bEDVmXRG0YvxgELKbLFg\/oJ495wfY1vLDuCD3ClnvgqouynJNm6NUTXohzfbqTvQFFHWycQzbRVHHPz5BYQQQawg\/2vm6oXpbMMam+lsNNYQwqCGEQQ0hDGoIYVBDCIMaQhjUEMKghhAGNYQwqCGEoddc1rNfURiMDaL2qMih5UQUWqFXQ0ZnvovKUJx1lN0nIYmYLcNRaYNeDRkomonKUJCY7f1g4XhU2kDrEMKghhAGNYQwqCGEQQ0hDP0ZUs4N7bjJacNQEM8syu\/IAkIojWUWVVGyQBv0Z0j4gCyAgyPZ8bYG4vcRzC9bP4OoYRqnB+UB7BovwVBz9NgPmVBa5LJt71iMDEDlh84n5i+LcMSQDDyaJYxde+JjjDRHj4bkdCkHdzEGBiGuDwg\/98aAEB53lQrGHcBAC0xXodCdBnb+9YOsMDAIzSpD3j1ihgEhNGoUYBNoiYEW6HCF5H6P4m+C23ZCVc2736HQC\/E+KKqpPO7UEmU1jp+heK2IL6JQRBrYvS1KJWxojEIVOhiS0nYpqmpKLOSeyUh8pEN7Q5FQz9moqimRPxcjmx1B9VpZFOGOShGF7\/SKyo2PuVHhdaCLIe2qUKnk+Ab9GjJH7TODP90yjCEV8hcrLyrM1BpCO4aEoVdDPPuiMBDDBsOsbqjfEAFjXKbfRV2DuXtQaIxeDUl9gMJAJCdDeiLqN8OZMYlNjjtlYvSKq2wSQStokaUTZ8yiAn9rfB2KxcfyIS80w\/9iGDDr7B2zAO75hTKV7E2\/ewCS4F8v86ysqSE60VHitLVH2tgXjlNm9Mi+7e4ycb3bHdg9WDLWG7Z1n+s+Htb3WdLDFwZ7be6\/EA9RAzVEJ7747O6iDiOLdj+ITnnBtLt63fczPwz+A5imVOHyMfnb8xPXzMuZvTTn0vRrR5zwEDVQQ3Sinm\/mb66ntkUL\/\/W5IBpglEOrkUdi46YxexKLB5vMP\/+k\/IYoKu+l0w7bPY1kR6iDGqITAz96Z1qQIFFoNnbsrq8BrAGmp6xoOIrZYw6FkH6hDHqPXeTfNOzE1NhhebJD1EAN0QmHiDmHZ0kdXYuK7JcwDStTxqKWp0X1mT2dWu4LWzi0daOEXkd3PGl91durUm03moMaohPrRu6dcHjq3E8nzHSy8+S2mE4BtsQC4e\/P3c5s7fjb7Y6hX3aauaPp\/h\/f4farBWd00IJkAQrViB1R6IeQ9ihU4+2J4vWy8EsU0tyEl+wqL52LaiJJLWKWZaklzLIohdVSCTxmV3VBrxAdse3YkF01seOimghbs0VXvdYWzLJ+G1bzQads71pUKrn\/QL\/JRa+vUKnkP40Nk1y8PhSVRlStfJ3Z3qeLUPxNRCv5OwFt1HqmCfcU7w5GdZY79frOQ\/Fa+eMcCiUkNa3jnsd2GxSq0MEQRQw\/thcaXn3D2UVF6NjetwpqCGFQQwiDGkIY1BDCMG5D2BGbTPeXJLiMFb+0lVKM2pAN7Kig\/WNkARmcGsb0I6J6a3+SGLUhE8UXIPObzzEiApc7v4BkxlDth1Mad8dw56bsNj3\/wIAMTk1v0lByyxwjzTHuOmSOXUnudtSEMGJgcqyv9n4YuSEmByy287zNYDB8bL\/8f5TawKfIejqyHVRhw0HFWra62dxO2WZuLW17QPMx4TdmqTvmJc9b1RKHg6j0xdX59VDJ8cJaNp1znZTvU\/FYCx9DbvdbDiZ4KalYy1Y+vVyUbebWZdNzmsoCDVh2cwYqXUnd8BKVvhjV0AOVNlxMUzUvMd6oqovoJijU4b4PhRIKIQeVBnw3C4XORNug0BtjtqDQir0DUciDpzCFFKghhEENIQxqCGFQQwiDGkIY1BDCoIZoB9ef1joxW8fR6g259pxZ3EmXBdqSwL7PLi1OFvCk6iy7vKCP+0\/c3xCTIQv0QaQT87VSu2nZ+y\/ukQhQ6ca+9U8B9YasXwRQOv4oRlqy99MqkH62AyN+ZE9gHLk+OhVDXVi\/GKBkvB7HNPbK9wbp7L48E2ny1HedWQU+6X0wrA322FWTav1jk6XvV2BUJ6pTJwVtvMG75XOMeLLH\/otpnX\/AQCdSrb1tvu3N62\/gSWT9Lr1a5GGgMQVtHDtZhWFQGx65rJ8tzSzvoK6bOnJZ5y3BMgA1X6pcLS17lmOgGzt4\/w18YcqNEyi14LwAZqOUg4chlc6wAqUa6kouTofxqPiTVF\/IvapTdyo\/hO9R6omituNQacX0Vi9QyYHp91DVk6kA5AVOrSPD\/\/EAFLVu4Z75N4pqysM\/kr+P5lVrbq3Fj1DUILFcychdm70o6iBYfo7tgj\/d5KtLkewJGz5MLkNRg1wr9jkDORzWoJDjE\/lX7Ze\/UJgB+hi3RENW+\/fn1sqR1HHP\/tKkf6GqZcjWX6eiqqZM3g\/\/MctRcfRw7IzqFVVVsrd51iT1JI8W34498q8uVPj1R4atRKUeqzn\/QFU30ekRqOSwnar4\/Ehtnv+AzWDZhbJqmmytOVNXo2CoUWRtGY1CNZPXoZDRPRCFGq7YoagLn+EoVDNtFQoeNLiHQg1+zijksVFb9KagE4R1DAf1Z6l9M23nQBRvFo\/+bh7zsjA4059Tny6DSau5DXrDMIYMHnHYge3JfNqtQLZBFUJhUripsPaX+ktFMcCfeQ7sJCwejuWyUDuuxJtk7qwelJcVXsqubt6DYk5oxJSu+QBPHRbMd8ANNZE3ZBh7hg7CQBqGogbPo2HzCNS8SU5xfvA7U7Meam6NW1QQFDIUzoU0D4raUxTv48P07B\/7cG\/xDt12lduvHX0SmArz4dn2KkYl8KR\/aIxnZG7wDXgpfsy0dHYe40ZwzB4JELblRCX3EX70jAtmrrGE9zMTcENN5A25cl\/IgMH0FSheUdAlHEqLMNAAu34hhXC+jF\/Dxt9rwOLYnpvW9oxL77X8c8bJte47nHQYfzXKQgwQALo82CSjXCCc4wNpomvMmbvVk3t4bt5WWOW2ZZwmgzHGCQIAAs2Vn9YKRZZzSEhIULo4DqLFf958FpoufrAj68nerUyxITm65QpczLoTP2QBwBPfPVlQLn50KoFnPkdUGgyBwtEYqaHw5wSLrx9ekkQdePaflBZQuOHLvxau0eQkrE1Dj5gkCNBplAhDyAdtT3r8\/fjg6ofTfNkMGXOO\/jgjfUupBsXhu32DS4tDBirPuygYkiEWiyObfDvs8aCfw+ITl1wX9Z8f77hi60eHqzwmbnLeswH8xEyTMrbzgkWdowtFgxZE+SppoythnMkJSVB\/vqPahtp3bTaiH0iSmrwndIKkkrAhoXk65De9QJz55ygl\/QZNMG\/quNKfFVxRNQBcK1JYAUllrvDVYU2KQ1HhhZBiEQZyKBgSKRKJNjfwTetb5LvUuV8MwITUDp9FJzW4fin0QMbM9DOwmZ2MdKlF6iOrJQDtk3sWqJ0HkaPlh8Ehz1V8CUWsYMPXnuFgYllSAYVQD1xmrwlQ9\/xqHQy1Ep+s0rXEcjl9bJU1CMqBK7FfQDHIRvFZQD4kndOkbhcJAk6pKLEUDRkYHx+\/DdzGZy34p2zDkNatui60L5LchY8E+9bJtsGNj5u9434DoK+gAfC7QsCzYDHfEoudNCTBckAYVLiUrD9\/Ejq2uNNh\/48NcJ8W1B8Z\/bOt6nlENcH2Vuw+dr3m6u7msv9Qh5a7Q78Yr0mBav\/BqdPuKjLFCoZYd+rUyQ7yr0AAem4Fpz27RjY1YU+Eq0xVwnUoGzDN1wIrYM5d3ow1SXDTYBzuLEmbS7aJE8etmjIIhP9+0CViicJX1QAviB+rnxmXFzzuxf0r7ZzT9ssaP8KDOe6R+zQ6XUR5T1UVFgp\/ZcI6hpfLsn9KXAdmWeHM74ME+DjpWYWrydoLk78zg9j7zKeGBP\/qd5r3+c7Rwgn4lFh7pUJYLzUF1ycZwbmbTY9lPjpaCu4Zqdnj8ANaMdBG5zZWPld\/wNScHB\/p+JnSXU+yhsLdU\/DwCLilp+Zo9tPHCcyZ1rJSFAyJ+57h7O75X4\/4KdYthZvYxtPOeUn3RIfNZwZV7Wzcy28\/s+mHATOmuf\/E7uTFA3bizstSjSadtpLNWd2Cq4rNWms+Ursm9Z5J9fX2sMZYlzV7dU2YcfOZaIB9VSlzmYmV3cSVN0SWFPaq3ASB5d2XZ9wXSR2hdXJa7O0w+Co3Nfk9iHy0cd8zsAl+mn3a2kb6DbRZTdbbCYyd6mzv2cncWnMODlWe7d2t6pr8m6BJtbO9bfm9IzIjgk+2d7va8vSsSINsr4hf7RdXqCrbO1Rduvilr8wJNOSQrIDUhkleKGoZconpjKpjWHWKhmOD4uy3ymlU3dSrg8s8XpsxhH9HcTHfbl87FdMVfcvjPTeyEQdoiH4w+DOGbyG6tCUprwFqCGFQQwiDGkIY1BDCoIYQBjWEMKghhKE\/Q6q41+u82RfevAXoz5DzzrkAx10M+C7ctxL9GTLkg68gb94mvlNqU5Sjx1xWRhdT6BuMAUVL9Fip223Mk2j9tjgKosMVkrcRRTVS\/47yN6vsDDIT+9uEDoaktJWf7bDYUu5duMnP9Pp2hP8FdDHE4O\/C\/V+AdgwJQ3+GDBoNk5xhgbIh9hT+6M+Q5BRIewgZyobYU\/hDiyzCoIYQBjWEMKghhEENIQxqCGFQQwhDf4YkxcCVLOVD7Cn8oVcIYeiUXPRBpZKYGJpc1BAdDHkiP+GOEtprNqsfRRdDKK8DWocQBjWEMKghhEENIQxqCGFQQwiDGkIY1BDCoIYQBcB\/AYIZdfzkTHTzAAAAAElFTkSuQmCC\"  \/><\/p><p>As the branches indicates, IV is <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Construction is one of the forms of industrialization. It is the building and maintaining of certain amenities such as roads, bridge, etc.<\/span><\/p>\n",
+        "Topic": "Occupation",
+        "Difficulty": "Easy"
+    },
+    "Question 35": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Aids to trade <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Advertising <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Manufacturing <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Industry <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-weight:bold;font-family:sans-serif;\">Use the diagram below to answer this question<\/span><\/p><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAACZCAAAAAAkrDNsAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFxEAABcRAcom8z8AABC0SURBVHhe7Z13QBTX2sbfhUVAwQLRqyLRT70q1ihR8xkgiMGCvSxiNzFqNEZjSWLUXHsMsWOsaJKLiVhWERUsoCDXQhQRUQTEUJQiiKh0WGDvzOxLhC3sbHE96z2\/P2aed2YHFp6ZU945c0YgBQpJmOCaQgjUEMKghhAGNYQwqCGEQQ0hDGoIYRDbDwnYgkIP\/PMXFEYAsYbs8l2MSmduhd9GZQSQa0hQECqdObnaiAyhdQhhGIch+Rs9p\/xWgYFqKtLh95WojRWjMORlv2\/uXvtkZCWGqnjZ+wxc9sfAWDEKQ7zjfol\/uCz4D6iMOPkEoPLyyRzIiyqG1DsQn5Ie+BSgIOhUJtyIScteJgYovXChBCRRz2PPFOIPMCakhLLTAwVDt3bMoth8XKkLmDa4VtwPTK1uHILb0k+aSXt3tRLYxD21t7Awj+wCsHFyS2miPUCb5GxwshJ0lrCHB7zHLo0Eo7hCMtsxC8sW6YciAvPeC\/O7dja322XZHoC\/ohJK12YNfPio7OJB8J7DbFlclng\/fyGARd6K+0myDxkRRmGIRT67zK9\/Szi84ZVltywHN762hN3CNtnf79ihT2y34d\/3hdIm0LABsyV8WAeHQREA\/c0coIT9mFFhFIY4RqcBROS9b1ZZClcTzMrL4WqSACRQzOxj\/uVl5n6j\/u+UwFTmEFiUMtWIBYC5kTQha2MU33lJxYBdWz2t57pKV54btsa1cnXwkPW2cC4ynNkX7Xf0hlOsqVeitMIM7j1ktnicPHooeDTT5+WONTqwLiGOmpW69HgbgO7XpFXzTaFLWtVcU+iWXtIH3h3FVOqdO0GvpzE20Ke9qKIjLGMq9aeDBYLh+dmwWXoYbrFHG1WlbiSpE+kT02bs+kVBK+bEf1FoJwBpRnMhQB\/r81nMptLcVsze8uyWTLkF8Axs2VU1NHWifwQtOD+gsT1bEDVmXRG0YvxgELKbLFg\/oJ495wfY1vLDuCD3ClnvgqouynJNm6NUTXohzfbqTvQFFHWycQzbRVHHPz5BYQQQawg\/2vm6oXpbMMam+lsNNYQwqCGEQQ0hDGoIYVBDCIMaQhjUEMKghhAGNYQwqCGEoddc1rNfURiMDaL2qMih5UQUWqFXQ0ZnvovKUJx1lN0nIYmYLcNRaYNeDRkomonKUJCY7f1g4XhU2kDrEMKghhAGNYQwqCGEQQ0hDP0ZUs4N7bjJacNQEM8syu\/IAkIojWUWVVGyQBv0Z0j4gCyAgyPZ8bYG4vcRzC9bP4OoYRqnB+UB7BovwVBz9NgPmVBa5LJt71iMDEDlh84n5i+LcMSQDDyaJYxde+JjjDRHj4bkdCkHdzEGBiGuDwg\/98aAEB53lQrGHcBAC0xXodCdBnb+9YOsMDAIzSpD3j1ihgEhNGoUYBNoiYEW6HCF5H6P4m+C23ZCVc2736HQC\/E+KKqpPO7UEmU1jp+heK2IL6JQRBrYvS1KJWxojEIVOhiS0nYpqmpKLOSeyUh8pEN7Q5FQz9moqimRPxcjmx1B9VpZFOGOShGF7\/SKyo2PuVHhdaCLIe2qUKnk+Ab9GjJH7TODP90yjCEV8hcrLyrM1BpCO4aEoVdDPPuiMBDDBsOsbqjfEAFjXKbfRV2DuXtQaIxeDUl9gMJAJCdDeiLqN8OZMYlNjjtlYvSKq2wSQStokaUTZ8yiAn9rfB2KxcfyIS80w\/9iGDDr7B2zAO75hTKV7E2\/ewCS4F8v86ysqSE60VHitLVH2tgXjlNm9Mi+7e4ycb3bHdg9WDLWG7Z1n+s+Htb3WdLDFwZ7be6\/EA9RAzVEJ7747O6iDiOLdj+ITnnBtLt63fczPwz+A5imVOHyMfnb8xPXzMuZvTTn0vRrR5zwEDVQQ3Sinm\/mb66ntkUL\/\/W5IBpglEOrkUdi46YxexKLB5vMP\/+k\/IYoKu+l0w7bPY1kR6iDGqITAz96Z1qQIFFoNnbsrq8BrAGmp6xoOIrZYw6FkH6hDHqPXeTfNOzE1NhhebJD1EAN0QmHiDmHZ0kdXYuK7JcwDStTxqKWp0X1mT2dWu4LWzi0daOEXkd3PGl91durUm03moMaohPrRu6dcHjq3E8nzHSy8+S2mE4BtsQC4e\/P3c5s7fjb7Y6hX3aauaPp\/h\/f4farBWd00IJkAQrViB1R6IeQ9ihU4+2J4vWy8EsU0tyEl+wqL52LaiJJLWKWZaklzLIohdVSCTxmV3VBrxAdse3YkF01seOimghbs0VXvdYWzLJ+G1bzQads71pUKrn\/QL\/JRa+vUKnkP40Nk1y8PhSVRlStfJ3Z3qeLUPxNRCv5OwFt1HqmCfcU7w5GdZY79frOQ\/Fa+eMcCiUkNa3jnsd2GxSq0MEQRQw\/thcaXn3D2UVF6NjetwpqCGFQQwiDGkIY1BDCMG5D2BGbTPeXJLiMFb+0lVKM2pAN7Kig\/WNkARmcGsb0I6J6a3+SGLUhE8UXIPObzzEiApc7v4BkxlDth1Mad8dw56bsNj3\/wIAMTk1v0lByyxwjzTHuOmSOXUnudtSEMGJgcqyv9n4YuSEmByy287zNYDB8bL\/8f5TawKfIejqyHVRhw0HFWra62dxO2WZuLW17QPMx4TdmqTvmJc9b1RKHg6j0xdX59VDJ8cJaNp1znZTvU\/FYCx9DbvdbDiZ4KalYy1Y+vVyUbebWZdNzmsoCDVh2cwYqXUnd8BKVvhjV0AOVNlxMUzUvMd6oqovoJijU4b4PhRIKIQeVBnw3C4XORNug0BtjtqDQir0DUciDpzCFFKghhEENIQxqCGFQQwiDGkIY1BDCoIZoB9ef1joxW8fR6g259pxZ3EmXBdqSwL7PLi1OFvCk6iy7vKCP+0\/c3xCTIQv0QaQT87VSu2nZ+y\/ukQhQ6ca+9U8B9YasXwRQOv4oRlqy99MqkH62AyN+ZE9gHLk+OhVDXVi\/GKBkvB7HNPbK9wbp7L48E2ny1HedWQU+6X0wrA322FWTav1jk6XvV2BUJ6pTJwVtvMG75XOMeLLH\/otpnX\/AQCdSrb1tvu3N62\/gSWT9Lr1a5GGgMQVtHDtZhWFQGx65rJ8tzSzvoK6bOnJZ5y3BMgA1X6pcLS17lmOgGzt4\/w18YcqNEyi14LwAZqOUg4chlc6wAqUa6kouTofxqPiTVF\/IvapTdyo\/hO9R6omituNQacX0Vi9QyYHp91DVk6kA5AVOrSPD\/\/EAFLVu4Z75N4pqysM\/kr+P5lVrbq3Fj1DUILFcychdm70o6iBYfo7tgj\/d5KtLkewJGz5MLkNRg1wr9jkDORzWoJDjE\/lX7Ze\/UJgB+hi3RENW+\/fn1sqR1HHP\/tKkf6GqZcjWX6eiqqZM3g\/\/MctRcfRw7IzqFVVVsrd51iT1JI8W34498q8uVPj1R4atRKUeqzn\/QFU30ekRqOSwnar4\/Ehtnv+AzWDZhbJqmmytOVNXo2CoUWRtGY1CNZPXoZDRPRCFGq7YoagLn+EoVDNtFQoeNLiHQg1+zijksVFb9KagE4R1DAf1Z6l9M23nQBRvFo\/+bh7zsjA4059Tny6DSau5DXrDMIYMHnHYge3JfNqtQLZBFUJhUripsPaX+ktFMcCfeQ7sJCwejuWyUDuuxJtk7qwelJcVXsqubt6DYk5oxJSu+QBPHRbMd8ANNZE3ZBh7hg7CQBqGogbPo2HzCNS8SU5xfvA7U7Meam6NW1QQFDIUzoU0D4raUxTv48P07B\/7cG\/xDt12lduvHX0SmArz4dn2KkYl8KR\/aIxnZG7wDXgpfsy0dHYe40ZwzB4JELblRCX3EX70jAtmrrGE9zMTcENN5A25cl\/IgMH0FSheUdAlHEqLMNAAu34hhXC+jF\/Dxt9rwOLYnpvW9oxL77X8c8bJte47nHQYfzXKQgwQALo82CSjXCCc4wNpomvMmbvVk3t4bt5WWOW2ZZwmgzHGCQIAAs2Vn9YKRZZzSEhIULo4DqLFf958FpoufrAj68nerUyxITm65QpczLoTP2QBwBPfPVlQLn50KoFnPkdUGgyBwtEYqaHw5wSLrx9ekkQdePaflBZQuOHLvxau0eQkrE1Dj5gkCNBplAhDyAdtT3r8\/fjg6ofTfNkMGXOO\/jgjfUupBsXhu32DS4tDBirPuygYkiEWiyObfDvs8aCfw+ITl1wX9Z8f77hi60eHqzwmbnLeswH8xEyTMrbzgkWdowtFgxZE+SppoythnMkJSVB\/vqPahtp3bTaiH0iSmrwndIKkkrAhoXk65De9QJz55ygl\/QZNMG\/quNKfFVxRNQBcK1JYAUllrvDVYU2KQ1HhhZBiEQZyKBgSKRKJNjfwTetb5LvUuV8MwITUDp9FJzW4fin0QMbM9DOwmZ2MdKlF6iOrJQDtk3sWqJ0HkaPlh8Ehz1V8CUWsYMPXnuFgYllSAYVQD1xmrwlQ9\/xqHQy1Ep+s0rXEcjl9bJU1CMqBK7FfQDHIRvFZQD4kndOkbhcJAk6pKLEUDRkYHx+\/DdzGZy34p2zDkNatui60L5LchY8E+9bJtsGNj5u9434DoK+gAfC7QsCzYDHfEoudNCTBckAYVLiUrD9\/Ejq2uNNh\/48NcJ8W1B8Z\/bOt6nlENcH2Vuw+dr3m6u7msv9Qh5a7Q78Yr0mBav\/BqdPuKjLFCoZYd+rUyQ7yr0AAem4Fpz27RjY1YU+Eq0xVwnUoGzDN1wIrYM5d3ow1SXDTYBzuLEmbS7aJE8etmjIIhP9+0CViicJX1QAviB+rnxmXFzzuxf0r7ZzT9ssaP8KDOe6R+zQ6XUR5T1UVFgp\/ZcI6hpfLsn9KXAdmWeHM74ME+DjpWYWrydoLk78zg9j7zKeGBP\/qd5r3+c7Rwgn4lFh7pUJYLzUF1ycZwbmbTY9lPjpaCu4Zqdnj8ANaMdBG5zZWPld\/wNScHB\/p+JnSXU+yhsLdU\/DwCLilp+Zo9tPHCcyZ1rJSFAyJ+57h7O75X4\/4KdYthZvYxtPOeUn3RIfNZwZV7Wzcy28\/s+mHATOmuf\/E7uTFA3bizstSjSadtpLNWd2Cq4rNWms+Ursm9Z5J9fX2sMZYlzV7dU2YcfOZaIB9VSlzmYmV3cSVN0SWFPaq3ASB5d2XZ9wXSR2hdXJa7O0w+Co3Nfk9iHy0cd8zsAl+mn3a2kb6DbRZTdbbCYyd6mzv2cncWnMODlWe7d2t6pr8m6BJtbO9bfm9IzIjgk+2d7va8vSsSINsr4hf7RdXqCrbO1Rduvilr8wJNOSQrIDUhkleKGoZconpjKpjWHWKhmOD4uy3ymlU3dSrg8s8XpsxhH9HcTHfbl87FdMVfcvjPTeyEQdoiH4w+DOGbyG6tCUprwFqCGFQQwiDGkIY1BDCoIYQBjWEMKghhKE\/Q6q41+u82RfevAXoz5DzzrkAx10M+C7ctxL9GTLkg68gb94mvlNqU5Sjx1xWRhdT6BuMAUVL9Fip223Mk2j9tjgKosMVkrcRRTVS\/47yN6vsDDIT+9uEDoaktJWf7bDYUu5duMnP9Pp2hP8FdDHE4O\/C\/V+AdgwJQ3+GDBoNk5xhgbIh9hT+6M+Q5BRIewgZyobYU\/hDiyzCoIYQBjWEMKghhEENIQxqCGFQQwhDf4YkxcCVLOVD7Cn8oVcIYeiUXPRBpZKYGJpc1BAdDHkiP+GOEtprNqsfRRdDKK8DWocQBjWEMKghhEENIQxqCGFQQwiDGkIY1BDCoIYQBcB\/AYIZdfzkTHTzAAAAAElFTkSuQmCC\"  \/><\/p><p>What does V represent?<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Aids to trade are also known as Ancillaries to Trade. They are the activities that fosters and enhance trade. Aids to trade includes Transport, Communication, Warehousing, Banking, Insurance, Advertising, Salesmanship, Mercantile agents, Trade promotion organizations in a country and Global organizations for international trade. These important auxiliaries ensure a smooth flow of goods from producers to the consumers.<\/span><\/p>\n",
+        "Topic": "Occupation",
+        "Difficulty": "Easy"
+    },
+    "Question 36": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Helping people to improve their profits <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Facilitating exchanges among individuals and firms <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Assisting trade through banking and insurance <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Enhancing business relationships <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The most important function of commerce is <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Trade, as well as exchange facilitation among individual and firms is the most important function of commerce<\/span><\/p>\n",
+        "Topic": "Commerce",
+        "Difficulty": "Easy"
+    },
+    "Question 37": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Company limited by shares <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Private company limited by shares <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Public company limited by shares <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Company limited by guarantee <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The acronym PLC is used to identify a <\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Public limited companies (PLC) refer to the public companies that are limited by shares. A Public Limited Company (PLC) is a separate legal business entity which offers its shares to be traded on the stock exchange for the general public. According to the regulations of the corporate law, a PLC has to compulsorily present its financial stats and position publicly to maintain transparency.<\/span><\/p>\n",
+        "Topic": "Business Units",
+        "Difficulty": "Easy"
+    },
+    "Question 38": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Sales <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Production <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Marketing <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Distribution <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Commerce includes all the occupations concerned with <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Commerce is the buying, selling and distribution of goods and services may also be referred to as form of sales promotion as it facilitates trading activities and include all the occupations concerned with distribution<\/span><\/p>\n",
+        "Topic": "Commerce",
+        "Difficulty": "Easy"
+    },
+    "Question 39": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Resources required for the provision of goods and services <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Skills involved in deciding and directing the flow of goods <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Monetary tools employed by government to ensure stable production <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Elements involved in the process of formulating policies on production<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Factors of production can be described as the <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The factors of production are resources that are the building blocks of the economy; they are what people use to produce goods and services. Economists divide the factors of production into four categories: land, labor, capital, and entrepreneurship. Factors of production can be defined as the resources and elements required for the production, as well as provision for goods and services.<\/span><\/p>\n",
+        "Topic": "Production",
+        "Difficulty": "Easy"
+    },
+    "Question 40": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Modern technology <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A team of retailers <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Warehouse services <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Sufficient middlemen <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Fluctuations in the supply of goods may be eliminated if the distribution system maintains<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>One of the major ways\/methods of eliminating unnecessary fluctuation in the supply of goods is by maintaining modern technology system by the distribution system.<\/span><\/p>\n",
+        "Topic": "Trade",
+        "Difficulty": "Easy"
+    },
+    "Question 41": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Mortgage schemes <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Conventional schemes <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Mutual schemes <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Unconventional schemes <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Loan schemes by thrift societies are <\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Loan schemes obtained by the credit and thrift societies are referred to as mutual schemes.<\/span><\/p>\n",
+        "Topic": "Business Units",
+        "Difficulty": "Easy"
+    },
+    "Question 42": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A quotation <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A requisition <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>A tender <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>An order <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>An internal demand for goods to be purchased or drawn from stock is <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>An order is referred to as an internal demand for goods to be purchased or drawn from stock. It is a stated intention, either spoken or written, to engage in a commercial transaction for specific products or services.<\/span><\/p>\n",
+        "Topic": "Trade",
+        "Difficulty": "Easy"
+    },
+    "Question 43": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>4% surcharge will be made unless payment is made within seven days <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>4% discount will be allowed on the price charged only if the goods are bought within seven days<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>4% discount will be allowed on the price charged if payment is made after seven days <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>4% discount will be allowed on the price charged if payment is made within seven days <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The term 4 net 7 on an invoice means that <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The term, 4 net 7 on the invoice indicates that there is a 4% discount which would be allowed on the price charged on the goods bought if the payment is made within seven days.<\/span><\/p>\n",
+        "Topic": "Purchase and Sale of Goods",
+        "Difficulty": "Medium"
+    },
+    "Question 44": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Export invoice <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ships manifest <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>An indent <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Bill of lading <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>An order sent by an importer to an overseas supplier stating the details of goods required is known as <\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>An indent is referred to as order sent by an importer to an overseas supplier requiring him of the stated details of goods. It is an official order or requisition for goods.<\/span><\/p>\n",
+        "Topic": "Trade",
+        "Difficulty": "Easy"
+    },
+    "Question 45": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>National Directorate of Employment <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Federal Ministry of Commerce <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Trade associations <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Chambers of commerce<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Organizing trade fairs in Nigeria is the responsibility of <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The Federal Ministry of Commerce is a government body aimed at the prosperity of commerce in the country. They are aimed in the regulation of commerce and have the organization of trade fair in the Nigeria.<\/span><\/p>\n",
+        "Topic": "Trade Associations",
+        "Difficulty": "Easy"
+    },
+    "Question 46": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Uniformity in costs of production <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Inequitable distribution of natural resources<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Parity in the level of industrialization <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Similarities in climatic conditions<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>International trade takes places as a result of <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>International trade is the trade involving two or more countries. This is as a result of inequitable distribution of natural resources.<\/span><\/p>\n",
+        "Topic": "Trade",
+        "Difficulty": "Easy"
+    },
+    "Question 47": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Poor distribution network <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Low level of education <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ineffective communication system <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Lack of steady power supply<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The use of vending machines in retailing is hindered in a developing economy owing to <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Vending machine is one of the advanced method of facilitating trade it is referred to as one of the modern mean of trade which cannot thrive in a non- steady power supply environment.<\/span><\/p>\n",
+        "Topic": "Trade",
+        "Difficulty": "Easy"
+    },
+    "Question 48": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Industrial policy and harmony <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Budget and budgetary control <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Budget and industrial policy <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Environmental protection policy <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Manufacturers Association of Nigeria contributes to development by advising the government on<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Trade discounts are referred to as the percentage of money to be paid, deducted as a result of bulk purchases by the customers. A trade discount is the amount by which a manufacturer reduces the retail price of a product when it sells to a reseller, rather than to the end customer. It is a liability on the part of the business.<\/span><\/p>\n",
+        "Topic": "Trade Associations",
+        "Difficulty": "Easy"
+    },
+    "Question 49": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Trade discounts <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Sales bonanza <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Cash discounts <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Seasonal discounts <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Discounts offered by firms to middlemen for bulk purchase are <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Manufacturers Association of Nigeria contribute to its development by advising the government on industrial harmony and policy.<\/span><\/p>\n",
+        "Topic": "Purchase and Sale of Goods",
+        "Difficulty": "Easy"
+    },
+    "Question 50": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Conform to description <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Are of equal weight <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Are of the same quality <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Conform to buyers purpose.<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Goods are of merchantable quality if they <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Once goods and commodities are suitable for selling and buying, i.e. conform to the buyer's purpose, they are referred to as goods of merchantable quality.<\/span><\/p>\n",
+        "Topic": "Purchase and Sale of Goods",
+        "Difficulty": "Medium"
+    },
+    "Answers": [
+        "A",
+        "A",
+        "C",
+        "C",
+        "A",
+        "D",
+        "A",
+        "D",
+        "C",
+        "D",
+        "D",
+        "D",
+        "C",
+        "B",
+        "A",
+        "B",
+        "D",
+        "A",
+        "D",
+        "B",
+        "A",
+        "B",
+        "C",
+        "D",
+        "A",
+        "B",
+        "A",
+        "B",
+        "C",
+        "A",
+        "C",
+        "B",
+        "B",
+        "D",
+        "A",
+        "B",
+        "C",
+        "D",
+        "A",
+        "A",
+        "C",
+        "B",
+        "D",
+        "C",
+        "D",
+        "B",
+        "D",
+        "A",
+        "A",
+        "A"
+    ]
+}

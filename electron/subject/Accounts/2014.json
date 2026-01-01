@@ -1,0 +1,1304 @@
+{
+    "Question 1": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Principles of Account <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Physics<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Biology<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Mathematics<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Which subject are you doing?<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The subject is Principles of Account.<\/span><\/p>\n",
+        "Topic": "Nature and Significance of Accounting",
+        "Difficulty": "Easy"
+    },
+    "Question 2": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Records data while the latter interprets it. <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Is regarded as the language of the business while the latter ascertains its strength<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Interprets data while the latter records it  <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Summarizes information while the latter communicates it<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>One of the differences between bookkeeping and accounting is that the former <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Bookkeeping is the recording of day to day transaction. It is the encoding process of accounting. Accounting interprets the records in the simplest of terms. Bookkeeping is responsible for the recording of financial transactions whereas accounting is responsible for interpreting, classifying, analyzing, reporting, and summarizing the financial data. Bookkeeping and accounting may appear to be the same profession to an untrained eye.<\/span><\/p>\n",
+        "Topic": "Nature and Significance of Accounting",
+        "Difficulty": "Easy"
+    },
+    "Question 3": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Matching <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Consistency <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Realization <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Going concern <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The concept which states that revenue should be recognized at the point when the sale is deemed to have been made is <\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Realization concept states that revenue should be recognized as soon as goods are passes to customer for valuable consideration. Revenues are recognized when they are earned (transfer of value between buyer and seller has occurred) and realized or realizable (collection is reasonably assured).<\/span><\/p>\n",
+        "Topic": "Nature and Significance of Accounting",
+        "Difficulty": "Easy"
+    },
+    "Question 4": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Cash account<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Bank account <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Suspense account<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Purchases account<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A cheque of &#8358;5,000 paid to Suleiman had been correctly entered in the cash book but had not been entered in Suleiman's account. To correct this error, debit Suleiman's account and credit <\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>This error affects the total balance. The difference should be recorded to the suspense account.<\/span><\/p>\n",
+        "Topic": "Principles of Double Entry",
+        "Difficulty": "Easy"
+    },
+    "Question 5": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Sales day book <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Purchases day book<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Sales subsidiary book<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Cash book<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Aduke Motors bought three Toyota Hilux vans on cash at the cost of &#8358;6,000,000. On debiting the vehicle account, the corresponding credit for the purchase will appear in the <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Bought motor van by cash <\/span><\/p><p>Dr - Motor van a\/c (Increase the value of an asset by a Debit)<\/span><\/p><p>Cr - Cash a\/c (Decrease the value of an asset by a Credit)<\/span><\/p>\n",
+        "Topic": "Principles of Double Entry",
+        "Difficulty": "Easy"
+    },
+    "Question 6": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Error of omission <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Error of commission <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Error of transposition <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Error of original entry  <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Which of the following affects the accuracy and authenticity of the trial balance?<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Transposition error is the posting of debit items on the credit side or credit items on the debit side. This will affect the trial balance total. A transposition error is a common accounting error that is caused by substituting two (or more) sequential digits.<\/span><\/p>\n",
+        "Topic": "Principles of Double Entry",
+        "Difficulty": "Easy"
+    },
+    "Question 7": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Private, sales and purchases <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Personal, general and private <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>General, private and sales<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Sales, purchases and general <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A ledger is classified into <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A ledger provides permanent record for all transaction.<\/span><span style=\"font-family:serif;\"> <\/span>They are classified into general, personal and private. <\/span><\/p>\n",
+        "Topic": "Cashbook",
+        "Difficulty": "Easy"
+    },
+    "Question 8": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Debit and credit notes <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ledger and subsidiary books<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Prepayments and accruals <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Profit and loss and balance sheet <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The book of account in which information from the source documents are recorded consist of <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>In the accounting industry, source documents include receipts, bills, invoices, statements, and checks i.e. anything that documents a transaction. Any time a business spends or receives money, a source document is created. Source documents are an integral part of the accounting and bookkeeping process.<\/span><\/p>\n",
+        "Topic": "Principles of Double Entry",
+        "Difficulty": "Easy"
+    },
+    "Question 9": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Debit cash book and credit drawer <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Credit cash book and debit drawer <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Debit cash book and credit suspense account <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Credit cash book and debit suspense account<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The accounting entries to record a cheque issued by a business is to <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Ledger and journal (daybook) extract information from source documents e.g. receipt, invoice, statement of account etc.<\/span><\/p>\n",
+        "Topic": "Principles of Double Entry",
+        "Difficulty": "Medium"
+    },
+    "Question 10": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;25,650<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;22,800<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;19,950<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;18,240<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Given: <\/span><\/p><p>If Emenike Enterprises settles its suppliers for goods purchased within 7 days, it can earn a cash discount of 12&#189; %. Assuming &#8358;22,800 worth of goods were purchased and settled within 5 days, what will be the amount to be credited in the cash column of the company's cashbook?<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Discount = &#8358;22,800 x 12.5\/100 = &#8358;2,850 <\/span><\/p><p>Cash paid = &#8358;(22,800 - 2,850) = &#8358;19,950  <\/span><\/p>\n",
+        "Topic": "Cashbook",
+        "Difficulty": "Medium"
+    },
+    "Question 11": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Ensures a proper accountability for every expenditure  <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Trains the young accountants in the preparation for greater responsibilities <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Relieves the chief cashier of the numerous petty cash payment<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Serves as an analysis column for every expenses <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The major advantage of an imprest system is that it <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>It serves as analysis for every expense involving small cash. The junior accountant or petty cashier is prepared for greater responsibilities through maintaining the petty cash book<\/span><\/p>\n",
+        "Topic": "Cashbook",
+        "Difficulty": "Easy"
+    },
+    "Question 12": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>The debit side only <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>The credit side only  <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Both credit and debit sides  <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Reversed entry  <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Petty cash book records transactions on<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>It records in both debit and credit side. A petty cash book is a ledger kept with the petty cash fund to record amounts that are added to or subtracted from its balance. Petty cash should be part of an overall business accounting system that documents how your business moves funds between one account and another and how it spends its money.<\/span><\/p>\n",
+        "Topic": "Cashbook",
+        "Difficulty": "Easy"
+    },
+    "Question 13": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Imprest system only<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Direct purchase by branch <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Separate accountant for the branch <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Credit sales by only the headquarters  <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A major way by which the headquarters guard against fraud in branches on cash remittance is through the introduction of <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Using credit sales by Head Office, frauds are usually prevented in branches.<\/span><\/p>\n",
+        "Topic": "Branch Accounts",
+        "Difficulty": "Easy"
+    },
+    "Question 14": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>I and II<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>I and III<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>I and V<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>I and IV<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><span style=\"font-family:serif;\">I.<\/span>Cash sales <\/span><\/p><p><span style=\"font-family:serif;\">II.<\/span>Cash purchases <\/span><\/p><p><span style=\"font-family:serif;\">III.<\/span>Cash discount allowed <\/span><\/p><p><span style=\"font-family:serif;\">IV.<\/span>Cash payment <\/span><\/p><p><span style=\"font-family:serif;\">V.<\/span>Cash receipts<\/span><\/p><p>Which of the following are recorded on the debit side of the cash book?<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>We record things that increase cash on the debit side of cash book; <\/span><\/p><p><span>&#183;<\/span>Cash sales<\/span><\/p><p><span>&#183;<\/span>Cash receipt<\/span><\/p><p>The other items decrease cash.<\/span><\/p>\n",
+        "Topic": "Cashbook",
+        "Difficulty": "Medium"
+    },
+    "Question 15": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Bank loan  <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Contract payment<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Standing order <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Direct deposit <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>An item credited in the bank statement and yet to be recorded in the firm's cashbook is <\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Direct deposits are deposit made directly to bank without notifying the account holder.<\/span><\/p>\n",
+        "Topic": "Bank Transactions and Reconciliation Statements",
+        "Difficulty": "Easy"
+    },
+    "Question 16": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAH4AAAAkCAIAAADAVBlOAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAASnSURBVGhD7Zo9dtswDMfVnqXt0JcTOCdounTqmk0em6Vbx25drDHZunbKEusEzgn8MlS+i4s\/+CGAAh3ZpeK+V\/2WkCAIgKBIyWRe7ff7auYcvPZ\/d83y8pXnctnuvHgq2qV31bCnXeOdL1tuzuDUfJ\/pGZ+T0wKjp36\/X9dVVa87FLt1vajXLJ0UuFys2CXoVgtZzQG1UtFRBIdMHZeTEwLj1DsvXH8xdKxUG5H4Z9N1FIdtHZmTEwLjDeft+0V1dz9YUbu2ufQrjtZSi9V32bQk5nUY9wZf58ZmKXYQoUzrlXU129\/eZfvj18W3L29cBVg2If69Xbx\/SwUdArwJB3GjsL2OI5uTw4ExRgChGxH3JT8FtKRoA\/ALjMG0uycRj2RdUxumlgtQ9w9pr8ZFnvp1VF6xRXM1UrvvR8261bIJwtoI9kUMoSj6ml4FpHmoGQr5nHBxEBiwAnAllvWZC6knMJhoDsrRmseQKZEai2yxjEGbZdSo2\/I2ZQVaIta02GGMomuAx2gxiI\/J5yQTmB2A6ynmEIjUE3DkOvaj6aHWJEClRhXRLEOLZiXeWv8UePI2lf\/evuiAomNBCzUZaoqM8AAx+DGB5QPoVjQTShQ+LiNuy+qeHsXe5cB+9vmj2JBZzZewX988XrwLzXLza+\/vqvrTB1eJYDOtHprvldrkD9hU\/smmt797+BVjRdguB5vN5vaDsvsXxJy4KpELLB\/Amy+3m+7z9uo6vh9e0\/4fPll3zfc7b4Py8vj0ADG9a93bBEPsU+vg9AF6sdxziLumgTUo+5Z2eXW3WH1NMw8eb26evt0mLVmbbuiuQqOtEAxZ\/\/F0gSLLOeyOR0Mt\/VvwSLI5YdGhwKwA6CPA\/lFAC75fI2I7wk7FwrBG1HIP+AWGBi4GbSzm2llY1INeDPSHBomsTV8RSmw7KLE8hB175cluONilvRWVk1GBDQMg3WhN5mKagwSa6Ovq50bvJDOawV5fAmtvmkmZJPXY\/LbDnyMzivnk8mxM8tTPjGFO\/cz\/x7zXn415wzkbc+rPxgSpD\/eu\/prAV0+\/Ue0vHg6bsC9InfR5\/2O9FASnCaWJ56wO8\/RnLM4W9cb9iJflwMnKUAnS1H+qeYyXUkyR+mRcOD46NfPd6phpsw\/Enp\/547yUYorU67EOH7BwjqeGy1cJLIzKeBQDQgi1UFXG7TlO\/bNA+Da9MEZIJZkg9RiLiNWaCFRxNCuH7ypJonRn1KmzEMr2kZknUs3UC8iGVIzyqU8iNarpLWVUGVyoWjmRFpVxUhZdA5m0Sk1DJR9SOcqnXg9EJceR3lJCxTG8z7RG3ScuzfxwmkwTJJOahgpEdkgFKZ56PRDUjIQouZ0zYLb0QmWcKoYVHY37fEk1DS\/5kAoyyU+qcFa\/w+1x3V9727eU2QtVXKcPblwyt7Lq5rYH19T+ypw6XG1RTjQtL4XueJ\/BT0FB4ocBfxrIZwfPW2wRT1X86FH6+omNQOz7c5H6QKwuSD1OVcDNslfWix1SUSZIfSGQk+lX\/ct4Mflnz3D432uSf\/spz8t4yeCn4N+CXnMTrvTAy3jJMp\/Xn4350PhMVNUf8rR8PewZKPwAAAAASUVORK5CYII=\"  \/><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHwAAAAkCAIAAADEoclzAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAASmSURBVGhD7Vo9VuQwDA57FtiCxwnCCWCbrWjpMiU021HS0SQldNtS0czMCWZOMG8KkruwkvwTyZEhGcyEt5OvAFuWpU+ynQSLo7e3t2zCfvHD\/gY0y9n5kcX5bNlY8Thoqr2SWc6sq4o8NZV1PlvScARGzc4ZAtjpiLrMs6xY1NheFNgkcX+Agbyk6QlgGJC1elHkg8nsAHTJAsB89IgH1YazM0kPPEKcQ\/O3m\/cIdlr1T0IG0HcLAdMdiFLS40HiPjMnot1uXuQWCvl6DF4uBWTQ7nSGegGp8F6IRl4uHEfPz3OGwbIwdMgiU+4eHtTw3EFJKmg2UezWRlJAW2x+XbrJVohJj+a8PQDg1OoYg1bmWQZuPg+KAki68AQZCLUoYAxE8BuVWiqtGjWJ1MIrl2RRZQvjdh4My1HNJgKJoNjZZxxck81tvULShR0GVPJz\/QwjDXch2NBMGOMqvOUoaKGdWUHGQpEJkSDFRzRjqE0yGJRjcZu8g1qMa9iscYs6qUl6hwFA+EIl74COS7gLNROfhvfK4mjR9SrUoMOGQdmP8GA8rDV2fA3iNoX\/1j6bgE2DHA6nTxj7ZFRw9vPYNJYvT1nx+8J0jm8eV\/XV5vLafSs1r5tWNTHy0xP4WW\/XpsEAXvOrX8IrqNkWUH64XbekUNkZEMF4nJxCgubVfXZ308+m8A82rf1m\/uy5Im2zLKvV6vHC2YWkg7f189x8kDbL6px9d25esQkf8JdPefnnAj9MtW9mlxL4uK7e\/bDtAfhjwbloqvsnGxZy3M4NGXBCDQguXGlKHAKYvNCCNVWF1lDZjvhguljf3m7vHoORqE2zGqbjth1Yf9ieYZPkRLumaGDE8EbgMvjXKwCODztLVube13i6jKiVIei1BzIm2hH46PMu+LvDumgfa+JwO1jKOEBNp42Hv7AkOXEG1FcDiNq0HaZEtp0SyR1tPwtxGNcAcEKvs78r+dwYD+8\/0\/8TaE+iMXEQScen7+ZFeRmNhOmWcQQcxE7\/bpiSPuEwMD3TR8D0eBkBU9JHQOqku2KjLS7a7g5lRAtfK\/3AhF6udLXOj\/z39ZIKeBeQFAt5b6pekfSFsQWzsUxgZTHglUdXCaWh\/1BziJckSJ70ICLo7pzzuhyyYHin1U3Zx2s+zEsSJE+6jLK7qeylWyYC7VQRyY4HE6Ka6wrj+uqG\/knAfKteCAqlZEiddIyCsdSWALt4g8sDN50gRXIy9mEyE\/LxnjkHhJqhF0SUUhokTnrAUemG9VWvIqqICC0b3KIwDspsqkMkoVxTUYlTSoTESZchiLQY0KllF\/qoYiCqiABlMqBNWZjz7gKpJkDGNRUVFOmUUiFt0mUI2FNSIeR6thDqSCsUxqGjWJFszKdJqKl4iVNKhfR\/HLmL6waruEVb5dXrq7EqIlWPO4WHSClSlCtbuNItACujG2wHmpqXKKV0sMlPBf\/Sp9c+3y+4x\/wI20n+g0boy13qgWI7n5owB8WiXGlhVBlomM+KetEppUPqpCcCZuOLzzhgP166+J53L\/S\/I8H\/tKTHfrxosMn\/RoAX2Veda4b9eNEx3aePgOlqd+\/Isn8Uqug3jza+qgAAAABJRU5ErkJggg==\"  \/><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAH4AAAAkCAIAAADAVBlOAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAASYSURBVGhD7ZoxdtswDEDVniXpkJcT2CdounTqmk0ek6Vbx25ZrDHZunbKEusE9gn8PES6iwuAIAlSYCI7lJXX6C8VQBAAIZJyyH7a7\/fFxBh85n\/bajH\/xMwXdctqhbZCw3n1gkk2+meVhXrBoczgzEiBRU3NCY4uCMz6\/X5VFkW5avCxWZWzckXaFM1yBtYsDMhhWWUBQ86WFBLBkQoxxXEFodKbMZLcBzA\/XeVZOBFhEUHqUfhjC0IbzvnFrHh47KzntublPq\/qauEWVPu8nV2cs+D3BNgQWGW7AW\/Zl5JZVXP2D94pFuRnk3VJaMnT1iCMfcqS7TOHrO\/+Xv66OTMC8lpBwhQwmgjQLRS\/AljQsNR4eRNi7QXzT04Fb+Oni3kiHTjtM2nSvJQV5lGW0IZzjh7QnONpya+c8ZI8+pQF0M79oDls1XwimAiqrX+Rg30UfX1UW3oAuzmPaCE7+iy84Lw0WOSwp6iWhEJouFgx6awYRZdOXrZoztCadNAYtqV9SgGtRK7xY1AoUXoAh2lsfD8SfBo2N2NjmMH8k7VulhAgVL0FPSuLT8iSTj4ok3MrYW+d9Zr2GcT3\/kUHfFQKZX9cOsyu1ew2RgTqu9vN5Rfe8nBf+\/GNBLDhmOv1+v6r2BPPbu7XzY\/t1fUbdvoQl5X4yhhEQpZk8sFnqn58KMrvX43gwA9M8VT9LoJNvl9ByCf7b5\/+ulwThfoMnwb7g7mtfj+wG8rA6BaPNPK2qtDMpEAC2Gx2DXWF74\/56sCnJcvP72RWm90TxbGfORyiL60hmTwac0u9uHqYLX\/GlUc2t7e7X\/dRS5+C4GsoMBnwfre7xMdkoRBYWn45+C2aFwm+LXq0C2XFAhnhxkW4ZYRL0ahA55bhweCW6PzID4eN6AIGy92STB62g9J4SGWH9l2HQNInC8KIfFsj0ncLBXykgwRYktfFn3W4k4xHZ6\/\/f9H2pjH5QKXHXXnb\/RNtNKaTy9H4QLP+vTGVfuLjMe31ozFtOKMxlX40Bii9veHkGwEWj7808XcML7vQ70iN9vX4faNkBE8TcrMKj2PVc5a+GF\/QG28iWJcCz026RqiN48eWh0TJxRClj8YF4tGVb5aHvDY8HusW7vU3f1iUXAxR+nCs3QnGp3hFMFy6XiGlM8apaBFKNLNi4Fx\/x3F8UojYahRCSSknA5QexyJy1V4EingwLIdvhKhQYWeUobNQyvaelQdiyzgKkkwpG\/lLH2WqiPHNrTMJri4RrSbSY+AcjEVXS6Ks0lIxSaeUj\/ylDwcSFMcQ39yiiaF7x6uN2hcurnz3NakuQCctFRNU6SllJHvpw4GgpBQk0Os1Q9QWrwycg6B4CbMxP19iSyVKOqWMDPInlT0Vb\/ECufQXzPrNberqki6uO3cbifvP4I7UgzfSfDmN17FbfI4stSjJlLLCryAj7ocB\/TSQcwfnm2sRs8r96AnswxnrQDX3p0fog+rgjpQxpgJqlr2SUfSUsjJA6TOBNRl+1Z8misq7PcOh\/8gS\/Qeb\/JwmSgJ+Be8L+MwNuNItp4mSZDqvH43p0HgkiuIfLD2KDAV1inwAAAAASUVORK5CYII=\"  \/><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAAkCAIAAADXdomHAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAARvSURBVGhD7Zo9duIwEICdPQtskccJzAlCmlQcAZdJky7ldjRQhi5tKprgE4QT8Cgwd8nOjySPxIjY2Gaz7\/kr8qTxaGY01o+RcvP19ZX0dMMv+ntcjm8E4ywncXPY8Hh5NPUfxnGZuY5Dp89EeVlHYOQixSJNZhtXtOXmCMNXZzM76xoew\/MCi8Vmln4T5QUd4ZGbJMV+m94OqTi4n0J22wIMzx7uTOVHka9XCYQ2wPLg7vXz9XyUF3TEJBccpdN78kNmuJDkNGvsIoFTg8skHy\/z5OhrQH05NhONp9DxsIOXxlreamNakpll5qablQJyDrr5W9qIaFZneJsmq\/XJWhAJjDtiKhXjMWvuYZeMflNuwfZklS6e4R3l2frhDebO7sC6ZnSDBsm3+3U2T54\/YUYZr3k2nLxP32BCwBxie8U+Ge3nh+dPmIRba4g1d1OakS\/7yVPCviHmP6sRTVSYpyRB8uxm+H7LZjEdKNM1azF4hNB3k6G32EYCS44f74kdfdXjQTO0+ljS2YJsM8Fa7BYdrKRSURWZZc0WbWtPU8jNA14GLc5tgQuj1dU0GdkXjzA2hnPhWVUCE5Ua8VBy0X5px0MxSoBcyW1oBGRWyy+WmkJOFAuIGDYXK0JlJk2FGAg1T\/HSE8d1Px5Y2d068WByPZs+vtHSmeeZOU23NCx9uM4EZYf0pZgV+FGFQNtIvzyci2hgort14oE1F5YT96UQYNdiWGbn+xEWj8slrFDYxKzRDtgftvsPXL1gV+ONQHyCcJFb405CwLawhhFg5LBfKp+aZLYgMUTBdnXNOsDuYy3gamk280hgdounSq14MNeI\/jr4KS3DVIRRj2L99eESRKbM1JBasrWxSg+tHNSgyO1RIKxbs85uVDMEAtBHLq6WzoJYKvXAwJCMvno8\/c\/fDrE\/Ino6oE9uh\/TJ7ZA+uR3SJ7fn\/6T\/FOuQflnokD65HdJGcvOMz4jNubGpXnaCjZQn0edN6PdaLP3ef1UvTaAfwU3xjpCoqh9VVIFtQevNTD8YEOABwKkSSkP\/oWYdLxfTSnKDyPEc49LcFos6L0Y\/mfn+3dbzcjGtJNfvzekgsUdGXofobJmEThmHk0UIUc1WPeP6Wwz9k0D4Vr0QSkiNaCO5GK2IRks1VvGcT3aQK0Eq\/MZYh8ZCKJ9XzC0QaoZekGhIl9NCcoNYlGq1azFE67W06BkHZdHUEkmc1FRU4iE1oIXk+qF63WfCyyVUYU6vobR+lakJc3v6IlQTIJOaigqK9JCa0Dy5fqhYU7rsyfWsIOqTUugZh4pixY+GPwVCTcVLPKQmtPMjYmf+t+KYz5+2s5dHe7tW\/VqMwP+BCa\/movd44l6LFQlxbQcNJjssB5qal2hIzTBJboLbZGmble8fx4x7IkaG+4Dw9P1R50CxaU9FaINi717LwKoCeixbRb3oITWjjeS2BPa6g7kZcB0vzM85W6Abfvf\/al1xHS8Wk+R\/DGwobc7HCNfxUtKf53ZIf+TYGUnyF2Lop1pjYa\/qAAAAAElFTkSuQmCC\"  \/><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The formula for calculating depreciation using straight line method is <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Depreciation = <img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAbCAIAAABzzg+cAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAM1SURBVFhH7VgxdtswDKV7FsdDnk+gnKDtkqlrN3l0DuCxmxdpbLaunbpUOoF7gjwPlu7ifoAkCEqyLKmxl+q\/vhcQBD9AQGQJL87ns5nh8cH9ncH4H9JR50+LxVNeu2EfXDrqfIMlhGHLyMWmdHI\/6jwva6DMB1IPBe9ysaAwlNiB5fZHlqxXSzfsBe6OKktMklWQzkWaFvS3KtKEZpPU6tmGQYYy8Mt6UKTGUgZ4clrNVElWZKRiQ3GdJDR2Bk4bUylu7abBAPhtCZtVOkHFg3S0A4YGKjL1S7xNkWZs2l5zEUSG\/UraKCImpxirAv9SZB0KjllmIZAHbdDy6myYSurSZABk4wWzxVuCGSuqDArT8qG9elMWU0q2H3hPJHJmBX6BAttIaA13ikvPyhaCAYSY3CpidQdDw4PVeiXsXdyUUb473k50qHG6N9Hprsv9i\/nyeUk3S2623w8782lPx7P+\/dM8PmC+rHEwD+xGcNi2DikfXutEUJfWmeOKgclvr+uVwaUjBhJNwHK1Nsf9\/rhr+1QMIFg\/P9SIlfSnN9wimP36Albs4ERfHsKudo+moruD6s4UbgIZcxXHmNMbMuiqwAo\/24NwZvGVskA6IpdLKXwFBNTMMnMIPKPK1\/IXfxiMNgNrvFmYpjNM0dl4rHymq\/TGqKrmLsYA8Tc2fEvcIR3\/hKi0t8f8SJ9xGfPXEWFu4SLM6YgwpyPCXdNR2rb5Yis8vBMHU2R2jXkw+L\/bUbAPO9sZ2OfpsGcBbK++Y8Ht3rEB7iHZ42QI8zBMeoaxey+6+F2SJG7VNdOY8xaG+nWln+nyqo\/Q8ZDXSyJmoOF6DKakQ5VQRJ8h9wsA9BwLd83WVuWws9EmxPv20BYMsGuzeL7D9XBMOyzejRLJvfwCgAAtpFNr7cnvPKYIckBXNrQinu9wPQITrtLq+McK3HJzc978BYCCoQhd1wygsU50H99qtHExRp24oPz1mj5\/hABje1VWR23WZG65HgVOyijI0STHtgChJK4izkSqiILGJSYFz9NSZ8a6xmkRZoJ8T33MTdejMOkqHY1WzO+Gd2a+Qzoo4kkH+Sren3lu4RSM+QvvoAgpJZj1kwAAAABJRU5ErkJggg==\"  \/><\/span><\/p>\n",
+        "Topic": "The Final Accounts of a Sole Trader",
+        "Difficulty": "Medium"
+    },
+    "Question 17": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Net profit <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Gross margin <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Total purchases <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Total sales  <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The major focus of the trading account is to show<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Trading account is prepared to ascertain gross profit or gross margin.<\/span><\/p>\n",
+        "Topic": "The Final Accounts of a Sole Trader",
+        "Difficulty": "Easy"
+    },
+    "Question 18": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;4,500<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;8,550<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;9,000<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;9,450<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>If goods were bought from Tanko at a cost price of &#8358; 9,000 with a cash discount of 5%, how much will be paid assuming prompt payment was made?<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Discount = 5% x &#8358;900 = &#8358;450 <\/span><\/p><p>Amount paid = &#8358;(900 \u2013 450) <\/span><\/p><p>= &#8358;8,550<\/span><\/p>\n",
+        "Topic": "Cashbook",
+        "Difficulty": "Medium"
+    },
+    "Question 19": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;700,000<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;240,000<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;220,000<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;202,000<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>If machine X cost &#8358;600,000 with anticipated life span for five years and estimated scrap value of &#8358;50,000, using straight line method; depreciation charged for two years will be<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Depreciation = <img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF0AAAAbCAIAAACREhTlAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAM8SURBVFhH7Vg9dtswDKZ6FsdDnk+gnKDtkqlrN3p0DuAxmxdpbLaunbpUOoF7gjwPke7iACAJEhQtS5adDtX38l5AEPwAgj8mlB2PRzWjg0\/2\/wyJ\/yovbfmQZQ9la5t9iPPSlmsYixg2Hn2tayv3oy3LugXU5UDqoaDpZhmGEYgJLDY\/i3y1XNhmL+B+YTRFrvKiQbHSuiJVpXM0y7XRkw0BDbnhhvWg0spQejhyHE1UeVEVqCJDdp3n2LYGViupAu7QTcQAcNNiNqP00XNIto3oRg4aUOEYN9bZVLog0+6Yk0AymDjnD0Mjcgy2qeBPQ\/pBQcFzLwjoITToeLU2ROWnGDEAOAMVsckpAcCSdE0R5CV2FmrcABI1pt81nEsERiLgxjiQAccYuRNcvtevJhuAIJmNQqoTDJEHow2UMMTGreX98vqGBx9ugLW4Adp696S+fV3g7VOqzY\/9Vn3Z4RFu\/\/xS93fQX5P5YrM3Dhz2G3mW6YAbJ4y2Ns4slwR0Pr+slgouJjbgaDwWy5U67HaHbexQMADB6vGuNbG2b69w00Dv9ydgdTMwKWq29+E5wp2Ana4bEmg3ALQp4T6hdl1I4Xp74M81bGASUIfkfHH5fYGAVTTMFAL1BKvZ8Se3CqHLQBpn5rvxeLv52vtIV+LevTGaJp7OGMBEopnfEh+Zl0kQi317zHVAGj4v8BwywgzAvF\/SmOvGNOa8pDHnJY1\/k5faFO0nC\/HhHwSASZidYx4M\/LG+EObJaKoQ8\/Ad9rwA27MvZOC2b1AP+0TtcTKEeRimvesoDifaidhs8QS4cjdtSqBvhs+1sBLgwkEgUSuEQwQzIHI9BpPyEiwqiy5V9kME6CkoqL1cCoNknqr3QU5NJbQgAHtoJvsTrodj4jly\/gIR4+APERCpAZeHncm5FEgKL3uk0hIqZH\/C9QhMuXebw18jUOVP3wjiDxEYFYaKlXtDbajv8\/BzQqreFx8EGPXvF\/34GQQwNvdqcwjNYuaO61Gg7FwGPr4YgVkSv0h2jawJrysssVx0VFA\/DrVmpIsOEjMjeIf1MceuR2HavTsaneCvhiszf2ReMPSLDvtZXJ95rhtTUOodZjOD01c0W9kAAAAASUVORK5CYII=\"  \/><\/span><\/p><p>= <img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE8AAAAZCAIAAAD\/geQ7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAFrSURBVFhH7ZcxdoMwDIYdzhIy8HICc4K0C1PXbmZMDtAbZDFje4ROneAEyQl4GWruQmXLQBpMcPuI8x7xt0B+JJCQROxFXdfkYQj08THQ2VZZKimq9me8AOK0QMGgIDaWQ77DVJlykDQ+kwRAoJNzRlkOx5acESUITikXZgWxsRzyvYLg7MJymgCIUhnnDOD5r6vdWV9BbCz7yjgQE1YFIhsICenrV5WAiNMRbrtKkiT6fHrNdC\/fnrNuReLu2cvtQYUnXsrd3rb9LQhIGFESPW+A1RrfKCgfX3KEq++SRqFRKVIZnI1lX0GajFoO26W+BC+i\/YQgEwWg51beUfYNVrztpG6eLxXwUT02bmlSRhDQfMjEAchs\/47IOc7TvfhnAH514ZkHvpPni892vvhsb4hhK+cS57VdN2ug941WHOI823IXysrGqbvdVsed\/m+ho8PTm\/P6uq1tfyvnGBwiR5i2ci7xK8e5QsgPDfh0dr3aGngAAAAASUVORK5CYII=\"  \/><\/span><\/p><p>= <img src=\"data:image\/png;base64,iVBORw0KGgoAAAANSUhEUgAAACUAAAAZCAIAAAA5RHCCAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAD8SURBVEhL7ZXLEYIwEECDtciFsYJQgQ1YQnKUPrzAUavwFCqwA06GXuLmJ+gyE5dxOKDvEvIYZrO7wyYzxrAF2YR1KSBe35RZQLZOYgNKOldGEcA+YYzRtag1lHUAGyWYULDqmvPxK+wTxsXj\/hw8RkEmfjJ+smCfMlDP7fHmtvrQVSdXA2y+xsY2S7Z92DqwyQt+uVrV3zte5GBaWTb9hE8ZZjSk6eEhb2yGEkejhO\/Ou08Z6N8MtKpDq6ms\/X9fmh+Yn4vyj\/fKxFVFgp7fLk6W8z4YCvR4XZXb7EoJ83oG\/qxk7Ax+DmQCxPzwVUUlxP2QqauKxLrnGWMP1DN76urP+egAAAAASUVORK5CYII=\"  \/><\/span><\/p><p>Yearly depreciation = &#8358;110,000<\/span><\/p><p>For two years = &#8358;110,000 x 2<\/span><\/p><p>= &#8358;220,000<\/span><\/p>\n",
+        "Topic": "The Final Accounts of a Sole Trader",
+        "Difficulty": "Difficult"
+    },
+    "Question 20": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;10,361<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;10,651<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;17,396<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;17,848<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Use the information below to answer this question.<\/span><\/p><p>Balance Sheet (Extract)<\/span><\/p><p><table><tr><td>.<\/td><td>&#8358;<\/td><\/tr><tr><td>Creditors <\/td><td>7,940<\/td><\/tr><tr><td>Prepaid expenses<\/td><td>290<\/td><\/tr><tr><td>Accrual expenses <\/td><td>323<\/td><\/tr><tr><td>Stock <\/td><td>4,500<\/td><\/tr><tr><td>Cash balances<\/td><td>4,956<\/td><\/tr><tr><td>Debtors <\/td><td>905<\/td><\/tr><\/span><\/p><\/table><\/td><p>The value of the current assets will be <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Current assets = &#8358;(290 + 4,500 + 905 + 4,956)<\/span><\/p><p>= &#8358;10,651<\/span><\/p>\n",
+        "Topic": "The Final Accounts of a Sole Trader",
+        "Difficulty": "Medium"
+    },
+    "Question 21": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;8,553<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;8,263<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;7,940<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;1,228<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Use the information below to answer this question.<\/span><\/p><p>Balance Sheet (Extract)<\/span><\/p><p><table><tr><td>.<\/td><td>&#8358;<\/td><\/tr><tr><td>Creditors <\/td><td>7,940<\/td><\/tr><tr><td>Prepaid expenses<\/td><td>290<\/td><\/tr><tr><td>Accrual expenses <\/td><td>323<\/td><\/tr><tr><td>Stock <\/td><td>4,500<\/td><\/tr><tr><td>Cash balances<\/td><td>4,956<\/td><\/tr><tr><td>Debtors <\/td><td>905<\/td><\/tr><\/span><\/p><\/table><\/td><p>Determine the current liabilities <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Current liabilities = &#8358;(7,940 + 323)<\/span><\/p><p>= &#8358;8,263<\/span><\/p>\n",
+        "Topic": "The Final Accounts of a Sole Trader",
+        "Difficulty": "Medium"
+    },
+    "Question 22": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Gross sales <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Gross profit<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Net profit  <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Net sales  <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The excess of sales over cost of goods sold is <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Gross profit = Sales - Cost of goods sold<\/span><\/p>\n",
+        "Topic": "The Final Accounts of a Sole Trader",
+        "Difficulty": "Easy"
+    },
+    "Question 23": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;285,000<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;300,000<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;570,000<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;600,000<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Use the information below to answer this question.<\/span><\/p><p>2\/3 - Purchases 900 books at &#8358;1,000 each<\/span><\/p><p>4\/3 - Purchases 590 books at &#8358; 950 each<\/span><\/p><p>15\/3 - Sales 300 books at &#8358; 900 each<\/span><\/p><p>Determine the cost of goods sold using FIFO<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><table><tr><td>Date<\/td><td>Units<\/td><td>Price (&#8358;)<\/td><td>Total (&#8358;)<\/td><\/tr><tr><td>2\/3<\/td><td>900<\/td><td>1,000<\/td><td>900,000<\/td><\/tr><tr><td>4\/3<\/td><td>590<\/td><td>950<\/td><td>560,500<\/td><\/tr><tr><td>15\/3<\/td><td>300<\/td><td>1,000<\/td><td>(300,000)<\/td><\/tr><tr><td>Closing stock <\/td><td>.<\/td><td>.<\/td><td>1,160,500<\/td><\/tr><\/span><\/p><\/table><\/td>\n",
+        "Topic": "Stock Valuation",
+        "Difficulty": "Difficult"
+    },
+    "Question 24": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;801,000<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;1,100,500<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;1,160,500<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;1,175,500<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Use the information below to answer this question.<\/span><\/p><p>2\/3 - Purchases 900 books at &#8358;1,000 each<\/span><\/p><p>4\/3 - Purchases 590 books at &#8358; 950 each<\/span><\/p><p>15\/3 - Sales 300 books at &#8358; 900 each<\/span><\/p><p>Calculate the cost of goods available for sale using LIFO.<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><table><tr><td>Date<\/td><td>Units<\/td><td>Price (&#8358;)<\/td><td>Total (&#8358;)<\/td><\/tr><tr><td>2\/3<\/td><td>900<\/td><td>1,000<\/td><td>900,000<\/td><\/tr><tr><td>4\/3<\/td><td>900<\/td><td>950<\/td><td>560,5000<\/td><\/tr><tr><td>15\/3<\/td><td>300<\/td><td>950<\/td><td>(285,000) <\/td><\/tr><tr><td>Closing stock<\/td><td>. <\/td><td>.<\/td><td>1,175,500<\/td><\/tr><\/span><\/p><\/table><\/td>\n",
+        "Topic": "Stock Valuation",
+        "Difficulty": "Difficult"
+    },
+    "Question 25": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>The location of errors in the various accounts <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Up to date bank transactions <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>The payment of debts and liabilities of the firm  <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Assets distribution with respect to income <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The control account is used in facilitating <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Location of errors and fraudulent practices are used deducted they preparation of control account.<\/span><\/p>\n",
+        "Topic": "Control Accounts and Self-balancing Ledgers",
+        "Difficulty": "Easy"
+    },
+    "Question 26": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Sales day book <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Cash book <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Purchases day book<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Returns day book <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>A book of account that possesses the features of both daybook and ledger is <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Cash book is both ledger and journal.<\/span><span style=\"font-family:serif;\"> <\/span>The cash book is a journal because it records the cash transactions from the source document for the first time and then these are posted in the respective ledger accounts. <\/span><\/p>\n",
+        "Topic": "Principles of Double Entry",
+        "Difficulty": "Easy"
+    },
+    "Question 27": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>The total debtors account <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>The total creditors account  <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>All day books  <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Both the debtors and creditors accounts <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The value of the sales ledger control is derived from the summation of<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Sales ledger control account is derived from the total debtors' account. This account shows at any given time how much your customers owe you and your company.<\/span><\/p>\n",
+        "Topic": "Control Accounts and Self-balancing Ledgers",
+        "Difficulty": "Easy"
+    },
+    "Question 28": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Current asset<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Current liability <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Fixed asset<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Intangible asset <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Subscription in arrears is treated in the balance sheet <\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Income in arrears is treated as current asset in the balance sheet. <\/span><\/p>\n",
+        "Topic": "The Final Accounts of a Sole Trader",
+        "Difficulty": "Medium"
+    },
+    "Question 29": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;30,000<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;40,000<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;50,000<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;60,000<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Maina Merchants Trading and Profit and Loss Account (Extract)<\/span><\/p><p><table><tr><td><span style=\"font-family:serif;\">.<\/td><td><\/span>&#8358;<\/td><td><\/span>.<\/td><td><\/span>&#8358;<\/td><\/tr><tr><td>Stock (1\/1\/2010)<\/td><td><\/span>80,000<\/td><td>Sales<\/td><td>300,000<\/td><\/tr><tr><td>Purchases<\/td><td>90,000<\/td><td>Less returns inwards<\/td><td>30,000<\/td><\/tr><tr><td>Cost of goods available for sale<\/td><td><\/span><span style=\"text-decoration:underline;font-family:sans-serif;\">170,000<\/td><td><\/span>.<\/td><td><\/span><span style=\"text-decoration:underline;font-family:sans-serif;\">270,000<\/td><\/tr><tr><td><\/span>Stock (31\/12\/2010)<\/td><td>?<\/td><td>.<\/td><td>.<\/td><\/tr><tr><td>Cost of goods sold<\/td><td>?<\/td><td>.<\/td><td>.<\/td><\/tr><tr><td>Gross profit <\/td><td><\/span><span style=\"text-decoration:underline;font-family:sans-serif;\">150,000<\/td><td><\/span>.<\/td><td>.<\/td><\/tr><tr><td>.<\/td><td><\/span><span style=\"text-decoration:underline;font-family:sans-serif;\">270,000<\/td><td><\/span>.<\/td><td><\/span><span style=\"text-decoration:underline;font-family:sans-serif;\">270,000<\/td><\/tr><\/span><\/p><\/table><\/td><p>Determine the closing stock<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Gross Profit = Sales \u2013 COGS<\/span><\/p><p>COGS = Sales - Gross profit <\/span><\/p><p>Sales = &#8358;270,000<\/span><\/p><p>Gross profit = &#8358;150,000<\/span><\/p><p>= &#8358;(270,000 \u2013 150,000)<\/span><\/p><p>COGS = &#8358;120,000<\/span><\/p><p>COGS = COGAS \u2013 Closing stock<\/span><\/p><p>Closing stock = COGAS \u2013 COGS<\/span><\/p><p>COGAS = &#8358;170,000<\/span><\/p><p>COGS = &#8358;120,000<\/span><\/p><p>= &#8358;(170,000 \u2013 120,000)<\/span><\/p><p>Closing stock (X) = &#8358;50,000 <\/span><\/p>\n",
+        "Topic": "The Final Accounts of a Sole Trader",
+        "Difficulty": "Medium"
+    },
+    "Question 30": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;57, 470<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;41,070<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;40,210<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;35,300<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Use the information below to answer this question.<\/span><\/p><p>Social club Subscription (Extract)<\/span><\/p><p><table><tr><td>.<\/td><td>&#8358;<\/td><\/tr><tr><td>31\/12\/2009 subscription accrued <\/td><td>18,900<\/td><\/tr><tr><td>Subscription received in advance <\/td><td>16,400<\/td><\/tr><tr><td>Subscription received during the year 2009<\/td><td>38,570<\/td><\/tr><\/span><\/p><\/table><\/td><p>Determine the amount of subscription for the year<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p><table><tr><td>.<\/td><td><\/span>&#8358;<\/td><\/tr><tr><td>Subscription received during the year 2009<\/td><td>38,570<\/td><\/tr><tr><td>31\/12\/2009 subscription accrued <\/td><td>18,900<\/td><\/tr><tr><td>Subscription received in advance <\/td><td>(16,400)<\/td><\/tr><tr><td>.<\/td><td><\/span><span style=\"text-decoration:underline;font-family:sans-serif;\">41,070<\/td><\/tr><\/span><\/p><\/table><\/td>\n",
+        "Topic": "Accounts of Not-For-Profit-Making Organizations",
+        "Difficulty": "Medium"
+    },
+    "Question 31": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;14,200<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;16,400<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;18,900<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;20,500<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Use the information below to answer this question.<\/span><\/p><p>Social club Subscription (Extract)<\/span><\/p><p><table><tr><td>.<\/td><td>&#8358;<\/td><\/tr><tr><td>31\/12\/2009 subscription accrued <\/td><td>18,900<\/td><\/tr><tr><td>Subscription received in advance <\/td><td>16,400<\/td><\/tr><tr><td>Subscription received during the year 2009<\/td><td>38,570<\/td><\/tr><\/span><\/p><\/table><\/td><p>What is the amount of subscription to be shown as liability in the balance sheet as at December 2009?<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The subscription shown as liabilities would be prepaid of &#8358;16,400. Subscription prepaid is a current liability item.<\/span><\/p>\n",
+        "Topic": "Accounts of Not-For-Profit-Making Organizations",
+        "Difficulty": "Medium"
+    },
+    "Question 32": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;13,890<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;13,500<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;10,500<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;9,500<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Use the information below to answer this question.<\/span><\/p><p>Income and Expenditure (Extract)<\/span><\/p><p><table><tr><td>Dr<\/td><td>&#8358;<\/td><td>Cr<\/td><td>&#8358;<\/td><\/tr><tr><td>Bal b\/d<\/td><td>390<\/td><td>Expenses on cleaning<\/td><td>300<\/td><\/tr><tr><td>Sales of tickets<\/td><td>4,000<\/td><td>New tools<\/td><td>510<\/td><\/tr><tr><td>Donations<\/td><td>3,000<\/td><td>Electricity<\/td><td>400<\/td><\/tr><tr><td>Subscriptions<\/td><td>6,500<\/td><td>.<\/td><td>350<\/td><\/tr><\/span><\/p><\/table><\/td><p>What is the total income for the period?<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Total income = &#8358;(6,500 + 3,000) = &#8358;9,500<\/span><\/p>\n",
+        "Topic": "Accounts of Not-For-Profit-Making Organizations",
+        "Difficulty": "Medium"
+    },
+    "Question 33": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;11,680<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><\/span><\/p><p>&#8358;11,930<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;12,330<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;13,430<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Use the information below to answer this question.<\/span><\/p><p>Income and Expenditure (Extract)<\/span><\/p><p><table><tr><td>Dr<\/td><td>&#8358;<\/td><td>Cr<\/td><td>&#8358;<\/td><\/tr><tr><td>Bal b\/d<\/td><td>390<\/td><td>Expenses on cleaning<\/td><td>300<\/td><\/tr><tr><td>Sales of tickets<\/td><td>4,000<\/td><td>New tools<\/td><td>510<\/td><\/tr><tr><td>Donations<\/td><td>3,000<\/td><td>Electricity<\/td><td>400<\/td><\/tr><tr><td>Subscriptions<\/td><td>6,500<\/td><td>.<\/td><td>350<\/td><\/tr><\/span><\/p><\/table><\/td><p>What is the balance carried down?<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Total debt - &#8358;13,890<\/span><\/p><p>Total credit - &#8358; (1,500) <\/span><\/p><p>Bal c\/d - &#8358;12,330<\/span><\/p>\n",
+        "Topic": "Accounts of Not-For-Profit-Making Organizations",
+        "Difficulty": "Medium"
+    },
+    "Question 34": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;8,000<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;9,500<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;12,500<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;15,500<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Given <\/span><\/p><p><table><tr><td>.<\/td><td>&#8358;<\/td><\/tr><tr><td>Sales <\/td><td>180,000<\/td><\/tr><tr><td>Stock 1\/1 <\/td><td>25,000<\/td><\/tr><tr><td>Purchases <\/td><td>110,000<\/td><\/tr><tr><td>Sales returns <\/td><td>1,000<\/td><\/tr><tr><td>Purchases returns <\/td><td>1,500<\/td><\/tr><tr><td>Gross profit<\/td><td>58,000<\/td><\/tr><\/span><\/p><\/table><\/td><p>Determine the value of stock as at 31st December<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Gross Profit = Sales \u2013 COGS<\/span><\/p><p>COGS = Sales - Gross profit <\/span><\/p><p>Sales = &#8358;179,000<\/span><\/p><p>Gross profit = &#8358;58,000<\/span><\/p><p>= &#8358;(179,000 \u2013 58,000)<\/span><\/p><p>COGS = &#8358;121,000<\/span><\/p><p>COGS = COGAS \u2013 Closing stock<\/span><\/p><p>Closing stock = COGAS \u2013 COGS<\/span><\/p><p>COGAS = &#8358;133,500<\/span><\/p><p>COGS = &#8358;121,000<\/span><\/p><p>= &#8358;(133,500 \u2013 121,000)<\/span><\/p><p>Closing stock = &#8358;12,500<\/span><\/p>\n",
+        "Topic": "Incomplete Records and Single Entry",
+        "Difficulty": "Difficult"
+    },
+    "Question 35": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Carriage inwards <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Returns outwards <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Discount received <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Carriage outwards <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>In a departmental account, the expenses to be apportioned on the basis of turnover is  <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Carriage outwards are cost incurred in transporting goods to the customer's place. It relates to sales and turnover. Carriage outwards is the shipping and handling costs incurred by a company that is shipping goods to a customer.<\/span><\/p>\n",
+        "Topic": "Departmental Accounts",
+        "Difficulty": "Easy"
+    },
+    "Question 36": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>On profit basis <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>According to employee decision  <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>According to material available  <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>On equal basis <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>In a departmental account, where no basis of apportionment exist, apportionment is <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Where no basis is specified, the expenses are shared equally among the units.<\/span><\/p>\n",
+        "Topic": "Departmental Accounts",
+        "Difficulty": "Easy"
+    },
+    "Question 37": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;130,000<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;125,000<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;80,000<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;75,000<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>If goods are sent to branch at 25% on cost, what will be the cost of goods sent to the branch at a selling price of &#8358;100,000?<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Selling price = &#8358;100,000 <\/span><\/p><p>&#8358;100,000 = Cost price x 125%<\/span><\/p><p>Cost price = &#8358;100,000\/1.25 <\/span><\/p><p>= &#8358;80,000<\/span><\/p>\n",
+        "Topic": "Branch Accounts",
+        "Difficulty": "Medium"
+    },
+    "Question 38": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;600,000<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;620,000 <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;640,000<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;700,000<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Use the information below to answer this question.<\/span><\/p><p>Hussaina Enterprises sent goods worth &#8358;800,000 at cost plus mark-up of 25% to its branch.<\/span><\/p><p>What is the cost price of the goods sent to the branch?<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Selling price = &#8358;800,000<\/span><\/p><p>Selling price = Cost price x 125%<\/span><\/p><p>&#8358;800,000 = Cost price x 125%<\/span><\/p><p>Cost price = &#8358;800,000\/1.25<\/span><\/p><p>= &#8358;640,000<\/span><\/p>\n",
+        "Topic": "Branch Accounts",
+        "Difficulty": "Difficult"
+    },
+    "Question 39": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;150,000<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;160,000<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;170,000<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;180,000<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Use the information below to answer this question.<\/span><\/p><p>Hussaina Enterprises sent goods worth &#8358;800,000 at cost plus mark-up of 25% to its branch.<\/span><\/p><p>Determine the profit on the goods sent to the branch at profit margin of 25% mark-up<\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Profit = Selling price \u2013 Cost price<\/span><\/p><p>= &#8358;(800,000 \u2013 640,000)= &#8358;160,000<\/span><\/p>\n",
+        "Topic": "Branch Accounts",
+        "Difficulty": "Difficult"
+    },
+    "Question 40": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>An amount should be fixed as salary for partners<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Interest on partner's loan should be 25%<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Interest should not be allowed on partners drawings <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Profits and losses should not be shared equally <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>In the absence of a partnership deed, the act stipulates that<\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>When partnership deed is silent, there is no<\/span><\/p><p><span>&#183;<\/span>No interest on drawing <\/span><\/p><p><span>&#183;<\/span>No interest on capital<\/span><\/p><p><span>&#183;<\/span>No salary<\/span><\/p>\n",
+        "Topic": "Partnership Accounts",
+        "Difficulty": "Easy"
+    },
+    "Question 41": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Adjustment account <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Head office sales <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Branch office goods account <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Head office current account <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The profit of a branch is usually credited to the <\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Profit branch is credited to branch office goods account.<\/span><\/p>\n",
+        "Topic": "Branch Accounts",
+        "Difficulty": "Easy"
+    },
+    "Question 42": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Realization account  <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Savings account <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Share capital account<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Capital account  <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Where partnership is converted into a limited liability company, current account balances of partners are transferred to a<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The current account balance during conversion of a partnership business into a limited liability company is transferred to the realization account.<\/span><\/p>\n",
+        "Topic": "Partnership Accounts",
+        "Difficulty": "Easy"
+    },
+    "Question 43": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Revenue expenditure <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Capital expenditure <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Recurrent expenditure <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Concurrent expenditure <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The expenses incurred in purchasing a vehicle is a <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Expense incurred in fixed asset is capital expenditures. A capital expenditure is recorded as an asset, rather than charging it immediately to expense. It is classified as a fixed asset, which is then charged to expense over the useful life of the asset, using depreciation. <\/span><\/p>\n",
+        "Topic": "Public Sector Accounting",
+        "Difficulty": "Easy"
+    },
+    "Question 44": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Subscription in advance <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Revenue reserves <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Capital reserves  <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p><\/span><\/p><p>Calls-in-advance<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Payment for shares in excess of amount offered gives rise to <\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Share premium is a capital reserve. When shares are issued above the nominal value is issued as premium.<\/span><\/p>\n",
+        "Topic": "Introduction to Company Accounts",
+        "Difficulty": "Easy"
+    },
+    "Question 45": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Articles of Association <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Companies and Allied Matters Act <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Memorandum of Association  <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Share capital certificate <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The details of the share capital which a company is authorized to issue is contained in the<\/span><\/p>",
+        "Answer": "<p>C<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Memorandum of association is a document which guides the internal environment of the business. It also contains the authorized capital of the company.<\/span><\/p>\n",
+        "Topic": "Introduction to Company Accounts",
+        "Difficulty": "Easy"
+    },
+    "Question 46": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Credit &#8358;1,600,000<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Debit &#8358;1,600,00<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Credit &#8358;800,00<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Debit &#8358;800,000<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>&#8358;800,000 worth of ordinary shares of 50k were issued at &#8358;1 each, payable in full on application. The entry in the cash book would be to <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Treatment in cash book<\/span><\/p><p>Dr. Cash book with &#8358;800,000 (i.e. 800,000 &#215; &#8358;1) <\/span><\/p>\n",
+        "Topic": "Cashbook",
+        "Difficulty": "Medium"
+    },
+    "Question 47": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;224,950<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;225,000<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;324,950<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;325,000<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Use the information below to answer this question.<\/span><\/p><p>Oil and Buns issued to the public 1,300,000 ordinary shares of 75k at a price of 1.50k. Application and allotment were received for 900,000 shares at 25k each.<\/span><\/p><p>Determine the amount received on application and allotment <\/span><\/p>",
+        "Answer": "<p>B<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>At application and allotment <\/span><\/p><p>= 0.25 &#215; &#8358;900,000 <\/span><\/p><p>= &#8358;225,000<\/span><\/p>\n",
+        "Topic": "Introduction to Company Accounts",
+        "Difficulty": "Difficult"
+    },
+    "Question 48": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;675,000<\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;975,000<\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;1,350,000<\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>&#8358;1,950,000<\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Use the information below to answer this question.<\/span><\/p><p>Oil and Buns issued to the public 1,300,000 ordinary shares of 75k at a price of 1.50k. Application and allotment were received for 900,000 shares at 25k each.<\/span><\/p><p>The book value of issued share capital is <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Book value of issued shares = 1,300,000 &#215; &#8358;1.50<\/span><\/p><p>= &#8358;1,950,000<\/span><\/p>\n",
+        "Topic": "Introduction to Company Accounts",
+        "Difficulty": "Difficult"
+    },
+    "Question 49": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Federation account <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Petroleum Technology Development Fund <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Central Bank Account <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Development Fund <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>The account of government into which all monies are received and from which all expenditures are disbursed is the<\/span><\/p>",
+        "Answer": "<p>A<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Federation account records all the monies received and the expenditure disbursed the account.<\/span><\/p>\n",
+        "Topic": "Public Sector Accounting",
+        "Difficulty": "Easy"
+    },
+    "Question 50": {
+        "Options": [
+            {
+                "Key": "A",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Virement <\/span><\/p>\n"
+            },
+            {
+                "Key": "B",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Fund accounting <\/span><\/p>\n"
+            },
+            {
+                "Key": "C",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Consolidated fund <\/span><\/p>\n"
+            },
+            {
+                "Key": "D",
+                "Value": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                         \r\n                     \r\n                    <\/style><p>Financial regulation <\/span><\/p>\n"
+            }
+        ],
+        "Question": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>In government accounting, the method used which records on the basis of financial entity with self-balancing books instead of entity of proprietorship is <\/span><\/p>",
+        "Answer": "<p>D<\/span><\/p>\n",
+        "Explanation": "<style>\r\n                    table, th, td {\r\n                      border: 1px solid black;\r\n                      border-collapse: collapse;\r\n                      padding: 15px;\r\n                         }\r\n                     \r\n                    <\/style><p>Financial regulation is the method used by government and of agencies for recording on the basis of self-balancing book instead of sole proprietor.<\/span><\/p>\n",
+        "Topic": "Public Sector Accounting",
+        "Difficulty": "Easy"
+    },
+    "Answers": [
+        "A",
+        "A",
+        "C",
+        "C",
+        "D",
+        "C",
+        "B",
+        "B",
+        "B",
+        "C",
+        "D",
+        "C",
+        "D",
+        "C",
+        "C",
+        "B",
+        "B",
+        "B",
+        "C",
+        "B",
+        "B",
+        "B",
+        "B",
+        "D",
+        "A",
+        "B",
+        "A",
+        "A",
+        "C",
+        "B",
+        "B",
+        "D",
+        "C",
+        "C",
+        "D",
+        "D",
+        "C",
+        "C",
+        "B",
+        "D",
+        "C",
+        "A",
+        "B",
+        "C",
+        "C",
+        "D",
+        "B",
+        "D",
+        "A",
+        "D"
+    ]
+}

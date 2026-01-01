@@ -1,0 +1,122 @@
+/* .drop {
+  position: relative;
+  height: 100px;
+  width: 100px;
+  background: #54abfb;
+  border-radius: 51% 49% 48% 52% / 62% 44% 56% 38%;
+  opacity: 0.8;
+  border: 2px solid #3d93ff;
+} */
+.drop::before {
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background: #318cfe;
+  border-radius: 51% 49% 48% 52% / 62% 44% 56% 38%;
+  box-shadow: -20px 30px 16px #1b6cfb, -40px 60px 32px #1b6cfb,
+    inset -6px 6px 10px #1b6cfb, inset 2px 6px 10px #1a74e5,
+    inset 20px -20px 22px white, inset 40px -40px 44px #a8ceff;
+}
+.drop::after {
+  content: "";
+  position: absolute;
+  height: 40px;
+  width: 40px;
+  background: #e6fdfb;
+  border-radius: 44% 56% 46% 54% / 36% 50% 50% 64%;
+  left: 130px;
+  top: 40px;
+  box-shadow: 16px 40px 0 -10px white;
+  opacity: 0.8;
+}
+/* Styles for screens 600px and below */
+@media (max-width: 600px) {
+  .sasup-hero-content-right-img-4 {
+    float: none !important;
+    width: 100% !important;
+    height: auto;
+  }
+  .cum {
+    margin-bottom: 0 !important;
+  }
+  .fast {
+    margin-top: 45px !important;
+  }
+  .cum2 {
+    margin-bottom: 0 !important;
+  }
+  .sasup-hero-content-right-img-4 img {
+    float: none !important;
+    width: 100% !important;
+    height: auto;
+
+    margin-bottom: 50px;
+  }
+
+  .service-right-area-2,
+  .service-right-list-2 {
+    padding: 0;
+  }
+}
+
+/* .sasup-hero-content-4,
+  .sasup-hero-content-right-img-4 {
+    float: none ;
+    width: 100% ;
+    height: auto;
+    text-align: center;
+  } */
+
+.sasup-hero-content-right-img-4 img {
+  float: right;
+  width: 80%;
+  height: 80%;
+}
+
+.service-right-area-2,
+.service-right-list-2 {
+  padding: 0;
+}
+
+.cum {
+  margin-bottom: 70px;
+}
+.cum2 {
+  margin-bottom: 30px;
+}
+
+
+/* PROGRESS BAR WRAPPER */
+.onboarding-progress-bar {
+  width: 220px;
+  height: 6px;
+  background-color: #e0e0e0;
+  border-radius: 10px;
+  margin: 24px 0 28px;
+  position: relative;
+  overflow: hidden;
+  z-index: 5;
+}
+
+/* ACTIVE FILL (STEP 1 OF 3) */
+.onboarding-progress-fill {
+  width: 33.33%;
+  height: 100%;
+  background-color: #0366d6;
+  border-radius: 10px;
+}
+
+.onboarding-progress-fill2 {
+  width: 66.66%;
+  height: 100%;
+  background-color: #0366d6;
+  border-radius: 10px;
+}
+
+.onboarding-progress-fill3 {
+  width: 99.99%;
+  height: 100%;
+  background-color: #0366d6;
+  border-radius: 10px;
+}
