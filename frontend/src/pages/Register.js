@@ -130,7 +130,7 @@ const handleFormSubmit = async (values) => {
           <p>Your first time? lets get you started</p>
         </div>
 
-        {/* RIGHT FORM */}
+      
         <div className="register-right">
         <Formik
   initialValues={initialValues}
